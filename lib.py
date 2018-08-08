@@ -31,6 +31,6 @@ def update_parent(child, parent, auth=None):
     child = quote_plus(child)
     url = f"https://review.lineageos.org/a/projects/{child}/parent" if auth else f"https://review.lineageos.org/projects/{child}/parent"
     print(f"Updating {child}'s parent to {parent}")
-    resp = requests.put(url, json=({"parent": parent, "commit_message": "Auto update from gerrit_config"}))
+    resp = requests.put(url, json=({"parent": parent, "commit_message": "Auto update from gerrit_config"}), auth=auth)
     if resp.status_code != 200:
-        raise Exception(f"Error communicatin gwith gerrit: {resp.text}")
+        raise Exception(f"Error communicating with gerrit: {resp.text}")
