@@ -510,7 +510,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
-  - LineageOS/android_vendor_codeaurora_telephony
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
   - LineageOS/android_vendor_nxp_opensource_frameworks
@@ -532,6 +531,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_system_core
+  - LineageOS/android_vendor_codeaurora_telephony
   - LineageOS/android_vendor_lineage
 Lineage-Device-Projects:
   - OEM-Acer
