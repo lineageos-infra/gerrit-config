@@ -33,5 +33,4 @@ def update_parent(child, parent, auth=None):
     print(f"Updating {child}'s parent to {parent}")
     resp = requests.put(url, json=({"parent": parent, "commit_message": "Auto update from gerrit_config"}))
     if resp.status_code != 200:
-        import pdb; pdb.set_trace()
-        print(f"Error: {resp.text}")
+        raise Exception(f"Error communicatin gwith gerrit: {resp.text}")
