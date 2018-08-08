@@ -1,4 +1,4 @@
 Gerrit Configuration
 ---
 
-structure.yaml: projects and their parents.
+structure.yml: projects and their parents.

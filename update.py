@@ -8,7 +8,7 @@ if Config.GERRIT_USER and Config.GERRIT_PASS:
 else:
     auth = None
 
-with open("structure.yaml", "r") as f:
+with open("structure.yml", "r") as f:
     desired_projects = yaml.load(f.read())
 
 live_projects = get_projects(auth)
