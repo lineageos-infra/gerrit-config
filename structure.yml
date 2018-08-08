@@ -427,7 +427,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_hardware_qcom_thermal
   - LineageOS/android_hardware_qcom_vr
   - LineageOS/android_hardware_ril
-  - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_BasicSmsReceiver
   - LineageOS/android_packages_apps_Bluetooth
@@ -451,7 +450,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_KeyChain
-  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Messaging
@@ -462,7 +460,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
-  - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SetupWizard
   - LineageOS/android_packages_apps_Snap
   - LineageOS/android_packages_apps_Stk
@@ -531,6 +528,9 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_hardware_libhardware
+  - LineageOS/android_lineage-sdk
+  - LineageOS/android_packages_apps_LineageParts
+  - LineageOS/android_packages_apps_Settings
   - LineageOS/android_system_core
   - LineageOS/android_vendor_lineage
 Lineage-Device-Projects:
