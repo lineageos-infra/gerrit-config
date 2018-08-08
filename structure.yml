@@ -361,7 +361,6 @@ Lineage-14.1-Projects:
   - LineageOS/ion
 Lineage-15.1-Projects:
   - Lineage-16.0-Projects
-  - LineageOS/android_art
   - LineageOS/android_build_kati
   - LineageOS/android_dalvik
   - LineageOS/android_development
@@ -518,6 +517,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
   - Head-Developers
+  - LineageOS/android_art
   - LineageOS/android_bionic
   - LineageOS/android_bootable_recovery
   - LineageOS/android_build
