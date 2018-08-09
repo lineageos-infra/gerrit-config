@@ -6,7 +6,6 @@ All-Projects:
   - Lineage-Unmaintained-Projects
   - Master-Enabled
   - PROJECT-Lineage-telephony
-  - PROJECT-android-tv
 Head-Developers:
   - LineageOS/android
   - LineageOS/hudson
@@ -582,6 +581,7 @@ Lineage-Device-Projects:
   - OEM-leeco
   - OEM-qcom
   - OEM-ti
+  - PROJECT-android-tv
 Lineage-Unmaintained-Projects:
   - LineageOS/AR6kSDK.3.1
   - LineageOS/CMAccountWebsite
