@@ -145,7 +145,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_android-mock
   - LineageOS/android_external_ant-glob
   - LineageOS/android_external_boundarydevices_efence
-  - LineageOS/android_external_curl
   - LineageOS/android_external_dhcpcd
   - LineageOS/android_external_doclava
   - LineageOS/android_external_dropbear
@@ -262,6 +261,7 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_busybox
   - LineageOS/android_external_bzip2
   - LineageOS/android_external_cmsdk-api-coverage
+  - LineageOS/android_external_curl
   - LineageOS/android_external_cyanogen_UICommon
   - LineageOS/android_external_deqp
   - LineageOS/android_external_dnsmasq
