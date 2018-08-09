@@ -250,6 +250,7 @@ Lineage-13.0-Projects:
 Lineage-14.1-Projects:
   - Lineage-15.1-Projects
   - LineageOS/AndroidAsync
+  - LineageOS/android_device_generic_emulatorx86
   - LineageOS/android_external_aac
   - LineageOS/android_external_ahbottomnavigation
   - LineageOS/android_external_android-clat
@@ -616,7 +617,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_generic_armv7-a
   - LineageOS/android_device_generic_armv7-a-neon
   - LineageOS/android_device_generic_common
-  - LineageOS/android_device_generic_emulatorx86
   - LineageOS/android_device_generic_mips
   - LineageOS/android_device_generic_x86
   - LineageOS/android_device_google_accessory_arduino
