@@ -412,7 +412,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_setupwizard
-  - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
@@ -490,7 +489,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_packages_screensavers_WebView
   - LineageOS/android_packages_services_BuiltInPrintService
   - LineageOS/android_packages_services_Mms
-  - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
   - LineageOS/android_platform_testing
@@ -526,10 +524,12 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_tinycompress
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
+  - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Settings
+  - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_system_core
   - LineageOS/android_vendor_codeaurora_telephony
   - LineageOS/android_vendor_lineage
