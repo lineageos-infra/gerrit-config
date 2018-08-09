@@ -418,8 +418,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_hardware_broadcom_wlan
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware_legacy
-  - LineageOS/android_hardware_lineage_interfaces
-  - LineageOS/android_hardware_lineage_lineagehw
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_qcom_neuralnetworks_hvxservice
   - LineageOS/android_hardware_qcom_thermal
@@ -503,7 +501,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
-  - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
@@ -526,11 +523,14 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_hardware_libhardware
+  - LineageOS/android_hardware_lineage_interfaces
+  - LineageOS/android_hardware_lineage_lineagehw
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_system_core
+  - LineageOS/android_system_tools_aidl
   - LineageOS/android_vendor_codeaurora_telephony
   - LineageOS/android_vendor_lineage
 Lineage-Device-Projects:
