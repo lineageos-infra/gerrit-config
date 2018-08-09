@@ -411,7 +411,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_setupwizard
-  - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_wlan
@@ -522,6 +521,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_opt_telephony
+  - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_lineagehw
