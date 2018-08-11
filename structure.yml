@@ -399,17 +399,12 @@ Lineage-15.1-Projects:
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_packages_apps_AudioFX
-  - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Exchange
-  - LineageOS/android_packages_apps_FMRadio
-  - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_Profiles
-  - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SetupWizard
   - LineageOS/android_packages_apps_Snap
-  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WundergroundWeatherProvider
   - LineageOS/android_packages_apps_YahooWeatherProvider
@@ -479,12 +474,15 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_DeskClock
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
+  - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_FlipFlap
+  - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_HTMLViewer
+  - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_ManagedProvisioning
@@ -492,6 +490,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
+  - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_Stk
@@ -499,6 +498,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_apps_Traceur
+  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_packages_apps_WallpaperPicker
   - LineageOS/android_packages_inputmethods_LatinIME
