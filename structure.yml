@@ -191,7 +191,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_whispersystems_libtextsecure-java
   - LineageOS/android_external_whispersystems_libwhisperpush
   - LineageOS/android_frameworks_compile_libbcc
-  - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_compile_slang
   - LineageOS/android_frameworks_mff
   - LineageOS/android_frameworks_ml
@@ -453,6 +452,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
+  - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_datetimepicker
   - LineageOS/android_frameworks_opt_net_wifi
