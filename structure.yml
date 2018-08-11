@@ -478,8 +478,8 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_ExactCalculator
-  - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_FMRadio
+  - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_Jelly
@@ -2111,6 +2111,8 @@ PROJECT-Xiaomi-ido:
   - LineageOS/android_kernel_xiaomi_msm8916
 PROJECT-Xiaomi-land:
   - LineageOS/android_device_xiaomi_land
+  - LineageOS/android_device_xiaomi_msm8937-common
+  - LineageOS/android_device_xiaomi_santoni
   - LineageOS/android_kernel_xiaomi_msm8937
 PROJECT-Xiaomi-mido:
   - LineageOS/android_device_xiaomi_mido
