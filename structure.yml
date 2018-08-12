@@ -1688,6 +1688,7 @@ PROJECT-Motorola-athene:
   - LineageOS/android_device_motorola_potter
   - LineageOS/android_kernel_motorola_msm8952
 PROJECT-Motorola-griffin:
+  - LineageOS/android_device_motorola_albus
   - LineageOS/android_device_motorola_griffin
   - LineageOS/android_kernel_motorola_msm8996
 PROJECT-Motorola-motorola_omap4:
