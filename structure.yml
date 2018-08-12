@@ -374,7 +374,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_htop
   - LineageOS/android_external_json-c
   - LineageOS/android_external_libdrm
-  - LineageOS/android_external_libncurses
   - LineageOS/android_external_libtar
   - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_libvorbis
@@ -429,6 +428,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_gptfdisk
+  - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
