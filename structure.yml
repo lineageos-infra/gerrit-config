@@ -365,13 +365,11 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_brctl
   - LineageOS/android_external_bson
   - LineageOS/android_external_chromium-webview
-  - LineageOS/android_external_connectivity
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_exfat
   - LineageOS/android_external_fuse
   - LineageOS/android_external_htop
-  - LineageOS/android_external_json-c
   - LineageOS/android_external_libdrm
   - LineageOS/android_external_libtar
   - LineageOS/android_external_libtextclassifier
@@ -410,7 +408,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
   - LineageOS/android_vendor_nxp_opensource_frameworks
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
-  - LineageOS/android_vendor_qcom_opensource_dataservices
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
   - Head-Developers
@@ -1390,9 +1387,6 @@ OEM-qcom:
   - LineageOS/android_kernel_qcom_msm8994
   - LineageOS/android_kernel_qcom_msm8996
   - LineageOS/android_kernel_qcom_msm8998
-  - LineageOS/android_system_tools_dtbtool
-  - LineageOS/android_vendor_codeaurora_telephony
-  - LineageOS/android_vendor_qcom_opensource_cryptfs_hw
   - PROJECT-qcom-hardware
 OEM-ti:
   - PROJECT-ti-hardware
@@ -2210,6 +2204,8 @@ PROJECT-leeco-msm8996:
 PROJECT-qcom-hardware:
   - LineageOS/android_device_qcom_common
   - LineageOS/android_device_qcom_sepolicy
+  - LineageOS/android_external_connectivity
+  - LineageOS/android_external_json-c
   - LineageOS/android_hardware_qcom_audio
   - LineageOS/android_hardware_qcom_audio-bfam
   - LineageOS/android_hardware_qcom_audio-caf
@@ -2237,6 +2233,10 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_thermal
   - LineageOS/android_hardware_qcom_vr
   - LineageOS/android_hardware_qcom_wlan
+  - LineageOS/android_system_tools_dtbtool
+  - LineageOS/android_vendor_codeaurora_telephony
+  - LineageOS/android_vendor_qcom_opensource_cryptfs_hw
+  - LineageOS/android_vendor_qcom_opensource_dataservices
   - LineageOS/android_vendor_qcom_opensource_interfaces
   - LineageOS/android_vendor_qcom_opensource_location
 PROJECT-samsung-hardware:
