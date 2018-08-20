@@ -529,7 +529,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
   - LineageOS/android_vendor_lineage
-  - LineageOS/android_vendor_qcom_opensource_audio
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
@@ -2236,6 +2235,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_wlan
   - LineageOS/android_system_tools_dtbtool
   - LineageOS/android_vendor_codeaurora_telephony
+  - LineageOS/android_vendor_qcom_opensource_audio
   - LineageOS/android_vendor_qcom_opensource_cryptfs_hw
   - LineageOS/android_vendor_qcom_opensource_dataservices
   - LineageOS/android_vendor_qcom_opensource_interfaces
