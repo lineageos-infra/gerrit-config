@@ -386,7 +386,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Snap
-  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WundergroundWeatherProvider
   - LineageOS/android_packages_apps_YahooWeatherProvider
   - LineageOS/android_packages_providers_WeatherProvider
@@ -495,6 +494,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Traceur
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_UnifiedEmail
+  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_overlays_Lineage
