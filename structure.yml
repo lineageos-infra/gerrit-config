@@ -270,7 +270,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_gello_build
   - LineageOS/android_external_google
   - LineageOS/android_external_gson
-  - LineageOS/android_external_icu
   - LineageOS/android_external_iproute2
   - LineageOS/android_external_ipsec-tools
   - LineageOS/android_external_iptables
@@ -421,6 +420,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_htop
+  - LineageOS/android_external_icu
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_mksh
