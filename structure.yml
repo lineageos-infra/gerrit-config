@@ -390,7 +390,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_packages_apps_YahooWeatherProvider
   - LineageOS/android_packages_providers_WeatherProvider
   - LineageOS/android_platform_testing
-  - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_lineage-sdk
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_libhidl
@@ -517,6 +516,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
+  - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
