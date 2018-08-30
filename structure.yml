@@ -370,7 +370,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libtar
   - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_libvorbis
-  - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sony_boringssl-compat
@@ -381,17 +380,8 @@ Lineage-15.1-Projects:
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_lineage_livedisplay
-  - LineageOS/android_packages_apps_Exchange
-  - LineageOS/android_packages_apps_LockClock
-  - LineageOS/android_packages_apps_OpenWeatherMapProvider
-  - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Snap
-  - LineageOS/android_packages_apps_WundergroundWeatherProvider
-  - LineageOS/android_packages_apps_YahooWeatherProvider
-  - LineageOS/android_packages_providers_WeatherProvider
   - LineageOS/android_platform_testing
-  - LineageOS/android_prebuilts_lineage-sdk
-  - LineageOS/android_system_extras_su
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_nfc
   - LineageOS/android_system_qcom
@@ -421,6 +411,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_icu
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
+  - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_one-true-awk
@@ -470,6 +461,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_ExactCalculator
+  - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_Gallery2
@@ -480,8 +472,11 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Nfc
+  - LineageOS/android_packages_apps_LockClock
+  - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
+  - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_Settings
@@ -495,6 +490,8 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker
+  - LineageOS/android_packages_apps_WundergroundWeatherProvider
+  - LineageOS/android_packages_apps_YahooWeatherProvider
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_providers_BlockedNumberProvider
@@ -507,6 +504,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_TelephonyProvider
   - LineageOS/android_packages_providers_UserDictionaryProvider
+  - LineageOS/android_packages_providers_WeatherProvider
   - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
@@ -517,10 +515,12 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
   - LineageOS/android_prebuilts_build-tools
+  - LineageOS/android_prebuilts_lineage-sdk
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
+  - LineageOS/android_system_extras_su
   - LineageOS/android_system_netd
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
