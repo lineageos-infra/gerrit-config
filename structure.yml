@@ -361,7 +361,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_ant-wireless_ant_native
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_brctl
-  - LineageOS/android_external_bson
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_exfat
@@ -384,7 +383,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_platform_testing
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_nfc
-  - LineageOS/android_system_qcom
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
   - LineageOS/android_vendor_nxp_opensource_frameworks
@@ -403,6 +401,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_bash
+  - LineageOS/android_external_bson
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_f2fs-tools
@@ -521,7 +520,9 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
+  - LineageOS/android_system_libvintf
   - LineageOS/android_system_netd
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_aidl
