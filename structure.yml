@@ -469,10 +469,10 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_apps_LineageParts
+  - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Nfc
-  - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
@@ -1360,6 +1360,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-ferrari
   - PROJECT-Xiaomi-gemini
   - PROJECT-Xiaomi-ido
+  - PROJECT-Xiaomi-jason
   - PROJECT-Xiaomi-land
   - PROJECT-Xiaomi-mido
   - PROJECT-Xiaomi-msm8956
@@ -2105,6 +2106,9 @@ PROJECT-Xiaomi-ferrari:
 PROJECT-Xiaomi-ido:
   - LineageOS/android_device_xiaomi_ido
   - LineageOS/android_kernel_xiaomi_msm8916
+PROJECT-Xiaomi-jason:
+  - LineageOS/android_device_xiaomi_jason
+  - LineageOS/android_kernel_xiaomi_jason
 PROJECT-Xiaomi-land:
   - LineageOS/android_device_xiaomi_land
   - LineageOS/android_device_xiaomi_msm8937-common
