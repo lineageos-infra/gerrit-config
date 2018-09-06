@@ -82,7 +82,6 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_naver-fonts
   - LineageOS/android_external_netcat
   - LineageOS/android_external_netperf
-  - LineageOS/android_external_neven
   - LineageOS/android_external_oauth
   - LineageOS/android_external_opencv
   - LineageOS/android_external_openfst
@@ -293,6 +292,7 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_lz4
   - LineageOS/android_external_lzma
   - LineageOS/android_external_lzo
+  - LineageOS/android_external_neven
   - LineageOS/android_external_okhttp
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_protobuf-c
