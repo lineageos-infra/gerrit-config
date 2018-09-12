@@ -479,6 +479,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
+  - LineageOS/android_packages_apps_SecureElement
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SetupWizard
   - LineageOS/android_packages_apps_Stk
@@ -1733,6 +1734,8 @@ PROJECT-Motorola-msm8992:
   - LineageOS/android_kernel_motorola_msm8992
 PROJECT-Motorola-msm8998:
   - LineageOS/android_device_motorola_nash
+  - LineageOS/android_device_motorola_payton
+  - LineageOS/android_device_motorola_sdm660-common
   - LineageOS/android_kernel_motorola_msm8998
 PROJECT-Motorola-mt6735:
   - LineageOS/android_device_motorola_taido
