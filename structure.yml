@@ -361,7 +361,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_brctl
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_ebtables
-  - LineageOS/android_external_exfat
   - LineageOS/android_external_fuse
   - LineageOS/android_external_libdrm
   - LineageOS/android_external_libtar
@@ -404,6 +403,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_bson
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_elfutils
+  - LineageOS/android_external_exfat
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_htop
