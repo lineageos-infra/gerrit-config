@@ -366,7 +366,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libtar
   - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_libvorbis
-  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_sqlite
@@ -413,6 +412,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
+  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_one-true-awk
   - LineageOS/android_external_openssh
   - LineageOS/android_external_p7zip
