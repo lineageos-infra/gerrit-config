@@ -379,10 +379,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_nfc
-  - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
-  - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
-  - LineageOS/android_vendor_nxp_opensource_frameworks
-  - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
   - Head-Developers
@@ -531,6 +527,12 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
   - LineageOS/android_vendor_lineage
+  - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
+  - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
+  - LineageOS/android_vendor_nxp_opensource_frameworks
+  - LineageOS/android_vendor_nxp_opensource_halimpl
+  - LineageOS/android_vendor_nxp_opensource_hidlimpl
+  - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
