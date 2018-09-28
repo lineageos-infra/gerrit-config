@@ -2267,6 +2267,8 @@ PROJECT-samsung-hardware:
   - PROJECT-samsung-hardware-5433
   - PROJECT-samsung-hardware-7420
   - PROJECT-samsung-hardware-8890
+PROJECT-samsung-hardware-3475:
+  - LineageOS/android_hardware_samsung_slsi-cm_exynos3475
 PROJECT-samsung-hardware-5260:
   - LineageOS/android_hardware_samsung_slsi-cm_exynos5260
 PROJECT-samsung-hardware-5410:
