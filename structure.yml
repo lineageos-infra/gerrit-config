@@ -431,6 +431,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_broadcom_libbt
+  - LineageOS/android_hardware_broadcom_nfc
   - LineageOS/android_hardware_broadcom_wlan
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
