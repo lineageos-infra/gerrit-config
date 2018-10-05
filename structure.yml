@@ -181,7 +181,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_square_javawriter
   - LineageOS/android_external_strace
   - LineageOS/android_external_tcpdump
-  - LineageOS/android_external_v8
   - LineageOS/android_external_vogar
   - LineageOS/android_external_whispersystems_TextSecure
   - LineageOS/android_external_whispersystems_WhisperPush
@@ -258,6 +257,7 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_bouncycastle
   - LineageOS/android_external_busybox
   - LineageOS/android_external_bzip2
+  - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_cmsdk-api-coverage
   - LineageOS/android_external_curl
   - LineageOS/android_external_cyanogen_UICommon
@@ -304,6 +304,7 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_tinyxml2
   - LineageOS/android_external_tremolo
   - LineageOS/android_external_unzip
+  - LineageOS/android_external_v8
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_external_yaffs2
   - LineageOS/android_frameworks_ex
@@ -2151,9 +2152,11 @@ PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_whyred
   - LineageOS/android_kernel_xiaomi_sdm660
 PROJECT-Xiaomi-sdm845:
+  - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_dipper
   - LineageOS/android_device_xiaomi_polaris
   - LineageOS/android_device_xiaomi_sdm845-common
+  - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
 PROJECT-Yu-jalebi:
   - LineageOS/android_device_yu_jalebi
@@ -2262,6 +2265,7 @@ PROJECT-samsung-hardware:
   - LineageOS/android_hardware_samsung_slsi_exynos5
   - LineageOS/android_hardware_samsung_slsi_exynos5-insignal
   - LineageOS/android_hardware_samsung_slsi_openmax
+  - PROJECT-samsung-hardware-3475
   - PROJECT-samsung-hardware-5260
   - PROJECT-samsung-hardware-5410
   - PROJECT-samsung-hardware-5420
