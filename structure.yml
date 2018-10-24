@@ -379,6 +379,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_nfc
+  - LineageOS/android_system_timezone
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
   - Head-Developers
