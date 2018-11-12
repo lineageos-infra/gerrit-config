@@ -2257,6 +2257,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_dataservices
   - LineageOS/android_vendor_qcom_opensource_interfaces
   - LineageOS/android_vendor_qcom_opensource_location
+  - LineageOS/android_vendor_qcom_opensource_thermal-engine
 PROJECT-samsung-hardware:
   - LineageOS/android_hardware_samsung
   - LineageOS/android_hardware_samsung_slsi-cm_exynos
