@@ -1485,6 +1485,9 @@ PROJECT-Fairphone-FP2:
 PROJECT-Generic-goldfish:
   - LineageOS/android_device_generic_goldfish
   - LineageOS/android_kernel_goldfish
+PROJECT-Google-crosshatch:
+  - LineageOS/android_device_google_crosshatch
+  - LineageOS/android_kernel_google_crosshatch
 PROJECT-Google-dragon:
   - LineageOS/android_device_google_dragon
   - LineageOS/android_kernel_google_dragon
