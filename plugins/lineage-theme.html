@@ -2,13 +2,6 @@
   <script>
     Gerrit.install(plugin => {
       'use strict';
-/*      const domHook = plugin.hook('header-title', {replace: true});
-      domHook.onAttached(element => {
-	let newHeader = document.createElement("span");
-	let node = document.createTextNode("LineageOS Gerrit");
-	newHeader.appendChild(node)
-        element.appendChild(newHeader);
-      });*/
       plugin.registerStyleModule('app-theme', 'lineage-review-theme');
     });
   </script>
@@ -22,7 +15,6 @@
       --header-text-color: #fff;
       --header-title-content: "LineageOS Gerrit";
       --header-icon: url("/static/logo.png");
-//     --header-icon-size: 1em;
     }
   </style>
 </dom-module>
