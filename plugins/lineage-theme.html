@@ -1,0 +1,28 @@
+<dom-module id="lineage-review-style">
+  <script>
+    Gerrit.install(plugin => {
+      'use strict';
+/*      const domHook = plugin.hook('header-title', {replace: true});
+      domHook.onAttached(element => {
+	let newHeader = document.createElement("span");
+	let node = document.createTextNode("LineageOS Gerrit");
+	newHeader.appendChild(node)
+        element.appendChild(newHeader);
+      });*/
+      plugin.registerStyleModule('app-theme', 'lineage-review-theme');
+    });
+  </script>
+</dom-module>
+
+<dom-module id='lineage-review-theme'>
+  <style>
+    :root {
+      --header-background-color: #167c80;
+      --footer-background-color: #eee;
+      --header-text-color: #fff;
+      --header-title-content: "LineageOS Gerrit";
+      --header-icon: url("/static/logo.png");
+//     --header-icon-size: 1em;
+    }
+  </style>
+</dom-module>
