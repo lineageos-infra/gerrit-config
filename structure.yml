@@ -2232,6 +2232,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_bootctrl
   - LineageOS/android_hardware_qcom_bt
   - LineageOS/android_hardware_qcom_camera
+  - LineageOS/android_hardware_qcom_data_ipacfg-mgr
   - LineageOS/android_hardware_qcom_display
   - LineageOS/android_hardware_qcom_display-caf
   - LineageOS/android_hardware_qcom_display-caf-new
@@ -2250,6 +2251,13 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_neuralnetworks_hvxservice
   - LineageOS/android_hardware_qcom_power
   - LineageOS/android_hardware_qcom_sensors
+  - LineageOS/android_hardware_qcom_sdm845_bt
+  - LineageOS/android_hardware_qcom_sdm845_data_ipacfg-mgr
+  - LineageOS/android_hardware_qcom_sdm845_display
+  - LineageOS/android_hardware_qcom_sdm845_gps
+  - LineageOS/android_hardware_qcom_sdm845_media
+  - LineageOS/android_hardware_qcom_sdm845_thermal
+  - LineageOS/android_hardware_qcom_sdm845_vr
   - LineageOS/android_hardware_qcom_thermal
   - LineageOS/android_hardware_qcom_vr
   - LineageOS/android_hardware_qcom_wlan
