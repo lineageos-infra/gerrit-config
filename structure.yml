@@ -569,6 +569,7 @@ Lineage-Device-Projects:
   - OEM-Oneplus
   - OEM-Oppo
   - OEM-Pantech
+  - OEM-Razer
   - OEM-Samsung
   - OEM-Semc
   - OEM-Smartfren
@@ -1308,6 +1309,8 @@ OEM-Oppo:
   - PROJECT-Oppo-common
   - PROJECT-Oppo-msm8939
   - PROJECT-Oppo-msm8974
+OEM-Razer:
+  - PROJECT-Razer-cheryl
 OEM-Samsung:
   - LineageOS/android_device_samsung_common
   - LineageOS/android_device_samsung_exynos-common
@@ -1820,6 +1823,9 @@ PROJECT-Oppo-msm8974:
   - LineageOS/android_device_oppo_msm8974-common
   - LineageOS/android_device_oppo_n3
   - LineageOS/android_kernel_oppo_msm8974
+PROJECT-Razer-cheryl:
+  - LineageOS/android_device_razer_cheryl
+  - LineageOS/android_kernel_razer_msm8998
 PROJECT-Samsung-apq8084:
   - LineageOS/android_device_samsung_apq8084-common
   - LineageOS/android_device_samsung_kccat6
