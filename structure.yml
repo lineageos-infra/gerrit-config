@@ -1241,6 +1241,7 @@ OEM-HTC:
   - PROJECT-HTC-pme
 OEM-Huawei:
   - PROJECT-Huawei-angler
+  - PROJECT-Huawei-kirin970
   - PROJECT-Huawei-kiwi
   - PROJECT-Huawei-msm8916
   - PROJECT-Huawei-mt2
@@ -1560,6 +1561,11 @@ PROJECT-HTC-pme:
 PROJECT-Huawei-angler:
   - LineageOS/android_device_huawei_angler
   - LineageOS/android_kernel_huawei_angler
+PROJECT-Huawei-kirin970:
+  - LineageOS/android_device_huawei_berkeley
+  - LineageOS/android_device_huawei_charlotte
+  - LineageOS/android_device_huawei_kirin970-common
+  - LineageOS/android_kernel_huawei_kirin970
 PROJECT-Huawei-kiwi:
   - LineageOS/android_device_huawei_kiwi
   - LineageOS/android_kernel_huawei_kiwi
