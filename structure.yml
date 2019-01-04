@@ -1137,7 +1137,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_vendor_intel_hardware_realtek_wlan
   - LineageOS/android_vendor_intel_hardware_ufo_gen7
   - LineageOS/android_vendor_qcom_android-open
-  - LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr
   - LineageOS/android_vendor_qcom_opensource_kernel-tests_mm-audio
   - LineageOS/android_vendor_qcom_opensource_omx_mm-audio
   - LineageOS/android_vendor_qcom_opensource_omx_mm-core
@@ -2277,6 +2276,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_codeaurora_telephony
   - LineageOS/android_vendor_qcom_opensource_audio
   - LineageOS/android_vendor_qcom_opensource_cryptfs_hw
+  - LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr
   - LineageOS/android_vendor_qcom_opensource_dataservices
   - LineageOS/android_vendor_qcom_opensource_interfaces
   - LineageOS/android_vendor_qcom_opensource_location
