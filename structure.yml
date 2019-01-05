@@ -362,7 +362,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_fuse
   - LineageOS/android_external_libdrm
-  - LineageOS/android_external_libtar
   - LineageOS/android_external_libvorbis
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sqlite
@@ -402,6 +401,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_icu
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
+  - LineageOS/android_external_libtar
   - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_mksh
