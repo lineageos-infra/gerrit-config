@@ -359,7 +359,6 @@ Lineage-14.1-Projects:
 Lineage-15.1-Projects:
   - Lineage-16.0-Projects
   - LineageOS/android_external_brctl
-  - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_fuse
   - LineageOS/android_external_libdrm
@@ -393,6 +392,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
+  - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_exfat
