@@ -304,7 +304,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_tremolo
   - LineageOS/android_external_unzip
   - LineageOS/android_external_v8
-  - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_external_yaffs2
   - LineageOS/android_frameworks_ex
   - LineageOS/android_frameworks_minikin
@@ -366,6 +365,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_stlport
+  - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_setupwizard
