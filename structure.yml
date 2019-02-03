@@ -1804,6 +1804,7 @@ PROJECT-Oneplus-onyx:
   - LineageOS/android_kernel_oneplus_onyx
 PROJECT-Oneplus-sdm845:
   - LineageOS/android_device_oneplus_enchilada
+  - LineageOS/android_device_oneplus_fajita
   - LineageOS/android_device_oneplus_sdm845-common
   - LineageOS/android_kernel_oneplus_sdm845
 PROJECT-Oppo-apq8064:
