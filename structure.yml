@@ -627,7 +627,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_generic_x86
   - LineageOS/android_device_google_accessory_arduino
   - LineageOS/android_device_google_accessory_demokit
-  - LineageOS/android_device_google_atv
   - LineageOS/android_device_google_msm8952-common
   - LineageOS/android_device_google_steelhead
   - LineageOS/android_device_hardkernel_odroidu2
@@ -2199,6 +2198,7 @@ PROJECT-Zuk-ham:
   - LineageOS/android_device_zuk_ham
   - LineageOS/android_kernel_cyanogen_msm8974
 PROJECT-android-tv:
+  - LineageOS/android_device_google_atv
   - LineageOS/android_external_google-tv-pairing-protocol
   - LineageOS/android_packages_apps_AppDrawer
   - LineageOS/android_packages_apps_LineageCustomizer
