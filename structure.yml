@@ -2199,6 +2199,7 @@ PROJECT-Zuk-ham:
   - LineageOS/android_kernel_cyanogen_msm8974
 PROJECT-android-tv:
   - LineageOS/android_device_google_atv
+  - LineageOS/android_device_lineage_atv
   - LineageOS/android_external_google-tv-pairing-protocol
   - LineageOS/android_packages_apps_AppDrawer
   - LineageOS/android_packages_apps_LineageCustomizer
