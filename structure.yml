@@ -89,7 +89,6 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_openvpn
   - LineageOS/android_external_oprofile
   - LineageOS/android_external_ppp
-  - LineageOS/android_external_proguard
   - LineageOS/android_external_protobuf
   - LineageOS/android_external_qemu
   - LineageOS/android_external_qemu-pc-bios
@@ -411,6 +410,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_pigz
+  - LineageOS/android_external_proguard
   - LineageOS/android_external_rsync
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
