@@ -272,10 +272,8 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_iptables
   - LineageOS/android_external_jemalloc
   - LineageOS/android_external_jhead
-  - LineageOS/android_external_libavc
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcxx
-  - LineageOS/android_external_libhevc
   - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libnetfilter_conntrack
   - LineageOS/android_external_libnfc-nci
@@ -358,7 +356,9 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_brctl
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_fuse
+  - LineageOS/android_external_libavc
   - LineageOS/android_external_libdrm
+  - LineageOS/android_external_libhevc
   - LineageOS/android_external_libvorbis
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sqlite
@@ -370,6 +370,8 @@ Lineage-15.1-Projects:
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_misc
+  - LineageOS/android_system_hwservicemanager
+  - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
