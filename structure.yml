@@ -2069,6 +2069,7 @@ PROJECT-Sony-hardware:
   - LineageOS/android_hardware_sony_DASH
   - LineageOS/android_hardware_sony_camera
   - LineageOS/android_hardware_sony_macaddrsetup
+  - LineageOS/android_hardware_sony_simdetect
   - LineageOS/android_hardware_sony_thermanager
   - LineageOS/android_hardware_sony_timekeep
 PROJECT-Sony-huashan:
