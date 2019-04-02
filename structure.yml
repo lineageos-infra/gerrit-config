@@ -274,7 +274,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_jhead
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcxx
-  - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libnetfilter_conntrack
   - LineageOS/android_external_libnfc-nci
   - LineageOS/android_external_libnfnetlink
@@ -297,7 +296,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_stagefright-plugins
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_tinyxml2
-  - LineageOS/android_external_tremolo
   - LineageOS/android_external_unzip
   - LineageOS/android_external_v8
   - LineageOS/android_external_yaffs2
@@ -359,10 +357,12 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libavc
   - LineageOS/android_external_libdrm
   - LineageOS/android_external_libhevc
+  - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libvorbis
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_stlport
+  - LineageOS/android_external_tremolo
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_net_ims
