@@ -178,7 +178,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_spongycastle
   - LineageOS/android_external_square_dagger
   - LineageOS/android_external_square_javawriter
-  - LineageOS/android_external_strace
   - LineageOS/android_external_tcpdump
   - LineageOS/android_external_vogar
   - LineageOS/android_external_whispersystems_TextSecure
@@ -417,6 +416,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sony_boringssl-compat
+  - LineageOS/android_external_strace
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_toybox
   - LineageOS/android_external_unrar
