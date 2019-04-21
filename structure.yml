@@ -1776,13 +1776,59 @@ PROJECT-Nvidia-roth:
   - LineageOS/android_device_nvidia_roth
   - LineageOS/android_kernel_nvidia_roth
 PROJECT-Nvidia-shield:
+  - LineageOS/android_device_nvidia_dalmore
   - LineageOS/android_device_nvidia_foster
+  - LineageOS/android_device_nvidia_foster_tab
+  - LineageOS/android_device_nvidia_icera
+  - LineageOS/android_device_nvidia_jetson
+  - LineageOS/android_device_nvidia_quill
   - LineageOS/android_device_nvidia_shield-common
   - LineageOS/android_device_nvidia_shieldtablet
+  - LineageOS/android_device_nvidia_t114-common
+  - LineageOS/android_device_nvidia_t124-common
+  - LineageOS/android_device_nvidia_t186-common
+  - LineageOS/android_device_nvidia_t194-common
+  - LineageOS/android_device_nvidia_t210-common
+  - LineageOS/android_device_nvidia_tegra-common
+  - LineageOS/android_device_nvidia_touch
   - LineageOS/android_hardware_nvidia_libstagefrighthw
+  - LineageOS/android_hardware_nvidia_light
+  - LineageOS/android_hardware_nvidia_memtrack
   - LineageOS/android_hardware_nvidia_power
   - LineageOS/android_hardware_nvidia_sensors
   - LineageOS/android_hardware_nvidia_thermal
+  - LineageOS/android_kernel_nvidia_mainline
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_bct
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_ers
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_fpga
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_hawkeye
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_misc
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_orca
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_sim
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_vcm
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_abca
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_porg
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra
+  - LineageOS/android_kernel_nvidia_linux-4.9_kernel_kernel-4.9
+  - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu
+  - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia
   - LineageOS/android_kernel_nvidia_shield
   - LineageOS/android_kernel_nvidia_shieldtablet
 PROJECT-Oneplus-bacon:
