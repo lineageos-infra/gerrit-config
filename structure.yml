@@ -444,6 +444,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_hardware_ril
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
+  - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_BasicSmsReceiver
   - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_Calendar
@@ -590,6 +591,7 @@ Lineage-Device-Projects:
   - OEM-leeco
   - OEM-qcom
   - OEM-ti
+  - PROJECT-BQ-sdm660
   - PROJECT-android-tv
 Lineage-Unmaintained-Projects:
   - LineageOS/AR6kSDK.3.1
@@ -1185,11 +1187,13 @@ Lineage-Unmaintained-Projects:
   - LineageOS/sony-kernel-u8500
   - LineageOS/tools_repo
   - LineageOS/zte-kernel-msm7x27
+  - android_hardware_sony_simdetect
 Master-Enabled:
   - LineageOS/charter
   - LineageOS/cm_crowdin
   - LineageOS/contributors-cloud-generator
   - LineageOS/scripts
+  - LineageOS/update_verifier
   - LineageOS/www
   - PROJECT-Infrastructure
   - PROJECT-Lineage-wireguard
@@ -1228,6 +1232,7 @@ OEM-Fairphone:
 OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
+  - PROJECT-Google-crosshatch
   - PROJECT-Google-dragon
   - PROJECT-Google-marlin
   - PROJECT-Google-seed
@@ -1479,6 +1484,11 @@ PROJECT-BQ-msm8953:
   - LineageOS/android_device_bq_bardockpro
   - LineageOS/android_device_bq_msm8953-common
   - LineageOS/android_kernel_bq_msm8953
+PROJECT-BQ-sdm660:
+  - LineageOS/android_device_bq_sdm660-common
+  - LineageOS/android_device_bq_zangya
+  - LineageOS/android_device_bq_zangyapro
+  - LineageOS/android_kernel_bq_sdm660
 PROJECT-Cyanogen-msm8916:
   - LineageOS/android_device_cyanogen_msm8916-common
   - LineageOS/android_kernel_cyanogen_msm8916
@@ -1494,6 +1504,7 @@ PROJECT-Generic-goldfish:
 PROJECT-Google-crosshatch:
   - LineageOS/android_device_google_crosshatch
   - LineageOS/android_kernel_google_crosshatch
+  - android_kernel_google_crosshatch
 PROJECT-Google-dragon:
   - LineageOS/android_device_google_dragon
   - LineageOS/android_kernel_google_dragon
@@ -1797,7 +1808,6 @@ PROJECT-Nvidia-shield:
   - LineageOS/android_hardware_nvidia_power
   - LineageOS/android_hardware_nvidia_sensors
   - LineageOS/android_hardware_nvidia_thermal
-  - LineageOS/android_kernel_nvidia_mainline
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common
@@ -1829,8 +1839,10 @@ PROJECT-Nvidia-shield:
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_kernel-4.9
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia
+  - LineageOS/android_kernel_nvidia_mainline
   - LineageOS/android_kernel_nvidia_shield
   - LineageOS/android_kernel_nvidia_shieldtablet
+  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1
 PROJECT-Oneplus-bacon:
   - LineageOS/android_device_oneplus_bacon
   - LineageOS/android_kernel_oneplus_msm8974
@@ -2073,9 +2085,11 @@ PROJECT-Samsung-serrano:
   - LineageOS/android_device_samsung_serranoltexx
   - LineageOS/android_kernel_samsung_msm8930-common
 PROJECT-Samsung-star:
+  - LineageOS/android_device_samsung_crownlte
   - LineageOS/android_device_samsung_star-common
   - LineageOS/android_device_samsung_star2lte
   - LineageOS/android_device_samsung_starlte
+  - LineageOS/android_device_samsung_universal9810-common
   - LineageOS/android_kernel_samsung_universal9810
 PROJECT-Samsung-tuna:
   - LineageOS/android_device_samsung_maguro
@@ -2220,6 +2234,8 @@ PROJECT-Xiaomi-sdm660:
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_dipper
+  - LineageOS/android_device_xiaomi_equuleus
+  - LineageOS/android_device_xiaomi_perseus
   - LineageOS/android_device_xiaomi_polaris
   - LineageOS/android_device_xiaomi_sdm845-common
   - LineageOS/android_device_xiaomi_ursa
@@ -2314,7 +2330,6 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_msm8x74
   - LineageOS/android_hardware_qcom_neuralnetworks_hvxservice
   - LineageOS/android_hardware_qcom_power
-  - LineageOS/android_hardware_qcom_sensors
   - LineageOS/android_hardware_qcom_sdm845_bt
   - LineageOS/android_hardware_qcom_sdm845_data_ipacfg-mgr
   - LineageOS/android_hardware_qcom_sdm845_display
@@ -2322,6 +2337,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_sdm845_media
   - LineageOS/android_hardware_qcom_sdm845_thermal
   - LineageOS/android_hardware_qcom_sdm845_vr
+  - LineageOS/android_hardware_qcom_sensors
   - LineageOS/android_hardware_qcom_thermal
   - LineageOS/android_hardware_qcom_vr
   - LineageOS/android_hardware_qcom_wlan
