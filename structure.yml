@@ -296,7 +296,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_tinyxml2
   - LineageOS/android_external_unzip
-  - LineageOS/android_external_v8
   - LineageOS/android_external_yaffs2
   - LineageOS/android_frameworks_ex
   - LineageOS/android_frameworks_minikin
@@ -361,6 +360,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_stlport
   - LineageOS/android_external_tremolo
+  - LineageOS/android_external_v8
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_net_ims
@@ -368,6 +368,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_misc
+  - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_hwservicemanager
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
