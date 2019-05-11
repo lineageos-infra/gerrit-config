@@ -1505,6 +1505,7 @@ PROJECT-Generic-goldfish:
   - LineageOS/android_kernel_goldfish
 PROJECT-Google-bonito:
   - LineageOS/android_device_google_bonito
+  - LineageOS/android_device_google_sargo
   - LineageOS/android_kernel_google_bonito
 PROJECT-Google-crosshatch:
   - LineageOS/android_device_google_crosshatch
