@@ -2339,6 +2339,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_msm8x74
   - LineageOS/android_hardware_qcom_neuralnetworks_hvxservice
   - LineageOS/android_hardware_qcom_power
+  - LineageOS/android_hardware_qcom_sdm710_display
   - LineageOS/android_hardware_qcom_sdm845_bt
   - LineageOS/android_hardware_qcom_sdm845_data_ipacfg-mgr
   - LineageOS/android_hardware_qcom_sdm845_display
