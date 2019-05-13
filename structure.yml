@@ -160,7 +160,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_libnl
   - LineageOS/android_external_libopus
   - LineageOS/android_external_libphonenumber
-  - LineageOS/android_external_libpng
   - LineageOS/android_external_libppp
   - LineageOS/android_external_libsepol
   - LineageOS/android_external_libusb
@@ -277,6 +276,7 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_libnfc-nci
   - LineageOS/android_external_libnfnetlink
   - LineageOS/android_external_libphonenumbergoogle
+  - LineageOS/android_external_libpng
   - LineageOS/android_external_libsamsung-ipc
   - LineageOS/android_external_libselinux
   - LineageOS/android_external_libtruezip
