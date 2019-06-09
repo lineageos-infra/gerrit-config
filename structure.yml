@@ -1389,6 +1389,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm8998
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm845
+  - PROJECT-Xiaomi-violet
 OEM-Yu:
   - PROJECT-Yu-jalebi
   - PROJECT-Yu-lettuce
@@ -2250,6 +2251,9 @@ PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_sdm845-common
   - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
+PROJECT-Xiaomi-Violet:
+  - LineageOS/android_device_xiaomi_violet
+  - LineageOS/android_kernel_xiaomi_violet
 PROJECT-Yu-jalebi:
   - LineageOS/android_device_yu_jalebi
 PROJECT-Yu-lettuce:
