@@ -805,7 +805,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_samsung_i9100g
   - LineageOS/android_device_samsung_i9103
   - LineageOS/android_device_samsung_i925
-  - LineageOS/android_device_samsung_jactivelte
   - LineageOS/android_device_samsung_kylepro
   - LineageOS/android_device_samsung_kyleprods
   - LineageOS/android_device_samsung_kyleve
@@ -2006,6 +2005,7 @@ PROJECT-Samsung-i9500:
   - LineageOS/android_kernel_samsung_exynos5410
 PROJECT-Samsung-jf:
   - LineageOS/android_device_samsung_jf-common
+  - LineageOS/android_device_samsung_jactivelte
   - LineageOS/android_device_samsung_jflte
   - LineageOS/android_device_samsung_jflteatt
   - LineageOS/android_device_samsung_jfltecan
