@@ -1535,6 +1535,7 @@ PROJECT-Google-wahoo:
   - LineageOS/android_device_google_muskie
   - LineageOS/android_device_google_taimen
   - LineageOS/android_device_google_wahoo
+  - LineageOS/android_device_google_walleye
   - LineageOS/android_kernel_google_wahoo
 PROJECT-HTC-flounder:
   - LineageOS/android_device_htc_flounder
