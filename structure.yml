@@ -2265,7 +2265,6 @@ PROJECT-Yu-sambar:
 PROJECT-Yu-tomato:
   - LineageOS/android_device_yu_tomato
 PROJECT-ZTE-ailsa_ii:
-  - LineageOS/android_device_zte_ailsa_ii
   - LineageOS/android_device_zte_axon7
   - LineageOS/android_kernel_zte_msm8996
 PROJECT-ZTE-msm8952:
