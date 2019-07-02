@@ -288,7 +288,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_okhttp
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_protobuf-c
-  - LineageOS/android_external_sfntly
   - LineageOS/android_external_sonivox
   - LineageOS/android_external_speex
   - LineageOS/android_external_stagefright-plugins
@@ -356,6 +355,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libvorbis
   - LineageOS/android_external_powertop
+  - LineageOS/android_external_sfntly
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_stlport
   - LineageOS/android_external_tremolo
