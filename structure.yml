@@ -173,7 +173,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_pcre
   - LineageOS/android_external_qrngd
   - LineageOS/android_external_sepolicy
-  - LineageOS/android_external_sfntly
   - LineageOS/android_external_spongycastle
   - LineageOS/android_external_square_dagger
   - LineageOS/android_external_square_javawriter
@@ -289,6 +288,7 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_okhttp
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_protobuf-c
+  - LineageOS/android_external_sfntly
   - LineageOS/android_external_sonivox
   - LineageOS/android_external_speex
   - LineageOS/android_external_stagefright-plugins
