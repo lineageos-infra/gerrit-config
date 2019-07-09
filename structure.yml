@@ -770,7 +770,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_motorola_xt897c
   - LineageOS/android_device_motorola_xt925_jbbl
   - LineageOS/android_device_motorola_zeppelin
-  - LineageOS/android_device_oneplus_common
   - LineageOS/android_device_oppo_neo5
   - LineageOS/android_device_pantech_presto
   - LineageOS/android_device_qcom_msm8916_64
@@ -1305,6 +1304,7 @@ OEM-Nvidia:
   - PROJECT-Nvidia-roth
   - PROJECT-Nvidia-shield
 OEM-Oneplus:
+  - LineageOS/android_device_oneplus_common
   - PROJECT-Oneplus-bacon
   - PROJECT-Oneplus-cheeseburger
   - PROJECT-Oneplus-dumpling
