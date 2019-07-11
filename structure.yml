@@ -1206,6 +1206,7 @@ OEM-Amazon:
 OEM-Ark:
   - PROJECT-Ark-peach
 OEM-Asus:
+  - PROJECT-Asus-I01WD
   - PROJECT-Asus-P024
   - PROJECT-Asus-Z00D
   - PROJECT-Asus-deb
@@ -1435,6 +1436,9 @@ PROJECT-Ark-peach:
   - LineageOS/android_device_ark_msm8916-common
   - LineageOS/android_device_ark_peach
   - LineageOS/android_kernel_ark_msm8916
+PROJECT-Asus-I01WD:
+  - LineageOS/android_device_asus_I01WD
+  - LineageOS/android_kernel_asus_sm8150
 PROJECT-Asus-P024:
   - LineageOS/android_device_asus_P024
   - LineageOS/android_kernel_asus_P024
