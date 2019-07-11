@@ -1212,6 +1212,7 @@ OEM-Asus:
   - PROJECT-Asus-deb
   - PROJECT-Asus-fugu
   - PROJECT-Asus-sdm660
+  - PROJECT-Asus-sm8150
   - PROJECT-Asus-tf701t
   - PROJECT-Asus-zenfone2_intel
   - PROJECT-Asus-zenfone2_qcom
@@ -1375,6 +1376,7 @@ OEM-Wileyfox:
 OEM-Wingtech:
   - PROJECT-Wingtech-wt88047
 OEM-Xiaomi:
+  - PROJECT-Xiaomi-Violet
   - PROJECT-Xiaomi-armani
   - PROJECT-Xiaomi-cancro
   - PROJECT-Xiaomi-ferrari
@@ -1389,7 +1391,6 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm8998
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm845
-  - PROJECT-Xiaomi-Violet
 OEM-Yu:
   - PROJECT-Yu-jalebi
   - PROJECT-Yu-lettuce
@@ -1401,6 +1402,7 @@ OEM-ZTE:
   - PROJECT-ZTE-msm8994
 OEM-Zuk:
   - PROJECT-Zuk-ham
+  - PROJECT-Zuk-msm8996
 OEM-leeco:
   - PROJECT-leeco-msm8952
   - PROJECT-leeco-msm8996
@@ -1455,6 +1457,9 @@ PROJECT-Asus-fugu:
 PROJECT-Asus-sdm660:
   - LineageOS/android_device_asus_X00TD
   - LineageOS/android_kernel_asus_sdm660
+PROJECT-Asus-sm8150:
+  - LineageOS/android_device_asus_I01WD
+  - LineageOS/android_kernel_asus_sm8150
 PROJECT-Asus-tf701t:
   - LineageOS/android_device_asus_tf701t
   - LineageOS/android_kernel_asus_tf701t
@@ -2009,8 +2014,8 @@ PROJECT-Samsung-i9500:
   - LineageOS/android_device_samsung_i9500
   - LineageOS/android_kernel_samsung_exynos5410
 PROJECT-Samsung-jf:
-  - LineageOS/android_device_samsung_jf-common
   - LineageOS/android_device_samsung_jactivelte
+  - LineageOS/android_device_samsung_jf-common
   - LineageOS/android_device_samsung_jflte
   - LineageOS/android_device_samsung_jflteatt
   - LineageOS/android_device_samsung_jfltecan
@@ -2195,6 +2200,9 @@ PROJECT-Wileyfox-msm8916:
 PROJECT-Wingtech-wt88047:
   - LineageOS/android_device_wingtech_wt88047
   - LineageOS/android_kernel_wingtech_msm8916
+PROJECT-Xiaomi-Violet:
+  - LineageOS/android_device_xiaomi_violet
+  - LineageOS/android_kernel_xiaomi_violet
 PROJECT-Xiaomi-armani:
   - LineageOS/android_device_xiaomi_armani
   - LineageOS/android_kernel_xiaomi_armani
@@ -2243,10 +2251,10 @@ PROJECT-Xiaomi-msm8998:
   - LineageOS/android_kernel_xiaomi_msm8998
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
-  - LineageOS/android_kernel_xiaomi_sdm660
   - LineageOS/android_device_xiaomi_wayne
   - LineageOS/android_device_xiaomi_wayne-common
   - LineageOS/android_device_xiaomi_whyred
+  - LineageOS/android_kernel_xiaomi_sdm660
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_dipper
@@ -2256,9 +2264,6 @@ PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_sdm845-common
   - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
-PROJECT-Xiaomi-Violet:
-  - LineageOS/android_device_xiaomi_violet
-  - LineageOS/android_kernel_xiaomi_violet
 PROJECT-Yu-jalebi:
   - LineageOS/android_device_yu_jalebi
 PROJECT-Yu-lettuce:
@@ -2281,6 +2286,10 @@ PROJECT-ZTE-msm8994:
 PROJECT-Zuk-ham:
   - LineageOS/android_device_zuk_ham
   - LineageOS/android_kernel_cyanogen_msm8974
+PROJECT-Zuk-msm8996:
+  - LineageOS/android_device_zuk_msm8996-common
+  - LineageOS/android_device_zuk_z2_plus
+  - LineageOS/android_kernel_zuk_msm8996
 PROJECT-android-tv:
   - LineageOS/android_device_google_atv
   - LineageOS/android_device_lineage_atv
