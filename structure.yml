@@ -2021,12 +2021,9 @@ PROJECT-Samsung-jf:
   - LineageOS/android_device_samsung_jfltetmo
   - LineageOS/android_device_samsung_jflteusc
   - LineageOS/android_device_samsung_jfltevzw
-  - LineageOS/android_kernel_samsung_jf
-  - PROJECT-Samsung-jfltexx
-PROJECT-Samsung-jfltexx:
   - LineageOS/android_device_samsung_jfltexx
-PROJECT-Samsung-jfvelte:
   - LineageOS/android_device_samsung_jfvelte
+  - LineageOS/android_kernel_samsung_jf
 PROJECT-Samsung-k3g:
   - LineageOS/android_device_samsung_k3gxx
   - LineageOS/android_kernel_samsung_k3gxx
