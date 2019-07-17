@@ -1213,6 +1213,7 @@ OEM-Asus:
   - PROJECT-Asus-sdm660
   - PROJECT-Asus-sm8150
   - PROJECT-Asus-tf701t
+  - PROJECT-Asus-z5
   - PROJECT-Asus-zenfone2_intel
   - PROJECT-Asus-zenfone2_qcom
   - Project-Asus-grouper
@@ -1459,6 +1460,9 @@ PROJECT-Asus-sm8150:
 PROJECT-Asus-tf701t:
   - LineageOS/android_device_asus_tf701t
   - LineageOS/android_kernel_asus_tf701t
+PROJECT-Asus-z5:
+  - LineageOS/android_device_asus_Z01R
+  - LineageOS/android_kernel_asus_sdm845
 PROJECT-Asus-zenfone2_intel:
   - LineageOS/android_device_asus_Z008
   - LineageOS/android_device_asus_Z00A
