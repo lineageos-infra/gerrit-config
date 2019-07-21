@@ -333,7 +333,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
-  - LineageOS/android_system_keymaster
   - LineageOS/android_system_media
   - LineageOS/android_vendor_cm
   - LineageOS/android_vendor_nxp-nfc_opensource_Nfc
@@ -525,6 +524,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
+  - LineageOS/android_system_keymaster
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
   - LineageOS/android_system_netd
@@ -536,6 +536,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
+  - LineageOS/android_test_vts-testcase_vndk
   - LineageOS/android_vendor_lineage
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
