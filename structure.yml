@@ -253,7 +253,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_bouncycastle
   - LineageOS/android_external_busybox
   - LineageOS/android_external_bzip2
-  - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_cmsdk-api-coverage
   - LineageOS/android_external_curl
   - LineageOS/android_external_cyanogen_UICommon
@@ -278,7 +277,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_libsamsung-ipc
   - LineageOS/android_external_libselinux
   - LineageOS/android_external_libtruezip
-  - LineageOS/android_external_libvpx
   - LineageOS/android_external_libvterm
   - LineageOS/android_external_libxml2
   - LineageOS/android_external_lz4
@@ -346,6 +344,7 @@ Lineage-14.1-Projects:
 Lineage-15.1-Projects:
   - Lineage-16.0-Projects
   - LineageOS/android_external_brctl
+  - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_fuse
   - LineageOS/android_external_libavc
@@ -353,6 +352,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libvorbis
+  - LineageOS/android_external_libvpx
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sfntly
   - LineageOS/android_external_sqlite
