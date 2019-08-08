@@ -367,6 +367,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_connectivity_wificond
+  - LineageOS/android_system_gatekeeper
   - LineageOS/android_system_hwservicemanager
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
