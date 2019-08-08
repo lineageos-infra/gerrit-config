@@ -517,6 +517,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
+  - LineageOS/android_prebuilts_abi-dumps_vndk
   - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_constraint-layout
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
