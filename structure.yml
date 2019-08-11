@@ -1337,12 +1337,10 @@ OEM-Samsung:
   - PROJECT-Samsung-exynos5420
   - PROJECT-Samsung-gts2
   - PROJECT-Samsung-hero
-  - PROJECT-Samsung-hlte
   - PROJECT-Samsung-i9500
   - PROJECT-Samsung-jf
   - PROJECT-Samsung-jfvelte
   - PROJECT-Samsung-k3g
-  - PROJECT-Samsung-klte
   - PROJECT-Samsung-ks01lte
   - PROJECT-Samsung-lt02lte
   - PROJECT-Samsung-lt03lte
@@ -2077,6 +2075,8 @@ PROJECT-Samsung-msm8916:
   - LineageOS/android_device_samsung_msm8916-common
   - LineageOS/android_kernel_samsung_msm8916
 PROJECT-Samsung-msm8974:
+  - PROJECT-Samsung-hlte
+  - PROJECT-Samsung-klte
   - LineageOS/android_device_samsung_msm8974-common
   - LineageOS/android_kernel_samsung_msm8974
 PROJECT-Samsung-msm8976:
