@@ -1335,6 +1335,7 @@ OEM-Samsung:
   - PROJECT-Samsung-exynos4
   - PROJECT-Samsung-exynos5
   - PROJECT-Samsung-exynos5420
+  - PROJECT-Samsung-exynos7580
   - PROJECT-Samsung-gts2
   - PROJECT-Samsung-hero
   - PROJECT-Samsung-i9500
@@ -1986,6 +1987,12 @@ PROJECT-Samsung-exynos5420:
   - LineageOS/android_device_samsung_v2awifi
   - LineageOS/android_kernel_samsung_exynos5420
   - LineageOS/android_kernel_samsung_klimtwifi
+PROJECT-Samsung-exynos7580:
+  - LineageOS/android_device_samsung_a3xelte
+  - LineageOS/android_device_samsung_a5xelte
+  - LineageOS/android_device_samsung_s5neolte
+  - LineageOS/android_device_samsung_universal7580-common
+  - LineageOS/android_kernel_samsung_universal7580
 PROJECT-Samsung-gts2:
   - LineageOS/android_device_samsung_gts2-common
   - LineageOS/android_device_samsung_gts210ltexx
