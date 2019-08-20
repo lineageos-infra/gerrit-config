@@ -1704,6 +1704,11 @@ PROJECT-LGE-v500:
   - LineageOS/android_device_lge_v500
   - LineageOS/android_device_lge_vk810
   - LineageOS/android_kernel_lge_v500
+PROJECT-Lenovo-Tab4:
+  - LineageOS/android_device_lenovo_TB8703
+  - LineageOS/android_device_lenovo_TB8704
+  - LineageOS/android_device_lenovo_TBX704
+  - LineageOS/android_device_lenovo_tb-common
 PROJECT-Lenovo-kingdom:
   - LineageOS/android_device_lenovo_kingdom
   - LineageOS/android_kernel_lenovo_msm8974
@@ -1713,6 +1718,7 @@ PROJECT-Lenovo-msm8916:
 PROJECT-Lenovo-msm8953:
   - LineageOS/android_device_lenovo_kuntao
   - LineageOS/android_kernel_lenovo_msm8953
+  - PROJECT-Lenovo-Tab4
 PROJECT-Lenovo-msm8976:
   - LineageOS/android_device_lenovo_YTX703-common
   - LineageOS/android_device_lenovo_YTX703F
