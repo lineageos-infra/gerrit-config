@@ -373,7 +373,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_system_nfc
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
-  - Head-Developers
+  - Lineage-17.0-Projects
   - LineageOS/android_art
   - LineageOS/android_bionic
   - LineageOS/android_bootable_recovery
@@ -546,6 +546,8 @@ Lineage-16.0-Projects:
   - LineageOS/android_vendor_nxp_opensource_halimpl
   - LineageOS/android_vendor_nxp_opensource_hidlimpl
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
+Lineage-17.0-Projects:
+  - Head-Developers
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
