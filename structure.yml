@@ -1624,6 +1624,8 @@ PROJECT-LGE-g2:
   - LineageOS/android_device_lge_d801
   - LineageOS/android_device_lge_d802
   - LineageOS/android_device_lge_d803
+  - LineageOS/android_device_lge_d805
+  - LineageOS/android_device_lge_d806
   - LineageOS/android_device_lge_g2-common
   - LineageOS/android_device_lge_ls980
   - LineageOS/android_device_lge_vs980
