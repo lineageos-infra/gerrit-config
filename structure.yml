@@ -254,7 +254,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_busybox
   - LineageOS/android_external_bzip2
   - LineageOS/android_external_cmsdk-api-coverage
-  - LineageOS/android_external_curl
   - LineageOS/android_external_cyanogen_UICommon
   - LineageOS/android_external_deqp
   - LineageOS/android_external_dnsmasq
@@ -268,7 +267,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_iptables
   - LineageOS/android_external_jemalloc
   - LineageOS/android_external_jhead
-  - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libnetfilter_conntrack
   - LineageOS/android_external_libnfc-nci
@@ -389,6 +387,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
   - LineageOS/android_external_chromium-webview
+  - LineageOS/android_external_curl
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_exfat
@@ -397,6 +396,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_htop
   - LineageOS/android_external_icu
+  - LineageOS/android_external_libchrome
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_libpng
@@ -412,6 +412,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_pigz
   - LineageOS/android_external_proguard
+  - LineageOS/android_external_puffin
   - LineageOS/android_external_rsync
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
