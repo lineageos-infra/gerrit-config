@@ -396,6 +396,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_htop
   - LineageOS/android_external_icu
+  - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
