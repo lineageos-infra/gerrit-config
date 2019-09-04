@@ -376,7 +376,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_bionic
   - LineageOS/android_bootable_recovery
   - LineageOS/android_build_kati
-  - LineageOS/android_build_soong
   - LineageOS/android_dalvik
   - LineageOS/android_development
   - LineageOS/android_device_lineage_sepolicy
@@ -545,6 +544,7 @@ Lineage-16.0-Projects:
 Lineage-17.0-Projects:
   - Head-Developers
   - LineageOS/android_build
+  - LineageOS/android_build_soong
   - LineageOS/android_frameworks_base
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
