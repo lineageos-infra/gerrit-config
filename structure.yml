@@ -375,7 +375,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_art
   - LineageOS/android_bionic
   - LineageOS/android_bootable_recovery
-  - LineageOS/android_build
   - LineageOS/android_build_kati
   - LineageOS/android_build_soong
   - LineageOS/android_dalvik
@@ -522,7 +521,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
   - LineageOS/android_prebuilts_lineage-sdk
   - LineageOS/android_system_bt
-  - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_keymaster
@@ -547,9 +545,11 @@ Lineage-16.0-Projects:
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-17.0-Projects:
   - Head-Developers
+  - LineageOS/android_build
   - LineageOS/android_frameworks_base
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
+  - LineageOS/android_system_core
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
