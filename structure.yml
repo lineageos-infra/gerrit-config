@@ -549,6 +549,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_frameworks_base
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
+  - LineageOS/android_packages_apps_PermissionController
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_system_core
