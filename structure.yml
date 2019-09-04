@@ -369,6 +369,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_system_hwservicemanager
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
+  - LineageOS/android_test_sts
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
   - Lineage-17.0-Projects
@@ -549,6 +550,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Settings
+  - LineageOS/android_prebuilts_r8
   - LineageOS/android_system_core
 Lineage-Device-Projects:
   - OEM-Acer
@@ -2058,6 +2060,7 @@ PROJECT-Samsung-jf:
   - LineageOS/android_device_samsung_jfltexx
   - LineageOS/android_device_samsung_jfvelte
   - LineageOS/android_kernel_samsung_jf
+  - PROJECT-Samsung-jfltexx
 PROJECT-Samsung-k3g:
   - LineageOS/android_device_samsung_k3gxx
   - LineageOS/android_kernel_samsung_k3gxx
@@ -2104,10 +2107,10 @@ PROJECT-Samsung-msm8916:
   - LineageOS/android_device_samsung_msm8916-common
   - LineageOS/android_kernel_samsung_msm8916
 PROJECT-Samsung-msm8974:
-  - PROJECT-Samsung-hlte
-  - PROJECT-Samsung-klte
   - LineageOS/android_device_samsung_msm8974-common
   - LineageOS/android_kernel_samsung_msm8974
+  - PROJECT-Samsung-hlte
+  - PROJECT-Samsung-klte
 PROJECT-Samsung-msm8976:
   - LineageOS/android_device_samsung_gts210velte
   - LineageOS/android_device_samsung_gts210vewifi
@@ -2280,11 +2283,11 @@ PROJECT-Xiaomi-msm8998:
   - LineageOS/android_kernel_xiaomi_msm8998
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
+  - LineageOS/android_device_xiaomi_sdm660-common
   - LineageOS/android_device_xiaomi_wayne
   - LineageOS/android_device_xiaomi_wayne-common
   - LineageOS/android_device_xiaomi_whyred
   - LineageOS/android_kernel_xiaomi_sdm660
-  - LineageOS/android_device_xiaomi_sdm660-common
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_dipper
