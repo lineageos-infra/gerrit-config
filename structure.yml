@@ -426,7 +426,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_zip
   - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_av
-  - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_datetimepicker
@@ -548,6 +547,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-17.0-Projects:
   - Head-Developers
+  - LineageOS/android_frameworks_base
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
 Lineage-Device-Projects:
