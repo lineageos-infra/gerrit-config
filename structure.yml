@@ -471,7 +471,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
-  - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
@@ -549,7 +548,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_frameworks_base
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
-  - LineageOS/android_packages_apps_PermissionController
+  - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_system_core
