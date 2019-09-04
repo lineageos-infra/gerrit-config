@@ -414,7 +414,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_proguard
   - LineageOS/android_external_puffin
   - LineageOS/android_external_rsync
-  - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_strace
@@ -546,6 +545,7 @@ Lineage-17.0-Projects:
   - Head-Developers
   - LineageOS/android_build
   - LineageOS/android_build_soong
+  - LineageOS/android_external_selinux
   - LineageOS/android_frameworks_base
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_LineageParts
