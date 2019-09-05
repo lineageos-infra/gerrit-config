@@ -462,7 +462,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_YahooWeatherProvider
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_providers_WeatherProvider
-  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_WebView
   - LineageOS/android_prebuilts_abi-dumps_vndk
   - LineageOS/android_prebuilts_build-tools
@@ -544,6 +543,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_TelephonyProvider
   - LineageOS/android_packages_providers_UserDictionaryProvider
+  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_BuiltInPrintService
