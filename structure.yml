@@ -371,7 +371,6 @@ Lineage-15.1-Projects:
 Lineage-16.0-Projects:
   - Lineage-17.0-Projects
   - LineageOS/android_art
-  - LineageOS/android_bionic
   - LineageOS/android_build_kati
   - LineageOS/android_dalvik
   - LineageOS/android_development
@@ -489,6 +488,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-17.0-Projects:
   - Head-Developers
+  - LineageOS/android_bionic
   - LineageOS/android_bootable_recovery
   - LineageOS/android_build
   - LineageOS/android_build_soong
