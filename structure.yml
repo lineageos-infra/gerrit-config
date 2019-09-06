@@ -267,7 +267,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_iptables
   - LineageOS/android_external_jemalloc
   - LineageOS/android_external_jhead
-  - LineageOS/android_external_libcxx
   - LineageOS/android_external_libnetfilter_conntrack
   - LineageOS/android_external_libnfc-nci
   - LineageOS/android_external_libnfnetlink
@@ -493,6 +492,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_build
   - LineageOS/android_build_soong
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_libcxx
   - LineageOS/android_external_selinux
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
