@@ -529,6 +529,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_apps_StorageManager
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_Terminal
+  - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Traceur
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_packages_inputmethods_LatinIME
