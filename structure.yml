@@ -410,7 +410,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_puffin
   - LineageOS/android_external_rsync
   - LineageOS/android_external_skia
-  - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_strace
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_toybox
@@ -489,6 +488,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_selinux
+  - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_hardware_lineage_interfaces
