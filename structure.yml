@@ -447,7 +447,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SetupWizard
   - LineageOS/android_packages_apps_Snap
-  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker
   - LineageOS/android_packages_apps_WundergroundWeatherProvider
   - LineageOS/android_packages_apps_YahooWeatherProvider
@@ -531,6 +530,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_apps_Traceur
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_UnifiedEmail
+  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_modules_CaptivePortalLogin
   - LineageOS/android_packages_providers_BlockedNumberProvider
