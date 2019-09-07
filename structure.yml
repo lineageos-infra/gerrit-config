@@ -436,7 +436,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
-  - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_FMRadio
@@ -506,6 +505,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_apps_DeskClock
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
+  - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Gallery2
