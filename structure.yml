@@ -582,8 +582,8 @@ Lineage-Device-Projects:
   - OEM-Moto
   - OEM-Motorola
   - OEM-Nextbit
-  - OEM-Nubia
   - OEM-Nokia
+  - OEM-Nubia
   - OEM-Nvidia
   - OEM-Oneplus
   - OEM-Oppo
@@ -1245,6 +1245,7 @@ OEM-Fairphone:
 OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
+  - PROJECT-Google-bonito
   - PROJECT-Google-crosshatch
   - PROJECT-Google-dragon
   - PROJECT-Google-marlin
@@ -1311,7 +1312,7 @@ OEM-Motorola:
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
 OEM-Nokia:
-  - Project-Nokia-sdm660
+  - PROJECT-Nokia-sdm660
 OEM-Nubia:
   - PROJECT-Nubia-nx512j
   - PROJECT-Nubia-nx531j
