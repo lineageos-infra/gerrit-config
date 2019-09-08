@@ -1199,7 +1199,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/sony-kernel-u8500
   - LineageOS/tools_repo
   - LineageOS/zte-kernel-msm7x27
-  - android_hardware_sony_simdetect
 Master-Enabled:
   - LineageOS/charter
   - LineageOS/cm_crowdin
