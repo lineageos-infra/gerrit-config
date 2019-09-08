@@ -583,6 +583,7 @@ Lineage-Device-Projects:
   - OEM-Motorola
   - OEM-Nextbit
   - OEM-Nubia
+  - OEM-Nokia
   - OEM-Nvidia
   - OEM-Oneplus
   - OEM-Oppo
@@ -1311,6 +1312,8 @@ OEM-Motorola:
   - PROJECT-Motorola-quark
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
+OEM-Nokia:
+  - Project-Nokia-sdm660
 OEM-Nubia:
   - PROJECT-Nubia-nx512j
   - PROJECT-Nubia-nx531j
@@ -1815,6 +1818,10 @@ PROJECT-Motorola-quark:
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
+PROJECT-Nokia-sdm660:
+  - LineageOS/android_device_nokia_PL2
+  - LineageOS/android_device_nokia_sdm660-common
+  - LineageOS/android_kernel_nokia_sdm660
 PROJECT-Nubia-nx512j:
   - LineageOS/android_device_nubia_nx512j
   - LineageOS/android_kernel_nubia_msm8939
