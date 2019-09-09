@@ -2376,6 +2376,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_device_qcom_sepolicy-legacy
   - LineageOS/android_external_connectivity
   - LineageOS/android_external_json-c
+  - LineageOS/android_hardware_qcom-caf_common
   - LineageOS/android_hardware_qcom_audio
   - LineageOS/android_hardware_qcom_audio-bfam
   - LineageOS/android_hardware_qcom_audio-caf
