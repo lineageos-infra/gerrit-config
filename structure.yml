@@ -445,7 +445,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_prebuilts_constraint-layout
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
   - LineageOS/android_prebuilts_lineage-sdk
-  - LineageOS/android_system_bt
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_gatekeeper
@@ -554,6 +553,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_update_engine
   - LineageOS/android_vendor_lineage
