@@ -422,7 +422,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_hardware_lineage_lineagehw
   - LineageOS/android_hardware_nxp_nfc
-  - LineageOS/android_hardware_ril
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
@@ -487,6 +486,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_hardware_broadcom_nfc
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
+  - LineageOS/android_hardware_ril
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_BasicSmsReceiver
   - LineageOS/android_packages_apps_Bluetooth
