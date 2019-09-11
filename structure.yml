@@ -410,7 +410,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_zip
   - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_compile_mclinker
-  - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_datetimepicker
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_telephony
@@ -475,6 +474,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_external_tinycompress
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
+  - LineageOS/android_frameworks_native
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
   - LineageOS/android_hardware_libhardware
