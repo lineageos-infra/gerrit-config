@@ -412,7 +412,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_opt_datetimepicker
   - LineageOS/android_frameworks_opt_net_wifi
-  - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_broadcom_wlan
   - LineageOS/android_hardware_interfaces
@@ -475,6 +474,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
+  - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
   - LineageOS/android_hardware_libhardware
