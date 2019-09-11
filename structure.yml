@@ -427,7 +427,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_FMRadio
-  - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_Profiles
@@ -501,6 +500,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
+  - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_Jelly
