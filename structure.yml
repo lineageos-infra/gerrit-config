@@ -443,7 +443,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
-  - LineageOS/android_system_netd
   - LineageOS/android_system_nfc
   - LineageOS/android_system_qcom
   - LineageOS/android_system_security
@@ -555,6 +554,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
+  - LineageOS/android_system_netd
   - LineageOS/android_system_update_engine
   - LineageOS/android_vendor_lineage
 Lineage-Device-Projects:
