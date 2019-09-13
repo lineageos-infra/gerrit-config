@@ -365,9 +365,6 @@ Lineage-16.0-Projects:
   - Lineage-17.0-Projects
   - LineageOS/android_build_kati
   - LineageOS/android_dalvik
-  - LineageOS/android_external_ant-wireless_ant_native
-  - LineageOS/android_external_ant-wireless_ant_service
-  - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
   - LineageOS/android_external_chromium-webview
@@ -451,12 +448,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_system_vold
   - LineageOS/android_test_vts-testcase_vndk
-  - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
-  - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
-  - LineageOS/android_vendor_nxp_opensource_frameworks
-  - LineageOS/android_vendor_nxp_opensource_halimpl
-  - LineageOS/android_vendor_nxp_opensource_hidlimpl
-  - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-17.0-Projects:
   - Head-Developers
   - LineageOS/android_art
@@ -466,6 +457,9 @@ Lineage-17.0-Projects:
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_ant-wireless_ant_native
+  - LineageOS/android_external_ant-wireless_ant_service
+  - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_selinux
   - LineageOS/android_external_sony_boringssl-compat
@@ -557,6 +551,12 @@ Lineage-17.0-Projects:
   - LineageOS/android_system_netd
   - LineageOS/android_system_update_engine
   - LineageOS/android_vendor_lineage
+  - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
+  - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
+  - LineageOS/android_vendor_nxp_opensource_frameworks
+  - LineageOS/android_vendor_nxp_opensource_halimpl
+  - LineageOS/android_vendor_nxp_opensource_hidlimpl
+  - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
