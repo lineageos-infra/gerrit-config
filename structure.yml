@@ -354,7 +354,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_hardware_broadcom_fm
-  - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_hwservicemanager
@@ -546,6 +545,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_platform_testing
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_netd
