@@ -381,7 +381,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_libcups
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libncurses
-  - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
   - LineageOS/android_external_libtextclassifier
@@ -443,7 +442,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_timezone
   - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
-  - LineageOS/android_system_vold
   - LineageOS/android_test_vts-testcase_vndk
 Lineage-17.0-Projects:
   - Head-Developers
@@ -458,6 +456,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_libcxx
+  - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_selinux
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinycompress
@@ -550,6 +549,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_netd
   - LineageOS/android_system_update_engine
+  - LineageOS/android_system_vold
   - LineageOS/android_vendor_lineage
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
