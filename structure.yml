@@ -370,7 +370,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_curl
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_elfutils
-  - LineageOS/android_external_exfat
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fsck_msdos
   - LineageOS/android_external_gptfdisk
@@ -386,7 +385,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
-  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_one-true-awk
   - LineageOS/android_external_openssh
   - LineageOS/android_external_p7zip
@@ -453,9 +451,11 @@ Lineage-17.0-Projects:
   - LineageOS/android_external_ant-wireless_ant_native
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_antradio-library
+  - LineageOS/android_external_exfat
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_libtextclassifier
+  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_selinux
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinycompress
