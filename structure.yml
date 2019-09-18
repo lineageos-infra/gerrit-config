@@ -383,7 +383,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
-  - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
@@ -456,6 +455,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libnfc-nxp
+  - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_selinux
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinycompress
