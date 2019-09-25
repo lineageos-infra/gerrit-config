@@ -2420,8 +2420,10 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_cryptfs_hw
   - LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr
   - LineageOS/android_vendor_qcom_opensource_dataservices
+  - LineageOS/android_vendor_qcom_opensource_fm-commonsys
   - LineageOS/android_vendor_qcom_opensource_interfaces
   - LineageOS/android_vendor_qcom_opensource_location
+  - LineageOS/android_vendor_qcom_opensource_power
   - LineageOS/android_vendor_qcom_opensource_thermal-engine
 PROJECT-samsung-hardware:
   - LineageOS/android_hardware_samsung
