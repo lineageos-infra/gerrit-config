@@ -2422,6 +2422,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_dataservices
   - LineageOS/android_vendor_qcom_opensource_fm-commonsys
   - LineageOS/android_vendor_qcom_opensource_interfaces
+  - LineageOS/android_vendor_qcom_opensource_libfmjni
   - LineageOS/android_vendor_qcom_opensource_location
   - LineageOS/android_vendor_qcom_opensource_power
   - LineageOS/android_vendor_qcom_opensource_thermal-engine
