@@ -397,7 +397,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
-  - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Snap
   - LineageOS/android_packages_apps_WallpaperPicker
   - LineageOS/android_packages_apps_WundergroundWeatherProvider
@@ -498,6 +497,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
+  - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_SecureElement
