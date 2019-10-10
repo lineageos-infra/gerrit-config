@@ -2295,6 +2295,7 @@ PROJECT-Xiaomi-msm8998:
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
   - LineageOS/android_device_xiaomi_sdm660-common
+  - LineageOS/android_device_xiaomi_twolip
   - LineageOS/android_device_xiaomi_wayne
   - LineageOS/android_device_xiaomi_wayne-common
   - LineageOS/android_device_xiaomi_whyred
