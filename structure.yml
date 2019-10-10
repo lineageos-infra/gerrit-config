@@ -1231,6 +1231,7 @@ OEM-Asus:
   - PROJECT-Asus-z5
   - PROJECT-Asus-zenfone2_intel
   - PROJECT-Asus-zenfone2_qcom
+  - PROJECT-Asus-zenfone3
   - Project-Asus-grouper
 OEM-BN:
   - PROJECT-BN-acclaim
@@ -1491,6 +1492,9 @@ PROJECT-Asus-zenfone2_qcom:
   - LineageOS/android_device_asus_Z00T
   - LineageOS/android_device_asus_msm8916-common
   - LineageOS/android_kernel_asus_msm8916
+PROJECT-Asus-zenfone3:
+  - LineageOS/android_device_asus_zenfone3
+  - LineageOS/android_kernel_asus_msm8953
 PROJECT-BN-acclaim:
   - LineageOS/android_device_bn_acclaim
   - LineageOS/android_kernel_bn_acclaim
