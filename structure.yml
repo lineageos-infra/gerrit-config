@@ -2141,6 +2141,10 @@ PROJECT-Samsung-noblelte:
 PROJECT-Samsung-s3ve3g:
   - LineageOS/android_device_samsung_msm8226-common
   - LineageOS/android_device_samsung_s3ve3g
+  - LineageOS/android_device_samsung_s3ve3g-common
+  - LineageOS/android_device_samsung_s3ve3gjv
+  - LineageOS/android_device_samsung_s3ve3gxx
+  - LineageOS/android_kernel_samsung_msm8226
   - LineageOS/android_kernel_samsung_s3ve3g
 PROJECT-Samsung-serrano:
   - LineageOS/android_device_samsung_msm8930-common
