@@ -601,6 +601,7 @@ Lineage-Device-Projects:
   - OEM-Wileyfox
   - OEM-Wingtech
   - OEM-Xiaomi
+  - OEM-Yandex
   - OEM-Yu
   - OEM-Yuhua
   - OEM-ZTE
@@ -1410,6 +1411,8 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm8998
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm845
+OEM-Yandex:
+  - PROJECT-Yandex-sdm660
 OEM-Yu:
   - PROJECT-Yu-jalebi
   - PROJECT-Yu-lettuce
@@ -2317,6 +2320,9 @@ PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_sdm845-common
   - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
+PROJECT-Yandex-sdm660:
+  - LineageOS/android_device_yandex_Amber
+  - LineageOS/android_kernel_yandex_sdm660
 PROJECT-Yu-jalebi:
   - LineageOS/android_device_yu_jalebi
 PROJECT-Yu-lettuce:
