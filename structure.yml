@@ -364,7 +364,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_dalvik
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_curl
-  - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fsck_msdos
@@ -432,6 +431,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
+  - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_exfat
   - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
