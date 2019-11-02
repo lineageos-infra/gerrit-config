@@ -1251,6 +1251,7 @@ OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
   - PROJECT-Google-bonito
+  - PROJECT-Google-coral
   - PROJECT-Google-crosshatch
   - PROJECT-Google-dragon
   - PROJECT-Google-marlin
@@ -1537,6 +1538,10 @@ PROJECT-Fairphone-FP2:
 PROJECT-Generic-goldfish:
   - LineageOS/android_device_generic_goldfish
   - LineageOS/android_kernel_goldfish
+PROJECT-Google-coral:
+  - LineageOS/android_device_google_coral
+  - LineageOS/android_device_google_flame
+  - LineageOS/android_kernel_google_coral
 PROJECT-Google-crosshatch:
   - LineageOS/android_device_google_blueline
   - LineageOS/android_device_google_bonito
