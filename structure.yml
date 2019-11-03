@@ -1476,6 +1476,7 @@ PROJECT-Asus-fugu:
   - LineageOS/android_kernel_asus_fugu
 PROJECT-Asus-sdm660:
   - LineageOS/android_device_asus_X00TD
+  - LineageOS/android_device_asus_X01BD
   - LineageOS/android_kernel_asus_sdm660
 PROJECT-Asus-sm8150:
   - LineageOS/android_device_asus_I01WD
