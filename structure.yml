@@ -609,7 +609,6 @@ Lineage-Device-Projects:
   - OEM-leeco
   - OEM-qcom
   - OEM-ti
-  - PROJECT-BQ-sdm660
   - PROJECT-android-tv
 Lineage-Unmaintained-Projects:
   - LineageOS/AR6kSDK.3.1
@@ -1241,6 +1240,7 @@ OEM-BQ:
   - PROJECT-BQ-msm8937
   - PROJECT-BQ-msm8939
   - PROJECT-BQ-msm8953
+  - PROJECT-BQ-sdm660
 OEM-Cyanogen:
   - PROJECT-Cyanogen-msm8916
 OEM-Essential:
