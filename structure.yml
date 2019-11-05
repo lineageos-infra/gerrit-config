@@ -334,7 +334,6 @@ Lineage-14.1-Projects:
 Lineage-15.1-Projects:
   - Lineage-16.0-Projects
   - LineageOS/android_external_brctl
-  - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_fuse
   - LineageOS/android_external_libavc
@@ -344,10 +343,8 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libvpx
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sfntly
-  - LineageOS/android_external_sqlite
   - LineageOS/android_external_stlport
   - LineageOS/android_external_tremolo
-  - LineageOS/android_external_v8
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_net_ims
@@ -362,6 +359,7 @@ Lineage-16.0-Projects:
   - Lineage-17.0-Projects
   - LineageOS/android_build_kati
   - LineageOS/android_dalvik
+  - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_curl
   - LineageOS/android_external_elfutils
@@ -369,6 +367,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_fsck_msdos
   - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_icu
+  - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcups
@@ -382,7 +381,9 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_proguard
   - LineageOS/android_external_puffin
   - LineageOS/android_external_skia
+  - LineageOS/android_external_sqlite
   - LineageOS/android_external_strace
+  - LineageOS/android_external_v8
   - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_opt_datetimepicker
@@ -978,7 +979,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_external_hostapd
   - LineageOS/android_external_iniparser
   - LineageOS/android_external_jline
-  - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_jsmn
   - LineageOS/android_external_jsoncpp
   - LineageOS/android_external_kernel-headers
