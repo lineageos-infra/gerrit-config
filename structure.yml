@@ -347,7 +347,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_tremolo
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_opt_chips
-  - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_connectivity_wificond
@@ -455,6 +454,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
+  - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_hardware_broadcom_libbt
