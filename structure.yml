@@ -410,7 +410,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_libvintf
   - LineageOS/android_system_nfc
   - LineageOS/android_system_security
-  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_timezone
   - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
@@ -550,6 +549,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
+  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
   - LineageOS/android_vendor_lineage
