@@ -513,6 +513,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_packages_apps_Updater
+  - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_modules_CaptivePortalLogin
   - LineageOS/android_packages_overlays_Lineage
