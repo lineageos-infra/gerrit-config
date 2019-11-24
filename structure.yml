@@ -545,6 +545,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_system_bpf
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
