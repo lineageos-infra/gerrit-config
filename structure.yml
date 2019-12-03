@@ -358,6 +358,7 @@ Lineage-16.0-Projects:
   - Lineage-17.0-Projects
   - LineageOS/android_build_kati
   - LineageOS/android_dalvik
+  - LineageOS/android_external_ImageMagick
   - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_curl
