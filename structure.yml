@@ -407,7 +407,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
   - LineageOS/android_prebuilts_lineage-sdk
   - LineageOS/android_system_gatekeeper
-  - LineageOS/android_system_keymaster
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
   - LineageOS/android_system_nfc
@@ -551,6 +550,7 @@ Lineage-17.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
+  - LineageOS/android_system_keymaster
   - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
   - LineageOS/android_system_sepolicy
