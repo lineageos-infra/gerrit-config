@@ -1405,6 +1405,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-Violet
   - PROJECT-Xiaomi-armani
   - PROJECT-Xiaomi-cancro
+  - PROJECT-Xiaomi-common
   - PROJECT-Xiaomi-ferrari
   - PROJECT-Xiaomi-gemini
   - PROJECT-Xiaomi-ido
@@ -2279,6 +2280,8 @@ PROJECT-Xiaomi-armani:
 PROJECT-Xiaomi-cancro:
   - LineageOS/android_device_xiaomi_cancro
   - LineageOS/android_kernel_xiaomi_cancro
+PROJECT-Xiaomi-common:
+  - LineageOS/android_device_xiaomi_common
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
