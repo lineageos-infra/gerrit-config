@@ -416,6 +416,8 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_test_vts-testcase_vndk
 Lineage-17.0-Projects:
+  - Lineage-17.1-Projects
+Lineage-17.1-Projects:
   - Head-Developers
   - LineageOS/android_art
   - LineageOS/android_bionic
