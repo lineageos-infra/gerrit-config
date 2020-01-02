@@ -393,7 +393,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_hardware_broadcom_wlan
   - LineageOS/android_hardware_lineage_lineagehw
   - LineageOS/android_libcore
-  - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_WallpaperPicker
@@ -470,6 +469,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_hardware_ril
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
+  - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_BasicSmsReceiver
   - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_Calendar
