@@ -1488,6 +1488,7 @@ PROJECT-Asus-sdm660:
   - LineageOS/android_kernel_asus_sdm660
 PROJECT-Asus-sm8150:
   - LineageOS/android_device_asus_I01WD
+  - LineageOS/android_device_asus_I001D
   - LineageOS/android_kernel_asus_sm8150
 PROJECT-Asus-tf701t:
   - LineageOS/android_device_asus_tf701t
