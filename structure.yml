@@ -336,7 +336,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_brctl
   - LineageOS/android_external_ebtables
   - LineageOS/android_external_fuse
-  - LineageOS/android_external_libavc
   - LineageOS/android_external_libdrm
   - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libvorbis
@@ -368,6 +367,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_icu
   - LineageOS/android_external_jpeg-turbo
+  - LineageOS/android_external_libavc
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcups
