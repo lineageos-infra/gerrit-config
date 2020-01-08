@@ -2346,7 +2346,7 @@ PROJECT-Xiaomi-sdm845:
 PROJECT-Yandex-sdm660:
   - LineageOS/android_device_yandex_Amber
   - LineageOS/android_kernel_yandex_sdm660
-PROJECT-Xiaomi-twolip
+PROJECT-Xiaomi-twolip:
   - LineageOS/android_device_xiaomi_twolip
 PROJECT-Yu-jalebi:
   - LineageOS/android_device_yu_jalebi
