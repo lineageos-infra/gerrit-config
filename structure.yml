@@ -2329,11 +2329,11 @@ PROJECT-Xiaomi-msm8998:
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
   - LineageOS/android_device_xiaomi_sdm660-common
-  - LineageOS/android_device_xiaomi_twolip
   - LineageOS/android_device_xiaomi_wayne
   - LineageOS/android_device_xiaomi_wayne-common
   - LineageOS/android_device_xiaomi_whyred
   - LineageOS/android_kernel_xiaomi_sdm660
+  - PROJECT-Xiaomi-twolip
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_dipper
@@ -2346,6 +2346,8 @@ PROJECT-Xiaomi-sdm845:
 PROJECT-Yandex-sdm660:
   - LineageOS/android_device_yandex_Amber
   - LineageOS/android_kernel_yandex_sdm660
+PROJECT-Xiaomi-twolip
+  - LineageOS/android_device_xiaomi_twolip
 PROJECT-Yu-jalebi:
   - LineageOS/android_device_yu_jalebi
 PROJECT-Yu-lettuce:
