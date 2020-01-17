@@ -552,6 +552,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
+  - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
@@ -1143,7 +1144,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_prebuilts_ndk
   - LineageOS/android_prebuilts_tools
   - LineageOS/android_system_bluetooth
-  - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_su
   - LineageOS/android_system_wlan_ti
   - LineageOS/android_tools_base
