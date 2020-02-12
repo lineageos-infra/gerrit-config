@@ -1424,6 +1424,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm8998
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm845
+  - PROJECT-Xiaomi-sm6150
 OEM-Yandex:
   - PROJECT-Yandex-sdm660
 OEM-Yu:
@@ -2356,6 +2357,10 @@ PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_sdm845-common
   - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
+PROJECT-Xiaomi-sm6150:
+  - LineageOS/android_device_xiaomi_davinci
+  - LineageOS/android_device_xiaomi_sm6150-common
+  - LineageOS/android_kernel_xiaomi_sm6150
 PROJECT-Xiaomi-twolip:
   - LineageOS/android_device_xiaomi_twolip
 PROJECT-Yandex-sdm660:
