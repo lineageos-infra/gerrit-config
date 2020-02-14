@@ -2298,6 +2298,8 @@ PROJECT-Xiaomi-cancro:
   - LineageOS/android_kernel_xiaomi_cancro
 PROJECT-Xiaomi-common:
   - LineageOS/android_device_xiaomi_common
+PROJECT-Xiaomi-dipper:
+  - LineageOS/android_device_xiaomi_dipper
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
@@ -2350,13 +2352,13 @@ PROJECT-Xiaomi-sdm660:
   - PROJECT-Xiaomi-twolip
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
-  - LineageOS/android_device_xiaomi_dipper
   - LineageOS/android_device_xiaomi_equuleus
   - LineageOS/android_device_xiaomi_perseus
   - LineageOS/android_device_xiaomi_polaris
   - LineageOS/android_device_xiaomi_sdm845-common
   - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
+  - PROJECT-Xiaomi-dipper
 PROJECT-Xiaomi-sm6150:
   - LineageOS/android_device_xiaomi_davinci
   - LineageOS/android_device_xiaomi_sm6150-common
