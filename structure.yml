@@ -371,7 +371,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcups
-  - LineageOS/android_external_libhevc
   - LineageOS/android_external_libjpeg-turbo
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
@@ -434,6 +433,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_exfat
   - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
+  - LineageOS/android_external_libhevc
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_libtextclassifier
