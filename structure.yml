@@ -2257,6 +2257,8 @@ PROJECT-Sony-nicki:
   - LineageOS/android_kernel_sony_msm8x27
 PROJECT-Sony-nile:
   - LineageOS/android_device_sony_discovery
+  - LineageOS/android_device_sony_kirin
+  - LineageOS/android_device_sony_mermaid
   - LineageOS/android_device_sony_nile-common
   - LineageOS/android_device_sony_pioneer
   - LineageOS/android_kernel_sony_sdm660
