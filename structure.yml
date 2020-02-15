@@ -2361,6 +2361,7 @@ PROJECT-Xiaomi-sdm845:
   - PROJECT-Xiaomi-dipper
 PROJECT-Xiaomi-sm6150:
   - LineageOS/android_device_xiaomi_davinci
+  - LineageOS/android_device_xiaomi_phoenix
   - LineageOS/android_device_xiaomi_sm6150-common
   - LineageOS/android_kernel_xiaomi_sm6150
 PROJECT-Xiaomi-twolip:
