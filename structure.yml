@@ -1312,6 +1312,7 @@ OEM-Motorola:
   - PROJECT-Motorola-addison
   - PROJECT-Motorola-athene
   - PROJECT-Motorola-griffin
+  - PROJECT-Motorola-hannah
   - PROJECT-Motorola-motorola_omap4
   - PROJECT-Motorola-msm8226
   - PROJECT-Motorola-msm8610
@@ -1788,6 +1789,9 @@ PROJECT-Motorola-griffin:
   - LineageOS/android_device_motorola_albus
   - LineageOS/android_device_motorola_griffin
   - LineageOS/android_kernel_motorola_msm8996
+PROJECT-Motorola-hannah:
+  - LineageOS/android_device_motorola_hannah
+  - LineageOS/android_kernel_motorola_msm8937
 PROJECT-Motorola-motorola_omap4:
   - LineageOS/android_device_motorola_maserati
   - LineageOS/android_device_motorola_omap4-common
