@@ -1218,7 +1218,6 @@ Master-Enabled:
   - LineageOS/update_verifier
   - LineageOS/www
   - PROJECT-Infrastructure
-  - PROJECT-Lineage-wireguard
   - PROJECT-Mirror
   - PROJECT-web-services
 OEM-Alcatel:
@@ -1771,8 +1770,6 @@ PROJECT-Lenovo-msm8976:
   - LineageOS/android_kernel_lenovo_msm8976
 PROJECT-Lineage-telephony:
   - LineageOS/android_hardware_lineage_telephony
-PROJECT-Lineage-wireguard:
-  - LineageOS/android_kernel_modules_wireguard
 PROJECT-Mirror:
   - LineageOS/mirror
 PROJECT-Moto-shamu:
