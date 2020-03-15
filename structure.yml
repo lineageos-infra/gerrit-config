@@ -1835,6 +1835,8 @@ PROJECT-Motorola-msm8992:
   - LineageOS/android_device_motorola_clark
   - LineageOS/android_kernel_motorola_msm8992
 PROJECT-Motorola-msm8998:
+  - LineageOS/android_device_motorola_evert
+  - LineageOS/android_device_motorola_lake
   - LineageOS/android_device_motorola_nash
   - LineageOS/android_device_motorola_payton
   - LineageOS/android_device_motorola_sdm660-common
