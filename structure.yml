@@ -1405,7 +1405,8 @@ OEM-Sony:
   - PROJECT-Sony-taoshan
   - PROJECT-Sony-yukon
 OEM-Wileyfox:
-  - PROJECT-Wileyfox-msm8916
+  - PROJECT-Wileyfox-crackling
+  - PROJECT-Wileyfox-kipper
 OEM-Wingtech:
   - PROJECT-Wingtech-wt88047
 OEM-Xiaomi:
@@ -2292,8 +2293,9 @@ PROJECT-Sony-yukon:
   - LineageOS/android_device_sony_seagull
   - LineageOS/android_device_sony_tianchi
   - LineageOS/android_device_sony_yukon
-PROJECT-Wileyfox-msm8916:
+PROJECT-Wileyfox-crackling:
   - LineageOS/android_device_wileyfox_crackling
+PROJECT-Wileyfox-kipper:
   - LineageOS/android_device_wileyfox_kipper
 PROJECT-Wingtech-wt88047:
   - LineageOS/android_device_wingtech_wt88047
