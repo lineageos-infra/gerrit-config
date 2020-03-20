@@ -1785,6 +1785,8 @@ PROJECT-Motorola-athene:
   - LineageOS/android_device_motorola_athene
   - LineageOS/android_device_motorola_potter
   - LineageOS/android_kernel_motorola_msm8952
+PROJECT-Motorola-chef:
+  - LineageOS/android_device_motorola_chef
 PROJECT-Motorola-griffin:
   - LineageOS/android_device_motorola_albus
   - LineageOS/android_device_motorola_griffin
@@ -1843,6 +1845,7 @@ PROJECT-Motorola-msm8998:
   - LineageOS/android_device_motorola_payton
   - LineageOS/android_device_motorola_sdm660-common
   - LineageOS/android_kernel_motorola_msm8998
+  - PROJECT-Motorola-chef
 PROJECT-Motorola-mt6735:
   - LineageOS/android_device_motorola_taido
   - LineageOS/android_kernel_motorola_mt6735
