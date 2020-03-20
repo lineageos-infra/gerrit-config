@@ -5,6 +5,7 @@ All-Projects:
   - Lineage-Device-Projects
   - Lineage-Unmaintained-Projects
   - Master-Enabled
+  - PROJECT-Lineage-recovery
   - PROJECT-Lineage-telephony
 Head-Developers:
   - LineageOS/android
@@ -417,7 +418,6 @@ Lineage-17.1-Projects:
   - Head-Developers
   - LineageOS/android_art
   - LineageOS/android_bionic
-  - LineageOS/android_bootable_recovery
   - LineageOS/android_build
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_soong
@@ -1769,6 +1769,8 @@ PROJECT-Lenovo-msm8976:
   - LineageOS/android_device_lenovo_YTX703F
   - LineageOS/android_device_lenovo_YTX703L
   - LineageOS/android_kernel_lenovo_msm8976
+PROJECT-Lineage-recovery:
+  - LineageOS/android_bootable_recovery
 PROJECT-Lineage-telephony:
   - LineageOS/android_hardware_lineage_telephony
 PROJECT-Mirror:
