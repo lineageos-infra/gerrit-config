@@ -5,7 +5,6 @@ All-Projects:
   - Lineage-Device-Projects
   - Lineage-Unmaintained-Projects
   - Master-Enabled
-  - PROJECT-Lineage-recovery
   - PROJECT-Lineage-telephony
 Head-Developers:
   - LineageOS/android
@@ -567,6 +566,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_vendor_nxp_opensource_halimpl
   - LineageOS/android_vendor_nxp_opensource_hidlimpl
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
+  - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
