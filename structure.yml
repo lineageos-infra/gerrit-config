@@ -591,6 +591,7 @@ Lineage-Device-Projects:
   - OEM-LGE
   - OEM-Lenovo
   - OEM-Malata
+  - OEM-MediaTek
   - OEM-Moto
   - OEM-Motorola
   - OEM-Nextbit
@@ -1305,6 +1306,8 @@ OEM-Lenovo:
   - PROJECT-Lenovo-msm8916
   - PROJECT-Lenovo-msm8953
   - PROJECT-Lenovo-msm8976
+OEM-MediaTek:
+  - PROJECT-MediaTek-hardware
 OEM-Moto:
   - PROJECT-Moto-shamu
 OEM-Motorola:
@@ -1774,6 +1777,8 @@ PROJECT-Lineage-recovery:
   - LineageOS/android_bootable_recovery
 PROJECT-Lineage-telephony:
   - LineageOS/android_hardware_lineage_telephony
+PROJECT-MediaTek-hardware:
+  - LineageOS/android_hardware_mediatek
 PROJECT-Mirror:
   - LineageOS/mirror
 PROJECT-Moto-shamu:
