@@ -1357,6 +1357,7 @@ OEM-Oppo:
 OEM-Razer:
   - PROJECT-Razer-cheryl
 OEM-Realme:
+  - PROJECT-Realme-RMX1801
   - PROJECT-Realme-RMX1851
 OEM-Samsung:
   - LineageOS/android_device_samsung_common
@@ -1994,6 +1995,9 @@ PROJECT-Oppo-msm8974:
 PROJECT-Razer-cheryl:
   - LineageOS/android_device_razer_cheryl
   - LineageOS/android_kernel_razer_msm8998
+PROJECT-Realme-RMX1801:
+  - LineageOS/android_device_realme_RMX1801
+  - LineageOS/android_kernel_realme_sdm660
 PROJECT-Realme-RMX1851:
   - LineageOS/android_device_realme_RMX1851
   - LineageOS/android_kernel_realme_sdm710
