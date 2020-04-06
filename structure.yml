@@ -363,7 +363,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fsck_msdos
-  - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_icu
   - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_libavc
@@ -429,6 +428,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_bson
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_exfat
+  - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libhevc
