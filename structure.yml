@@ -1417,9 +1417,9 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-Violet
   - PROJECT-Xiaomi-armani
   - PROJECT-Xiaomi-cancro
-  - PROJECT-Xiaomi-common
   - PROJECT-Xiaomi-ferrari
   - PROJECT-Xiaomi-gemini
+  - PROJECT-Xiaomi-hardware
   - PROJECT-Xiaomi-ido
   - PROJECT-Xiaomi-land
   - PROJECT-Xiaomi-mido
@@ -2318,13 +2318,13 @@ PROJECT-Xiaomi-armani:
 PROJECT-Xiaomi-cancro:
   - LineageOS/android_device_xiaomi_cancro
   - LineageOS/android_kernel_xiaomi_cancro
-PROJECT-Xiaomi-common:
-  - LineageOS/android_device_xiaomi_common
 PROJECT-Xiaomi-dipper:
   - LineageOS/android_device_xiaomi_dipper
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
+PROJECT-Xiaomi-hardware:
+  - LineageOS/android_hardware_xiaomi
 PROJECT-Xiaomi-ido:
   - LineageOS/android_device_xiaomi_ido
   - LineageOS/android_kernel_xiaomi_msm8916
