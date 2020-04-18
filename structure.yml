@@ -1362,6 +1362,7 @@ OEM-Realme:
 OEM-Samsung:
   - LineageOS/android_device_samsung_common
   - LineageOS/android_device_samsung_exynos-common
+  - LineageOS/android_device_samsung_qcom-common
   - LineageOS/android_hardware_samsung_slsi-cm_exynos7880
   - PROJECT-Samsung-apq8084
   - PROJECT-Samsung-d2
@@ -2025,7 +2026,6 @@ PROJECT-Samsung-d2:
   - LineageOS/android_device_samsung_d2usc
   - LineageOS/android_device_samsung_d2vzw
   - LineageOS/android_device_samsung_msm8960-common
-  - LineageOS/android_device_samsung_qcom-common
   - LineageOS/android_kernel_samsung_d2
 PROJECT-Samsung-espresso:
   - LineageOS/android_device_samsung_espresso-common
