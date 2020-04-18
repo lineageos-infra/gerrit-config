@@ -1362,7 +1362,6 @@ OEM-Realme:
 OEM-Samsung:
   - LineageOS/android_device_samsung_common
   - LineageOS/android_device_samsung_exynos-common
-  - LineageOS/android_device_samsung_qcom-common
   - LineageOS/android_hardware_samsung_slsi-cm_exynos7880
   - PROJECT-Samsung-apq8084
   - PROJECT-Samsung-d2
@@ -2192,6 +2191,8 @@ PROJECT-Samsung-noblelte:
   - LineageOS/android_device_samsung_nobleltejv
   - LineageOS/android_device_samsung_nobleltetmo
   - LineageOS/android_kernel_samsung_noblelte
+PROJECT-Samsung-qcom:
+  - LineageOS/android_device_samsung_qcom-common
 PROJECT-Samsung-s3ve3g:
   - LineageOS/android_device_samsung_msm8226-common
   - LineageOS/android_device_samsung_s3ve3g
