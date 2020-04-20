@@ -2281,6 +2281,7 @@ PROJECT-Sony-nile:
   - LineageOS/android_device_sony_mermaid
   - LineageOS/android_device_sony_nile-common
   - LineageOS/android_device_sony_pioneer
+  - LineageOS/android_device_sony_voyager
   - LineageOS/android_kernel_sony_sdm660
 PROJECT-Sony-satsuki:
   - LineageOS/android_device_sony_satsuki
