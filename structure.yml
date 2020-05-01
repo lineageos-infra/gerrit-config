@@ -2342,6 +2342,8 @@ PROJECT-Xiaomi-ido:
 PROJECT-Xiaomi-jason:
   - LineageOS/android_device_xiaomi_jason
   - LineageOS/android_kernel_xiaomi_jason
+PROJECT-Xiaomi-lavender:
+  - LineageOS/android_device_xiaomi_lavender
 PROJECT-Xiaomi-land:
   - LineageOS/android_device_xiaomi_land
   - LineageOS/android_device_xiaomi_msm8937-common
@@ -2382,6 +2384,7 @@ PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_whyred
   - LineageOS/android_kernel_xiaomi_sdm660
   - PROJECT-Xiaomi-jason
+  - PROJECT-Xiaomi-lavender
   - PROJECT-Xiaomi-twolip
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
