@@ -1408,6 +1408,7 @@ OEM-Sony:
   - PROJECT-Sony-nile
   - PROJECT-Sony-satsuki
   - PROJECT-Sony-shinano
+  - PROJECT-Sony-tama
   - PROJECT-Sony-taoshan
   - PROJECT-Sony-yukon
 OEM-Wileyfox:
@@ -2298,6 +2299,11 @@ PROJECT-Sony-shinano:
   - LineageOS/android_device_sony_z3c
   - LineageOS/android_device_sony_z3dual
   - LineageOS/android_kernel_sony_msm8974
+PROJECT-Sony-tama:
+  - android_device_sony_akari
+  - android_device_sony_tama-common
+  - android_device_sony_xz2c
+  - android_kernel_sony_sdm845
 PROJECT-Sony-taoshan:
   - LineageOS/android_device_sony_taoshan
   - LineageOS/android_kernel_sony_msm8930
