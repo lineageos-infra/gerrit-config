@@ -687,7 +687,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_htc_enrc2b
   - LineageOS/android_device_htc_espresso
   - LineageOS/android_device_htc_eyeatt
-  - LineageOS/android_device_htc_eyeul
   - LineageOS/android_device_htc_glacier
   - LineageOS/android_device_htc_hero
   - LineageOS/android_device_htc_heroc
@@ -1599,6 +1598,8 @@ PROJECT-Google-wahoo:
   - LineageOS/android_device_google_wahoo
   - LineageOS/android_device_google_walleye
   - LineageOS/android_kernel_google_wahoo
+PROJECT-HTC-eye:
+  - LineageOS/android_device_htc_eyeul
 PROJECT-HTC-flounder:
   - LineageOS/android_device_htc_flounder
   - LineageOS/android_device_htc_flounder_lte
@@ -1638,6 +1639,7 @@ PROJECT-HTC-msm8974:
   - LineageOS/android_device_htc_m8d
   - LineageOS/android_device_htc_msm8974-common
   - LineageOS/android_kernel_htc_msm8974
+  - PROJECT-HTC-eye
 PROJECT-HTC-pme:
   - LineageOS/android_device_htc_pme
   - LineageOS/android_kernel_htc_msm8996
