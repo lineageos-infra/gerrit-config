@@ -2525,6 +2525,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_location
   - LineageOS/android_vendor_qcom_opensource_power
   - LineageOS/android_vendor_qcom_opensource_thermal-engine
+  - LineageOS/android_vendor_qcom_opensource_vibrator
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
   - LineageOS/android_hardware_samsung
