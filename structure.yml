@@ -368,6 +368,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcups
+  - LineageOS/android_external_libexif
   - LineageOS/android_external_libjpeg-turbo
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
@@ -997,7 +998,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_external_ksoap2
   - LineageOS/android_external_libcxxabi
   - LineageOS/android_external_libedit
-  - LineageOS/android_external_libexif
   - LineageOS/android_external_libpciaccess
   - LineageOS/android_external_libseccomp-helper
   - LineageOS/android_external_libunwind
