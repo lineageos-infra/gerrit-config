@@ -199,7 +199,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_frameworks_opt_net_ethernet
   - LineageOS/android_frameworks_opt_net_voip
   - LineageOS/android_frameworks_opt_photoviewer
-  - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_frameworks_rs
   - LineageOS/android_frameworks_volley
   - LineageOS/android_frameworks_webview
@@ -456,6 +455,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_telephony
+  - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
