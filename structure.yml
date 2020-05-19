@@ -1413,6 +1413,7 @@ OEM-Sony:
 OEM-Wileyfox:
   - PROJECT-Wileyfox-crackling
   - PROJECT-Wileyfox-kipper
+  - PROJECT-Wileyfox-msm8916
 OEM-Wingtech:
   - PROJECT-Wingtech-wt88047
 OEM-Xiaomi:
@@ -1499,8 +1500,9 @@ PROJECT-Asus-sdm660:
   - LineageOS/android_device_asus_X01BD
   - LineageOS/android_kernel_asus_sdm660
 PROJECT-Asus-sm8150:
-  - LineageOS/android_device_asus_I01WD
+  - LineageOS/android_device_asus_I001
   - LineageOS/android_device_asus_I001D
+  - LineageOS/android_device_asus_I01WD
   - LineageOS/android_kernel_asus_I001
   - LineageOS/android_kernel_asus_sm8150
 PROJECT-Asus-tf701t:
@@ -2344,13 +2346,13 @@ PROJECT-Xiaomi-ido:
 PROJECT-Xiaomi-jason:
   - LineageOS/android_device_xiaomi_jason
   - LineageOS/android_kernel_xiaomi_jason
-PROJECT-Xiaomi-lavender:
-  - LineageOS/android_device_xiaomi_lavender
 PROJECT-Xiaomi-land:
   - LineageOS/android_device_xiaomi_land
   - LineageOS/android_device_xiaomi_msm8937-common
   - LineageOS/android_device_xiaomi_santoni
   - LineageOS/android_kernel_xiaomi_msm8937
+PROJECT-Xiaomi-lavender:
+  - LineageOS/android_device_xiaomi_lavender
 PROJECT-Xiaomi-mido:
   - LineageOS/android_device_xiaomi_mido
   - LineageOS/android_device_xiaomi_msm8953-common
