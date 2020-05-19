@@ -2538,6 +2538,7 @@ PROJECT-samsung-hardware:
   - LineageOS/android_hardware_samsung_slsi_exynos5
   - LineageOS/android_hardware_samsung_slsi_exynos5-insignal
   - LineageOS/android_hardware_samsung_slsi_exynos7580
+  - LineageOS/android_hardware_samsung_slsi_fm
   - LineageOS/android_hardware_samsung_slsi_openmax
   - PROJECT-samsung-hardware-3475
   - PROJECT-samsung-hardware-5260
