@@ -837,7 +837,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_samsung_kyleprods
   - LineageOS/android_device_samsung_kyleve
   - LineageOS/android_device_samsung_mesmerizemtd
-  - LineageOS/android_device_samsung_ms013g
   - LineageOS/android_device_samsung_msm8660-common
   - LineageOS/android_device_samsung_n7000
   - LineageOS/android_device_samsung_n8013
@@ -2170,9 +2169,13 @@ PROJECT-Samsung-manta:
 PROJECT-Samsung-mondrian:
   - LineageOS/android_device_samsung_mondrianwifi
   - LineageOS/android_kernel_samsung_mondrianwifi
+PROJECT-Samsung-ms01:
+  - LineageOS/android_device_samsung_ms01-common
+  - LineageOS/android_device_samsung_ms013g
 PROJECT-Samsung-msm8226:
   - LineageOS/android_device_samsung_msm8226-common
   - LineageOS/android_kernel_samsung_msm8226
+  - PROJECT-Samsung-ms01
   - PROJECT-Samsung-s3ve3g
 PROJECT-Samsung-msm8916:
   - LineageOS/android_device_samsung_gprimelte
