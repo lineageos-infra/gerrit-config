@@ -2391,11 +2391,11 @@ PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_sdm660-common
   - LineageOS/android_device_xiaomi_wayne
   - LineageOS/android_device_xiaomi_wayne-common
-  - LineageOS/android_device_xiaomi_whyred
   - LineageOS/android_kernel_xiaomi_sdm660
   - PROJECT-Xiaomi-jason
   - PROJECT-Xiaomi-lavender
   - PROJECT-Xiaomi-twolip
+  - PROJECT-Xiaomi-whyred
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_equuleus
@@ -2412,6 +2412,8 @@ PROJECT-Xiaomi-sm6150:
   - LineageOS/android_kernel_xiaomi_sm6150
 PROJECT-Xiaomi-twolip:
   - LineageOS/android_device_xiaomi_twolip
+PROJECT-Xiaomi-whyred:
+  - LineageOS/android_device_xiaomi_whyred
 PROJECT-Yandex-sdm660:
   - LineageOS/android_device_yandex_Amber
   - LineageOS/android_kernel_yandex_sdm660
