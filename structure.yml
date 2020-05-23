@@ -2265,6 +2265,7 @@ PROJECT-Sony-fusion3:
   - LineageOS/android_kernel_sony_apq8064
 PROJECT-Sony-hardware:
   - LineageOS/android_hardware_sony_DASH
+  - LineageOS/android_hardware_sony_SonyOpenTelephony
   - LineageOS/android_hardware_sony_camera
   - LineageOS/android_hardware_sony_macaddrsetup
   - LineageOS/android_hardware_sony_simdetect
