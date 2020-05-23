@@ -1383,12 +1383,12 @@ OEM-Samsung:
   - PROJECT-Samsung-lt03lte
   - PROJECT-Samsung-manta
   - PROJECT-Samsung-mondrian
+  - PROJECT-Samsung-msm8226
   - PROJECT-Samsung-msm8916
   - PROJECT-Samsung-msm8974
   - PROJECT-Samsung-msm8976
   - PROJECT-Samsung-noblelte
   - PROJECT-Samsung-qcom
-  - PROJECT-Samsung-s3ve3g
   - PROJECT-Samsung-serrano
   - PROJECT-Samsung-star
   - PROJECT-Samsung-tuna
@@ -2170,6 +2170,10 @@ PROJECT-Samsung-manta:
 PROJECT-Samsung-mondrian:
   - LineageOS/android_device_samsung_mondrianwifi
   - LineageOS/android_kernel_samsung_mondrianwifi
+PROJECT-Samsung-msm8226:
+  - LineageOS/android_device_samsung_msm8226-common
+  - LineageOS/android_kernel_samsung_msm8226
+  - PROJECT-Samsung-s3ve3g
 PROJECT-Samsung-msm8916:
   - LineageOS/android_device_samsung_gprimelte
   - LineageOS/android_device_samsung_gprimelte-common
@@ -2202,13 +2206,11 @@ PROJECT-Samsung-noblelte:
 PROJECT-Samsung-qcom:
   - LineageOS/android_device_samsung_qcom-common
 PROJECT-Samsung-s3ve3g:
-  - LineageOS/android_device_samsung_msm8226-common
   - LineageOS/android_device_samsung_s3ve3g
   - LineageOS/android_device_samsung_s3ve3g-common
   - LineageOS/android_device_samsung_s3ve3gds
   - LineageOS/android_device_samsung_s3ve3gjv
   - LineageOS/android_device_samsung_s3ve3gxx
-  - LineageOS/android_kernel_samsung_msm8226
   - LineageOS/android_kernel_samsung_s3ve3g
 PROJECT-Samsung-serrano:
   - LineageOS/android_device_samsung_msm8930-common
