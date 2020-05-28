@@ -1431,6 +1431,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm8992
   - PROJECT-Xiaomi-msm8996
   - PROJECT-Xiaomi-msm8998
+  - PROJECT-Xiaomi-onclite
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm845
   - PROJECT-Xiaomi-sm6150
@@ -2394,6 +2395,9 @@ PROJECT-Xiaomi-msm8998:
   - LineageOS/android_device_xiaomi_msm8998-common
   - LineageOS/android_device_xiaomi_sagit
   - LineageOS/android_kernel_xiaomi_msm8998
+PROJECT-Xiaomi-onclite:
+  - LineageOS/android_device_xiaomi_onclite
+  - LineageOS/android_kernel_xiaomi_onclite
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
   - LineageOS/android_device_xiaomi_sdm660-common
