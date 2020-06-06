@@ -1810,6 +1810,8 @@ PROJECT-Motorola-griffin:
 PROJECT-Motorola-hannah:
   - LineageOS/android_device_motorola_hannah
   - LineageOS/android_kernel_motorola_msm8937
+PROJECT-Motorola-lux:
+  - LineageOS/android_device_motorola_lux
 PROJECT-Motorola-motorola_omap4:
   - LineageOS/android_device_motorola_maserati
   - LineageOS/android_device_motorola_omap4-common
@@ -1831,12 +1833,12 @@ PROJECT-Motorola-msm8610:
   - LineageOS/android_kernel_motorola_msm8610
 PROJECT-Motorola-msm8916:
   - LineageOS/android_device_motorola_harpia
-  - LineageOS/android_device_motorola_lux
   - LineageOS/android_device_motorola_merlin
   - LineageOS/android_device_motorola_msm8916-common
   - LineageOS/android_device_motorola_osprey
   - LineageOS/android_device_motorola_surnia
   - LineageOS/android_kernel_motorola_msm8916
+  - PROJECT-Motorola-lux
 PROJECT-Motorola-msm8960:
   - LineageOS/android_device_motorola_mb886
   - LineageOS/android_device_motorola_msm8960-common
