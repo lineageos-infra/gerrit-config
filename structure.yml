@@ -2373,9 +2373,11 @@ PROJECT-Xiaomi-lavender:
 PROJECT-Xiaomi-msm8953:
   - LineageOS/android_device_xiaomi_mido
   - LineageOS/android_device_xiaomi_msm8953-common
+  - LineageOS/android_device_xiaomi_rosy
   - LineageOS/android_device_xiaomi_tissot
   - LineageOS/android_kernel_xiaomi_mido
   - LineageOS/android_kernel_xiaomi_msm8953
+  - LineageOS/android_kernel_xiaomi_rosy
 PROJECT-Xiaomi-msm8956:
   - LineageOS/android_device_xiaomi_hydrogen
   - LineageOS/android_device_xiaomi_kenzo
