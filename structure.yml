@@ -2093,6 +2093,7 @@ PROJECT-Samsung-exynos7580:
   - LineageOS/android_device_samsung_s5neolte
   - LineageOS/android_device_samsung_universal7580-common
   - LineageOS/android_kernel_samsung_universal7580
+  - PROJECT-Samsung-j7e
 PROJECT-Samsung-gts2:
   - LineageOS/android_device_samsung_gts2-common
   - LineageOS/android_device_samsung_gts210ltexx
@@ -2125,6 +2126,8 @@ PROJECT-Samsung-hlte:
 PROJECT-Samsung-i9500:
   - LineageOS/android_device_samsung_i9500
   - LineageOS/android_kernel_samsung_exynos5410
+PROJECT-Samsung-j7e:
+  - LineageOS/android_device_samsung_j7elte
 PROJECT-Samsung-jf:
   - LineageOS/android_device_samsung_jactivelte
   - LineageOS/android_device_samsung_jf-common
