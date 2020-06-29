@@ -2005,7 +2005,7 @@ PROJECT-Oppo-msm8974:
   - LineageOS/android_device_oppo_msm8974-common
   - LineageOS/android_device_oppo_n3
   - LineageOS/android_kernel_oppo_msm8974
-PROJECT-Razer-cheryl:
+PROJECT-Razer-aura:
   - LineageOS/android_device_razer_aura
   - LineageOS/android_kernel_razer_sdm845
 PROJECT-Razer-cheryl:
