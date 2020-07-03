@@ -1878,10 +1878,13 @@ PROJECT-Motorola-sdm632:
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
+PROJECT-Nokia-DRG:
+  - LineageOS/android_device_nokia_DRG
 PROJECT-Nokia-sdm660:
   - LineageOS/android_device_nokia_PL2
   - LineageOS/android_device_nokia_sdm660-common
   - LineageOS/android_kernel_nokia_sdm660
+  - PROJECT-Nokia-DRG
 PROJECT-Nubia-msm8998:
   - LineageOS/android_device_nubia_msm8998-common
   - LineageOS/android_device_nubia_nx563j
