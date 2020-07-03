@@ -1268,6 +1268,7 @@ OEM-Google:
   - PROJECT-Google-shamrock
   - PROJECT-Google-sprout
   - PROJECT-Google-wahoo
+  - PROJECT-Google-yellowstone
 OEM-HTC:
   - PROJECT-HTC-flounder
   - PROJECT-HTC-hiae
@@ -1603,6 +1604,9 @@ PROJECT-Google-wahoo:
   - LineageOS/android_device_google_wahoo
   - LineageOS/android_device_google_walleye
   - LineageOS/android_kernel_google_wahoo
+PROJECT-Google-yellowstone:
+  - LineageOS/android_device_google_yellowstone
+  - LineageOS/android_kernel_google_yellowstone
 PROJECT-HTC-eye:
   - LineageOS/android_device_htc_eyeul
 PROJECT-HTC-flounder:
