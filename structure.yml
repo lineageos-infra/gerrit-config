@@ -585,6 +585,7 @@ Lineage-Device-Projects:
   - OEM-Cyanogen
   - OEM-Essential
   - OEM-Fairphone
+  - OEM-Fxtec
   - OEM-Geeksphone
   - OEM-Generic
   - OEM-Google
@@ -1257,6 +1258,8 @@ OEM-Essential:
   - PROJECT-Essential-mata
 OEM-Fairphone:
   - PROJECT-Fairphone-FP2
+OEM-Fxtec:
+  - PROJECT-Fxtec-pro1
 OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
@@ -1565,6 +1568,9 @@ PROJECT-Essential-mata:
 PROJECT-Fairphone-FP2:
   - LineageOS/android_device_fairphone_FP2
   - LineageOS/android_kernel_fairphone_msm8974
+PROJECT-Fxtec-pro1:
+  - LineageOS/android_device_fxtec_pro1
+  - LineageOS/android_kernel_fxtec_msm8998
 PROJECT-Generic-goldfish:
   - LineageOS/android_device_generic_goldfish
   - LineageOS/android_kernel_goldfish
