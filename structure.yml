@@ -359,8 +359,8 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_curl
-  - LineageOS/android_external_elfutils
   - LineageOS/android_external_dng_sdk
+  - LineageOS/android_external_elfutils
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fsck_msdos
   - LineageOS/android_external_jpeg-turbo
@@ -1238,6 +1238,7 @@ OEM-Asus:
   - PROJECT-Asus-fugu
   - PROJECT-Asus-sdm660
   - PROJECT-Asus-sm8150
+  - PROJECT-Asus-sm8250
   - PROJECT-Asus-tf701t
   - PROJECT-Asus-z5
   - PROJECT-Asus-zenfone2_intel
@@ -1513,6 +1514,11 @@ PROJECT-Asus-sm8150:
   - LineageOS/android_device_asus_I01WD
   - LineageOS/android_kernel_asus_I001
   - LineageOS/android_kernel_asus_sm8150
+PROJECT-Asus-sm8250:
+  - LineageOS/android_device_asus_obiwan
+  - LineageOS/android_device_asus_sm8250-common
+  - LineageOS/android_device_asus_tequila
+  - LineageOS/android_kernel_asus_sm8250
 PROJECT-Asus-tf701t:
   - LineageOS/android_device_asus_tf701t
   - LineageOS/android_kernel_asus_tf701t
