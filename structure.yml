@@ -557,6 +557,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
+  - LineageOS/android_system_libufdt
   - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
   - LineageOS/android_system_sepolicy
