@@ -1896,6 +1896,8 @@ PROJECT-Motorola-quark:
   - LineageOS/android_device_motorola_quark
   - LineageOS/android_kernel_motorola_apq8084
 PROJECT-Motorola-sdm632:
+  - LineageOS/android_device_motorola_channel
+  - LineageOS/android_device_motorola_ocean
   - LineageOS/android_device_motorola_river
   - LineageOS/android_device_motorola_sdm632-common
   - LineageOS/android_kernel_motorola_sdm632
