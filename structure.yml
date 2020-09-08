@@ -410,12 +410,9 @@ Lineage-16.0-Projects:
 Lineage-17.0-Projects:
   - Lineage-17.1-Projects
 Lineage-17.1-Projects:
-  - Head-Developers
+  - Lineage-18.0-Projects
   - LineageOS/android_art
   - LineageOS/android_bionic
-  - LineageOS/android_build
-  - LineageOS/android_build_blueprint
-  - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_ant-wireless_ant_native
@@ -574,6 +571,12 @@ Lineage-17.1-Projects:
   - LineageOS/android_vendor_nxp_opensource_hidlimpl
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
   - PROJECT-Lineage-recovery
+Lineage-18.0-Projects:
+  - Head-Developers
+  - LineageOS/android_build
+  - LineageOS/android_build_blueprint
+  - LineageOS/android_tools_metalava
+  - LineageOS/android_build_soong
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
