@@ -479,7 +479,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
-  - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_FMRadio
@@ -575,6 +574,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
   - LineageOS/android_packages_apps_Dialer
+  - LineageOS/android_packages_apps_Etar
   - LineageOS/android_system_apex
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
