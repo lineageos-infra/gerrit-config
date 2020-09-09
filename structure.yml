@@ -281,7 +281,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_okhttp
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_protobuf-c
-  - LineageOS/android_external_sonivox
   - LineageOS/android_external_speex
   - LineageOS/android_external_stagefright-plugins
   - LineageOS/android_external_tinyxml2
@@ -440,6 +439,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_rsync
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
+  - LineageOS/android_external_sonivox
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_tinycompress
