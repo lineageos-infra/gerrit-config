@@ -448,8 +448,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_vim
   - LineageOS/android_external_zip
   - LineageOS/android_frameworks_av
-  - LineageOS/android_frameworks_base
-  - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_telephony
@@ -477,7 +475,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_CertInstaller
   - LineageOS/android_packages_apps_Contacts
   - LineageOS/android_packages_apps_DeskClock
-  - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Email
@@ -549,8 +546,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_bpf
-  - LineageOS/android_system_bt
-  - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
@@ -575,8 +570,16 @@ Lineage-18.0-Projects:
   - Head-Developers
   - LineageOS/android_build
   - LineageOS/android_build_blueprint
-  - LineageOS/android_tools_metalava
   - LineageOS/android_build_soong
+  - LineageOS/android_external_guice
+  - LineageOS/android_frameworks_base
+  - LineageOS/android_frameworks_native
+  - LineageOS/android_packages_apps_Dialer
+  - LineageOS/android_system_apex
+  - LineageOS/android_system_bt
+  - LineageOS/android_system_core
+  - LineageOS/android_system_incremental_delivery
+  - LineageOS/android_tools_metalava
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
