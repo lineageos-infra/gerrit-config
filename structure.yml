@@ -493,7 +493,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
   - LineageOS/android_packages_apps_Profiles
-  - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_SecureElement
   - LineageOS/android_packages_apps_Seedvault
@@ -574,6 +573,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_Jelly
+  - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_system_apex
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
