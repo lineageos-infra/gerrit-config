@@ -541,7 +541,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
-  - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_bpf
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
@@ -574,6 +573,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_Recorder
+  - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_apex
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
