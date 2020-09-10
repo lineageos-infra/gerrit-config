@@ -411,7 +411,6 @@ Lineage-17.0-Projects:
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
   - LineageOS/android_art
-  - LineageOS/android_bionic
   - LineageOS/android_development
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_ant-wireless_ant_native
@@ -562,6 +561,7 @@ Lineage-17.1-Projects:
   - PROJECT-Lineage-recovery
 Lineage-18.0-Projects:
   - Head-Developers
+  - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_soong
