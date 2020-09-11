@@ -447,8 +447,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_libhardware_legacy
-  - LineageOS/android_hardware_lineage_interfaces
-  - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_nxp_nfc
   - LineageOS/android_hardware_ril
   - LineageOS/android_lineage-sdk
@@ -569,6 +567,8 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_vim
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
+  - LineageOS/android_hardware_lineage_interfaces
+  - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Etar
