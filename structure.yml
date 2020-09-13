@@ -538,7 +538,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_vendor_nxp_opensource_halimpl
   - LineageOS/android_vendor_nxp_opensource_hidlimpl
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
-  - PROJECT-Lineage-recovery
 Lineage-18.0-Projects:
   - Head-Developers
   - LineageOS/android_art
@@ -581,6 +580,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_libufdt
   - LineageOS/android_tools_metalava
   - LineageOS/android_vendor_lineage
+  - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
