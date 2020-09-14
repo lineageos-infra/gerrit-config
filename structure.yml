@@ -463,7 +463,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_KeyChain
-  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Nfc
@@ -569,6 +568,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_Jelly
+  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_ThemePicker
