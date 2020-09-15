@@ -410,7 +410,6 @@ Lineage-17.0-Projects:
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
   - LineageOS/android_development
-  - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_ant-wireless_ant_native
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_antradio-library
@@ -518,7 +517,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
-  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_timezone
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
@@ -551,6 +549,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
   - LineageOS/android_external_zip
+  - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
@@ -578,6 +577,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
+  - LineageOS/android_system_sepolicy
   - LineageOS/android_tools_metalava
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
