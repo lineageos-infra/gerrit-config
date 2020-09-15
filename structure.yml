@@ -479,7 +479,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_apps_Traceur
-  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker2
@@ -571,6 +570,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_ThemePicker
+  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_apex
