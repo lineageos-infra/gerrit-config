@@ -432,7 +432,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_toybox
-  - LineageOS/android_external_zip
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_timezonepicker
@@ -551,6 +550,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
+  - LineageOS/android_external_zip
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
