@@ -373,7 +373,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_libtar
   - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_one-true-awk
-  - LineageOS/android_external_perfetto
   - LineageOS/android_external_proguard
   - LineageOS/android_external_puffin
   - LineageOS/android_external_sqlite
@@ -542,6 +541,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_p7zip
+  - LineageOS/android_external_perfetto
   - LineageOS/android_external_pigz
   - LineageOS/android_external_rsync
   - LineageOS/android_external_tinycompress
