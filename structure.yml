@@ -469,7 +469,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_SecureElement
   - LineageOS/android_packages_apps_Seedvault
-  - LineageOS/android_packages_apps_SettingsIntelligence
   - LineageOS/android_packages_apps_SetupWizard
   - LineageOS/android_packages_apps_Snap
   - LineageOS/android_packages_apps_Stk
@@ -568,6 +567,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Settings
+  - LineageOS/android_packages_apps_SettingsIntelligence
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_overlays_Lineage
