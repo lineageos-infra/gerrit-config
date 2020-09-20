@@ -527,6 +527,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_soong
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_ant-wireless_ant_client
   - LineageOS/android_external_ant-wireless_ant_native
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_antradio-library
