@@ -531,6 +531,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_build
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_soong
+  - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_bash
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_guice
@@ -547,7 +548,6 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
   - LineageOS/android_external_zip
-  - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
