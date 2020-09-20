@@ -433,7 +433,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
-  - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
   - LineageOS/android_hardware_ril
   - LineageOS/android_packages_apps_Backgrounds
@@ -513,7 +512,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_qcom
   - LineageOS/android_system_timezone
   - LineageOS/android_system_update_engine
-  - LineageOS/android_system_vold
   - LineageOS/android_vendor_chromium
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
@@ -552,6 +550,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_telephony
+  - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_hardware_lineage_interfaces
@@ -578,6 +577,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_netd
   - LineageOS/android_system_sepolicy
+  - LineageOS/android_system_vold
   - LineageOS/android_tools_metalava
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
