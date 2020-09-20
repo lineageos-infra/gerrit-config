@@ -409,9 +409,6 @@ Lineage-17.0-Projects:
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
   - LineageOS/android_development
-  - LineageOS/android_external_ant-wireless_ant_native
-  - LineageOS/android_external_ant-wireless_ant_service
-  - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
   - LineageOS/android_external_e2fsprogs
@@ -532,6 +529,9 @@ Lineage-18.0-Projects:
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_soong
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_ant-wireless_ant_native
+  - LineageOS/android_external_ant-wireless_ant_service
+  - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_bash
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_guice
