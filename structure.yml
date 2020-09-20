@@ -1281,6 +1281,7 @@ OEM-Google:
   - PROJECT-Google-seed
   - PROJECT-Google-shamrock
   - PROJECT-Google-sprout
+  - PROJECT-Google-sunfish
   - PROJECT-Google-wahoo
   - PROJECT-Google-yellowstone
 OEM-HTC:
@@ -1623,6 +1624,9 @@ PROJECT-Google-sprout:
   - LineageOS/android_device_google_sprout4
   - LineageOS/android_device_google_sprout8
   - LineageOS/android_kernel_mediatek_sprout
+PROJECT-Google-sunfish:
+  - LineageOS/android_device_google_sunfish
+  - LineageOS/android_kernel_google_sunfish
 PROJECT-Google-wahoo:
   - LineageOS/android_device_google_muskie
   - LineageOS/android_device_google_taimen
