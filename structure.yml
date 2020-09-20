@@ -530,6 +530,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_ant-wireless_ant_native
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_antradio-library
+  - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_bash
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_guice
@@ -2613,6 +2614,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_power
   - LineageOS/android_vendor_qcom_opensource_system_bt
   - LineageOS/android_vendor_qcom_opensource_thermal-engine
+  - LineageOS/android_vendor_qcom_opensource_usb
   - LineageOS/android_vendor_qcom_opensource_vibrator
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
