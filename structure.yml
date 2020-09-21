@@ -436,7 +436,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_BasicSmsReceiver
-  - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_Calendar
   - LineageOS/android_packages_apps_Camera2
   - LineageOS/android_packages_apps_CarrierConfig
@@ -558,6 +557,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_hardware_ril
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
+  - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Etar
