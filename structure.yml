@@ -483,7 +483,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_TelephonyProvider
   - LineageOS/android_packages_providers_UserDictionaryProvider
-  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_BuiltInPrintService
@@ -570,6 +569,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_overlays_Lineage
+  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_apex
