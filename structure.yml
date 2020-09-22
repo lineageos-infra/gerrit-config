@@ -579,6 +579,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_netd
   - LineageOS/android_system_sepolicy
+  - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_vold
   - LineageOS/android_tools_metalava
   - LineageOS/android_vendor_lineage
