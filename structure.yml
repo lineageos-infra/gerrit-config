@@ -465,7 +465,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_StorageManager
   - LineageOS/android_packages_apps_Tag
-  - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_apps_Traceur
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_packages_apps_Updater
@@ -565,6 +564,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SettingsIntelligence
   - LineageOS/android_packages_apps_SetupWizard
+  - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_overlays_Lineage
