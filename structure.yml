@@ -476,7 +476,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_providers_CalendarProvider
   - LineageOS/android_packages_providers_CallLogProvider
   - LineageOS/android_packages_providers_ContactsProvider
-  - LineageOS/android_packages_providers_DownloadProvider
   - LineageOS/android_packages_providers_MediaProvider
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_TelephonyProvider
@@ -568,6 +567,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_overlays_Lineage
+  - LineageOS/android_packages_providers_DownloadProvider
   - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
