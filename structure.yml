@@ -454,7 +454,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Messaging
-  - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
   - LineageOS/android_packages_apps_Profiles
@@ -558,6 +557,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_LineageParts
+  - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SettingsIntelligence
