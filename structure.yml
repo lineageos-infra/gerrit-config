@@ -542,6 +542,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_telephony
+  - LineageOS/android_hardware_google_pixel
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_libhardware_legacy
