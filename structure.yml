@@ -500,7 +500,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_qcom
   - LineageOS/android_system_timezone
-  - LineageOS/android_system_update_engine
   - LineageOS/android_vendor_chromium
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
   - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
@@ -581,6 +580,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_netd
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
+  - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
   - LineageOS/android_tools_metalava
   - LineageOS/android_vendor_lineage
