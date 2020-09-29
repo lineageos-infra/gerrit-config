@@ -445,7 +445,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
-  - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_FlipFlap
@@ -554,6 +553,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Etar
+  - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Nfc
