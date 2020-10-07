@@ -14,7 +14,7 @@ else:
 print("Updating gerrit permissions...")
 
 with open("structure.yml", "r") as f:
-    desired_projects = yaml.load(f.read())
+    desired_projects = yaml.load(f.read(), Loader=yaml.BaseLoader)
 
 live_projects = Gerrit.get_projects(auth)
 
