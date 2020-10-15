@@ -318,7 +318,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_packages_wallpapers_PhaseBeam
   - LineageOS/android_packages_wallpapers_PhotoPhase
   - LineageOS/android_prebuilts_cmsdk
-  - LineageOS/android_system_media
   - LineageOS/android_vendor_cm
   - LineageOS/android_vendor_nxp-nfc_opensource_Nfc
   - LineageOS/android_vendor_nxp-nfc_opensource_frameworks
@@ -577,6 +576,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
+  - LineageOS/android_system_media
   - LineageOS/android_system_netd
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
