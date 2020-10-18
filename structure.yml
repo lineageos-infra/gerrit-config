@@ -410,7 +410,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
   - LineageOS/android_external_exfat
-  - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_icu
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libnfc-nxp
@@ -477,6 +476,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_bash
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_exfatprogs
+  - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_guice
   - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
