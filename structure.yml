@@ -1272,6 +1272,7 @@ OEM-Essential:
   - PROJECT-Essential-mata
 OEM-Fairphone:
   - PROJECT-Fairphone-FP2
+  - PROJECT-Fairphone-FP3
 OEM-Fxtec:
   - PROJECT-Fxtec-pro1
 OEM-Generic:
@@ -1593,6 +1594,9 @@ PROJECT-Essential-mata:
 PROJECT-Fairphone-FP2:
   - LineageOS/android_device_fairphone_FP2
   - LineageOS/android_kernel_fairphone_msm8974
+PROJECT-Fairphone-FP3:
+  - LineageOS/android_device_fairphone_FP3
+  - LineageOS/android_kernel_fairphone_sdm632
 PROJECT-Fxtec-pro1:
   - LineageOS/android_device_fxtec_pro1
   - LineageOS/android_kernel_fxtec_msm8998
