@@ -1516,7 +1516,9 @@ PROJECT-Asus-Z00D:
   - LineageOS/android_kernel_asus_Z00D
 PROJECT-Asus-deb:
   - LineageOS/android_device_asus_deb
+  - LineageOS/android_device_asus_debx
   - LineageOS/android_device_asus_flo
+  - LineageOS/android_device_asus_flox
   - LineageOS/android_kernel_google_msm
 PROJECT-Asus-fugu:
   - LineageOS/android_device_asus_fugu
