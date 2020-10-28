@@ -407,7 +407,6 @@ Lineage-17.0-Projects:
   - Lineage-17.1-Projects
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
-  - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
   - LineageOS/android_external_exfat
   - LineageOS/android_external_icu
@@ -449,7 +448,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
-  - LineageOS/android_system_qcom
   - LineageOS/android_system_timezone
   - LineageOS/android_vendor_chromium
   - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
@@ -473,6 +471,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_bash
+  - LineageOS/android_external_bson
   - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_gptfdisk
@@ -578,6 +577,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
