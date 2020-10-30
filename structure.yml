@@ -434,7 +434,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_Snap
   - LineageOS/android_packages_apps_UnifiedEmail
   - LineageOS/android_platform_testing
-  - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_system_bpf
@@ -563,6 +562,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
+  - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9
   - LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_darwin-x86_x86_x86_64-linux-android-4.9
