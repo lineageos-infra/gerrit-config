@@ -2171,6 +2171,7 @@ PROJECT-Samsung-gts2:
   - LineageOS/android_device_samsung_gts28wifi
   - LineageOS/android_kernel_samsung_gts2
 PROJECT-Samsung-gts4lv:
+  - LineageOS/android_device_samsung_gts4lv
   - LineageOS/android_device_samsung_gts4lv-common
   - LineageOS/android_device_samsung_gts4lvwifi
   - LineageOS/android_kernel_samsung_sdm670
