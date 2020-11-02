@@ -442,12 +442,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_timezone
   - LineageOS/android_vendor_chromium
-  - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
-  - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
-  - LineageOS/android_vendor_nxp_opensource_frameworks
-  - LineageOS/android_vendor_nxp_opensource_halimpl
-  - LineageOS/android_vendor_nxp_opensource_hidlimpl
-  - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
 Lineage-18.0-Projects:
   - Head-Developers
   - LineageOS/android_art
@@ -2622,6 +2616,12 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_wlan
   - LineageOS/android_system_tools_dtbtool
   - LineageOS/android_vendor_codeaurora_telephony
+  - LineageOS/android_vendor_nxp_interfaces_opensource_nfc
+  - LineageOS/android_vendor_nxp_opensource_external_libnfc-nci
+  - LineageOS/android_vendor_nxp_opensource_frameworks
+  - LineageOS/android_vendor_nxp_opensource_halimpl
+  - LineageOS/android_vendor_nxp_opensource_hidlimpl
+  - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
   - LineageOS/android_vendor_qcom_opensource_audio
   - LineageOS/android_vendor_qcom_opensource_bluetooth-commonsys-intf
   - LineageOS/android_vendor_qcom_opensource_bluetooth_ext
