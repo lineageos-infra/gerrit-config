@@ -241,7 +241,6 @@ Lineage-14.1-Projects:
   - Lineage-15.1-Projects
   - LineageOS/AndroidAsync
   - LineageOS/android_device_generic_emulatorx86
-  - LineageOS/android_external_aac
   - LineageOS/android_external_ahbottomnavigation
   - LineageOS/android_external_android-clat
   - LineageOS/android_external_android-visualizer
@@ -366,7 +365,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcups
-  - LineageOS/android_external_libexif
   - LineageOS/android_external_libjpeg-turbo
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
@@ -407,9 +405,11 @@ Lineage-17.0-Projects:
   - Lineage-17.1-Projects
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
+  - LineageOS/android_external_aac
   - LineageOS/android_external_cldr
   - LineageOS/android_external_exfat
   - LineageOS/android_external_icu
+  - LineageOS/android_external_libexif
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_libtextclassifier
