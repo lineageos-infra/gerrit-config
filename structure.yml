@@ -412,7 +412,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_libtextclassifier
-  - LineageOS/android_external_openssh
   - LineageOS/android_external_ppp
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
@@ -465,6 +464,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
+  - LineageOS/android_external_openssh
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_pigz
