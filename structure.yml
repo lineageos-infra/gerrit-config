@@ -454,9 +454,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
-  - LineageOS/android_external_e2fsprogs
   - LineageOS/android_external_exfatprogs
-  - LineageOS/android_external_gptfdisk
   - LineageOS/android_external_guice
   - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
@@ -1829,6 +1827,8 @@ PROJECT-Lenovo-msm8976:
   - LineageOS/android_kernel_lenovo_msm8976
 PROJECT-Lineage-recovery:
   - LineageOS/android_bootable_recovery
+  - LineageOS/android_external_e2fsprogs
+  - LineageOS/android_external_gptfdisk
 PROJECT-Lineage-telephony:
   - LineageOS/android_hardware_lineage_telephony
 PROJECT-MediaTek-hardware:
