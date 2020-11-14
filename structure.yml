@@ -505,6 +505,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_Eleven
+  - LineageOS/android_packages_apps_ElmyraService
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
