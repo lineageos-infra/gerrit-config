@@ -1329,6 +1329,7 @@ OEM-Moto:
 OEM-Motorola:
   - PROJECT-Motorola-addison
   - PROJECT-Motorola-athene
+  - PROJECT-Motorola-exynos9610
   - PROJECT-Motorola-griffin
   - PROJECT-Motorola-hannah
   - PROJECT-Motorola-motorola_omap4
@@ -1848,6 +1849,11 @@ PROJECT-Motorola-athene:
   - LineageOS/android_kernel_motorola_msm8952
 PROJECT-Motorola-chef:
   - LineageOS/android_device_motorola_chef
+PROJECT-Motorola-exynos9610:
+  - LineageOS/android_device_motorola_exynos9610-common
+  - LineageOS/android_device_motorola_kane
+  - LineageOS/android_device_motorola_troika
+  - LineageOS/android_kernel_motorola_exynos9610
 PROJECT-Motorola-griffin:
   - LineageOS/android_device_motorola_albus
   - LineageOS/android_device_motorola_griffin
