@@ -396,7 +396,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
   - LineageOS/android_system_security
-  - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_test_vts-testcase_vndk
 Lineage-17.0-Projects:
@@ -572,6 +571,7 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
   - LineageOS/android_system_sepolicy
+  - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
