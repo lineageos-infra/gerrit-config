@@ -2484,6 +2484,8 @@ PROJECT-Xiaomi-msm8998:
   - LineageOS/android_kernel_xiaomi_msm8998
 PROJECT-Xiaomi-mt6785:
   - LineageOS/android_device_xiaomi_begonia
+  - LineageOS/android_device_xiaomi_begoniain
+  - LineageOS/android_device_xiaomi_mt6785-common
   - LineageOS/android_kernel_xiaomi_mt6785
 PROJECT-Xiaomi-onclite:
   - LineageOS/android_device_xiaomi_onclite
