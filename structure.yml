@@ -2186,9 +2186,11 @@ PROJECT-Samsung-gts4lv:
   - LineageOS/android_device_samsung_gts4lvwifi
   - LineageOS/android_kernel_samsung_sdm670
 PROJECT-Samsung-hero:
+  - LineageOS/android_device_samsung_gracerlte
   - LineageOS/android_device_samsung_hero-common
   - LineageOS/android_device_samsung_hero2lte
   - LineageOS/android_device_samsung_herolte
+  - LineageOS/android_device_samsung_universal8890-common
   - LineageOS/android_kernel_samsung_universal8890
 PROJECT-Samsung-hlte:
   - LineageOS/android_device_samsung_h3gduoschn
