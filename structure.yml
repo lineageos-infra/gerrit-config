@@ -1413,6 +1413,7 @@ OEM-Samsung:
   - PROJECT-Samsung-noblelte
   - PROJECT-Samsung-qcom
   - PROJECT-Samsung-serrano
+  - PROJECT-Samsung-sm8150
   - PROJECT-Samsung-sm8250
   - PROJECT-Samsung-star
   - PROJECT-Samsung-tuna
@@ -2321,6 +2322,10 @@ PROJECT-Samsung-serrano:
   - LineageOS/android_device_samsung_serranodsdd
   - LineageOS/android_device_samsung_serranoltexx
   - LineageOS/android_kernel_samsung_msm8930-common
+PROJECT-Samsung-sm8150:
+  - LineageOS/android_device_samsung_r5q
+  - LineageOS/android_device_samsung_sm8150-common
+  - LineageOS/android_kernel_samsung_r5q
 PROJECT-Samsung-sm8250:
   - LineageOS/android_device_samsung_sm8250-common
   - LineageOS/android_device_samsung_x1q
