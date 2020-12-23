@@ -1337,6 +1337,7 @@ OEM-Motorola:
   - PROJECT-Motorola-exynos9610
   - PROJECT-Motorola-griffin
   - PROJECT-Motorola-hannah
+  - PROJECT-Motorola-hardware
   - PROJECT-Motorola-motorola_omap4
   - PROJECT-Motorola-msm8226
   - PROJECT-Motorola-msm8610
@@ -1867,6 +1868,8 @@ PROJECT-Motorola-griffin:
 PROJECT-Motorola-hannah:
   - LineageOS/android_device_motorola_hannah
   - LineageOS/android_kernel_motorola_msm8937
+PROJECT-Motorola-hardware:
+  - LineageOS/android_hardware_motorola
 PROJECT-Motorola-lux:
   - LineageOS/android_device_motorola_lux
 PROJECT-Motorola-motorola_omap4:
