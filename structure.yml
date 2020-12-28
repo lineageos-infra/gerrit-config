@@ -245,7 +245,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_android-visualizer
   - LineageOS/android_external_apache-http
   - LineageOS/android_external_bison
-  - LineageOS/android_external_boringssl
   - LineageOS/android_external_bouncycastle
   - LineageOS/android_external_busybox
   - LineageOS/android_external_bzip2
@@ -449,6 +448,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_bash
+  - LineageOS/android_external_boringssl
   - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
   - LineageOS/android_external_exfatprogs
