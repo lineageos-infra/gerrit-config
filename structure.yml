@@ -415,7 +415,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
-  - LineageOS/android_external_toybox
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_packages_apps_Calendar
@@ -469,6 +468,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_tinycompress
+  - LineageOS/android_external_toybox
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
   - LineageOS/android_external_zip
