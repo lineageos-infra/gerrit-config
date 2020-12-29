@@ -480,7 +480,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
-  - LineageOS/android_hardware_google_pixel
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
   - LineageOS/android_hardware_libhardware
@@ -503,7 +502,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_Eleven
-  - LineageOS/android_packages_apps_ElmyraService
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
@@ -1282,6 +1280,7 @@ OEM-Google:
   - PROJECT-Google-coral
   - PROJECT-Google-crosshatch
   - PROJECT-Google-dragon
+  - PROJECT-Google-hardware
   - PROJECT-Google-marlin
   - PROJECT-Google-seed
   - PROJECT-Google-shamrock
@@ -1622,6 +1621,9 @@ PROJECT-Google-crosshatch:
 PROJECT-Google-dragon:
   - LineageOS/android_device_google_dragon
   - LineageOS/android_kernel_google_dragon
+PROJECT-Google-hardware:
+  - LineageOS/android_hardware_google_pixel
+  - LineageOS/android_packages_apps_ElmyraService
 PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
