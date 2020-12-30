@@ -2366,6 +2366,9 @@ PROJECT-Sony-blue:
   - LineageOS/android_device_sony_mint
   - LineageOS/android_device_sony_tsubasa
   - LineageOS/android_kernel_sony_msm8x60
+PROJECT-Sony-castor:
+  - LineageOS/android_device_sony_castor
+  - LineageOS/android_device_sony_castor_windy
 PROJECT-Sony-common:
   - LineageOS/android_device_sony_common
 PROJECT-Sony-fusion3:
@@ -2414,8 +2417,6 @@ PROJECT-Sony-nile:
 PROJECT-Sony-satsuki:
   - LineageOS/android_device_sony_satsuki
 PROJECT-Sony-shinano:
-  - LineageOS/android_device_sony_castor
-  - LineageOS/android_device_sony_castor_windy
   - LineageOS/android_device_sony_msm8974-common
   - LineageOS/android_device_sony_shinano-common
   - LineageOS/android_device_sony_sirius
@@ -2423,6 +2424,7 @@ PROJECT-Sony-shinano:
   - LineageOS/android_device_sony_z3c
   - LineageOS/android_device_sony_z3dual
   - LineageOS/android_kernel_sony_msm8974
+  - PROJECT-Sony-castor
 PROJECT-Sony-tama:
   - LineageOS/android_device_sony_akari
   - LineageOS/android_device_sony_tama-common
