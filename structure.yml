@@ -2652,6 +2652,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_sdm845_vr
   - LineageOS/android_hardware_qcom_sm8150_data_ipacfg-mgr
   - LineageOS/android_hardware_qcom_sm8150_display
+  - LineageOS/android_hardware_qcom_sm8150_gps
   - LineageOS/android_hardware_qcom_sm8150_media
   - LineageOS/android_hardware_qcom_sensors
   - LineageOS/android_hardware_qcom_thermal
