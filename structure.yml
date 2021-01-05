@@ -284,7 +284,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_unzip
   - LineageOS/android_external_yaffs2
   - LineageOS/android_frameworks_ex
-  - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_hardware
   - LineageOS/android_frameworks_opt_vcard
   - LineageOS/android_hardware_cyanogen
@@ -338,7 +337,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_stlport
   - LineageOS/android_external_tremolo
   - LineageOS/android_external_wpa_supplicant_8
-  - LineageOS/android_frameworks_layoutlib
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_prebuilts_misc
@@ -413,6 +411,8 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
+  - LineageOS/android_frameworks_layoutlib
+  - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_packages_apps_Calendar
