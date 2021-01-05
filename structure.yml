@@ -337,6 +337,7 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_stlport
   - LineageOS/android_external_tremolo
   - LineageOS/android_external_wpa_supplicant_8
+  - LineageOS/android_frameworks_layoutlib
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_prebuilts_misc
@@ -393,7 +394,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_gatekeeper
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
-  - LineageOS/android_system_security
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_test_vts-testcase_vndk
 Lineage-17.0-Projects:
@@ -411,7 +411,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
-  - LineageOS/android_frameworks_layoutlib
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_hardware_broadcom_fm
@@ -428,6 +427,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_nfc
+  - LineageOS/android_system_security
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
   - Lineage-18.1-Projects
