@@ -1372,6 +1372,7 @@ OEM-Oneplus:
   - PROJECT-Oneplus-sdm845
   - PROJECT-Oneplus-sm7250
   - PROJECT-Oneplus-sm8150
+  - PROJECT-Oneplus-sm8250
 OEM-Oppo:
   - PROJECT-Oppo-apq8064
   - PROJECT-Oppo-common
@@ -2064,6 +2065,11 @@ PROJECT-Oneplus-sm8150:
   - LineageOS/android_device_oneplus_hotdog
   - LineageOS/android_device_oneplus_sm8150-common
   - LineageOS/android_kernel_oneplus_sm8150
+PROJECT-Oneplus-sm8250:
+  - LineageOS/android_device_oneplus_instantnoodlep
+  - LineageOS/android_device_oneplus_kebab
+  - LineageOS/android_device_oneplus_sm8250-common
+  - LineageOS/android_kernel_oneplus_sm8250
 PROJECT-Oppo-apq8064:
   - LineageOS/android_device_oppo_apq8064-common
   - LineageOS/android_device_oppo_find5
