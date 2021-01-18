@@ -1282,6 +1282,7 @@ OEM-Google:
   - PROJECT-Google-dragon
   - PROJECT-Google-hardware
   - PROJECT-Google-marlin
+  - PROJECT-Google-redbull
   - PROJECT-Google-seed
   - PROJECT-Google-shamrock
   - PROJECT-Google-sprout
@@ -1629,6 +1630,11 @@ PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
   - LineageOS/android_kernel_google_marlin
+PROJECT-Google-redbull:
+  - LineageOS/android_device_google_bramble
+  - LineageOS/android_device_google_redbull
+  - LineageOS/android_device_google_redfin
+  - LineageOS/android_kernel_google_redbull
 PROJECT-Google-seed:
   - LineageOS/android_device_google_seed
   - LineageOS/android_kernel_google_seed
@@ -2656,6 +2662,9 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_sdm845_media
   - LineageOS/android_hardware_qcom_sdm845_thermal
   - LineageOS/android_hardware_qcom_sdm845_vr
+  - LineageOS/android_hardware_qcom_sm7250_display
+  - LineageOS/android_hardware_qcom_sm7250_gps
+  - LineageOS/android_hardware_qcom_sm7250_media
   - LineageOS/android_hardware_qcom_sm8150_data_ipacfg-mgr
   - LineageOS/android_hardware_qcom_sm8150_display
   - LineageOS/android_hardware_qcom_sm8150_gps
