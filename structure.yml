@@ -1338,12 +1338,12 @@ OEM-Motorola:
   - PROJECT-Motorola-athene
   - PROJECT-Motorola-exynos9610
   - PROJECT-Motorola-griffin
-  - PROJECT-Motorola-hannah
   - PROJECT-Motorola-hardware
   - PROJECT-Motorola-motorola_omap4
   - PROJECT-Motorola-msm8226
   - PROJECT-Motorola-msm8610
   - PROJECT-Motorola-msm8916
+  - PROJECT-Motorola-msm8937
   - PROJECT-Motorola-msm8960
   - PROJECT-Motorola-msm8974
   - PROJECT-Motorola-msm8992
