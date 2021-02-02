@@ -275,7 +275,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_lzma
   - LineageOS/android_external_lzo
   - LineageOS/android_external_neven
-  - LineageOS/android_external_okhttp
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_protobuf-c
   - LineageOS/android_external_speex
@@ -336,7 +335,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_sfntly
   - LineageOS/android_external_stlport
   - LineageOS/android_external_tremolo
-  - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_layoutlib
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_setupwizard
@@ -359,7 +357,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fsck_msdos
   - LineageOS/android_external_jpeg-turbo
-  - LineageOS/android_external_libavc
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
   - LineageOS/android_external_libcups
@@ -379,7 +376,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_broadcom_wlan
   - LineageOS/android_hardware_lineage_lineagehw
-  - LineageOS/android_libcore
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_WallpaperPicker
@@ -404,15 +400,19 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_exfat
   - LineageOS/android_external_freetype
   - LineageOS/android_external_libaom
+  - LineageOS/android_external_libavc
   - LineageOS/android_external_libexif
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libtextclassifier
+  - LineageOS/android_external_okhttp
   - LineageOS/android_external_ppp
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
+  - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
+  - LineageOS/android_libcore
   - LineageOS/android_packages_apps_Calendar
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_Exchange
