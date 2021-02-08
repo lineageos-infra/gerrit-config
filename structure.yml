@@ -1352,6 +1352,7 @@ OEM-Motorola:
   - PROJECT-Motorola-omap4
   - PROJECT-Motorola-quark
   - PROJECT-Motorola-sdm632
+  - PROJECT-Motorola-sm7250
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
 OEM-Nokia:
@@ -1955,6 +1956,10 @@ PROJECT-Motorola-sdm632:
   - LineageOS/android_device_motorola_river
   - LineageOS/android_device_motorola_sdm632-common
   - LineageOS/android_kernel_motorola_sdm632
+PROJECT-Motorola-sm7250:
+  - LineageOS/android_device_motorola_racer
+  - LineageOS/android_device_motorola_sm7250-common
+  - LineageOS/android_kernel_motorola_sm7250
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
