@@ -350,7 +350,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_dalvik
   - LineageOS/android_external_ImageMagick
   - LineageOS/android_external_chromium-libpac
-  - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_curl
   - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_elfutils
@@ -1226,6 +1225,7 @@ Lineage-Unmaintained-Projects:
   - LineageOS/tools_repo
   - LineageOS/zte-kernel-msm7x27
 Master-Enabled:
+  - LineageOS/android_external_chromium-webview
   - LineageOS/charter
   - LineageOS/cm_crowdin
   - LineageOS/contributors-cloud-generator
