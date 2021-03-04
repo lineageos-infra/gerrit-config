@@ -251,7 +251,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_cmsdk-api-coverage
   - LineageOS/android_external_cyanogen_UICommon
   - LineageOS/android_external_deqp
-  - LineageOS/android_external_dnsmasq
   - LineageOS/android_external_ffmpeg
   - LineageOS/android_external_flac
   - LineageOS/android_external_gello_build
@@ -339,7 +338,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_prebuilts_misc
-  - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_hwservicemanager
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_test_sts
@@ -368,7 +366,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_puffin
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_strace
-  - LineageOS/android_external_v8
   - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_opt_datetimepicker
@@ -389,13 +386,13 @@ Lineage-16.0-Projects:
   - LineageOS/android_system_gatekeeper
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
-  - LineageOS/android_system_tools_hidl
   - LineageOS/android_test_vts-testcase_vndk
 Lineage-17.0-Projects:
   - Lineage-17.1-Projects
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
   - LineageOS/android_external_aac
+  - LineageOS/android_external_dnsmasq
   - LineageOS/android_external_exfat
   - LineageOS/android_external_freetype
   - LineageOS/android_external_libaom
@@ -408,6 +405,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
+  - LineageOS/android_external_v8
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
@@ -420,12 +418,14 @@ Lineage-17.1-Projects:
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_system_bpf
+  - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_nfc
   - LineageOS/android_system_security
+  - LineageOS/android_system_tools_hidl
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
   - Lineage-18.1-Projects
