@@ -2535,6 +2535,8 @@ PROJECT-Xiaomi-mt6785:
 PROJECT-Xiaomi-onclite:
   - LineageOS/android_device_xiaomi_onclite
   - LineageOS/android_kernel_xiaomi_onclite
+PROJECT-Xiaomi-platina:
+  - LineageOS/android_device_xiaomi_platina
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
   - LineageOS/android_device_xiaomi_sdm660-common
@@ -2543,6 +2545,7 @@ PROJECT-Xiaomi-sdm660:
   - LineageOS/android_kernel_xiaomi_sdm660
   - PROJECT-Xiaomi-jason
   - PROJECT-Xiaomi-lavender
+  - PROJECT-Xiaomi-platina
   - PROJECT-Xiaomi-twolip
   - PROJECT-Xiaomi-whyred
 PROJECT-Xiaomi-sdm845:
