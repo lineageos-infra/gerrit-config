@@ -407,6 +407,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_sonivox
   - LineageOS/android_external_v8
   - LineageOS/android_external_wpa_supplicant_8
+  - LineageOS/android_frameworks_hardware_interfaces
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
   - LineageOS/android_libcore
