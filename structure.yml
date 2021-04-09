@@ -2275,6 +2275,7 @@ PROJECT-Samsung-klte:
   - LineageOS/android_device_samsung_klte
   - LineageOS/android_device_samsung_klte-common
   - LineageOS/android_device_samsung_klteactivexx
+  - LineageOS/android_device_samsung_klteaio
   - LineageOS/android_device_samsung_kltechn
   - LineageOS/android_device_samsung_kltechnduo
   - LineageOS/android_device_samsung_klteduos
