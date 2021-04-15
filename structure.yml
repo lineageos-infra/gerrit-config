@@ -1991,6 +1991,8 @@ PROJECT-Nvidia-shield:
   - LineageOS/android_device_nvidia_galen_tab
   - LineageOS/android_device_nvidia_icera
   - LineageOS/android_device_nvidia_jetson
+  - LineageOS/android_device_nvidia_mdarcy
+  - LineageOS/android_device_nvidia_porg
   - LineageOS/android_device_nvidia_quill
   - LineageOS/android_device_nvidia_quill_tab
   - LineageOS/android_device_nvidia_shield-common
