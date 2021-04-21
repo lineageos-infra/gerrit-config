@@ -2481,6 +2481,7 @@ PROJECT-Wileyfox-kipper:
   - LineageOS/android_device_wileyfox_kipper
 PROJECT-Wingtech-wt88047:
   - LineageOS/android_device_wingtech_wt88047
+  - LineageOS/android_device_xiaomi_wt88047x
   - LineageOS/android_kernel_wingtech_msm8916
 PROJECT-Xiaomi-Violet:
   - LineageOS/android_device_xiaomi_violet
