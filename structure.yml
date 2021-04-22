@@ -2001,6 +2001,7 @@ PROJECT-Nvidia-shield:
   - LineageOS/android_device_nvidia_porg
   - LineageOS/android_device_nvidia_quill
   - LineageOS/android_device_nvidia_quill_tab
+  - LineageOS/android_device_nvidia_sepolicy
   - LineageOS/android_device_nvidia_shield-common
   - LineageOS/android_device_nvidia_shieldtablet
   - LineageOS/android_device_nvidia_t114-common
