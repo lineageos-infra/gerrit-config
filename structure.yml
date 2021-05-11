@@ -50,7 +50,6 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_gtest
   - LineageOS/android_external_hamcrest
   - LineageOS/android_external_harfbuzz
-  - LineageOS/android_external_heimdall
   - LineageOS/android_external_hyphenation
   - LineageOS/android_external_icu4c
   - LineageOS/android_external_jack
@@ -1233,6 +1232,7 @@ Master-Enabled:
   - LineageOS/scripts
   - LineageOS/update_verifier
   - LineageOS/www
+  - PROJECT-Heimdall
   - PROJECT-Infrastructure
   - PROJECT-Mirror
   - PROJECT-web-services
@@ -1707,6 +1707,8 @@ PROJECT-HTC-msm8974:
 PROJECT-HTC-pme:
   - LineageOS/android_device_htc_pme
   - LineageOS/android_kernel_htc_msm8996
+PROJECT-Heimdall:
+  - LineageOS/android_external_heimdall
 PROJECT-Huawei-angler:
   - LineageOS/android_device_huawei_angler
   - LineageOS/android_kernel_huawei_angler
