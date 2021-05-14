@@ -1245,6 +1245,7 @@ OEM-Ark:
   - PROJECT-Ark-peach
 OEM-Asus:
   - PROJECT-Asus-P024
+  - PROJECT-Asus-X01AD
   - PROJECT-Asus-Z00D
   - PROJECT-Asus-deb
   - PROJECT-Asus-fugu
@@ -1518,6 +1519,9 @@ PROJECT-Ark-peach:
 PROJECT-Asus-P024:
   - LineageOS/android_device_asus_P024
   - LineageOS/android_kernel_asus_P024
+PROJECT-Asus-X01AD:
+  - LineageOS/android_device_asus_X01AD
+  - LineageOS/android_kernel_asus_X01AD
 PROJECT-Asus-Z00D:
   - LineageOS/android_device_asus_Z00D
   - LineageOS/android_kernel_asus_Z00D
