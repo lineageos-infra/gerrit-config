@@ -195,7 +195,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_frameworks_opt_inputmethodcommon
   - LineageOS/android_frameworks_opt_mms
   - LineageOS/android_frameworks_opt_net_ethernet
-  - LineageOS/android_frameworks_opt_net_voip
   - LineageOS/android_frameworks_opt_photoviewer
   - LineageOS/android_frameworks_rs
   - LineageOS/android_frameworks_volley
@@ -409,11 +408,13 @@ Lineage-17.1-Projects:
   - LineageOS/android_frameworks_hardware_interfaces
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
+  - LineageOS/android_frameworks_opt_net_voip
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_Calendar
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_UnifiedEmail
+  - LineageOS/android_packages_modules_NetworkStack
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
@@ -423,6 +424,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
+  - LineageOS/android_system_libfmq
   - LineageOS/android_system_nfc
   - LineageOS/android_system_security
   - LineageOS/android_system_tools_hidl
