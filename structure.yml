@@ -404,7 +404,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
   - LineageOS/android_external_v8
-  - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_hardware_interfaces
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_frameworks_opt_net_ims
@@ -471,6 +470,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_toybox
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
+  - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_external_zip
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
