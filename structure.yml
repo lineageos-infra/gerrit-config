@@ -302,7 +302,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_packages_providers_DataUsageProvider
   - LineageOS/android_packages_providers_ThemesProvider
   - LineageOS/android_packages_services_CMAudioService
-  - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_LiveLockScreenService
   - LineageOS/android_packages_services_ThemeManagerService
   - LineageOS/android_packages_services_WeatherService
@@ -496,6 +495,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_Camera2
+  - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_CarrierConfig
   - LineageOS/android_packages_apps_CellBroadcastReceiver
   - LineageOS/android_packages_apps_CertInstaller
@@ -555,6 +555,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_BuiltInPrintService
+  - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
@@ -642,6 +643,7 @@ Lineage-Device-Projects:
   - OEM-qcom
   - OEM-ti
   - PROJECT-android-tv
+  - PROJECT-Lineage-car
 Lineage-Unmaintained-Projects:
   - LineageOS/AR6kSDK.3.1
   - LineageOS/CMAccountWebsite
@@ -1871,6 +1873,8 @@ PROJECT-Lenovo-sm8150:
   - LineageOS/android_device_lenovo_sm8150-common
   - LineageOS/android_device_lenovo_zippo
   - LineageOS/android_kernel_lenovo_sm8150
+PROJECT-Lineage-car:
+  - LineageOS/android_device_lineage_car
 PROJECT-Lineage-recovery:
   - LineageOS/android_bootable_recovery
   - LineageOS/android_external_e2fsprogs
