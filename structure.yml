@@ -395,6 +395,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_freetype
   - LineageOS/android_external_libaom
   - LineageOS/android_external_libavc
+  - LineageOS/android_external_libevdev
   - LineageOS/android_external_libexif
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libtextclassifier
@@ -613,6 +614,7 @@ Lineage-Device-Projects:
   - OEM-Moto
   - OEM-Motorola
   - OEM-Nextbit
+  - OEM-Nintendo
   - OEM-Nokia
   - OEM-Nubia
   - OEM-Nvidia
@@ -621,6 +623,7 @@ Lineage-Device-Projects:
   - OEM-Pantech
   - OEM-Razer
   - OEM-Realme
+  - OEM-STMicro
   - OEM-Samsung
   - OEM-Semc
   - OEM-Smartfren
@@ -1360,6 +1363,9 @@ OEM-Motorola:
   - PROJECT-Motorola-sm7250
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
+OEM-Nintendo:
+  - PROJECT-Nintendo-hardware
+  - PROJECT-Nintento-icosa
 OEM-Nokia:
   - PROJECT-Nokia-sdm660
 OEM-Nubia:
@@ -1392,6 +1398,8 @@ OEM-Razer:
 OEM-Realme:
   - PROJECT-Realme-RMX1801
   - PROJECT-Realme-RMX1851
+OEM-STMicro:
+  - PROJECT-STMicro-hardware
 OEM-Samsung:
   - LineageOS/android_device_samsung_common
   - LineageOS/android_device_samsung_exynos-common
@@ -1980,6 +1988,10 @@ PROJECT-Motorola-sm7250:
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
+PROJECT-Nintendo-hardware:
+  - LineageOS/android_hardware_nintendo_joycond
+PROJECT-Nintendo-icosa:
+  - LineageOS/android_device_nintendo_icosa
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
 PROJECT-Nokia-sdm660:
@@ -2046,6 +2058,7 @@ PROJECT-Nvidia-shield:
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_fpga
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_hawkeye
+  - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_misc
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_orca
@@ -2153,6 +2166,8 @@ PROJECT-Realme-RMX1801:
 PROJECT-Realme-RMX1851:
   - LineageOS/android_device_realme_RMX1851
   - LineageOS/android_kernel_realme_sdm710
+PROJECT-STMicro-hardware:
+  - LineageOS/android_hardware_stmicroelectronics_sensorhal_iio
 PROJECT-Samsung-a7xelte:
   - LineageOS/android_device_samsung_a7xelte
 PROJECT-Samsung-apq8084:
