@@ -1365,7 +1365,7 @@ OEM-Nextbit:
   - PROJECT-Nextbit-ether
 OEM-Nintendo:
   - PROJECT-Nintendo-hardware
-  - PROJECT-Nintento-icosa
+  - PROJECT-Nintendo-icosa
 OEM-Nokia:
   - PROJECT-Nokia-sdm660
 OEM-Nubia:
