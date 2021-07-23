@@ -2638,6 +2638,7 @@ PROJECT-Xiaomi-sm8150:
   - LineageOS/android_device_xiaomi_vayu
   - LineageOS/android_kernel_xiaomi_sm8150
 PROJECT-Xiaomi-sm8250:
+  - LineageOS/android_device_xiaomi_alioth
   - LineageOS/android_device_xiaomi_apollon
   - LineageOS/android_device_xiaomi_lmi
   - LineageOS/android_device_xiaomi_sm8250-common
