@@ -2245,6 +2245,7 @@ PROJECT-Samsung-exynos5420:
   - LineageOS/android_device_samsung_lt03wifi
   - LineageOS/android_device_samsung_n1awifi
   - LineageOS/android_device_samsung_n2awifi
+  - LineageOS/android_device_samsung_universal5420-common
   - LineageOS/android_device_samsung_v1awifi
   - LineageOS/android_device_samsung_v2awifi
   - LineageOS/android_kernel_samsung_exynos5420
