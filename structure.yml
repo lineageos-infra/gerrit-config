@@ -591,6 +591,7 @@ Lineage-Device-Projects:
   - OEM-Advent
   - OEM-Alcatel
   - OEM-Amazon
+  - OEM-Amlogic
   - OEM-Ark
   - OEM-Asus
   - OEM-BN
@@ -624,6 +625,7 @@ Lineage-Device-Projects:
   - OEM-Pantech
   - OEM-Razer
   - OEM-Realme
+  - OEM-Realtek
   - OEM-STMicro
   - OEM-Samsung
   - OEM-Semc
@@ -1065,7 +1067,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_hardware_amlogic_wifi
   - LineageOS/android_hardware_gpsshim
   - LineageOS/android_hardware_msm7k
-  - LineageOS/android_hardware_realtek
   - LineageOS/android_kernel_acer_t20-common
   - LineageOS/android_kernel_acer_t30
   - LineageOS/android_kernel_asus_tf101
@@ -1248,6 +1249,9 @@ OEM-Alcatel:
 OEM-Amazon:
   - PROJECT-Amazon-hdx
   - PROJECT-Amazon-omap4
+OEM-Amlogic:
+  - PROJECT-Amlogic-g12
+  - PROJECT-Amlogic-hardware
 OEM-Ark:
   - PROJECT-Ark-peach
 OEM-Asus:
@@ -1400,6 +1404,8 @@ OEM-Razer:
 OEM-Realme:
   - PROJECT-Realme-RMX1801
   - PROJECT-Realme-RMX1851
+OEM-Realtek:
+  - PROJECT-Realtek-hardware
 OEM-STMicro:
   - PROJECT-STMicro-hardware
 OEM-Samsung:
@@ -1528,6 +1534,28 @@ PROJECT-Amazon-omap4:
   - LineageOS/android_device_amazon_tate
   - LineageOS/android_kernel_amazon_bowser-common
   - LineageOS/android_kernel_amazon_otter-common
+PROJECT-Amlogic-g12:
+  - LineageOS/android_device_amlogic_g12-common
+  - LineageOS/android_device_askey_deadpool
+  - LineageOS/android_device_askey_dopinder
+  - LineageOS/android_device_askey_wade
+  - LineageOS/android_device_bananapi_m5
+  - LineageOS/android_device_google_beast
+  - LineageOS/android_device_google_sabrina
+  - LineageOS/android_device_hardkernel_odroidc4
+  - LineageOS/android_device_radxa_radxa0
+  - LineageOS/android_hardware_amlogic_kernel-modules_dhd-driver
+  - LineageOS/android_hardware_amlogic_kernel-modules_mali-driver
+  - LineageOS/android_hardware_amlogic_kernel-modules_media
+  - LineageOS/android_hardware_amlogic_kernel-modules_optee
+  - LineageOS/android_hardware_amlogic_kernel-modules_rtk_btusb
+  - LineageOS/android_hardware_amlogic_kernel-modules_rtl8822bs
+  - LineageOS/android_hardware_amlogic_kernel-modules_rtl8822cs
+  - LineageOS/android_kernel_amlogic_linux-4.9
+PROJECT-Amlogic-hardware:
+  - LineageOS/android_hardware_amlogic_tools_dtbtool
+  - LineageOS/android_hardware_amlogic_tools_imagepacker
+  - LineageOS/android_hardware_amlogic_tools_respacker
 PROJECT-Ark-peach:
   - LineageOS/android_device_ark_msm8916-common
   - LineageOS/android_device_ark_peach
@@ -2171,6 +2199,8 @@ PROJECT-Realme-RMX1801:
 PROJECT-Realme-RMX1851:
   - LineageOS/android_device_realme_RMX1851
   - LineageOS/android_kernel_realme_sdm710
+PROJECT-Realtek-hardware:
+  - LineageOS/android_hardware_realtek
 PROJECT-STMicro-hardware:
   - LineageOS/android_hardware_stmicroelectronics_sensorhal_iio
 PROJECT-Samsung-a7xelte:
