@@ -336,7 +336,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_frameworks_opt_setupwizard
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_system_hwservicemanager
-  - LineageOS/android_system_libhwbinder
   - LineageOS/android_test_sts
   - LineageOS/android_vendor_qcom_opensource_rcs-service
 Lineage-16.0-Projects:
@@ -360,7 +359,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_one-true-awk
   - LineageOS/android_external_proguard
   - LineageOS/android_external_puffin
-  - LineageOS/android_external_sqlite
   - LineageOS/android_external_strace
   - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_compile_mclinker
@@ -403,6 +401,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
   - LineageOS/android_external_sonivox
+  - LineageOS/android_external_sqlite
   - LineageOS/android_external_v8
   - LineageOS/android_frameworks_hardware_interfaces
   - LineageOS/android_frameworks_minikin
@@ -424,6 +423,7 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_libfmq
+  - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
   - LineageOS/android_system_security
   - LineageOS/android_vendor_chromium
