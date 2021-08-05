@@ -1430,6 +1430,7 @@ OEM-Samsung:
   - PROJECT-Samsung-ks01lte
   - PROJECT-Samsung-lt02lte
   - PROJECT-Samsung-lt03lte
+  - PROJECT-Samsung-m20lte
   - PROJECT-Samsung-manta
   - PROJECT-Samsung-mondrian
   - PROJECT-Samsung-msm8226
@@ -2383,6 +2384,10 @@ PROJECT-Samsung-lt02lte:
 PROJECT-Samsung-lt03lte:
   - LineageOS/android_device_samsung_lt03lte
   - LineageOS/android_kernel_samsung_lt03lte
+PROJECT-Samsung-m20lte:
+  - LineageOS/android_device_samsung_m20lte
+  - LineageOS/android_device_samsung_universal7904-common
+  - LineageOS/android_kernel_samsung_universal7904
 PROJECT-Samsung-manta:
   - LineageOS/android_device_samsung_manta
   - LineageOS/android_kernel_samsung_manta
