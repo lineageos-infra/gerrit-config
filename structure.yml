@@ -1688,6 +1688,7 @@ PROJECT-Google-marlin:
   - LineageOS/android_device_google_sailfish
   - LineageOS/android_kernel_google_marlin
 PROJECT-Google-redbull:
+  - LineageOS/android_device_google_barbet
   - LineageOS/android_device_google_bramble
   - LineageOS/android_device_google_redbull
   - LineageOS/android_device_google_redfin
