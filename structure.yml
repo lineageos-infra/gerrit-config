@@ -1399,6 +1399,7 @@ OEM-Oppo:
   - PROJECT-Oppo-common
   - PROJECT-Oppo-msm8939
   - PROJECT-Oppo-msm8974
+  - PROJECT-Oppo-sm8250
 OEM-Razer:
   - PROJECT-Razer-aura
   - PROJECT-Razer-cheryl
@@ -2200,6 +2201,9 @@ PROJECT-Oppo-msm8974:
   - LineageOS/android_device_oppo_msm8974-common
   - LineageOS/android_device_oppo_n3
   - LineageOS/android_kernel_oppo_msm8974
+PROJECT-Oppo-sm8250:
+  - LineageOS/android_device_oppo_OP4A7A
+  - LineageOS/android_kernel_oppo_sm8250
 PROJECT-Razer-aura:
   - LineageOS/android_device_razer_aura
   - LineageOS/android_kernel_razer_sdm845
