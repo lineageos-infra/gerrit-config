@@ -629,6 +629,7 @@ Lineage-Device-Projects:
   - OEM-STMicro
   - OEM-Samsung
   - OEM-Semc
+  - OEM-Shift
   - OEM-Smartfren
   - OEM-Sony
   - OEM-Toshiba
@@ -1449,6 +1450,8 @@ OEM-Samsung:
   - PROJECT-Samsung-universal7880
   - PROJECT-Samsung-zero
   - PROJECT-samsung-hardware
+OEM-Shift:
+  - PROJECT-Shift-sdm845
 OEM-Sony:
   - PROJECT-Sony-blue
   - PROJECT-Sony-common
@@ -2497,6 +2500,9 @@ PROJECT-Samsung-zero:
   - LineageOS/android_device_samsung_zerofltexx
   - LineageOS/android_device_samsung_zeroltexx
   - LineageOS/android_kernel_samsung_exynos7420
+PROJECT-Shift-sdm845:
+  - LineageOS/android_device_shift_axolotl
+  - LineageOS/android_kernel_shift_sdm845
 PROJECT-Sony-blue:
   - LineageOS/android_device_sony_blue-common
   - LineageOS/android_device_sony_hayabusa
