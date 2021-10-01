@@ -539,6 +539,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_modules_CaptivePortalLogin
+  - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_providers_BlockedNumberProvider
   - LineageOS/android_packages_providers_BookmarkProvider
