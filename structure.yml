@@ -1383,6 +1383,7 @@ OEM-Nubia:
 OEM-Nvidia:
   - PROJECT-Nvidia-roth
   - PROJECT-Nvidia-shield
+  - LineageOS/android_kernel_nvidia_kernel
 OEM-Oneplus:
   - LineageOS/android_device_oneplus_common
   - LineageOS/android_hardware_oneplus
