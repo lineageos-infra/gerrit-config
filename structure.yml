@@ -2096,7 +2096,7 @@ PROJECT-Nvidia-foster_tab:
 PROJECT-Nvidia-galen:
   - LineageOS/android_device_nvidia_galen
   - PROJECT-Nvidia-galen_tab
-PROJECT-Nvidia-galen_tab: 
+PROJECT-Nvidia-galen_tab:
   - LineageOS/android_device_nvidia_galen_tab
 PROJECT-Nvidia-jetson:
   - LineageOS/android_device_nvidia_jetson
