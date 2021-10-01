@@ -2068,6 +2068,8 @@ PROJECT-Nvidia-bootable:
   - LineageOS/android_bootable_cboot_t19x
 PROJECT-Nvidia-common:
   - LineageOS/android_device_nvidia_tegra-common
+  - LineageOS/android_hardware_nvidia_platform_tegra_common
+  - LineageOS/android_hardware_nvidia_soc_tegra
   - LineageOS/android_kernel_nvidia_cypress-fmac
   - LineageOS/android_kernel_nvidia_kernel
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common
@@ -2076,6 +2078,8 @@ PROJECT-Nvidia-common:
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia
   - LineageOS/android_kernel_nvidia_mainline
+  - LineageOS/android_kernel_nvidia_nvgpu
+  - LineageOS/android_kernel_nvidia_nvidia
   - LineageOS/android_kernel_nvidia_shield
   - LineageOS/android_kernel_nvidia_wireguard
   - PROJECT-Nvidia-t114
