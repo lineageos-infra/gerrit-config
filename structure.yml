@@ -2143,6 +2143,16 @@ PROJECT-Nvidia-t194:
   - PROJECT-Nvidia-galen
 PROJECT-Nvidia-t210:
   - LineageOS/android_device_nvidia_t210-common
+  - LineageOS/android_hardware_nvidia_platform_t210_batuu_kernel-dts
+  - LineageOS/android_hardware_nvidia_platform_t210_common
+  - LineageOS/android_hardware_nvidia_platform_t210_foster
+  - LineageOS/android_hardware_nvidia_platform_t210_jetson
+  - LineageOS/android_hardware_nvidia_platform_t210_porg
+  - LineageOS/android_hardware_nvidia_platform_t210b01_common
+  - LineageOS/android_hardware_nvidia_platform_t210b01_darcy
+  - LineageOS/android_hardware_nvidia_platform_t210b01_ers
+  - LineageOS/android_hardware_nvidia_platform_t210b01_sif
+  - LineageOS/android_hardware_nvidia_soc_t210
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common
