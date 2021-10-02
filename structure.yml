@@ -431,7 +431,7 @@ Lineage-18.0-Projects:
   - Lineage-18.1-Projects
   - LineageOS/android_system_apex
 Lineage-18.1-Projects:
-  - Head-Developers
+  - Lineage-19.0-Projects
   - LineageOS/android_art
   - LineageOS/android_bionic
   - LineageOS/android_build
@@ -587,6 +587,8 @@ Lineage-18.1-Projects:
   - LineageOS/android_tools_metalava
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
+Lineage-19.0-Projects:
+  - Head-Developers
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
