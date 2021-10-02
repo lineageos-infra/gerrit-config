@@ -2044,6 +2044,7 @@ PROJECT-Nintendo-hardware:
   - LineageOS/android_hardware_nintendo_joycond
 PROJECT-Nintendo-icosa:
   - LineageOS/android_device_nintendo_icosa
+  - LineageOS/android_hardware_nvidia_platform_t210_switch
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
 PROJECT-Nokia-sdm660:
