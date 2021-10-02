@@ -2128,6 +2128,10 @@ PROJECT-Nvidia-t124:
   - PROJECT-Nvidia-shieldtablet
 PROJECT-Nvidia-t186:
   - LineageOS/android_device_nvidia_t186-common
+  - LineageOS/android_hardware_nvidia_platform_t18x_common
+  - LineageOS/android_hardware_nvidia_platform_t18x_lanai
+  - LineageOS/android_hardware_nvidia_platform_t18x_quill
+  - LineageOS/android_hardware_nvidia_soc_t18x
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill
