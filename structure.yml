@@ -2139,6 +2139,10 @@ PROJECT-Nvidia-t186:
   - PROJECT-Nvidia-quill
 PROJECT-Nvidia-t194:
   - LineageOS/android_device_nvidia_t194-common
+  - LineageOS/android_hardware_nvidia_platform_t19x_common
+  - LineageOS/android_hardware_nvidia_platform_t19x_galen_kernel-dts
+  - LineageOS/android_hardware_nvidia_platform_t19x_jakku_kernel-dts
+  - LineageOS/android_hardware_nvidia_soc_t19x
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_bct
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts
