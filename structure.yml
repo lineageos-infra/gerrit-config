@@ -423,7 +423,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_libfmq
   - LineageOS/android_system_libhwbinder
-  - LineageOS/android_system_nfc
   - LineageOS/android_system_security
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
@@ -575,6 +574,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
+  - LineageOS/android_system_nfc
   - LineageOS/android_system_qcom
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_timezone
