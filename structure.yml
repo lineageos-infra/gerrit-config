@@ -430,8 +430,6 @@ Lineage-18.0-Projects:
   - LineageOS/android_system_apex
 Lineage-18.1-Projects:
   - Lineage-19.0-Projects
-  - LineageOS/android_art
-  - LineageOS/android_bionic
   - LineageOS/android_build_blueprint
   - LineageOS/android_development
   - LineageOS/android_external_ant-wireless_ant_client
@@ -447,21 +445,18 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_guice
   - LineageOS/android_external_htop
   - LineageOS/android_external_icu
-  - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
-  - LineageOS/android_external_openssh
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_pigz
   - LineageOS/android_external_rsync
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinyalsa
-  - LineageOS/android_external_tinycompress
   - LineageOS/android_external_toybox
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
@@ -469,13 +464,11 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_zip
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_telephony
-  - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
-  - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_hardware_nxp_nfc
   - LineageOS/android_hardware_ril
@@ -491,7 +484,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_KeyChain
-  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_PackageInstaller
@@ -505,12 +497,10 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_apps_Traceur
-  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_modules_CaptivePortalLogin
   - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_UserDictionaryProvider
-  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_BuiltInPrintService
@@ -523,7 +513,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
   - LineageOS/android_system_bt
-  - LineageOS/android_system_core
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_media
@@ -541,12 +530,19 @@ Lineage-18.1-Projects:
   - PROJECT-Lineage-recovery
 Lineage-19.0-Projects:
   - Head-Developers
+  - LineageOS/android_art
+  - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_soong
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_libcxx
+  - LineageOS/android_external_openssh
+  - LineageOS/android_external_tinycompress
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
+  - LineageOS/android_frameworks_opt_timezonepicker
+  - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_lineage-sdk
@@ -561,6 +557,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Jelly
+  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Settings
@@ -570,6 +567,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
+  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_overlays_Lineage
@@ -581,12 +579,14 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_providers_DownloadProvider
   - LineageOS/android_packages_providers_MediaProvider
   - LineageOS/android_packages_providers_TelephonyProvider
+  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
   - LineageOS/android_prebuilts_extract-tools
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_system_core
   - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_lineage
 Lineage-Device-Projects:
