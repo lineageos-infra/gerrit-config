@@ -480,17 +480,11 @@ Lineage-18.1-Projects:
   - LineageOS/android_hardware_nxp_nfc
   - LineageOS/android_hardware_ril
   - LineageOS/android_packages_apps_BasicSmsReceiver
-  - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Bluetooth
-  - LineageOS/android_packages_apps_Camera2
   - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_CarrierConfig
   - LineageOS/android_packages_apps_CellBroadcastReceiver
   - LineageOS/android_packages_apps_CertInstaller
-  - LineageOS/android_packages_apps_Contacts
-  - LineageOS/android_packages_apps_DeskClock
-  - LineageOS/android_packages_apps_Dialer
-  - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_FlipFlap
@@ -499,7 +493,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_ManagedProvisioning
-  - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
@@ -507,39 +500,21 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_SecureElement
   - LineageOS/android_packages_apps_Seedvault
-  - LineageOS/android_packages_apps_SettingsIntelligence
-  - LineageOS/android_packages_apps_SetupWizard
-  - LineageOS/android_packages_apps_SimpleDeviceConfig
   - LineageOS/android_packages_apps_Snap
-  - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_StorageManager
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_apps_Traceur
   - LineageOS/android_packages_apps_Updater
-  - LineageOS/android_packages_apps_WallpaperPicker2
-  - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_modules_CaptivePortalLogin
   - LineageOS/android_packages_modules_DnsResolver
-  - LineageOS/android_packages_providers_BlockedNumberProvider
-  - LineageOS/android_packages_providers_BookmarkProvider
-  - LineageOS/android_packages_providers_CalendarProvider
-  - LineageOS/android_packages_providers_CallLogProvider
-  - LineageOS/android_packages_providers_ContactsProvider
-  - LineageOS/android_packages_providers_DownloadProvider
-  - LineageOS/android_packages_providers_MediaProvider
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
-  - LineageOS/android_packages_providers_TelephonyProvider
   - LineageOS/android_packages_providers_UserDictionaryProvider
   - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_BuiltInPrintService
   - LineageOS/android_packages_services_Car
-  - LineageOS/android_packages_services_Mms
-  - LineageOS/android_packages_services_Telecomm
-  - LineageOS/android_packages_services_Telephony
-  - LineageOS/android_packages_wallpapers_LivePicker
   - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9
   - LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9
@@ -576,15 +551,40 @@ Lineage-19.0-Projects:
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
+  - LineageOS/android_packages_apps_Backgrounds
+  - LineageOS/android_packages_apps_Camera2
+  - LineageOS/android_packages_apps_Contacts
+  - LineageOS/android_packages_apps_DeskClock
+  - LineageOS/android_packages_apps_Dialer
+  - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_Jelly
+  - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Settings
+  - LineageOS/android_packages_apps_SettingsIntelligence
+  - LineageOS/android_packages_apps_SetupWizard
+  - LineageOS/android_packages_apps_SimpleDeviceConfig
+  - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
+  - LineageOS/android_packages_apps_WallpaperPicker2
+  - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_overlays_Lineage
+  - LineageOS/android_packages_providers_BlockedNumberProvider
+  - LineageOS/android_packages_providers_BookmarkProvider
+  - LineageOS/android_packages_providers_CalendarProvider
+  - LineageOS/android_packages_providers_CallLogProvider
+  - LineageOS/android_packages_providers_ContactsProvider
+  - LineageOS/android_packages_providers_DownloadProvider
+  - LineageOS/android_packages_providers_MediaProvider
+  - LineageOS/android_packages_providers_TelephonyProvider
+  - LineageOS/android_packages_services_Mms
+  - LineageOS/android_packages_services_Telecomm
+  - LineageOS/android_packages_services_Telephony
+  - LineageOS/android_packages_wallpapers_LivePicker
   - LineageOS/android_prebuilts_extract-tools
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_tools_extract-utils
