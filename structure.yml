@@ -585,6 +585,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_prebuilts_extract-tools
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_core
+  - LineageOS/android_system_libziparchive
   - LineageOS/android_system_media
   - LineageOS/android_system_update_engine
   - LineageOS/android_tools_extract-utils
