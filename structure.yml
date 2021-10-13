@@ -537,6 +537,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_external_tinycompress
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
+  - LineageOS/android_frameworks_libs_systemui
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_hardware_libhardware
