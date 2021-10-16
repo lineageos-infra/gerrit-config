@@ -438,7 +438,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_bash
   - LineageOS/android_external_boringssl
-  - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
   - LineageOS/android_external_guice
   - LineageOS/android_external_htop
@@ -529,6 +528,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_build
   - LineageOS/android_build_soong
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_bson
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_mksh
