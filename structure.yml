@@ -426,7 +426,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
   - Lineage-18.1-Projects
-  - LineageOS/android_system_apex
 Lineage-18.1-Projects:
   - Lineage-19.0-Projects
   - LineageOS/android_build_blueprint
@@ -513,7 +512,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_netd
   - LineageOS/android_system_nfc
   - LineageOS/android_system_qcom
-  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_timezone
   - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
@@ -585,8 +583,10 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_wallpapers_LivePicker
   - LineageOS/android_prebuilts_extract-tools
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_system_apex
   - LineageOS/android_system_core
   - LineageOS/android_system_libziparchive
+  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_media
   - LineageOS/android_system_update_engine
   - LineageOS/android_tools_extract-utils
