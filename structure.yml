@@ -520,7 +520,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_vold
   - LineageOS/android_tools_metalava
-  - PROJECT-Lineage-recovery
 Lineage-19.0-Projects:
   - Head-Developers
   - LineageOS/android_art
@@ -592,6 +591,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_system_update_engine
   - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_lineage
+  - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
   - OEM-Acer
   - OEM-Advent
