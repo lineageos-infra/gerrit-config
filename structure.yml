@@ -586,8 +586,8 @@ Lineage-19.0-Projects:
   - LineageOS/android_system_apex
   - LineageOS/android_system_core
   - LineageOS/android_system_libziparchive
-  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_media
+  - LineageOS/android_system_sepolicy
   - LineageOS/android_system_update_engine
   - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_lineage
@@ -651,8 +651,8 @@ Lineage-Device-Projects:
   - OEM-leeco
   - OEM-qcom
   - OEM-ti
-  - PROJECT-android-tv
   - PROJECT-Lineage-car
+  - PROJECT-android-tv
 Lineage-Unmaintained-Projects:
   - LineageOS/AR6kSDK.3.1
   - LineageOS/CMAccountWebsite
@@ -1392,6 +1392,7 @@ OEM-Nvidia:
   - PROJECT-Nvidia-hardware
   - PROJECT-Nvidia-prebuilts
   - PROJECT-Nvidia-sepolicy
+  - PROJECT-Nvidia-shield
 OEM-Oneplus:
   - LineageOS/android_device_oneplus_common
   - LineageOS/android_hardware_oneplus
@@ -2100,7 +2101,6 @@ PROJECT-Nvidia-foster:
   - PROJECT-Nvidia-foster_tab
 PROJECT-Nvidia-foster_tab:
   - LineageOS/android_device_nvidia_foster_tab
-  - PROJECT-Nintendo-icosa
   - PROJECT-Nvidia-mdarcy
   - PROJECT-Nvidia-porg
 PROJECT-Nvidia-galen:
@@ -2108,8 +2108,22 @@ PROJECT-Nvidia-galen:
   - PROJECT-Nvidia-galen_tab
 PROJECT-Nvidia-galen_tab:
   - LineageOS/android_device_nvidia_galen_tab
+PROJECT-Nvidia-hardware:
+  - LineageOS/android_device_nvidia_icera
+  - LineageOS/android_device_nvidia_touch
+  - LineageOS/android_hardware_nvidia_boot_control
+  - LineageOS/android_hardware_nvidia_hwinc
+  - LineageOS/android_hardware_nvidia_interfaces
+  - LineageOS/android_hardware_nvidia_libstagefrighthw
+  - LineageOS/android_hardware_nvidia_light
+  - LineageOS/android_hardware_nvidia_memtrack
+  - LineageOS/android_hardware_nvidia_power
+  - LineageOS/android_hardware_nvidia_sensors
+  - LineageOS/android_hardware_nvidia_thermal
 PROJECT-Nvidia-jetson:
   - LineageOS/android_device_nvidia_jetson
+PROJECT-Nvidia-prebuilts:
+  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1
 PROJECT-Nvidia-quill:
   - LineageOS/android_device_nvidia_quill
   - PROJECT-Nvidia-quill_tab
@@ -2121,6 +2135,10 @@ PROJECT-Nvidia-roth:
   - PROJECT-Nvidia-dalmore
 PROJECT-Nvidia-sepolicy:
   - LineageOS/android_device_nvidia_sepolicy
+PROJECT-Nvidia-shield:
+  - LineageOS/android_device_nvidia_mdarcy
+  - LineageOS/android_device_nvidia_porg
+  - LineageOS/android_device_nvidia_shield-common
 PROJECT-Nvidia-shieldtablet:
   - LineageOS/android_device_nvidia_shieldtablet
   - LineageOS/android_kernel_nvidia_shieldtablet
@@ -2189,22 +2207,6 @@ PROJECT-Nvidia-t210:
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210
   - PROJECT-Nvidia-foster
-PROJECT-Nvidia-hardware:
-  - LineageOS/android_device_nvidia_icera
-  - LineageOS/android_device_nvidia_touch
-  - LineageOS/android_hardware_nvidia_boot_control
-  - LineageOS/android_hardware_nvidia_hwinc
-  - LineageOS/android_hardware_nvidia_interfaces
-  - LineageOS/android_hardware_nvidia_libstagefrighthw
-  - LineageOS/android_hardware_nvidia_light
-  - LineageOS/android_hardware_nvidia_memtrack
-  - LineageOS/android_hardware_nvidia_power
-  - LineageOS/android_hardware_nvidia_sensors
-  - LineageOS/android_hardware_nvidia_thermal
-PROJECT-Nvidia-prebuilts:
-  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1
-PROJECT-Nvidia-shield:
-  - LineageOS/android_device_nvidia_shield-common
 PROJECT-Oneplus-bacon:
   - LineageOS/android_device_oneplus_bacon
   - LineageOS/android_kernel_oneplus_msm8974
@@ -2248,9 +2250,9 @@ PROJECT-Oneplus-sm8250:
   - LineageOS/android_device_oneplus_sm8250-common
   - LineageOS/android_kernel_oneplus_sm8250
 PROJECT-Oneplus-sm8350:
-  - LineageOS/android_device_oneplus_sm8350-common
   - LineageOS/android_device_oneplus_lemonade
   - LineageOS/android_device_oneplus_lemonadep
+  - LineageOS/android_device_oneplus_sm8350-common
   - LineageOS/android_kernel_oneplus_sm8350
 PROJECT-Oppo-apq8064:
   - LineageOS/android_device_oppo_apq8064-common
@@ -2893,6 +2895,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_sdm845_media
   - LineageOS/android_hardware_qcom_sdm845_thermal
   - LineageOS/android_hardware_qcom_sdm845_vr
+  - LineageOS/android_hardware_qcom_sensors
   - LineageOS/android_hardware_qcom_sm7250_display
   - LineageOS/android_hardware_qcom_sm7250_gps
   - LineageOS/android_hardware_qcom_sm7250_media
@@ -2900,7 +2903,6 @@ PROJECT-qcom-hardware:
   - LineageOS/android_hardware_qcom_sm8150_display
   - LineageOS/android_hardware_qcom_sm8150_gps
   - LineageOS/android_hardware_qcom_sm8150_media
-  - LineageOS/android_hardware_qcom_sensors
   - LineageOS/android_hardware_qcom_thermal
   - LineageOS/android_hardware_qcom_vr
   - LineageOS/android_hardware_qcom_wlan
