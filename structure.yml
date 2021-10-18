@@ -2122,6 +2122,12 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_hardware_nvidia_thermal
 PROJECT-Nvidia-jetson:
   - LineageOS/android_device_nvidia_jetson
+PROJECT-Nvidia-mdarcy:
+  - LineageOS/android_device_nvidia_mdarcy
+  - LineageOS/android_device_nvidia_mdarcy_tab
+PROJECT-Nvidia-porg:
+  - LineageOS/android_device_nvidia_porg
+  - LineageOS/android_device_nvidia_porg_tab
 PROJECT-Nvidia-prebuilts:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1
 PROJECT-Nvidia-quill:
@@ -2136,8 +2142,6 @@ PROJECT-Nvidia-roth:
 PROJECT-Nvidia-sepolicy:
   - LineageOS/android_device_nvidia_sepolicy
 PROJECT-Nvidia-shield:
-  - LineageOS/android_device_nvidia_mdarcy
-  - LineageOS/android_device_nvidia_porg
   - LineageOS/android_device_nvidia_shield-common
 PROJECT-Nvidia-shieldtablet:
   - LineageOS/android_device_nvidia_shieldtablet
