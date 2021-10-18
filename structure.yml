@@ -2642,6 +2642,7 @@ PROJECT-Sony-shinano:
 PROJECT-Sony-tama:
   - LineageOS/android_device_sony_akari
   - LineageOS/android_device_sony_akatsuki
+  - LineageOS/android_device_sony_aurora
   - LineageOS/android_device_sony_tama-common
   - LineageOS/android_device_sony_xz2c
   - LineageOS/android_kernel_sony_sdm845
