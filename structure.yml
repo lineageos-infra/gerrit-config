@@ -422,7 +422,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_libfmq
   - LineageOS/android_system_libhwbinder
-  - LineageOS/android_system_security
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
   - Lineage-18.1-Projects
@@ -462,7 +461,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
-  - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_hardware_nxp_nfc
@@ -516,7 +514,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_system_tools_mkbootimg
-  - LineageOS/android_system_vold
   - LineageOS/android_tools_metalava
 Lineage-19.0-Projects:
   - Head-Developers
@@ -536,6 +533,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_frameworks_libs_systemui
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_timezonepicker
+  - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
@@ -588,8 +586,10 @@ Lineage-19.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_media
+  - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_update_engine
+  - LineageOS/android_system_vold
   - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
