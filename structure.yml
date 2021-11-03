@@ -448,6 +448,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_pigz
+  - LineageOS/android_external_robolectric-shadows
   - LineageOS/android_external_rsync
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinyalsa
