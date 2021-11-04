@@ -1701,6 +1701,7 @@ PROJECT-Google-dragon:
   - LineageOS/android_kernel_google_dragon
 PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_pixel
+  - LineageOS/android_hardware_google_pixel-sepolicy
   - LineageOS/android_packages_apps_ElmyraService
 PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
