@@ -565,6 +565,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LatinIME
+  - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_overlays_Lineage
