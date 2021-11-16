@@ -1728,6 +1728,7 @@ PROJECT-Google-sprout:
   - LineageOS/android_kernel_mediatek_sprout
 PROJECT-Google-sunfish:
   - LineageOS/android_device_google_sunfish
+  - LineageOS/android_kernel_google_msm-4.14
   - LineageOS/android_kernel_google_sunfish
 PROJECT-Google-wahoo:
   - LineageOS/android_device_google_muskie
