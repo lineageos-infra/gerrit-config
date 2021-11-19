@@ -2047,6 +2047,7 @@ PROJECT-Motorola-sdm632:
 PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_racer
   - LineageOS/android_device_motorola_sm7250-common
+  - LineageOS/android_device_motorola_smith
   - LineageOS/android_kernel_motorola_sm7250
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
