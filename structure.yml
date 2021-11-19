@@ -438,10 +438,8 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_boringssl
   - LineageOS/android_external_cldr
   - LineageOS/android_external_guice
-  - LineageOS/android_external_htop
   - LineageOS/android_external_icu
   - LineageOS/android_external_libevdev
-  - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
@@ -518,7 +516,9 @@ Lineage-19.0-Projects:
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_bson
   - LineageOS/android_external_exfatprogs
+  - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
+  - LineageOS/android_external_libncurses
   - LineageOS/android_external_mksh
   - LineageOS/android_external_openssh
   - LineageOS/android_external_tinycompress
