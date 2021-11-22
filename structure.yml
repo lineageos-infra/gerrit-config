@@ -1385,6 +1385,7 @@ OEM-Nintendo:
 OEM-Nokia:
   - PROJECT-Nokia-sdm660
 OEM-Nubia:
+  - PROJECT-Nubia-TP1803
   - PROJECT-Nubia-msm8998
   - PROJECT-Nubia-nx512j
   - PROJECT-Nubia-nx531j
@@ -2064,6 +2065,9 @@ PROJECT-Nokia-sdm660:
   - LineageOS/android_device_nokia_sdm660-common
   - LineageOS/android_kernel_nokia_sdm660
   - PROJECT-Nokia-DRG
+PROJECT-Nubia-TP1803:
+  - LineageOS/android_device_nubia_TP1803
+  - LineageOS/android_kernel_nubia_sm8150
 PROJECT-Nubia-msm8998:
   - LineageOS/android_device_nubia_msm8998-common
   - LineageOS/android_device_nubia_nx563j
