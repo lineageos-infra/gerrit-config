@@ -466,7 +466,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_BasicSmsReceiver
   - LineageOS/android_packages_apps_Bluetooth
-  - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_CarrierConfig
   - LineageOS/android_packages_apps_CellBroadcastReceiver
   - LineageOS/android_packages_apps_CertInstaller
@@ -534,6 +533,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
+  - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_Contacts
   - LineageOS/android_packages_apps_DeskClock
   - LineageOS/android_packages_apps_Dialer
