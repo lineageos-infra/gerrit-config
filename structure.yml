@@ -2935,6 +2935,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_cryptfs_hw
   - LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr
   - LineageOS/android_vendor_qcom_opensource_dataservices
+  - LineageOS/android_vendor_qcom_opensource_display
   - LineageOS/android_vendor_qcom_opensource_display-commonsys
   - LineageOS/android_vendor_qcom_opensource_display-commonsys-intf
   - LineageOS/android_vendor_qcom_opensource_fm-commonsys
