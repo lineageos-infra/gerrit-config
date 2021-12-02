@@ -1509,6 +1509,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-sm6125
   - PROJECT-Xiaomi-sm6150
   - PROJECT-Xiaomi-sm6250
+  - PROJECT-Xiaomi-sm7250
   - PROJECT-Xiaomi-sm8150
   - PROJECT-Xiaomi-sm8250
   - PROJECT-Xiaomi-surya
@@ -2784,6 +2785,10 @@ PROJECT-Xiaomi-sm6250:
   - LineageOS/android_device_xiaomi_miatoll
   - LineageOS/android_device_xiaomi_sm6250-common
   - LineageOS/android_kernel_xiaomi_sm6250
+PROJECT-Xiaomi-sm7250:
+  - LineageOS/android_device_xiaomi_monet
+  - LineageOS/android_device_xiaomi_sm7250-common
+  - LineageOS/android_kernel_xiaomi_sm7250
 PROJECT-Xiaomi-sm8150:
   - LineageOS/android_device_xiaomi_cepheus
   - LineageOS/android_device_xiaomi_raphael
