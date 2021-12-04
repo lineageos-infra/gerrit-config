@@ -492,7 +492,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_BuiltInPrintService
   - LineageOS/android_packages_services_Car
-  - LineageOS/android_system_bt
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_netd
@@ -501,7 +500,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_timezone
   - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
-  - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_tools_metalava
 Lineage-19.0-Projects:
   - Head-Developers
@@ -584,11 +582,13 @@ Lineage-19.0-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_apex
+  - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_media
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
+  - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
   - LineageOS/android_tools_extract-utils
