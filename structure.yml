@@ -330,7 +330,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sfntly
   - LineageOS/android_external_stlport
-  - LineageOS/android_external_tremolo
   - LineageOS/android_frameworks_layoutlib
   - LineageOS/android_frameworks_opt_chips
   - LineageOS/android_frameworks_opt_setupwizard
@@ -451,6 +450,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_sony_boringssl-compat
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_toybox
+  - LineageOS/android_external_tremolo
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
   - LineageOS/android_external_zip
