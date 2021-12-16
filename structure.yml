@@ -364,6 +364,7 @@ Lineage-16.0-Projects:
   - LineageOS/android_frameworks_opt_datetimepicker
   - LineageOS/android_frameworks_support
   - LineageOS/android_hardware_broadcom_wlan
+  - LineageOS/android_hardware_google_av
   - LineageOS/android_hardware_lineage_lineagehw
   - LineageOS/android_packages_apps_LockClock
   - LineageOS/android_packages_apps_OpenWeatherMapProvider
