@@ -416,7 +416,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_prebuilts_r8
   - LineageOS/android_system_bpf
   - LineageOS/android_system_connectivity_wificond
-  - LineageOS/android_system_extras
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
@@ -585,6 +584,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_system_apex
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
+  - LineageOS/android_system_extras
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_media
   - LineageOS/android_system_security
