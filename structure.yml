@@ -1270,6 +1270,7 @@ OEM-Asus:
   - PROJECT-Asus-Z00D
   - PROJECT-Asus-deb
   - PROJECT-Asus-fugu
+  - PROJECT-Asus-msm8937
   - PROJECT-Asus-sake
   - PROJECT-Asus-sdm660
   - PROJECT-Asus-sm8150
@@ -1603,6 +1604,10 @@ PROJECT-Asus-deb:
 PROJECT-Asus-fugu:
   - LineageOS/android_device_asus_fugu
   - LineageOS/android_kernel_asus_fugu
+PROJECT-Asus-msm8937:
+  - LineageOS/android_device_asus_X00P
+  - LineageOS/android_device_asus_msm8937-common
+  - LineageOS/android_kernel_asus_msm8937
 PROJECT-Asus-sake:
   - LineageOS/android_device_asus_sake
   - LineageOS/android_kernel_asus_sm8350
