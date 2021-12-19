@@ -502,10 +502,12 @@ Lineage-19.0-Projects:
   - LineageOS/android_build
   - LineageOS/android_build_soong
   - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_ant-wireless_ant_client
   - LineageOS/android_external_ant-wireless_ant_native
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_hidl
+  - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
@@ -1716,6 +1718,11 @@ PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
   - LineageOS/android_kernel_google_marlin
+PROJECT-Google-raviole:
+  - LineageOS/android_device_google_gs101
+  - LineageOS/android_device_google_raven
+  - LineageOS/android_device_google_raviole
+  - LineageOS/android_device_google_oriole
 PROJECT-Google-redbull:
   - LineageOS/android_device_google_barbet
   - LineageOS/android_device_google_bramble
