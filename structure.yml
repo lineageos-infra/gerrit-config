@@ -558,6 +558,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_adb
+  - LineageOS/android_packages_modules_common
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_providers_BlockedNumberProvider
   - LineageOS/android_packages_providers_BookmarkProvider
