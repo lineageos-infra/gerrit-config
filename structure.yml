@@ -588,6 +588,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_libziparchive
+  - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
   - LineageOS/android_system_security
