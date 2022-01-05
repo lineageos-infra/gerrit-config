@@ -392,7 +392,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_freetype
   - LineageOS/android_external_libaom
   - LineageOS/android_external_libavc
-  - LineageOS/android_external_libexif
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libtextclassifier
   - LineageOS/android_external_okhttp
@@ -434,6 +433,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_guice
   - LineageOS/android_external_icu
   - LineageOS/android_external_libevdev
+  - LineageOS/android_external_libexif
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
