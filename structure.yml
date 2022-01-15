@@ -1412,6 +1412,7 @@ OEM-Oneplus:
   - PROJECT-Oneplus-msm8998
   - PROJECT-Oneplus-onyx
   - PROJECT-Oneplus-sdm845
+  - PROJECT-Oneplus-sm6350
   - PROJECT-Oneplus-sm7250
   - PROJECT-Oneplus-sm8150
   - PROJECT-Oneplus-sm8250
@@ -2264,6 +2265,9 @@ PROJECT-Oneplus-sdm845:
   - LineageOS/android_device_oneplus_fajita
   - LineageOS/android_device_oneplus_sdm845-common
   - LineageOS/android_kernel_oneplus_sdm845
+PROJECT-Oneplus-sm6350:
+  - LineageOS/android_device_oneplus_billie
+  - LineageOS/android_kernel_oneplus_sm6350
 PROJECT-Oneplus-sm7250:
   - LineageOS/android_device_oneplus_avicii
   - LineageOS/android_kernel_oneplus_sm7250
