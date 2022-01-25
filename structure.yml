@@ -1501,6 +1501,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-armani
   - PROJECT-Xiaomi-cancro
   - PROJECT-Xiaomi-ferrari
+  - PROJECT-Xiaomi-gauguin
   - PROJECT-Xiaomi-gemini
   - PROJECT-Xiaomi-hardware
   - PROJECT-Xiaomi-ido
@@ -2715,6 +2716,9 @@ PROJECT-Xiaomi-dipper:
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
+PROJECT-Xiaomi-gauguin:
+  - LineageOS/android_device_xiaomi_gauguin
+  - LineageOS/android_kernel_xiaomi_gauguin
 PROJECT-Xiaomi-hardware:
   - LineageOS/android_hardware_xiaomi
 PROJECT-Xiaomi-ido:
