@@ -516,6 +516,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
+  - LineageOS/android_frameworks_libs_net
   - LineageOS/android_frameworks_libs_systemui
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_timezonepicker
