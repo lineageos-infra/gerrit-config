@@ -1735,6 +1735,7 @@ PROJECT-Google-redbull:
   - LineageOS/android_device_google_bramble
   - LineageOS/android_device_google_redbull
   - LineageOS/android_device_google_redfin
+  - LineageOS/android_kernel_google_barbet
   - LineageOS/android_kernel_google_redbull
 PROJECT-Google-seed:
   - LineageOS/android_device_google_seed
