@@ -447,7 +447,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_unrar
   - LineageOS/android_external_zip
   - LineageOS/android_frameworks_opt_net_wifi
-  - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_broadcom_nfc
@@ -520,6 +519,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_frameworks_libs_systemui
   - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_timezonepicker
+  - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_lineage_interfaces
