@@ -6,54 +6,55 @@ from github import Github
 from lib import Gerrit, Config
 
 
-if Config.GERRIT_USER and Config.GERRIT_PASS:
-    auth = requests.auth.HTTPBasicAuth(Config.GERRIT_USER, Config.GERRIT_PASS)
-else:
-    auth = None
+gerrit = Gerrit()
+github = Github(Config.GITHUB_TOKEN)
 
-print("Updating gerrit permissions...")
 
 with open("structure.yml", "r") as f:
-    desired_projects = yaml.load(f.read(), Loader=yaml.BaseLoader)
+    wanted = yaml.load(f.read(), Loader=yaml.BaseLoader)
 
-live_projects = Gerrit.get_projects(auth)
+live = gerrit.get_projects()
 
-changes = {}
 
-for parent, children in desired_projects.items():
-    if parent in live_projects:
-        if set(live_projects[parent]) == set(desired_projects[parent]):
-            continue
-        else:
-            changes[parent] = list(set(desired_projects[parent]) - set(live_projects[parent]))
-            if not changes[parent]:
-                del changes[parent]
-    else:
-        changes[parent] = children
+print("Creating gerrit repos...")
+missing = set()
 
-if changes:
-    for parent, children in changes.items():
-        for child in children:
-            Gerrit.update_parent(child, parent, auth)
+for parent, children in wanted.items():
+    if parent not in live.keys():
+        missing.add(parent)
+    for child in children:
+        if child not in live.keys():
+            missing.add(child)
+
+if missing:
+    print(f"Missing projects: {missing}")
+    for project in missing:
+        print(f"Creating {project} on gerrit...")
+        gerrit.create_project(project)
+
+
+live = gerrit.get_projects()
 
 print("Creating github repos...")
 
-g = Github(Config.GITHUB_TOKEN)
 
-github_projects = {x.full_name for x in g.get_organization("LineageOS").get_repos()}
-gerrit_projects = set()
-for parent, children in live_projects.items():
-    if parent.startswith("LineageOS/"):
-        gerrit_projects.add(parent)
-    for child in children:
-        if child.startswith("LineageOS/"):
-            gerrit_projects.add(child)
+#github_projects = {x.full_name for x in github.get_organization("LineageOS").get_repos()}
+#gerrit_projects = {s for s in live.keys() if s.startswith("LineageOS/")}
 
-missing = gerrit_projects - github_projects
+#missing = gerrit_projects - github_projects
+
+missing = ['LineageOS/zifnab06-test']
 
 for repo in missing:
     print(f"Creating {repo} on github...")
-    g.get_organization("LineageOS").create_repo(repo.replace("LineageOS/",""), has_wiki=False, has_downloads=False, has_projects=False, has_issues=False, private=False)
+    github.get_organization("LineageOS").create_repo(repo.replace("LineageOS/",""), has_wiki=False, has_downloads=False, has_projects=False, has_issues=False, private=False)
 
+print("Updating gerrit permissions...")
+
+for parent, children in wanted.items():
+    for child in children:
+        if live.get(child, {}).get("parent") != parent:
+            print(f"Setting parent of {child} to {parent}")
+            gerrit.update_parent(child, parent)
 
 print("Done!")
