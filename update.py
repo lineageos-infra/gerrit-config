@@ -48,6 +48,8 @@ for parent, children in wanted.items():
 missing = gerrit_projects - github_projects
 
 for repo in missing:
+    if not repo.startswith("LineageOS/"):
+        continue
     print(f"Creating {repo} on github...")
     github.get_organization("LineageOS").create_repo(repo.replace("LineageOS/",""), has_wiki=False, has_downloads=False, has_projects=False, has_issues=False, private=False)
 
