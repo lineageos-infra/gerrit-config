@@ -1385,6 +1385,7 @@ OEM-Motorola:
   - PROJECT-Motorola-quark
   - PROJECT-Motorola-sdm632
   - PROJECT-Motorola-sm7250
+  - PROJECT-Motorola-sm8250
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
 OEM-Nintendo:
@@ -2071,6 +2072,9 @@ PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_sm7250-common
   - LineageOS/android_device_motorola_smith
   - LineageOS/android_kernel_motorola_sm7250
+PROJECT-Motorola-sm8250:
+  - LineageOS/android_device_motorola_nio
+  - LineageOS/android_kernel_motorola_sm8250
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
