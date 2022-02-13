@@ -38,12 +38,14 @@ live = gerrit.get_projects()
 print("Creating github repos...")
 
 
-#github_projects = {x.full_name for x in github.get_organization("LineageOS").get_repos()}
-#gerrit_projects = {s for s in live.keys() if s.startswith("LineageOS/")}
+github_projects = {x.full_name for x in github.get_organization("LineageOS").get_repos()}
+gerrit_projects = set()
 
-#missing = gerrit_projects - github_projects
+for parent, children in wanted.items():
+    gerrit_projects.add(wanted)
+    [gerrit_projects.add(x) for x in children]
 
-missing = ['LineageOS/zifnab06-test']
+missing = gerrit_projects - github_projects
 
 for repo in missing:
     print(f"Creating {repo} on github...")
