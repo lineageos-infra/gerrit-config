@@ -42,7 +42,7 @@ github_projects = {x.full_name for x in github.get_organization("LineageOS").get
 gerrit_projects = set()
 
 for parent, children in wanted.items():
-    gerrit_projects.add(wanted)
+    gerrit_projects.add(parent)
     [gerrit_projects.add(x) for x in children]
 
 missing = gerrit_projects - github_projects
