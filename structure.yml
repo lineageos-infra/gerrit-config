@@ -2905,6 +2905,10 @@ PROJECT-leeco-msm8996:
   - LineageOS/android_device_leeco_x2
   - LineageOS/android_device_leeco_zl1
   - LineageOS/android_kernel_leeco_msm8996
+PROJECT-nxp-hardware:
+  - LineageOS/android_vendor_nxp_nfc
+  - LineageOS/android_vendor_nxp_secure_element
+  - LineageOS/android_vendor_nxp_secure_element_extns
 PROJECT-qcom-hardware:
   - LineageOS/android_device_qcom_common
   - LineageOS/android_device_qcom_sepolicy
