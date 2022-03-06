@@ -525,6 +525,7 @@ Lineage-19.0-Projects:
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_ril
+  - LineageOS/android_kernel_configs
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
