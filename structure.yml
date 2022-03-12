@@ -489,6 +489,8 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_tools_metalava
 Lineage-19.0-Projects:
+  - Lineage-19.1-Projects
+Lineage-19.1-Projects:
   - Head-Developers
   - LineageOS/android_art
   - LineageOS/android_bionic
