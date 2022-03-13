@@ -483,7 +483,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_nfc
-  - LineageOS/android_system_qcom
   - LineageOS/android_system_timezone
   - LineageOS/android_system_tools_aidl
   - LineageOS/android_system_tools_hidl
@@ -597,6 +596,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
