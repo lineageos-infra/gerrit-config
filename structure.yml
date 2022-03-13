@@ -512,6 +512,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_openssh
+  - LineageOS/android_external_setupcompat
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_vim
   - LineageOS/android_external_wpa_supplicant_8
