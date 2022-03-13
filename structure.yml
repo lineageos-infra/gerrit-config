@@ -496,6 +496,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_soong
+  - LineageOS/android_device_generic_common
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_ant-wireless_ant_client
@@ -699,7 +700,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_generic_arm64
   - LineageOS/android_device_generic_armv7-a
   - LineageOS/android_device_generic_armv7-a-neon
-  - LineageOS/android_device_generic_common
   - LineageOS/android_device_generic_mips
   - LineageOS/android_device_generic_x86
   - LineageOS/android_device_google_accessory_arduino
