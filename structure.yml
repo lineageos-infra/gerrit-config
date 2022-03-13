@@ -462,7 +462,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_apps_ManagedProvisioning
-  - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
@@ -547,6 +546,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Messaging
+  - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Seedvault
