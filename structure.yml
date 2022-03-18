@@ -663,6 +663,7 @@ Lineage-Device-Projects:
   - OEM-ZTE
   - OEM-Zuk
   - OEM-leeco
+  - OEM-nxp
   - OEM-qcom
   - OEM-ti
   - PROJECT-Lineage-car
@@ -1545,6 +1546,8 @@ OEM-Zuk:
 OEM-leeco:
   - PROJECT-leeco-msm8952
   - PROJECT-leeco-msm8996
+OEM-nxp:
+  - PROJECT-nxp-hardware
 OEM-qcom:
   - LineageOS/android_kernel_qcom_msm8916
   - LineageOS/android_kernel_qcom_msm8974
