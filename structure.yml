@@ -378,7 +378,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
   - LineageOS/android_prebuilts_lineage-sdk
   - LineageOS/android_system_gatekeeper
-  - LineageOS/android_system_libhidl
   - LineageOS/android_system_libvintf
   - LineageOS/android_test_vts-testcase_vndk
 Lineage-17.0-Projects:
@@ -417,7 +416,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_keymaster
   - LineageOS/android_system_libfmq
-  - LineageOS/android_system_libhwbinder
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
   - Lineage-18.1-Projects
@@ -593,6 +591,8 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
+  - LineageOS/android_system_libhidl
+  - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
