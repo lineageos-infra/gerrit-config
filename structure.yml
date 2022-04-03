@@ -2066,6 +2066,8 @@ PROJECT-Motorola-msm8998:
 PROJECT-Motorola-mt6735:
   - LineageOS/android_device_motorola_taido
   - LineageOS/android_kernel_motorola_mt6735
+PROJECT-Motorola-nairo:
+  - LineageOS/android_device_motorola_nairo
 PROJECT-Motorola-quark:
   - LineageOS/android_device_motorola_quark
   - LineageOS/android_kernel_motorola_apq8084
@@ -2080,6 +2082,7 @@ PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_sm7250-common
   - LineageOS/android_device_motorola_smith
   - LineageOS/android_kernel_motorola_sm7250
+  - PROJECT-Motorola-nairo
 PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_nio
   - LineageOS/android_kernel_motorola_sm8250
