@@ -1998,6 +1998,8 @@ PROJECT-Motorola-griffin:
   - LineageOS/android_kernel_motorola_msm8996
 PROJECT-Motorola-hardware:
   - LineageOS/android_hardware_motorola
+PROJECT-Motorola-kiev:
+  - LineageOS/android_device_motorola_kiev
 PROJECT-Motorola-lux:
   - LineageOS/android_device_motorola_lux
 PROJECT-Motorola-motorola_omap4:
@@ -2082,6 +2084,7 @@ PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_sm7250-common
   - LineageOS/android_device_motorola_smith
   - LineageOS/android_kernel_motorola_sm7250
+  - PROJECT-Motorola-kiev
   - PROJECT-Motorola-nairo
 PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_nio
