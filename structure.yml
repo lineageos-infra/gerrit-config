@@ -448,7 +448,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_BasicSmsReceiver
   - LineageOS/android_packages_apps_CertInstaller
-  - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_KeyChain
@@ -535,6 +534,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_Eleven
+  - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_FlipFlap
