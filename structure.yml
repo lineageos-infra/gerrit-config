@@ -518,6 +518,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
   - LineageOS/android_hardware_lineage_interfaces
+  - LineageOS/android_hardware_lineage_libperfmgr
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_ril
   - LineageOS/android_kernel_configs
