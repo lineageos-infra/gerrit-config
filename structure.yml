@@ -2267,6 +2267,10 @@ PROJECT-Nvidia-t210:
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210
   - PROJECT-Nvidia-foster
+PROJECT-Nvidia-t234:
+  - LineageOS/android_hardware_nvidia_platform_t23x_common_kernel-dts
+  - LineageOS/android_hardware_nvidia_platform_t23x_concord_kernel-dts
+  - LineageOS/android_hardware_nvidia_soc_t23x
 PROJECT-Oneplus-bacon:
   - LineageOS/android_device_oneplus_bacon
   - LineageOS/android_kernel_oneplus_msm8974
