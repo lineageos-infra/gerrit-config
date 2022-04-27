@@ -414,7 +414,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
-  - LineageOS/android_system_keymaster
   - LineageOS/android_system_libfmq
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
@@ -593,6 +592,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_bt
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
+  - LineageOS/android_system_keymaster
   - LineageOS/android_system_libhidl
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_libziparchive
