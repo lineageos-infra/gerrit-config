@@ -2160,6 +2160,7 @@ PROJECT-Nvidia-foster_tab:
   - LineageOS/android_device_nvidia_foster_tab
   - PROJECT-Nvidia-mdarcy
   - PROJECT-Nvidia-porg
+  - PROJECT-Nvidia-loki
 PROJECT-Nvidia-galen:
   - LineageOS/android_device_nvidia_galen
   - PROJECT-Nvidia-galen_tab
@@ -2179,6 +2180,8 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_hardware_nvidia_thermal
 PROJECT-Nvidia-jetson:
   - LineageOS/android_device_nvidia_jetson
+PROJECT-Nvidia-loki:
+  - LineageOS/android_device_nvidia_loki
 PROJECT-Nvidia-mdarcy:
   - LineageOS/android_device_nvidia_mdarcy
   - LineageOS/android_device_nvidia_mdarcy_tab
