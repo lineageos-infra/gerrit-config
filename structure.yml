@@ -1603,6 +1603,8 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_hardware_amlogic_kernel-modules_rtl8822cs
   - LineageOS/android_kernel_amlogic_linux-4.9
 PROJECT-Amlogic-hardware:
+  - LineageOS/android_device_amlogic_common
+  - LineageOS/android_device_amlogic_gx-common
   - LineageOS/android_device_amlogic_sepolicy
   - LineageOS/android_hardware_amlogic_tools_dtbtool
   - LineageOS/android_hardware_amlogic_tools_imagepacker
