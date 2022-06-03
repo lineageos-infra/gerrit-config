@@ -1278,6 +1278,7 @@ OEM-Amazon:
   - PROJECT-Amazon-omap4
 OEM-Amlogic:
   - PROJECT-Amlogic-g12
+  - PROJECT-Amlogic-gxl
   - PROJECT-Amlogic-hardware
 OEM-Ark:
   - PROJECT-Ark-peach
@@ -1602,6 +1603,10 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_hardware_amlogic_kernel-modules_rtl8822bs
   - LineageOS/android_hardware_amlogic_kernel-modules_rtl8822cs
   - LineageOS/android_kernel_amlogic_linux-4.9
+PROJECT-Amlogic-gxl:
+  - LineageOS/android_hardware_amlogic_kernel-modules_media-pie
+  - LineageOS/android_hardware_amlogic_kernel-modules_optee-pie
+  - LineageOS/android_kernel_amlogic_linux-4.9-pie
 PROJECT-Amlogic-hardware:
   - LineageOS/android_device_amlogic_common
   - LineageOS/android_device_amlogic_gx-common
