@@ -1379,7 +1379,6 @@ OEM-MediaTek:
 OEM-Moto:
   - PROJECT-Moto-shamu
 OEM-Motorola:
-  - PROJECT-Motorola-addison
   - PROJECT-Motorola-athene
   - PROJECT-Motorola-exynos9610
   - PROJECT-Motorola-griffin
@@ -1389,6 +1388,7 @@ OEM-Motorola:
   - PROJECT-Motorola-msm8610
   - PROJECT-Motorola-msm8916
   - PROJECT-Motorola-msm8937
+  - PROJECT-Motorola-msm8953
   - PROJECT-Motorola-msm8960
   - PROJECT-Motorola-msm8974
   - PROJECT-Motorola-msm8992
@@ -1996,6 +1996,8 @@ PROJECT-Moto-shamu:
   - LineageOS/android_kernel_moto_shamu
 PROJECT-Motorola-addison:
   - LineageOS/android_device_motorola_addison
+PROJECT-Motorola-albus:
+  - LineageOS/android_device_motorola_albus
 PROJECT-Motorola-athene:
   - LineageOS/android_device_motorola_athene
   - LineageOS/android_device_motorola_potter
@@ -2008,7 +2010,6 @@ PROJECT-Motorola-exynos9610:
   - LineageOS/android_device_motorola_troika
   - LineageOS/android_kernel_motorola_exynos9610
 PROJECT-Motorola-griffin:
-  - LineageOS/android_device_motorola_albus
   - LineageOS/android_device_motorola_griffin
   - LineageOS/android_kernel_motorola_msm8996
 PROJECT-Motorola-hardware:
@@ -2045,6 +2046,8 @@ PROJECT-Motorola-msm8916:
   - LineageOS/android_kernel_motorola_msm8916
   - PROJECT-Motorola-lux
 PROJECT-Motorola-msm8937:
+  - LineageOS/android_kernel_motorola_msm8937
+PROJECT-Motorola-msm8953:
   - LineageOS/android_device_motorola_ahannah
   - LineageOS/android_device_motorola_cedric
   - LineageOS/android_device_motorola_hannah
@@ -2052,8 +2055,9 @@ PROJECT-Motorola-msm8937:
   - LineageOS/android_device_motorola_montana
   - LineageOS/android_device_motorola_msm8937-common
   - LineageOS/android_device_motorola_rhannah
-  - LineageOS/android_kernel_motorola_msm8937
   - LineageOS/android_kernel_motorola_msm8953
+  - PROJECT-Motorola-addison
+  - PROJECT-Motorola-albus
 PROJECT-Motorola-msm8960:
   - LineageOS/android_device_motorola_mb886
   - LineageOS/android_device_motorola_msm8960-common
