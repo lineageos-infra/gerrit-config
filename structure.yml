@@ -384,7 +384,6 @@ Lineage-17.0-Projects:
   - Lineage-17.1-Projects
 Lineage-17.1-Projects:
   - Lineage-18.0-Projects
-  - LineageOS/android_external_aac
   - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_dnsmasq
   - LineageOS/android_external_exfat
@@ -422,6 +421,7 @@ Lineage-18.1-Projects:
   - Lineage-19.0-Projects
   - LineageOS/android_build_blueprint
   - LineageOS/android_development
+  - LineageOS/android_external_aac
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_boringssl
   - LineageOS/android_external_cldr
