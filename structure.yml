@@ -1563,6 +1563,10 @@ OEM-qcom:
   - LineageOS/android_kernel_qcom_msm8994
   - LineageOS/android_kernel_qcom_msm8996
   - LineageOS/android_kernel_qcom_msm8998
+  - LineageOS/android_kernel_qcom_sdm845
+  - LineageOS/android_kernel_qcom_sm8150
+  - LineageOS/android_kernel_qcom_sm8250
+  - LineageOS/android_kernel_qcom_sm8350
   - PROJECT-qcom-hardware
 OEM-ti:
   - PROJECT-ti-hardware
