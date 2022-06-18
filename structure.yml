@@ -1530,6 +1530,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-mt6785
   - PROJECT-Xiaomi-onclite
   - PROJECT-Xiaomi-sdm660
+  - PROJECT-Xiaomi-sdm710
   - PROJECT-Xiaomi-sdm845
   - PROJECT-Xiaomi-sm6125
   - PROJECT-Xiaomi-sm6150
@@ -2839,6 +2840,10 @@ PROJECT-Xiaomi-sdm660:
   - PROJECT-Xiaomi-platina
   - PROJECT-Xiaomi-twolip
   - PROJECT-Xiaomi-whyred
+PROJECT-Xiaomi-sdm710:
+  - LineageOS/android_device_xiaomi_grus
+  - LineageOS/android_device_xiaomi_sdm710-common
+  - LineageOS/android_kernel_xiaomi_sdm710
 PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_beryllium
   - LineageOS/android_device_xiaomi_equuleus
