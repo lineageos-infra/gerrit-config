@@ -431,7 +431,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_libevdev
   - LineageOS/android_external_libexif
   - LineageOS/android_external_libnfc-nxp
-  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_robolectric-shadows
   - LineageOS/android_external_sony_boringssl-compat
@@ -497,6 +496,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
+  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_pigz
