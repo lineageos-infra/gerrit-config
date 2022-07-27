@@ -2169,6 +2169,7 @@ PROJECT-Nvidia-common:
   - PROJECT-Nvidia-t186
   - PROJECT-Nvidia-t194
   - PROJECT-Nvidia-t210
+  - PROJECT-Nvidia-t234
 PROJECT-Nvidia-dalmore:
   - LineageOS/android_device_nvidia_dalmore
 PROJECT-Nvidia-foster:
