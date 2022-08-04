@@ -1314,6 +1314,7 @@ OEM-Essential:
 OEM-Fairphone:
   - PROJECT-Fairphone-FP2
   - PROJECT-Fairphone-FP3
+  - PROJECT-Fairphone-FP4
 OEM-Fxtec:
   - PROJECT-Fxtec-pro1
 OEM-Generic:
@@ -1723,6 +1724,9 @@ PROJECT-Fairphone-FP2:
 PROJECT-Fairphone-FP3:
   - LineageOS/android_device_fairphone_FP3
   - LineageOS/android_kernel_fairphone_sdm632
+PROJECT-Fairphone-FP4:
+  - LineageOS/android_device_fairphone_FP4
+  - LineageOS/android_kernel_fairphone_sm7225
 PROJECT-Fxtec-pro1:
   - LineageOS/android_device_fxtec_pro1
   - LineageOS/android_kernel_fxtec_msm8998
