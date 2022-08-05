@@ -1759,10 +1759,12 @@ PROJECT-Google-marlin:
   - LineageOS/android_device_google_sailfish
   - LineageOS/android_kernel_google_marlin
 PROJECT-Google-raviole:
+  - LineageOS/android_device_google_bluejay
   - LineageOS/android_device_google_gs101
   - LineageOS/android_device_google_oriole
   - LineageOS/android_device_google_raven
   - LineageOS/android_device_google_raviole
+  - LineageOS/android_kernel_google_bluejay
   - LineageOS/android_kernel_google_raviole
 PROJECT-Google-redbull:
   - LineageOS/android_device_google_barbet
