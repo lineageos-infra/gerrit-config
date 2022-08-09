@@ -1399,6 +1399,7 @@ OEM-Motorola:
   - PROJECT-Motorola-quark
   - PROJECT-Motorola-sdm632
   - PROJECT-Motorola-sm7250
+  - PROJECT-Motorola-sm7325
   - PROJECT-Motorola-sm8250
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
