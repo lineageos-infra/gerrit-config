@@ -2118,6 +2118,10 @@ PROJECT-Motorola-sm7250:
   - LineageOS/android_kernel_motorola_sm7250
   - PROJECT-Motorola-kiev
   - PROJECT-Motorola-nairo
+PROJECT-Motorola-sm7325:
+  - LineageOS/android_device_motorola_berlin
+  - LineageOS/android_device_motorola_sm7325-common
+  - LineageOS/android_kernel_motorola_sm7325
 PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_nio
   - LineageOS/android_kernel_motorola_sm8250
