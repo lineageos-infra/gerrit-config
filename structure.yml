@@ -1751,6 +1751,8 @@ PROJECT-Google-dragon:
   - LineageOS/android_device_google_dragon
   - LineageOS/android_kernel_google_dragon
 PROJECT-Google-hardware:
+  - LineageOS/android_hardware_google_gchips
+  - LineageOS/android_hardware_google_graphics_common
   - LineageOS/android_hardware_google_pixel
   - LineageOS/android_hardware_google_pixel-sepolicy
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
