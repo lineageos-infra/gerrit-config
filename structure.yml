@@ -2127,6 +2127,7 @@ PROJECT-Motorola-sm7325:
   - LineageOS/android_kernel_motorola_sm7325
 PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_nio
+  - LineageOS/android_device_motorola_pstar
   - LineageOS/android_device_motorola_sm8250-common
   - LineageOS/android_kernel_motorola_sm8250
 PROJECT-Nextbit-ether:
