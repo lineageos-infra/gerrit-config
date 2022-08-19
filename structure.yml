@@ -1501,7 +1501,7 @@ OEM-Sony:
   - PROJECT-Sony-hardware
   - PROJECT-Sony-huashan
   - PROJECT-Sony-kitakami
-  - PROJECT-Sony-loire
+  - PROJECT-Sony-msm8956
   - PROJECT-Sony-nicki
   - PROJECT-Sony-nile
   - PROJECT-Sony-satsuki
@@ -2731,7 +2731,8 @@ PROJECT-Sony-kitakami:
   - LineageOS/android_device_sony_sumire
   - LineageOS/android_device_sony_suzuran
   - LineageOS/android_kernel_sony_msm8994
-PROJECT-Sony-loire:
+PROJECT-Sony-msm8956:
+  - LineageOS/android_device_sony_kugo
   - LineageOS/android_device_sony_loire-common
   - LineageOS/android_device_sony_suzu
   - LineageOS/android_kernel_sony_msm8956
