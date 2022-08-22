@@ -493,7 +493,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_hardware_lineage_libperfmgr
   - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_CarrierConfig
-  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9
   - LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_darwin-x86_x86_x86_64-linux-android-4.9
@@ -568,6 +567,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_ThemePicker
+  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LatinIME
