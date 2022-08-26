@@ -477,10 +477,6 @@ Lineage-19.0-Projects:
 Lineage-19.1-Projects:
   - Lineage-20.0-Projects
   - LineageOS/android_art
-  - LineageOS/android_external_ant-wireless_ant_client
-  - LineageOS/android_external_ant-wireless_ant_native
-  - LineageOS/android_external_ant-wireless_ant_service
-  - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_bson
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_p7zip
@@ -513,6 +509,10 @@ Lineage-20.0-Projects:
   - LineageOS/android_device_generic_common
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_android-nn-driver
+  - LineageOS/android_external_ant-wireless_ant_client
+  - LineageOS/android_external_ant-wireless_ant_native
+  - LineageOS/android_external_ant-wireless_ant_service
+  - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bash
   - LineageOS/android_external_exfatprogs
