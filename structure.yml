@@ -39,7 +39,6 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_embunit
   - LineageOS/android_external_emma
   - LineageOS/android_external_esd
-  - LineageOS/android_external_expat
   - LineageOS/android_external_eyes-free
   - LineageOS/android_external_fdlibm
   - LineageOS/android_external_ganymed-ssh2
@@ -478,6 +477,7 @@ Lineage-19.1-Projects:
   - Lineage-20.0-Projects
   - LineageOS/android_art
   - LineageOS/android_external_bson
+  - LineageOS/android_external_expat
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_pigz
