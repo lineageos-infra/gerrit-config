@@ -533,6 +533,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
+  - LineageOS/android_hardware_lineage_compat
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_ril
