@@ -473,7 +473,6 @@ Lineage-19.0-Projects:
 Lineage-19.1-Projects:
   - Lineage-20.0-Projects
   - LineageOS/android_art
-  - LineageOS/android_external_bson
   - LineageOS/android_external_expat
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_p7zip
@@ -497,7 +496,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_bt
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_netd
-  - LineageOS/android_system_qcom
 Lineage-20.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
@@ -512,6 +510,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bash
+  - LineageOS/android_external_bson
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
   - LineageOS/android_external_icu
@@ -602,6 +601,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_timezone
