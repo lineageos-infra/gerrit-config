@@ -601,6 +601,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
+  - LineageOS/android_system_memory_lmkd
   - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
