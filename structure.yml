@@ -2188,6 +2188,7 @@ PROJECT-Nvidia-common:
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu
   - LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia
   - LineageOS/android_kernel_nvidia_mainline
+  - LineageOS/android_kernel_nvidia_nvethernetrm
   - LineageOS/android_kernel_nvidia_nvgpu
   - LineageOS/android_kernel_nvidia_nvidia
   - LineageOS/android_kernel_nvidia_shield
