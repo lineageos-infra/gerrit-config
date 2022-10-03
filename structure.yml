@@ -537,6 +537,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_kernel_configs
   - LineageOS/android_libcore
   - LineageOS/android_lineage-sdk
+  - LineageOS/android_packages_apps_Aperture
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
