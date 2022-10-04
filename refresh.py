@@ -1,6 +1,6 @@
 from lib import Gerrit
 
-projects = Gerrit.get_projects()
+projects = Gerrit().get_projects()
 
 print("---")
 for node in sorted(projects.keys()):
