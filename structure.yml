@@ -1759,6 +1759,12 @@ PROJECT-Google-crosshatch:
 PROJECT-Google-dragon:
   - LineageOS/android_device_google_dragon
   - LineageOS/android_kernel_google_dragon
+PROJECT-Google-gs201:
+  - LineageOS/android_device_google_cheetah
+  - LineageOS/android_device_google_gs201
+  - LineageOS/android_device_google_pantah
+  - LineageOS/android_device_google_panther
+  - LineageOS/android_kernel_google_gs201
 PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_gchips
   - LineageOS/android_hardware_google_graphics_common
