@@ -2130,6 +2130,7 @@ PROJECT-Motorola-sdm632:
   - LineageOS/android_device_motorola_sdm632-common
   - LineageOS/android_kernel_motorola_sdm632
 PROJECT-Motorola-sm6150:
+  - LineageOS/android_device_motorola_odessa
   - LineageOS/android_device_motorola_parker
   - LineageOS/android_device_motorola_sm6150-common
   - LineageOS/android_kernel_motorola_sm6150
