@@ -2160,6 +2160,7 @@ PROJECT-Nintendo-hardware:
   - LineageOS/android_hardware_nintendo_joycond
 PROJECT-Nintendo-icosa:
   - LineageOS/android_device_nintendo_icosa
+  - LineageOS/android_device_nintendo_nx
   - LineageOS/android_hardware_nvidia_platform_t210_switch
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
@@ -2191,6 +2192,7 @@ PROJECT-Nvidia-common:
   - LineageOS/android_hardware_nvidia_platform_tegra_common
   - LineageOS/android_hardware_nvidia_soc_tegra
   - LineageOS/android_kernel_nvidia_cypress-fmac
+  - LineageOS/android_kernel_nvidia_cypress-fmac-upstream
   - LineageOS/android_kernel_nvidia_kernel
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra
