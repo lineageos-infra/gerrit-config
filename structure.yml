@@ -187,7 +187,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_frameworks_multidex
   - LineageOS/android_frameworks_opt_bitmap
   - LineageOS/android_frameworks_opt_bluetooth
-  - LineageOS/android_frameworks_opt_calendar
   - LineageOS/android_frameworks_opt_carddav
   - LineageOS/android_frameworks_opt_colorpicker
   - LineageOS/android_frameworks_opt_emoji
@@ -527,6 +526,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_native
+  - LineageOS/android_frameworks_opt_calendar
   - LineageOS/android_frameworks_opt_telephony
   - LineageOS/android_frameworks_opt_timezonepicker
   - LineageOS/android_hardware_interfaces
