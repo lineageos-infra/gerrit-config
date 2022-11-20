@@ -573,6 +573,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_inputmethods_LeanbackIME
+  - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_Wifi
