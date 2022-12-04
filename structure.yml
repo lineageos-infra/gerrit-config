@@ -507,6 +507,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_armnn
+  - LineageOS/android_external_avb
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
