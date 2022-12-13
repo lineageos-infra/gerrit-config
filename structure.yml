@@ -1423,6 +1423,7 @@ OEM-Nubia:
   - PROJECT-Nubia-msm8998
   - PROJECT-Nubia-nx512j
   - PROJECT-Nubia-nx531j
+  - PROJECT-Nubia-nx611j
 OEM-Nvidia:
   - PROJECT-Nvidia-bootable
   - PROJECT-Nvidia-common
@@ -2184,6 +2185,9 @@ PROJECT-Nubia-nx512j:
 PROJECT-Nubia-nx531j:
   - LineageOS/android_device_nubia_nx531j
   - LineageOS/android_kernel_nubia_msm8996
+PROJECT-Nubia-nx611j:
+  - LineageOS/android_device_nubia_nx611j
+  - LineageOS/android_kernel_nubia_sdm660
 PROJECT-Nvidia-bootable:
   - LineageOS/android_bootable_cboot_common
   - LineageOS/android_bootable_cboot_lk
