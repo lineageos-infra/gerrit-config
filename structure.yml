@@ -577,6 +577,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_Permission
+  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_modules_common
