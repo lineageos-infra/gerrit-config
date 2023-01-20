@@ -1327,6 +1327,7 @@ OEM-Fairphone:
   - PROJECT-Fairphone-FP4
 OEM-Fxtec:
   - PROJECT-Fxtec-pro1
+  - PROJECT-Fxtec-pro1x
 OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
@@ -1746,6 +1747,9 @@ PROJECT-Fairphone-FP4:
 PROJECT-Fxtec-pro1:
   - LineageOS/android_device_fxtec_pro1
   - LineageOS/android_kernel_fxtec_msm8998
+PROJECT-Fxtec-pro1x:
+  - LineageOS/android_device_fxtec_pro1x
+  - LineageOS/android_kernel_fxtec_sm6115
 PROJECT-Generic-goldfish:
   - LineageOS/android_device_generic_goldfish
   - LineageOS/android_device_generic_goldfish-opengl
