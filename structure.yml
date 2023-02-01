@@ -2800,6 +2800,7 @@ PROJECT-Sony-shinano:
   - PROJECT-Sony-castor
 PROJECT-Sony-sm8250:
   - LineageOS/android_device_sony_pdx203
+  - LineageOS/android_device_sony_pdx206
   - LineageOS/android_device_sony_sm8250-common
   - LineageOS/android_kernel_sony_sm8250
 PROJECT-Sony-tama:
