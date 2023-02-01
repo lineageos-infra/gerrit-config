@@ -2029,7 +2029,9 @@ PROJECT-Lineage-telephony:
   - LineageOS/android_hardware_lineage_telephony
 PROJECT-MediaTek-hardware:
   - LineageOS/android_device_mediatek_sepolicy
+  - LineageOS/android_device_mediatek_sepolicy_vndr
   - LineageOS/android_hardware_mediatek
+  - LineageOS/android_packages_apps_MtkFMRadio
 PROJECT-Mirror:
   - LineageOS/mirror
 PROJECT-Moto-shamu:
