@@ -1547,6 +1547,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-mt6768
   - PROJECT-Xiaomi-mt6785
   - PROJECT-Xiaomi-onclite
+  - PROJECT-Xiaomi-sdm439
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm710
   - PROJECT-Xiaomi-sdm845
@@ -2904,6 +2905,10 @@ PROJECT-Xiaomi-onclite:
   - LineageOS/android_kernel_xiaomi_onclite
 PROJECT-Xiaomi-platina:
   - LineageOS/android_device_xiaomi_platina
+PROJECT-Xiaomi-sdm439:
+  - LineageOS/android_device_xiaomi_Mi439
+  - LineageOS/android_device_xiaomi_mithorium-common
+  - LineageOS/android_kernel_xiaomi_sdm439
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
   - LineageOS/android_device_xiaomi_sdm660-common
