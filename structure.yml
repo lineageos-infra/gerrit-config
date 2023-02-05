@@ -2158,6 +2158,7 @@ PROJECT-Motorola-sm7250:
   - PROJECT-Motorola-nairo
 PROJECT-Motorola-sm7325:
   - LineageOS/android_device_motorola_berlin
+  - LineageOS/android_device_motorola_berlna
   - LineageOS/android_device_motorola_dubai
   - LineageOS/android_device_motorola_sm7325-common
   - LineageOS/android_kernel_motorola_sm7325
