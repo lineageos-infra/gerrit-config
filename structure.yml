@@ -1540,6 +1540,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-hardware
   - PROJECT-Xiaomi-ido
   - PROJECT-Xiaomi-land
+  - PROJECT-Xiaomi-msm8937
   - PROJECT-Xiaomi-msm8953
   - PROJECT-Xiaomi-msm8956
   - PROJECT-Xiaomi-msm8992
@@ -2861,9 +2862,12 @@ PROJECT-Xiaomi-land:
   - LineageOS/android_device_xiaomi_land
   - LineageOS/android_device_xiaomi_msm8937-common
   - LineageOS/android_device_xiaomi_santoni
-  - LineageOS/android_kernel_xiaomi_msm8937
 PROJECT-Xiaomi-lavender:
   - LineageOS/android_device_xiaomi_lavender
+PROJECT-Xiaomi-msm8937:
+  - LineageOS/android_device_xiaomi_Mi8917
+  - LineageOS/android_device_xiaomi_Mi8937
+  - LineageOS/android_kernel_xiaomi_msm8937
 PROJECT-Xiaomi-msm8953:
   - LineageOS/android_device_xiaomi_mido
   - LineageOS/android_device_xiaomi_msm8953-common
