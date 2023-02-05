@@ -1540,7 +1540,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-hardware
   - PROJECT-Xiaomi-ido
   - PROJECT-Xiaomi-land
-  - PROJECT-Xiaomi-msm8937
+  - PROJECT-Xiaomi-mithorium
   - PROJECT-Xiaomi-msm8953
   - PROJECT-Xiaomi-msm8956
   - PROJECT-Xiaomi-msm8992
@@ -1549,7 +1549,6 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-mt6768
   - PROJECT-Xiaomi-mt6785
   - PROJECT-Xiaomi-onclite
-  - PROJECT-Xiaomi-sdm439
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm710
   - PROJECT-Xiaomi-sdm845
@@ -2864,6 +2863,10 @@ PROJECT-Xiaomi-land:
   - LineageOS/android_device_xiaomi_santoni
 PROJECT-Xiaomi-lavender:
   - LineageOS/android_device_xiaomi_lavender
+PROJECT-Xiaomi-mithorium:
+  - LineageOS/android_device_xiaomi_mithorium-common
+  - PROJECT-Xiaomi-msm8937
+  - PROJECT-Xiaomi-sdm439
 PROJECT-Xiaomi-msm8937:
   - LineageOS/android_device_xiaomi_Mi8917
   - LineageOS/android_device_xiaomi_Mi8937
@@ -2915,7 +2918,6 @@ PROJECT-Xiaomi-platina:
   - LineageOS/android_device_xiaomi_platina
 PROJECT-Xiaomi-sdm439:
   - LineageOS/android_device_xiaomi_Mi439
-  - LineageOS/android_device_xiaomi_mithorium-common
   - LineageOS/android_kernel_xiaomi_sdm439
 PROJECT-Xiaomi-sdm660:
   - LineageOS/android_device_xiaomi_jasmine_sprout
