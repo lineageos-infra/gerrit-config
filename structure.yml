@@ -2352,6 +2352,7 @@ PROJECT-Nvidia-t210:
 PROJECT-Nvidia-t234:
   - LineageOS/android_hardware_nvidia_platform_t23x_common_kernel-dts
   - LineageOS/android_hardware_nvidia_platform_t23x_concord_kernel-dts
+  - LineageOS/android_hardware_nvidia_platform_t23x_p3768_kernel-dts
   - LineageOS/android_hardware_nvidia_soc_t23x
 PROJECT-Oneplus-bacon:
   - LineageOS/android_device_oneplus_bacon
