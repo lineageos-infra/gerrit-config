@@ -183,7 +183,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_frameworks_compile_libbcc
   - LineageOS/android_frameworks_compile_slang
   - LineageOS/android_frameworks_mff
-  - LineageOS/android_frameworks_ml
   - LineageOS/android_frameworks_multidex
   - LineageOS/android_frameworks_opt_bitmap
   - LineageOS/android_frameworks_opt_bluetooth
@@ -432,6 +431,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_toybox
   - LineageOS/android_external_tremolo
+  - LineageOS/android_frameworks_ml
   - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_libbt
