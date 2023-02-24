@@ -620,6 +620,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
+  - OEM-10or
   - OEM-Acer
   - OEM-Advent
   - OEM-Alcatel
@@ -1281,6 +1282,8 @@ Master-Enabled:
   - PROJECT-Infrastructure
   - PROJECT-Mirror
   - PROJECT-web-services
+OEM-10or:
+  - PROJECT-10or-G
 OEM-Alcatel:
   - PROJECT-Alcatel-idol3
 OEM-Amazon:
@@ -1593,6 +1596,9 @@ OEM-qcom:
   - PROJECT-qcom-hardware
 OEM-ti:
   - PROJECT-ti-hardware
+PROJECT-10or-G:
+  - LineageOS/android_device_10or_G
+  - LineageOS/android_kernel_10or_G
 PROJECT-Alcatel-idol3:
   - LineageOS/android_device_alcatel_idol3
   - LineageOS/android_kernel_alcatel_msm8916
