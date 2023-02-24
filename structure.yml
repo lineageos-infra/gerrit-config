@@ -2246,6 +2246,7 @@ PROJECT-Nvidia-galen_tab:
 PROJECT-Nvidia-hardware:
   - LineageOS/android_device_nvidia_icera
   - LineageOS/android_device_nvidia_touch
+  - LineageOS/android_external_tinyhal
   - LineageOS/android_hardware_nvidia_boot_control
   - LineageOS/android_hardware_nvidia_hwinc
   - LineageOS/android_hardware_nvidia_interfaces
