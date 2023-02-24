@@ -1342,6 +1342,7 @@ OEM-Google:
   - PROJECT-Google-redbull
   - PROJECT-Google-seed
   - PROJECT-Google-shamrock
+  - PROJECT-Google-sphynx
   - PROJECT-Google-sprout
   - PROJECT-Google-wahoo
   - PROJECT-Google-yellowstone
@@ -1813,6 +1814,9 @@ PROJECT-Google-seed:
 PROJECT-Google-shamrock:
   - LineageOS/android_device_google_shamrock
   - LineageOS/android_kernel_google_shamrock
+PROJECT-Google-sphynx:
+  - LineageOS/android_device_google_sphynx
+  - LineageOS/android_hardware_nvidia_platform_t210_smaug
 PROJECT-Google-sprout:
   - LineageOS/android_device_google_sprout
   - LineageOS/android_device_google_sprout-common
