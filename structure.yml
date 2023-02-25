@@ -1374,6 +1374,7 @@ OEM-LGE:
   - PROJECT-LGE-gproj
   - PROJECT-LGE-hammerhead
   - PROJECT-LGE-hammerheadcaf
+  - PROJECT-LGE-hardware
   - PROJECT-LGE-mako
   - PROJECT-LGE-msm8226
   - PROJECT-LGE-msm8916
@@ -1949,6 +1950,8 @@ PROJECT-LGE-hammerhead:
   - LineageOS/android_kernel_lge_hammerhead
 PROJECT-LGE-hammerheadcaf:
   - LineageOS/android_device_lge_hammerheadcaf
+PROJECT-LGE-hardware:
+  - LineageOS/android_hardware_lge
 PROJECT-LGE-mako:
   - LineageOS/android_device_lge_mako
   - LineageOS/android_kernel_lge_mako
@@ -1992,6 +1995,8 @@ PROJECT-LGE-msm8996:
   - LineageOS/android_kernel_lge_msm8996
 PROJECT-LGE-msm8998:
   - LineageOS/android_device_lge_h930
+  - LineageOS/android_device_lge_h932
+  - LineageOS/android_device_lge_joan
   - LineageOS/android_device_lge_joan-common
   - LineageOS/android_kernel_lge_msm8998
 PROJECT-LGE-v4xx:
