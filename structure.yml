@@ -1526,6 +1526,7 @@ OEM-Sony:
   - PROJECT-Sony-satsuki
   - PROJECT-Sony-shinano
   - PROJECT-Sony-sm8250
+  - PROJECT-Sony-sm8350
   - PROJECT-Sony-tama
   - PROJECT-Sony-taoshan
   - PROJECT-Sony-yukon
@@ -2827,6 +2828,10 @@ PROJECT-Sony-sm8250:
   - LineageOS/android_device_sony_pdx206
   - LineageOS/android_device_sony_sm8250-common
   - LineageOS/android_kernel_sony_sm8250
+PROJECT-Sony-sm8350:
+  - LineageOS/android_device_sony_pdx215
+  - LineageOS/android_device_sony_sm8350-common
+  - LineageOS/android_kernel_sony_sm8350
 PROJECT-Sony-tama:
   - LineageOS/android_device_sony_akari
   - LineageOS/android_device_sony_akatsuki
