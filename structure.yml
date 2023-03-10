@@ -1272,6 +1272,7 @@ Master-Enabled:
   - LineageOS/android_external_chromium-webview_prebuilt_arm
   - LineageOS/android_external_chromium-webview_prebuilt_arm64
   - LineageOS/android_external_chromium-webview_prebuilt_x86
+  - LineageOS/android_external_chromium-webview_prebuilt_x86_64
   - LineageOS/charter
   - LineageOS/cm_crowdin
   - LineageOS/contributors-cloud-generator
