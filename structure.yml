@@ -2270,6 +2270,7 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_hardware_nvidia_interfaces
   - LineageOS/android_hardware_nvidia_libstagefrighthw
   - LineageOS/android_hardware_nvidia_light
+  - LineageOS/android_hardware_nvidia_livedisplay
   - LineageOS/android_hardware_nvidia_memtrack
   - LineageOS/android_hardware_nvidia_power
   - LineageOS/android_hardware_nvidia_sensors
