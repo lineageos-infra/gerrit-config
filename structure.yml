@@ -356,7 +356,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_proguard
   - LineageOS/android_external_puffin
   - LineageOS/android_external_strace
-  - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_opt_datetimepicker
   - LineageOS/android_frameworks_support
@@ -475,6 +474,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_external_rsync
   - LineageOS/android_external_unrar
   - LineageOS/android_external_zip
+  - LineageOS/android_external_zlib
   - LineageOS/android_frameworks_libs_net
   - LineageOS/android_frameworks_minikin
   - LineageOS/android_hardware_lineage_libperfmgr
