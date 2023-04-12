@@ -466,6 +466,7 @@ Lineage-19.0-Projects:
 Lineage-19.1-Projects:
   - Lineage-20.0-Projects
   - LineageOS/android_art
+  - LineageOS/android_external_angle
   - LineageOS/android_external_dtc
   - LineageOS/android_external_expat
   - LineageOS/android_external_p7zip
