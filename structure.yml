@@ -2146,6 +2146,7 @@ PROJECT-Motorola-msm8998:
   - LineageOS/android_device_motorola_lake
   - LineageOS/android_device_motorola_nash
   - LineageOS/android_device_motorola_payton
+  - LineageOS/android_device_motorola_msm8998-common
   - LineageOS/android_device_motorola_sdm660-common
   - LineageOS/android_kernel_motorola_msm8998
   - PROJECT-Motorola-chef
