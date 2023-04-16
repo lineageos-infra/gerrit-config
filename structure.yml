@@ -2431,6 +2431,7 @@ PROJECT-Oneplus-sm8250:
 PROJECT-Oneplus-sm8350:
   - LineageOS/android_device_oneplus_lemonade
   - LineageOS/android_device_oneplus_lemonadep
+  - LineageOS/android_device_oneplus_martini
   - LineageOS/android_device_oneplus_sm8350-common
   - LineageOS/android_kernel_oneplus_sm8350
 PROJECT-Oppo-apq8064:
