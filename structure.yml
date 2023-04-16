@@ -2209,6 +2209,7 @@ PROJECT-Nubia-TP1803:
 PROJECT-Nubia-msm8998:
   - LineageOS/android_device_nubia_msm8998-common
   - LineageOS/android_device_nubia_nx563j
+  - LineageOS/android_device_nubia_nx609j
   - LineageOS/android_kernel_nubia_msm8998
 PROJECT-Nubia-nx512j:
   - LineageOS/android_device_nubia_nx512j
