@@ -1994,6 +1994,7 @@ PROJECT-LGE-msm8996:
   - LineageOS/android_device_lge_msm8996-common
   - LineageOS/android_device_lge_rs988
   - LineageOS/android_device_lge_us996
+  - LineageOS/android_device_lge_us996d
   - LineageOS/android_device_lge_us997
   - LineageOS/android_device_lge_v20-common
   - LineageOS/android_device_lge_vs995
