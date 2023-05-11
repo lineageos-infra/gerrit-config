@@ -522,6 +522,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_vim
   - LineageOS/android_external_wpa_supplicant_8
+  - LineageOS/android_external_zstd
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_libs_systemui
