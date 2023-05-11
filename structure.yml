@@ -471,7 +471,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_external_expat
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_pigz
-  - LineageOS/android_external_rsync
   - LineageOS/android_external_unrar
   - LineageOS/android_external_zip
   - LineageOS/android_external_zlib
@@ -518,6 +517,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
+  - LineageOS/android_external_rsync
   - LineageOS/android_external_setupcompat
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_vim
