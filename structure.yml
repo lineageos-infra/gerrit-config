@@ -2887,7 +2887,6 @@ PROJECT-Wingtech-wt88047:
   - LineageOS/android_device_xiaomi_wt88047x
   - LineageOS/android_kernel_wingtech_msm8916
 PROJECT-Xiaomi-Violet:
-  - LineageOS/android_device_xiaomi_violet
   - LineageOS/android_kernel_xiaomi_violet
 PROJECT-Xiaomi-armani:
   - LineageOS/android_device_xiaomi_armani
@@ -3009,6 +3008,9 @@ PROJECT-Xiaomi-sm6150:
   - LineageOS/android_device_xiaomi_davinci
   - LineageOS/android_device_xiaomi_phoenix
   - LineageOS/android_device_xiaomi_sm6150-common
+  - LineageOS/android_device_xiaomi_surya
+  - LineageOS/android_device_xiaomi_sweet
+  - LineageOS/android_device_xiaomi_violet
   - LineageOS/android_kernel_xiaomi_sm6150
 PROJECT-Xiaomi-sm6250:
   - LineageOS/android_device_xiaomi_miatoll
@@ -3037,7 +3039,6 @@ PROJECT-Xiaomi-sm8350:
   - LineageOS/android_device_xiaomi_sm8350-common
   - LineageOS/android_kernel_xiaomi_sm8350
 PROJECT-Xiaomi-surya:
-  - LineageOS/android_device_xiaomi_surya
   - LineageOS/android_kernel_xiaomi_surya
 PROJECT-Xiaomi-twolip:
   - LineageOS/android_device_xiaomi_twolip
