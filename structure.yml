@@ -1418,6 +1418,7 @@ OEM-Motorola:
   - PROJECT-Motorola-quark
   - PROJECT-Motorola-sdm632
   - PROJECT-Motorola-sm6150
+  - PROJECT-Motorola-sm6225
   - PROJECT-Motorola-sm7250
   - PROJECT-Motorola-sm7325
   - PROJECT-Motorola-sm8250
@@ -2173,6 +2174,14 @@ PROJECT-Motorola-sm6150:
   - LineageOS/android_device_motorola_parker
   - LineageOS/android_device_motorola_sm6150-common
   - LineageOS/android_kernel_motorola_sm6150
+PROJECT-Motorola-sm6225:
+  - LineageOS/android_device_motorola_borneo
+  - LineageOS/android_device_motorola_caprip
+  - LineageOS/android_device_motorola_devon
+  - LineageOS/android_device_motorola_hawao
+  - LineageOS/android_device_motorola_rhode
+  - LineageOS/android_device_motorola_sm6225-common
+  - LineageOS/android_kernel_motorola_sm6225
 PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_racer
   - LineageOS/android_device_motorola_sm7250-common
