@@ -1511,6 +1511,7 @@ OEM-Samsung:
   - PROJECT-Samsung-sdm429
   - PROJECT-Samsung-serrano
   - PROJECT-Samsung-sm7125
+  - PROJECT-Samsung-sm7325
   - PROJECT-Samsung-sm8150
   - PROJECT-Samsung-sm8250
   - PROJECT-Samsung-star
@@ -2761,6 +2762,11 @@ PROJECT-Samsung-sm7125:
   - LineageOS/android_device_samsung_a72q
   - LineageOS/android_device_samsung_sm7125-common
   - LineageOS/android_kernel_samsung_sm7125
+PROJECT-Samsung-sm7325:
+  - LineageOS/android_device_samsung_a52sxq
+  - LineageOS/android_device_samsung_m52xq
+  - LineageOS/android_device_samsung_sm7325-common
+  - LineageOS/android_kernel_samsung_sm7325
 PROJECT-Samsung-sm8150:
   - LineageOS/android_device_samsung_r5q
   - LineageOS/android_device_samsung_sm8150-common
