@@ -2280,6 +2280,7 @@ PROJECT-Nvidia-dalmore:
 PROJECT-Nvidia-foster:
   - LineageOS/android_device_nvidia_foster
   - PROJECT-Nvidia-foster_tab
+  - PROJECT-Nvidia-sif
 PROJECT-Nvidia-foster_tab:
   - LineageOS/android_device_nvidia_foster_tab
   - PROJECT-Nvidia-loki
@@ -2335,6 +2336,8 @@ PROJECT-Nvidia-shieldtablet:
   - LineageOS/android_device_nvidia_shieldtablet
   - LineageOS/android_kernel_nvidia_shieldtablet
   - PROJECT-Nvidia-jetson
+PROJECT-Nvidia-sif:
+  - LineageOS/android_device_nvidia_sif
 PROJECT-Nvidia-t114:
   - LineageOS/android_device_nvidia_t114-common
   - PROJECT-Nvidia-roth
