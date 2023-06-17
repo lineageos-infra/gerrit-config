@@ -1429,6 +1429,7 @@ OEM-Nintendo:
   - PROJECT-Nintendo-hardware
   - PROJECT-Nintendo-icosa
 OEM-Nokia:
+  - PROJECT-Nokia-msm8998
   - PROJECT-Nokia-sdm660
 OEM-Nubia:
   - PROJECT-Nubia-TP1803
@@ -2221,6 +2222,9 @@ PROJECT-Nintendo-icosa:
   - LineageOS/android_hardware_nvidia_platform_t210_switch
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
+PROJECT-Nokia-msm8998:
+  - LineageOS/android_device_nokia_NLA
+  - LineageOS/android_kernel_nokia_msm8998
 PROJECT-Nokia-sdm660:
   - LineageOS/android_device_nokia_PL2
   - LineageOS/android_device_nokia_sdm660-common
