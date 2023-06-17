@@ -495,6 +495,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_build
   - LineageOS/android_build_soong
   - LineageOS/android_device_generic_common
+  - LineageOS/android_device_google_contexthub
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_ant-wireless_ant_client
