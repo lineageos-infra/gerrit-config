@@ -1296,6 +1296,7 @@ OEM-Amlogic:
   - PROJECT-Amlogic-g12
   - PROJECT-Amlogic-gxl
   - PROJECT-Amlogic-hardware
+  - PROJECT-Amlogic-ne
 OEM-Ark:
   - PROJECT-Ark-peach
 OEM-Asus:
@@ -1656,6 +1657,11 @@ PROJECT-Amlogic-hardware:
   - LineageOS/android_hardware_amlogic_tools_dtbtool
   - LineageOS/android_hardware_amlogic_tools_imagepacker
   - LineageOS/android_hardware_amlogic_tools_respacker
+PROJECT-Amlogic-ne:
+  - LineageOS/android_device_amlogic_ne-common
+  - LineageOS/android_device_khadas_kvim1s
+  - LineageOS/android_hardware_amlogic_kernel-modules_media-5.4
+  - LineageOS/android_kernel_amlogic_linux-5.4
 PROJECT-Ark-peach:
   - LineageOS/android_device_ark_msm8916-common
   - LineageOS/android_device_ark_peach
