@@ -1805,6 +1805,7 @@ PROJECT-Google-gs201:
   - LineageOS/android_device_google_lynx
   - LineageOS/android_device_google_pantah
   - LineageOS/android_device_google_panther
+  - LineageOS/android_device_google_tangorpro
   - LineageOS/android_kernel_google_gs201
 PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_gchips
