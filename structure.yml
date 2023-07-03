@@ -2251,6 +2251,7 @@ PROJECT-Nubia-nx611j:
   - LineageOS/android_device_nubia_nx611j
   - LineageOS/android_kernel_nubia_sdm660
 PROJECT-Nubia-sdm845:
+  - LineageOS/android_device_nubia_nx606j
   - LineageOS/android_device_nubia_nx619j
   - LineageOS/android_device_nubia_sdm845-common
   - LineageOS/android_kernel_nubia_sdm845
