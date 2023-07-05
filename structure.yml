@@ -487,7 +487,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_bpf
   - LineageOS/android_system_bt
   - LineageOS/android_system_libhwbinder
-  - LineageOS/android_system_netd
   - LineageOS/android_system_nfc
 Lineage-20.0-Projects:
   - Head-Developers
@@ -611,6 +610,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_memory_lmkd
+  - LineageOS/android_system_netd
   - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
