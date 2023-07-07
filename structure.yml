@@ -5,6 +5,7 @@ All-Projects:
   - Lineage-Device-Projects
   - Lineage-Unmaintained-Projects
   - Master-Enabled
+  - Main-Enabled
   - PROJECT-Lineage-telephony
 Head-Developers:
   - LineageOS/android
@@ -1276,6 +1277,7 @@ Master-Enabled:
   - LineageOS/android_external_chromium-webview_prebuilt_arm64
   - LineageOS/android_external_chromium-webview_prebuilt_x86
   - LineageOS/android_external_chromium-webview_prebuilt_x86_64
+Main-Enabled:
   - LineageOS/charter
   - LineageOS/cm_crowdin
   - LineageOS/contributors-cloud-generator
