@@ -383,7 +383,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_chromium-libpac
   - LineageOS/android_external_dnsmasq
   - LineageOS/android_external_exfat
-  - LineageOS/android_external_freetype
   - LineageOS/android_external_libaom
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libtextclassifier
@@ -467,6 +466,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_external_angle
   - LineageOS/android_external_dtc
   - LineageOS/android_external_expat
+  - LineageOS/android_external_freetype
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_pigz
   - LineageOS/android_external_zip
@@ -488,6 +488,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_bt
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
+  - LineageOS/android_tools_apksig
 Lineage-20.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
