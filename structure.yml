@@ -414,7 +414,6 @@ Lineage-18.0-Projects:
 Lineage-18.1-Projects:
   - Lineage-19.0-Projects
   - LineageOS/android_build_blueprint
-  - LineageOS/android_development
   - LineageOS/android_external_aac
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_boringssl
@@ -494,6 +493,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_soong
+  - LineageOS/android_development
   - LineageOS/android_device_generic_common
   - LineageOS/android_device_google_contexthub
   - LineageOS/android_device_lineage_sepolicy
