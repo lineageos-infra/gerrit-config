@@ -3212,8 +3212,11 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_nxp_opensource_halimpl
   - LineageOS/android_vendor_nxp_opensource_hidlimpl
   - LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc
+  - LineageOS/android_vendor_qcom_opensource_agm
+  - LineageOS/android_vendor_qcom_opensource_arpal-lx
   - LineageOS/android_vendor_qcom_opensource_audio
   - LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal
+  - LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar
   - LineageOS/android_vendor_qcom_opensource_bluetooth-commonsys-intf
   - LineageOS/android_vendor_qcom_opensource_bluetooth_ext
   - LineageOS/android_vendor_qcom_opensource_core-utils-sys
