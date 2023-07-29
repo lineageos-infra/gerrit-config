@@ -3162,6 +3162,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_external_json-c
   - LineageOS/android_hardware_qcom-caf_common
   - LineageOS/android_hardware_qcom_audio
+  - LineageOS/android_hardware_qcom_audio-ar
   - LineageOS/android_hardware_qcom_audio-bfam
   - LineageOS/android_hardware_qcom_audio-caf
   - LineageOS/android_hardware_qcom_bootctrl
