@@ -414,7 +414,6 @@ Lineage-18.0-Projects:
 Lineage-18.1-Projects:
   - Lineage-19.0-Projects
   - LineageOS/android_build_blueprint
-  - LineageOS/android_external_aac
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_boringssl
   - LineageOS/android_external_guice
@@ -436,9 +435,9 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_CertInstaller
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_KeyChain
-  - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
+  - LineageOS/android_packages_apps_QuickAccessWallet
   - LineageOS/android_packages_apps_SafetyRegulatoryInfo
   - LineageOS/android_packages_apps_SecureElement
   - LineageOS/android_packages_apps_Snap
@@ -461,6 +460,7 @@ Lineage-19.0-Projects:
 Lineage-19.1-Projects:
   - Lineage-20.0-Projects
   - LineageOS/android_art
+  - LineageOS/android_external_aac
   - LineageOS/android_external_angle
   - LineageOS/android_external_dtc
   - LineageOS/android_external_expat
@@ -475,6 +475,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_hardware_nxp_nfc
   - LineageOS/android_packages_apps_Bluetooth
   - LineageOS/android_packages_apps_CarrierConfig
+  - LineageOS/android_packages_apps_ManagedProvisioning
   - LineageOS/android_packages_apps_Traceur
   - LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9
   - LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9
@@ -484,6 +485,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
   - LineageOS/android_system_bpf
   - LineageOS/android_system_bt
+  - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
   - LineageOS/android_tools_apksig
