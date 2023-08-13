@@ -2269,6 +2269,7 @@ PROJECT-Nubia-sdm845:
   - LineageOS/android_kernel_nubia_sdm845
 PROJECT-Nubia-sm7250:
   - LineageOS/android_device_nubia_nx651j
+  - LineageOS/android_device_nubia_nx651j_eea
   - LineageOS/android_device_nubia_sm7250-common
   - LineageOS/android_kernel_nubia_sm7250
 PROJECT-Nvidia-bootable:
