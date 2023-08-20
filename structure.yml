@@ -462,7 +462,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_art
   - LineageOS/android_external_aac
   - LineageOS/android_external_angle
-  - LineageOS/android_external_dtc
   - LineageOS/android_external_expat
   - LineageOS/android_external_freetype
   - LineageOS/android_external_p7zip
@@ -508,6 +507,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
+  - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
   - LineageOS/android_external_icu
