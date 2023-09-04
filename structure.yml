@@ -3127,6 +3127,7 @@ PROJECT-Zuk-ham:
 PROJECT-Zuk-msm8996:
   - LineageOS/android_device_zuk_msm8996-common
   - LineageOS/android_device_zuk_z2_plus
+  - LineageOS/android_device_zuk_z2_row
   - LineageOS/android_kernel_zuk_msm8996
 PROJECT-android-tv:
   - LineageOS/android_device_google_atv
