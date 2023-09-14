@@ -1815,6 +1815,7 @@ PROJECT-Google-gs201:
   - LineageOS/android_device_google_panther
   - LineageOS/android_device_google_tangorpro
   - LineageOS/android_kernel_google_gs201
+  - PROJECT-Google-lynx
 PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_gchips
   - LineageOS/android_hardware_google_graphics_common
@@ -1822,6 +1823,8 @@ PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_pixel-sepolicy
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
   - LineageOS/android_packages_apps_ElmyraService
+PROJECT-Google-lynx:
+  - LineageOS/android_device_google_lynx
 PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
