@@ -1607,13 +1607,13 @@ OEM-qcom:
   - LineageOS/android_kernel_qcom_msm8974
   - LineageOS/android_kernel_qcom_msm8994
   - LineageOS/android_kernel_qcom_msm8996
-  - LineageOS/android_kernel_qcom_msm8998
   - LineageOS/android_kernel_qcom_sdm660
   - LineageOS/android_kernel_qcom_sdm845
   - LineageOS/android_kernel_qcom_sm8150
   - LineageOS/android_kernel_qcom_sm8250
   - LineageOS/android_kernel_qcom_sm8350
   - PROJECT-qcom-hardware
+  - PROJECT-qcom-kernel-msm8998
 OEM-ti:
   - PROJECT-ti-hardware
 PROJECT-10or-G:
@@ -3257,6 +3257,8 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_usb
   - LineageOS/android_vendor_qcom_opensource_vibrator
   - LineageOS/android_vendor_qcom_opensource_wfd-commonsys
+PROJECT-qcom-kernel-msm8998:
+  - LineageOS/android_kernel_qcom_msm8998
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
   - LineageOS/android_hardware_samsung
