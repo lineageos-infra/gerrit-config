@@ -1,0 +1,33 @@
+name: Gerrit Group ownership
+on:
+  push:
+    branches:
+    - main
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+      - env:
+          PYTHONUNBUFFERED: "true"
+          PYTHONDONTWRITEBYTECODE: "true"
+          GERRIT_USER: ${{ secrets.GERRIT_USER }}
+          GERRIT_PASS: ${{ secrets.GERRIT_PASS }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          LOG_LEVEL: ${{ github.event.input.logLevel }}
+        run: |
+          pip install -r requirements.txt
+          python update.py
+      - name: notify discord on failure
+        if: ${{ failure() }}
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          MESSAGE: "A job has failed: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: |
+          pip install -r requirements.txt
+          python discord.py

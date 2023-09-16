@@ -1,0 +1,24 @@
+name: Pull Request Checks
+on:
+  pull_request: {}
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+      - env:
+          PYTHONUNBUFFERED: "true"
+          PYTHONDONTWRITEBYTECODE: "true"
+          GERRIT_USER: ${{ secrets.GERRIT_USER }}
+          GERRIT_PASS: ${{ secrets.GERRIT_PASS }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          LOG_LEVEL: ${{ github.event.input.logLevel }}
+        run: |
+          pip install -r requirements.txt
+          pip install yamllint
+          yamllint structure.yml
