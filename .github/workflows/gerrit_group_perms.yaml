@@ -15,8 +15,8 @@ jobs:
       - env:
           PYTHONUNBUFFERED: "true"
           PYTHONDONTWRITEBYTECODE: "true"
-          GERRIT_USERNAME: ${{ secrets.GERRIT_USERNAME }}
-          GERRIT_PASSWORD: ${{ secrets.GERRIT_PASSWORD }}
+          GERRIT_USER: ${{ secrets.GERRIT_USER }}
+          GERRIT_PASS: ${{ secrets.GERRIT_PASS }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           LOG_LEVEL: ${{ github.event.input.logLevel }}
         run: |
