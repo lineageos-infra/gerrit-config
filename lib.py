@@ -37,3 +37,22 @@ class Gerrit:
         resp = requests.put(url, auth=self.auth)
         if resp.status_code != 201:
             raise Exception(f"Error communicating with gerrit: {resp.text}")
+
+    def get_groups(self):
+        url = "https://review.lineageos.org/a/groups/"
+        resp = requests.get(url, auth=self.auth)
+
+        if resp.status_code != 200:
+            raise Exception(f"Error communicating with gerrit: {resp.text}")
+        groups = json.loads(resp.text[5:])
+        return groups
+
+    def create_group(self, name):
+        url = f"https://review.lineageos.org/a/groups/{name}"
+        data = {
+                "visible_to_all": True,
+                "owner_id": "a03fd3a0506d32837ea4b70a15186b53ce96137f"
+        }
+        resp = requests.put(url, auth=self.auth, json=data)
+        if resp.status_code != 201:
+            raise Exception(f"Error communicating with gerrit: {resp.text}")

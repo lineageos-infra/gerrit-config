@@ -61,4 +61,10 @@ for parent, children in wanted.items():
             print(f"Setting parent of {child} to {parent}")
             gerrit.update_parent(child, parent)
 
+gerrit_groups = gerrit.get_groups()
+for group in [x for x in wanted.keys() if x.startswith("PROJECT-") or x.startswith("OEM-")]:
+    if group not in gerrit_groups:
+        print(f"adding {group}")
+        gerrit.create_group(group)
+
 print("Done!")
