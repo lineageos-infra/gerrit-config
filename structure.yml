@@ -659,6 +659,7 @@ Lineage-Device-Projects:
   - OEM-Nextbit
   - OEM-Nintendo
   - OEM-Nokia
+  - OEM-Nothing
   - OEM-Nubia
   - OEM-Nvidia
   - OEM-Oneplus
@@ -1436,6 +1437,9 @@ OEM-Nintendo:
 OEM-Nokia:
   - PROJECT-Nokia-msm8998
   - PROJECT-Nokia-sdm660
+OEM-Nothing:
+  - PROJECT-Nothing-Spacewar
+  - PROJECT-Nothing-hardware
 OEM-Nubia:
   - PROJECT-Nubia-TP1803
   - PROJECT-Nubia-hardware
@@ -2244,6 +2248,11 @@ PROJECT-Nokia-sdm660:
   - LineageOS/android_device_nokia_sdm660-common
   - LineageOS/android_kernel_nokia_sdm660
   - PROJECT-Nokia-DRG
+PROJECT-Nothing-Spacewar:
+  - LineageOS/android_device_nothing_Spacewar
+  - LineageOS/android_kernel_nothing_sm7325
+PROJECT-Nothing-hardware:
+  - LineageOS/android_hardware_nothing
 PROJECT-Nubia-TP1803:
   - LineageOS/android_device_nubia_TP1803
   - LineageOS/android_kernel_nubia_sm8150
