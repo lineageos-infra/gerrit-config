@@ -50,8 +50,6 @@ class Gerrit:
         perms = self._decode_raw(resp.text).get("local", {})
 
         if perms != permissions:
-            print("no match")
-            return False
             remove = {
                 "remove": {"refs/heads/*": {}}
             }
@@ -100,7 +98,7 @@ class Gerrit:
 
     def set_group_visible(self, group: str, visible: bool) -> None:
         url = f"https://review.lineageos.org/a/groups/{group}/options"
-        resp = requests.put(url, {"visible_to_all": visible}, auth=self.auth)
+        resp = requests.put(url, json={"visible_to_all": visible}, auth=self.auth)
         if resp.status_code != 200:
             raise Exception(f"Error communicating with gerrit: {resp.status_code} {resp.text}")
 
