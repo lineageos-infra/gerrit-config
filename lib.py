@@ -9,7 +9,7 @@ class Config:
     GERRIT_USER = os.environ.get("GERRIT_USER", "")
     GERRIT_PASS = os.environ.get("GERRIT_PASS", "")
 
-    GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
+    GITHUB_TOKEN = os.environ.get("ADMIN_GITHUB_TOKEN", "")
 
     DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK", "")
 

@@ -1,4 +1,4 @@
-name: Gerrit Group ownership
+name: Gerrit Group Structure
 on:
   push:
     branches:
@@ -19,6 +19,7 @@ jobs:
           GERRIT_USER: ${{ secrets.GERRIT_USER }}
           GERRIT_PASS: ${{ secrets.GERRIT_PASS }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          ADMIN_GITHUB_TOKEN: ${{ secrets.ADMIN_GITHUB_TOKEN }}
           LOG_LEVEL: ${{ github.event.input.logLevel }}
         run: |
           pip install -r requirements.txt
