@@ -17,7 +17,7 @@ jobs:
           PYTHONDONTWRITEBYTECODE: "true"
           GERRIT_USERNAME: ${{ secrets.GERRIT_USERNAME }}
           GERRIT_PASSWORD: ${{ secrets.GERRIT_PASSWORD }}
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           LOG_LEVEL: ${{ github.event.input.logLevel }}
         run: |
           pip install -r requirements.txt
@@ -25,9 +25,8 @@ jobs:
       - name: notify slack on failure
         if: ${{ failure() }}
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
-          SLACK_MESSAGE: "A job has failed: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          MESSAGE: "A job has failed: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         run: |
-          pip install -r slack/requirements.txt
-          python slack/notify.py
+          pip install -r requirements.txt
+          python discord.py
