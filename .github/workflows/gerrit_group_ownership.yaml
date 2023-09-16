@@ -1,0 +1,33 @@
+name: Gerrit Group ownership
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+      - env:
+          PYTHONUNBUFFERED: "true"
+          PYTHONDONTWRITEBYTECODE: "true"
+          GERRIT_USERNAME: ${{ secrets.GERRIT_USERNAME }}
+          GERRIT_PASSWORD: ${{ secrets.GERRIT_PASSWORD }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          LOG_LEVEL: ${{ github.event.input.logLevel }}
+        run: |
+          pip install -r requirements.txt
+          python cron_group_ownership.py
+      - name: notify slack on failure
+        if: ${{ failure() }}
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+          SLACK_MESSAGE: "A job has failed: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: |
+          pip install -r slack/requirements.txt
+          python slack/notify.py
