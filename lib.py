@@ -17,7 +17,7 @@ class Config:
 class Gerrit:
     def __init__(self):
         self.auth = rauth.HTTPBasicAuth(Config.GERRIT_USER, Config.GERRIT_PASS)
-    
+
     def get_projects(self):
         url = "https://review.lineageos.org/a/projects/?t"
         resp = requests.get(url, auth=self.auth)
@@ -46,7 +46,7 @@ class Gerrit:
 
         if resp.status_code != 200:
             raise Exception(f"Error fetching permissions from gerrit: code {resp.status_code}, response: {resp.text}")
-        
+
         perms = self._decode_raw(resp.text).get("local", {})
 
         if perms != permissions:
@@ -92,17 +92,18 @@ class Gerrit:
 
     def set_group_owner(self, group: str, owner: str) -> None:
         url = f"https://review.lineageos.org/a/groups/{group}/owner"
-        resp =  requests.put(url, {'owner': owner})
+        resp =  requests.put(url, {'owner': owner}, auth=self.auth)
         if resp.status_code != 200:
-            raise Exception(f"Error communicating with gerrit: {resp.text}")
+            import pdb; pdb.set_trace()
+            raise Exception(f"Error communicating with gerrit: {resp.status_code} {resp.text}")
 
 
     def set_group_visible(self, group: str, visible: bool) -> None:
         url = f"https://review.lineageos.org/a/groups/{group}/options"
-        resp = requests.put(url, {"visible_to_all": visible})
+        resp = requests.put(url, {"visible_to_all": visible}, auth=self.auth)
         if resp.status_code != 200:
-            raise Exception(f"Error communicating with gerrit: {resp.text}")
-        
+            raise Exception(f"Error communicating with gerrit: {resp.status_code} {resp.text}")
+
     def _decode_raw(self, input: str):
         return json.loads(input[5:])
 
