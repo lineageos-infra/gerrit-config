@@ -99,7 +99,6 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_tagsoup
   - LineageOS/android_external_tinyxml
   - LineageOS/android_external_valgrind
-  - LineageOS/android_external_webp
   - LineageOS/android_external_webrtc
   - LineageOS/android_external_wpa_supplicant_8_ti
   - LineageOS/android_external_wpa_supplicant_derp
@@ -521,6 +520,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
+  - LineageOS/android_external_webp
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_external_zstd
   - LineageOS/android_frameworks_av
