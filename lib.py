@@ -58,7 +58,7 @@ class Gerrit:
                 if resp.status_code != 200:
                     raise Exception(f"Error removing gerrit permissions: {resp.text}")
             resp = requests.post(f"https://review.lineageos.org/projects/{project}/access", auth=self.auth, json={"add": permissions})
-            if resp.status_code != 00:
+            if resp.status_code != 200:
                 raise Exception(f"Error setting gerrit permissions: {resp.text}")
             return True
         return False
