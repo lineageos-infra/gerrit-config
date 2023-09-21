@@ -54,10 +54,10 @@ class Gerrit:
                 "remove": {"refs/heads/*": {}}
             }
             if perms:
-                resp = requests.post(f"https://review.lineageos.org/projects/{project}/access", auth=self.auth, json={'remove': perms})
+                resp = requests.post(f"https://review.lineageos.org/a/projects/{project}/access", auth=self.auth, json={'remove': perms})
                 if resp.status_code != 200:
                     raise Exception(f"Error removing gerrit permissions: {resp.text}")
-            resp = requests.post(f"https://review.lineageos.org/projects/{project}/access", auth=self.auth, json={"add": permissions})
+            resp = requests.post(f"https://review.lineageos.org/a/projects/{project}/access", auth=self.auth, json={"add": permissions})
             if resp.status_code != 200:
                 raise Exception(f"Error setting gerrit permissions: {resp.text}")
             return True
