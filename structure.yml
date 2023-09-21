@@ -1617,6 +1617,9 @@ OEM-qcom:
   - LineageOS/android_kernel_qcom_sm8150
   - LineageOS/android_kernel_qcom_sm8250
   - LineageOS/android_kernel_qcom_sm8350
+  - LineageOS/android_kernel_qcom_sm8550
+  - LineageOS/android_kernel_qcom_sm8550-devicetrees
+  - LineageOS/android_kernel_qcom_sm8550-modules
   - PROJECT-qcom-hardware
   - PROJECT-qcom-kernel-msm8998
 OEM-ti:
