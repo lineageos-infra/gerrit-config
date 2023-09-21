@@ -1474,6 +1474,7 @@ OEM-Oneplus:
   - PROJECT-Oneplus-sm8150
   - PROJECT-Oneplus-sm8250
   - PROJECT-Oneplus-sm8350
+  - PROJECT-Oneplus-sm8550
 OEM-Oppo:
   - PROJECT-Oppo-apq8064
   - PROJECT-Oppo-common
