@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           python cron_group_ownership.py
-      - name: notify slack on failure
+      - name: notify discord on failure
         if: ${{ failure() }}
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
