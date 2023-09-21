@@ -60,7 +60,19 @@ for project in projects:
                     'force': False
                 }}
             },
+            'pushMerge': {
+                'rules': { group: {
+                    'action': 'ALLOW',
+                    'force': False
+                }}
+            },
             'forgeCommitter': {
+                'rules': { group: {
+                    'action': 'ALLOW',
+                    'force': False
+                }}
+            },
+            'forgeServerAsCommitter': {
                 'rules': { group: {
                     'action': 'ALLOW',
                     'force': False
