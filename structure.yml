@@ -511,6 +511,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_icu
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libncurses
+  - LineageOS/android_external_libvpx
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
