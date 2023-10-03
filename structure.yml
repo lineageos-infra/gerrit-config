@@ -262,7 +262,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_libselinux
   - LineageOS/android_external_libtruezip
   - LineageOS/android_external_libvterm
-  - LineageOS/android_external_libxml2
   - LineageOS/android_external_lz4
   - LineageOS/android_external_lzma
   - LineageOS/android_external_lzo
@@ -485,7 +484,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
-  - LineageOS/android_tools_apksig
 Lineage-20.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
@@ -512,6 +510,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libvpx
+  - LineageOS/android_external_libxml2
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
@@ -623,6 +622,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
+  - LineageOS/android_tools_apksig
   - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
