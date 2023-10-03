@@ -320,7 +320,6 @@ Lineage-15.1-Projects:
   - LineageOS/android_external_libdrm
   - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libvorbis
-  - LineageOS/android_external_libvpx
   - LineageOS/android_external_powertop
   - LineageOS/android_external_sfntly
   - LineageOS/android_external_stlport
