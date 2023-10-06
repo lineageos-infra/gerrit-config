@@ -2301,6 +2301,15 @@ PROJECT-Nvidia-bootable:
   - LineageOS/android_bootable_cboot_lk
   - LineageOS/android_bootable_cboot_t18x
   - LineageOS/android_bootable_cboot_t19x
+  - LineageOS/android_bootable_tianocore_cmocka
+  - LineageOS/android_bootable_tianocore_edk2
+  - LineageOS/android_bootable_tianocore_edk2-non-osi
+  - LineageOS/android_bootable_tianocore_edk2-nvidia
+  - LineageOS/android_bootable_tianocore_edk2-nvidia-lineage
+  - LineageOS/android_bootable_tianocore_edk2-nvidia-non-osi
+  - LineageOS/android_bootable_tianocore_edk2-platforms
+  - LineageOS/android_bootable_tianocore_jansson
+  - LineageOS/android_bootable_tianocore_openssl
 PROJECT-Nvidia-common:
   - LineageOS/android_device_nvidia_tegra-common
   - LineageOS/android_hardware_nvidia_platform_tegra_common
