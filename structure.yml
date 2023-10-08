@@ -484,7 +484,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
 Lineage-20.0-Projects:
-  - Head-Developers
+  - Lineage-21.0-Projects
   - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_soong
@@ -627,6 +627,8 @@ Lineage-20.0-Projects:
   - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
+Lineage-21.0-Projects:
+  - Head-Developers
 Lineage-Device-Projects:
   - OEM-10or
   - OEM-Acer
