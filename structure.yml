@@ -1658,10 +1658,13 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_device_askey_dopinder
   - LineageOS/android_device_askey_wade
   - LineageOS/android_device_bananapi_m5
+  - LineageOS/android_device_bananapi_m5_tab
   - LineageOS/android_device_google_beast
   - LineageOS/android_device_google_sabrina
   - LineageOS/android_device_hardkernel_odroidc4
+  - LineageOS/android_device_hardkernel_odroidc4_tab
   - LineageOS/android_device_radxa_radxa0
+  - LineageOS/android_device_radxa_radxa0_tab
   - LineageOS/android_hardware_amlogic_kernel-modules_dhd-driver
   - LineageOS/android_hardware_amlogic_kernel-modules_mali-driver
   - LineageOS/android_hardware_amlogic_kernel-modules_media
