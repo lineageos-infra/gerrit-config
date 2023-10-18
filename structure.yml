@@ -152,7 +152,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_jsr308
   - LineageOS/android_external_jsr330
   - LineageOS/android_external_kissfft
-  - LineageOS/android_external_libnl
   - LineageOS/android_external_libopus
   - LineageOS/android_external_libphonenumber
   - LineageOS/android_external_libppp
@@ -485,25 +484,13 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_nfc
 Lineage-20.0-Projects:
   - Lineage-21.0-Projects
-  - LineageOS/android_external_bash
-  - LineageOS/android_external_bson
   - LineageOS/android_external_cldr
-  - LineageOS/android_external_htop
   - LineageOS/android_external_icu
-  - LineageOS/android_external_libncurses
   - LineageOS/android_external_libxml2
-  - LineageOS/android_external_mksh
-  - LineageOS/android_external_nano
-  - LineageOS/android_external_ntfs-3g
-  - LineageOS/android_external_openssh
-  - LineageOS/android_external_rsync
-  - LineageOS/android_external_unrar
-  - LineageOS/android_external_vim
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_kernel_configs
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_FlipFlap
-  - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_modules_NeuralNetworks
   - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
@@ -512,7 +499,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_system_qcom
   - LineageOS/android_system_timezone
   - LineageOS/android_tools_apksig
-  - LineageOS/android_vendor_crowdin
 Lineage-21.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
@@ -530,12 +516,24 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_arm-trusted-firmware
   - LineageOS/android_external_armnn
   - LineageOS/android_external_avb
+  - LineageOS/android_external_bash
+  - LineageOS/android_external_bson
   - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
+  - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
+  - LineageOS/android_external_libncurses
+  - LineageOS/android_external_libnl
   - LineageOS/android_external_libvpx
+  - LineageOS/android_external_mksh
+  - LineageOS/android_external_nano
+  - LineageOS/android_external_ntfs-3g
+  - LineageOS/android_external_openssh
+  - LineageOS/android_external_rsync
   - LineageOS/android_external_setupcompat
   - LineageOS/android_external_tinycompress
+  - LineageOS/android_external_unrar
+  - LineageOS/android_external_vim
   - LineageOS/android_external_webp
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_external_zstd
@@ -577,6 +575,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Recorder
+  - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SettingsIntelligence
   - LineageOS/android_packages_apps_SetupWizard
@@ -627,6 +626,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
   - LineageOS/android_tools_extract-utils
+  - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
@@ -1347,6 +1347,7 @@ OEM-Fxtec:
 OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
+  - LineageOS/android_device_google_gs-common
   - PROJECT-Google-bonito
   - PROJECT-Google-coral
   - PROJECT-Google-crosshatch
