@@ -4,7 +4,7 @@ All-Projects:
   - Lineage-11.0-Projects
   - Lineage-Device-Projects
   - Lineage-Unmaintained-Projects
-  - Master-Enabled
+  - Main-Enabled
   - PROJECT-Lineage-telephony
 Head-Developers:
   - LineageOS/android
@@ -1277,7 +1277,7 @@ Lineage-Unmaintained-Projects:
   - LineageOS/sony-kernel-u8500
   - LineageOS/tools_repo
   - LineageOS/zte-kernel-msm7x27
-Master-Enabled:
+Main-Enabled:
   - LineageOS/android_external_chromium-webview
   - LineageOS/android_external_chromium-webview_patches
   - LineageOS/android_external_chromium-webview_prebuilt_arm
