@@ -2234,8 +2234,8 @@ PROJECT-Motorola-sm7325:
   - LineageOS/android_device_motorola_berlna
   - LineageOS/android_device_motorola_dubai
   - LineageOS/android_device_motorola_sm7325-common
-  - LineageOS/android_device_motorola_xpeng
   - LineageOS/android_kernel_motorola_sm7325
+  - PROJECT-Motorola-xpeng
 PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_nio
   - LineageOS/android_device_motorola_pstar
@@ -2246,6 +2246,8 @@ PROJECT-Motorola-sm8475:
   - LineageOS/android_device_motorola_zeekr
   - LineageOS/android_device_motorola_sm8475-common
   - LineageOS/android_kernel_motorola_sm8475
+PROJECT-Motorola-xpeng:
+  - LineageOS/android_device_motorola_xpeng
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
