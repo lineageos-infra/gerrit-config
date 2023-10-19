@@ -477,7 +477,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
-  - LineageOS/android_system_bpf
   - LineageOS/android_system_bt
   - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_libhwbinder
@@ -612,6 +611,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_prebuilts_extract-tools
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_system_bpf
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_keymaster
