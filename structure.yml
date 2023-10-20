@@ -495,7 +495,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
   - LineageOS/android_system_apex
   - LineageOS/android_system_memory_lmkd
-  - LineageOS/android_system_qcom
   - LineageOS/android_system_timezone
   - LineageOS/android_tools_apksig
 Lineage-21.0-Projects:
@@ -620,6 +619,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
