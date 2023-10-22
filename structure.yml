@@ -487,7 +487,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_icu
   - LineageOS/android_external_libxml2
   - LineageOS/android_hardware_libhardware_legacy
-  - LineageOS/android_kernel_configs
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_modules_NeuralNetworks
@@ -550,6 +549,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_ril
+  - LineageOS/android_kernel_configs
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_Aperture
   - LineageOS/android_packages_apps_AudioFX
