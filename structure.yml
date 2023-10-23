@@ -413,7 +413,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_boringssl
   - LineageOS/android_external_guice
   - LineageOS/android_external_libavc
-  - LineageOS/android_external_libevdev
   - LineageOS/android_external_libexif
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_perfetto
@@ -519,6 +518,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
+  - LineageOS/android_external_libevdev
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnl
   - LineageOS/android_external_libvpx
