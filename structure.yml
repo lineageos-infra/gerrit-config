@@ -2254,6 +2254,7 @@ PROJECT-Nintendo-hardware:
 PROJECT-Nintendo-icosa:
   - LineageOS/android_device_nintendo_icosa
   - LineageOS/android_device_nintendo_nx
+  - LineageOS/android_hardware_nvidia_platform_t210_nx
   - LineageOS/android_hardware_nvidia_platform_t210_switch
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
