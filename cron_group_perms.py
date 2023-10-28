@@ -21,6 +21,7 @@ for project in projects:
         "refs/heads/lineage-18.1",
         "refs/heads/lineage-19.1",
         "refs/heads/lineage-20",
+        "refs/heads/lineage-21",
     ]
     new = {
         'refs/heads/*': { 'permissions': {
@@ -98,6 +99,7 @@ for project in projects:
             "^refs/heads/lineage-18.1-caf(-(msm|sdm|sm)[0-9]{3,4})?",
             "^refs/heads/lineage-19.1-caf(-(msm|sdm|sm)[0-9]{3,4})?",
             "^refs/heads/lineage-20.0-caf(-(msm|sdm|sm)[0-9]{3,4})?",
+            "^refs/heads/lineage-21.0-caf(-(msm|sdm|sm)[0-9]{3,4})?",
         ]
     for branch in branches:
         new[branch] = {
