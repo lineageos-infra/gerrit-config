@@ -552,29 +552,17 @@ Lineage-21.0-Projects:
   - LineageOS/android_hardware_ril
   - LineageOS/android_kernel_configs
   - LineageOS/android_lineage-sdk
-  - LineageOS/android_packages_apps_Aperture
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
   - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_CellBroadcastReceiver
-  - LineageOS/android_packages_apps_Contacts
-  - LineageOS/android_packages_apps_DeskClock
-  - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_DocumentsUI
-  - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_EmergencyInfo
-  - LineageOS/android_packages_apps_Etar
-  - LineageOS/android_packages_apps_ExactCalculator
-  - LineageOS/android_packages_apps_FlipFlap
-  - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_Gallery2
-  - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_LineageParts
-  - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_Profiles
-  - LineageOS/android_packages_apps_Recorder
   - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SettingsIntelligence
@@ -584,9 +572,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_ThemePicker
   - LineageOS/android_packages_apps_Trebuchet
-  - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_apps_WallpaperPicker2
-  - LineageOS/android_packages_inputmethods_LatinIME
   - LineageOS/android_packages_inputmethods_LeanbackIME
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
@@ -630,6 +616,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
+  - PROJECT-Lineage-apps
   - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
   - OEM-10or
@@ -2088,6 +2075,21 @@ PROJECT-Lenovo-sm8150:
   - LineageOS/android_device_lenovo_sm8150-common
   - LineageOS/android_device_lenovo_zippo
   - LineageOS/android_kernel_lenovo_sm8150
+PROJECT-Lineage-apps:
+  - LineageOS/android_packages_apps_Aperture
+  - LineageOS/android_packages_apps_Contacts
+  - LineageOS/android_packages_apps_DeskClock
+  - LineageOS/android_packages_apps_Dialer
+  - LineageOS/android_packages_apps_Eleven
+  - LineageOS/android_packages_apps_Etar
+  - LineageOS/android_packages_apps_ExactCalculator
+  - LineageOS/android_packages_apps_FlipFlap
+  - LineageOS/android_packages_apps_FMRadio
+  - LineageOS/android_packages_apps_Jelly
+  - LineageOS/android_packages_apps_Messaging
+  - LineageOS/android_packages_apps_Recorder
+  - LineageOS/android_packages_apps_Updater
+  - LineageOS/android_packages_inputmethods_LatinIME
 PROJECT-Lineage-car:
   - LineageOS/android_device_lineage_car
 PROJECT-Lineage-recovery:
