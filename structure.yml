@@ -629,6 +629,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-recovery
+  - PROJECT-Nvidia-platform
 Lineage-Device-Projects:
   - OEM-10or
   - OEM-Acer
@@ -1456,10 +1457,7 @@ OEM-Nubia:
   - PROJECT-Nubia-sdm845
   - PROJECT-Nubia-sm7250
 OEM-Nvidia:
-  - PROJECT-Nvidia-bootable
   - PROJECT-Nvidia-common
-  - PROJECT-Nvidia-hardware
-  - PROJECT-Nvidia-prebuilts
   - PROJECT-Nvidia-sepolicy
   - PROJECT-Nvidia-shield
 OEM-Oneplus:
@@ -2380,6 +2378,10 @@ PROJECT-Nvidia-loki:
 PROJECT-Nvidia-mdarcy:
   - LineageOS/android_device_nvidia_mdarcy
   - LineageOS/android_device_nvidia_mdarcy_tab
+PROJECT-Nvidia-platform:
+  - PROJECT-Nvidia-bootable
+  - PROJECT-Nvidia-hardware
+  - PROJECT-Nvidia-prebuilts
 PROJECT-Nvidia-porg:
   - LineageOS/android_device_nvidia_porg
   - LineageOS/android_device_nvidia_porg_tab
