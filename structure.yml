@@ -342,7 +342,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
-  - LineageOS/android_external_libcups
   - LineageOS/android_external_libjpeg-turbo
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
@@ -413,6 +412,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_boringssl
   - LineageOS/android_external_guice
   - LineageOS/android_external_libavc
+  - LineageOS/android_external_libcups
   - LineageOS/android_external_libexif
   - LineageOS/android_external_libnfc-nxp
   - LineageOS/android_external_perfetto
@@ -438,7 +438,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_apps_StorageManager
   - LineageOS/android_packages_apps_Terminal
   - LineageOS/android_packages_modules_CaptivePortalLogin
-  - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_UserDictionaryProvider
   - LineageOS/android_packages_screensavers_Basic
@@ -477,7 +476,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
   - LineageOS/android_system_bt
-  - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_nfc
 Lineage-20.0-Projects:
@@ -488,10 +486,13 @@ Lineage-20.0-Projects:
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_FlipFlap
+  - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_NeuralNetworks
+  - LineageOS/android_packages_modules_StatsD
   - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
   - LineageOS/android_system_apex
+  - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_memory_lmkd
   - LineageOS/android_system_timezone
   - LineageOS/android_tools_apksig
