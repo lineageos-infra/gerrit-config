@@ -1435,6 +1435,7 @@ OEM-Motorola:
   - PROJECT-Motorola-sm7325
   - PROJECT-Motorola-sm8250
   - PROJECT-Motorola-sm8475
+  - PROJECT-Motorola-sm8550
 OEM-Nextbit:
   - PROJECT-Nextbit-ether
 OEM-Nintendo:
@@ -2247,6 +2248,12 @@ PROJECT-Motorola-sm8475:
   - LineageOS/android_device_motorola_zeekr
   - LineageOS/android_device_motorola_sm8475-common
   - LineageOS/android_kernel_motorola_sm8475
+PROJECT-Motorola-sm8550:
+  - LineageOS/android_device_motorola_rtwo
+  - LineageOS/android_device_motorola_sm8550-common
+  - LineageOS/android_kernel_motorola_sm8550
+  - LineageOS/android_kernel_motorola_sm8550-devicetrees
+  - LineageOS/android_kernel_motorola_sm8550-modules
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
