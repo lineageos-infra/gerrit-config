@@ -2259,10 +2259,13 @@ PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
 PROJECT-Nintendo-hardware:
+  - LineageOS/android_hardware_nintendo_arm-trusted-firmware
   - LineageOS/android_hardware_nintendo_joycond
+  - LineageOS/android_hardware_nintendo_u-boot
 PROJECT-Nintendo-icosa:
   - LineageOS/android_device_nintendo_icosa
   - LineageOS/android_device_nintendo_nx
+  - LineageOS/android_device_nintendo_nx_tab
   - LineageOS/android_hardware_nvidia_platform_t210_nx
   - LineageOS/android_hardware_nvidia_platform_t210_switch
 PROJECT-Nokia-DRG:
