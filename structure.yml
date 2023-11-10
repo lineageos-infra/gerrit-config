@@ -1510,6 +1510,7 @@ OEM-Samsung:
   - PROJECT-Samsung-exynos5420
   - PROJECT-Samsung-exynos7580
   - PROJECT-Samsung-exynos9820
+  - PROJECT-Samsung-gta4l
   - PROJECT-Samsung-gta4xl
   - PROJECT-Samsung-gts2
   - PROJECT-Samsung-gts4lv
@@ -2691,6 +2692,10 @@ PROJECT-Samsung-exynos9820:
   - LineageOS/android_device_samsung_exynos9820-common
   - LineageOS/android_device_samsung_f62
   - LineageOS/android_kernel_samsung_exynos9820
+PROJECT-Samsung-gta4l:
+  - LineageOS/android_device_samsung_gta4l
+  - LineageOS/android_device_samsung_gta4l-common
+  - LineageOS/android_kernel_samsung_sm6115
 PROJECT-Samsung-gta4xl:
   - LineageOS/android_device_samsung_gta4xl
   - LineageOS/android_device_samsung_gta4xl-common
