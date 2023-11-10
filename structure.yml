@@ -515,6 +515,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_avb
   - LineageOS/android_external_bash
   - LineageOS/android_external_bson
+  - LineageOS/android_external_cronet
   - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
