@@ -484,7 +484,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_libxml2
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_libcore
-  - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_NeuralNetworks
@@ -567,6 +566,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Etar
   - LineageOS/android_packages_apps_ExactCalculator
+  - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_FMRadio
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_Jelly
