@@ -1367,6 +1367,7 @@ OEM-Huawei:
   - PROJECT-Huawei-msm8916
   - PROJECT-Huawei-mt2
 OEM-Intel:
+  - PROJECT-intel-common
   - PROJECT-intel-hardware
 OEM-LGE:
   - LineageOS/android_device_lge_common
@@ -3205,6 +3206,8 @@ PROJECT-android-tv:
   - LineageOS/android_packages_apps_TV
   - LineageOS/android_packages_apps_TvSettings
   - LineageOS/android_packages_providers_TvProvider
+PROJECT-intel-common:
+  - LineageOS/android_hardware_intel_sensors-iio
 PROJECT-intel-hardware:
   - LineageOS/android_hardware_intel_audio_media
   - LineageOS/android_hardware_intel_audiocomms_utilities
