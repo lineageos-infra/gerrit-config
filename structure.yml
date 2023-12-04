@@ -1337,14 +1337,13 @@ OEM-Generic:
   - PROJECT-Generic-goldfish
 OEM-Google:
   - LineageOS/android_device_google_gs-common
-  - PROJECT-Google-bonito
-  - PROJECT-Google-coral
-  - PROJECT-Google-crosshatch
+  - PROJECT-Google-msm-4.9
+  - PROJECT-Google-msm-4.14
   - PROJECT-Google-dragon
+  - PROJECT-Google-gs101
   - PROJECT-Google-gs201
   - PROJECT-Google-hardware
   - PROJECT-Google-marlin
-  - PROJECT-Google-raviole
   - PROJECT-Google-redbull
   - PROJECT-Google-seed
   - PROJECT-Google-shamrock
@@ -1798,33 +1797,38 @@ PROJECT-Generic-goldfish:
   - LineageOS/android_device_generic_goldfish
   - LineageOS/android_device_generic_goldfish-opengl
   - LineageOS/android_kernel_goldfish
+PROJECT-Google-bluejay:
+  - LineageOS/android_device_google_bluejay
+  - LineageOS/android_kernel_google_bluejay
+PROJECT-Google-bonito:
+  - LineageOS/android_device_google_bonito
+  - LineageOS/android_device_google_sargo
+  - LineageOS/android_kernel_google_bonito
 PROJECT-Google-coral:
   - LineageOS/android_device_google_coral
   - LineageOS/android_device_google_flame
-  - LineageOS/android_device_google_sunfish
   - LineageOS/android_kernel_google_coral
-  - LineageOS/android_kernel_google_msm-4.14
-  - LineageOS/android_kernel_google_sunfish
 PROJECT-Google-crosshatch:
   - LineageOS/android_device_google_blueline
-  - LineageOS/android_device_google_bonito
   - LineageOS/android_device_google_crosshatch
-  - LineageOS/android_device_google_sargo
-  - LineageOS/android_kernel_google_bonito
   - LineageOS/android_kernel_google_crosshatch
-  - LineageOS/android_kernel_google_msm-4.9
 PROJECT-Google-dragon:
   - LineageOS/android_device_google_dragon
   - LineageOS/android_kernel_google_dragon
-PROJECT-Google-gs201:
-  - LineageOS/android_device_google_cheetah
+PROJECT-Google-felix:
   - LineageOS/android_device_google_felix
+PROJECT-Google-gs101:
+  - LineageOS/android_device_google_gs101
+  - LineageOS/android_kernel_google_gs101
+  - PROJECT-Google-bluejay
+  - PROJECT-Google-raviole
+PROJECT-Google-gs201:
   - LineageOS/android_device_google_gs201
-  - LineageOS/android_device_google_pantah
-  - LineageOS/android_device_google_panther
-  - LineageOS/android_device_google_tangorpro
   - LineageOS/android_kernel_google_gs201
+  - PROJECT-Google-felix
   - PROJECT-Google-lynx
+  - PROJECT-Google-pantah
+  - PROJECT-Google-tangorpro
 PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_gchips
   - LineageOS/android_hardware_google_graphics_common
@@ -1838,14 +1842,22 @@ PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
   - LineageOS/android_kernel_google_marlin
+PROJECT-Google-msm-4.9:
+  - LineageOS/android_kernel_google_msm-4.9
+  - PROJECT-Google-bonito
+  - PROJECT-Google-crosshatch
+PROJECT-Google-msm-4.14:
+  - LineageOS/android_kernel_google_msm-4.14
+  - PROJECT-Google-coral
+  - PROJECT-Google-sunfish
+PROJECT-Google-pantah:
+  - LineageOS/android_device_google_cheetah
+  - LineageOS/android_device_google_pantah
+  - LineageOS/android_device_google_panther
 PROJECT-Google-raviole:
-  - LineageOS/android_device_google_bluejay
-  - LineageOS/android_device_google_gs101
   - LineageOS/android_device_google_oriole
   - LineageOS/android_device_google_raven
   - LineageOS/android_device_google_raviole
-  - LineageOS/android_kernel_google_bluejay
-  - LineageOS/android_kernel_google_gs101
   - LineageOS/android_kernel_google_raviole
 PROJECT-Google-redbull:
   - LineageOS/android_device_google_barbet
@@ -1869,6 +1881,11 @@ PROJECT-Google-sprout:
   - LineageOS/android_device_google_sprout4
   - LineageOS/android_device_google_sprout8
   - LineageOS/android_kernel_mediatek_sprout
+PROJECT-Google-sunfish:
+  - LineageOS/android_device_google_sunfish
+  - LineageOS/android_kernel_google_sunfish
+PROJECT-Google-tangorpro:
+  - LineageOS/android_device_google_tangorpro
 PROJECT-Google-wahoo:
   - LineageOS/android_device_google_muskie
   - LineageOS/android_device_google_taimen
