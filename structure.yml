@@ -265,7 +265,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_lzma
   - LineageOS/android_external_lzo
   - LineageOS/android_external_neven
-  - LineageOS/android_external_pdfium
   - LineageOS/android_external_protobuf-c
   - LineageOS/android_external_speex
   - LineageOS/android_external_stagefright-plugins
@@ -482,6 +481,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_cldr
   - LineageOS/android_external_icu
   - LineageOS/android_external_libxml2
+  - LineageOS/android_external_pdfium
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_KeyChain
