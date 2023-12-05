@@ -133,7 +133,6 @@ Lineage-11.0-Projects:
 Lineage-13.0-Projects:
   - Lineage-14.1-Projects
   - LineageOS/android_abi_cpp
-  - LineageOS/android_cts
   - LineageOS/android_external_JakeWharton_butterknife
   - LineageOS/android_external_android-mock
   - LineageOS/android_external_ant-glob
@@ -478,6 +477,7 @@ Lineage-19.1-Projects:
   - LineageOS/android_system_nfc
 Lineage-20.0-Projects:
   - Lineage-21.0-Projects
+  - LineageOS/android_cts
   - LineageOS/android_external_cldr
   - LineageOS/android_external_icu
   - LineageOS/android_external_libxml2
