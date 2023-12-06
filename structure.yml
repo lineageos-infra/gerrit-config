@@ -2399,6 +2399,7 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_external_efivar
   - LineageOS/android_external_tinyhal
   - LineageOS/android_hardware_nvidia_boot_control
+  - LineageOS/android_hardware_nvidia_hdmi-cec
   - LineageOS/android_hardware_nvidia_hwinc
   - LineageOS/android_hardware_nvidia_interfaces
   - LineageOS/android_hardware_nvidia_libstagefrighthw
