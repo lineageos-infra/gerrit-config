@@ -2883,6 +2883,7 @@ PROJECT-Samsung-sm7125:
   - LineageOS/android_kernel_samsung_sm7125
 PROJECT-Samsung-sm7325:
   - LineageOS/android_device_samsung_a52sxq
+  - LineageOS/android_device_samsung_a73xq
   - LineageOS/android_device_samsung_m52xq
   - LineageOS/android_device_samsung_sm7325-common
   - LineageOS/android_kernel_samsung_sm7325
