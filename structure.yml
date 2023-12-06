@@ -2289,6 +2289,8 @@ PROJECT-Nintendo-icosa:
   - LineageOS/android_device_nintendo_nx_tab
   - LineageOS/android_hardware_nvidia_platform_t210_nx
   - LineageOS/android_hardware_nvidia_platform_t210_switch
+  - LineageOS/android_kernel_nvidia_kernel-nx
+  - LineageOS/android_kernel_nvidia_nvidia-nx
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
 PROJECT-Nokia-msm8998:
