@@ -2720,6 +2720,7 @@ PROJECT-Samsung-exynos9820:
   - LineageOS/android_kernel_samsung_exynos9820
 PROJECT-Samsung-gta4l:
   - LineageOS/android_device_samsung_gta4l
+  - LineageOS/android_device_samsung_gta4lwifi
   - LineageOS/android_device_samsung_gta4l-common
   - LineageOS/android_kernel_samsung_sm6115
 PROJECT-Samsung-gta4xl:
