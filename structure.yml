@@ -1351,6 +1351,7 @@ OEM-Google:
   - PROJECT-Google-sprout
   - PROJECT-Google-wahoo
   - PROJECT-Google-yellowstone
+  - PROJECT-Google-zuma
 OEM-HTC:
   - PROJECT-HTC-flounder
   - PROJECT-HTC-hiae
@@ -1872,6 +1873,10 @@ PROJECT-Google-seed:
 PROJECT-Google-shamrock:
   - LineageOS/android_device_google_shamrock
   - LineageOS/android_kernel_google_shamrock
+PROJECT-Google-shusky:
+  - LineageOS/android_device_google_husky
+  - LineageOS/android_device_google_shiba
+  - LineageOS/android_device_google_shusky
 PROJECT-Google-sphynx:
   - LineageOS/android_device_google_sphynx
   - LineageOS/android_hardware_nvidia_platform_t210_smaug
@@ -1895,6 +1900,9 @@ PROJECT-Google-wahoo:
 PROJECT-Google-yellowstone:
   - LineageOS/android_device_google_yellowstone
   - LineageOS/android_kernel_google_yellowstone
+PROJECT-Google-zuma:
+  - LineageOS/android_device_google_zuma
+  - PROJECT-Google-shusky
 PROJECT-HTC-eye:
   - LineageOS/android_device_htc_eyeul
 PROJECT-HTC-flounder:
