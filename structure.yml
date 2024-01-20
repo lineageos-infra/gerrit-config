@@ -439,7 +439,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_providers_UserDictionaryProvider
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_services_BuiltInPrintService
-  - LineageOS/android_packages_services_Car
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_tools_aidl
@@ -591,6 +590,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_packages_providers_TelephonyProvider
   - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_PhotoTable
+  - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
