@@ -2111,6 +2111,7 @@ PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_FMRadio
+  - LineageOS/android_packages_apps_Glimpse
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Recorder
