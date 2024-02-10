@@ -656,6 +656,7 @@ Lineage-Device-Projects:
   - OEM-Nvidia
   - OEM-Oneplus
   - OEM-Oppo
+  - OEM-Osom
   - OEM-Pantech
   - OEM-Razer
   - OEM-Realme
@@ -1478,6 +1479,8 @@ OEM-Oppo:
   - PROJECT-Oppo-msm8939
   - PROJECT-Oppo-msm8974
   - PROJECT-Oppo-sm8250
+OEM-Osom:
+  - PROJECT-Osom-ingot
 OEM-Razer:
   - PROJECT-Razer-aura
   - PROJECT-Razer-cheryl
@@ -2617,6 +2620,9 @@ PROJECT-Oppo-msm8974:
 PROJECT-Oppo-sm8250:
   - LineageOS/android_device_oppo_OP4A7A
   - LineageOS/android_kernel_oppo_sm8250
+PROJECT-Osom-ingot:
+  - LineageOS/android_device_osom_ingot
+  - LineageOS/android_kernel_osom_sm8475
 PROJECT-Razer-aura:
   - LineageOS/android_device_razer_aura
   - LineageOS/android_kernel_razer_sdm845
