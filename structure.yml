@@ -1330,6 +1330,7 @@ OEM-Fairphone:
   - PROJECT-Fairphone-FP2
   - PROJECT-Fairphone-FP3
   - PROJECT-Fairphone-FP4
+  - PROJECT-Fairphone-FP5
 OEM-Fxtec:
   - PROJECT-Fxtec-pro1
   - PROJECT-Fxtec-pro1x
@@ -1788,6 +1789,9 @@ PROJECT-Fairphone-FP3:
 PROJECT-Fairphone-FP4:
   - LineageOS/android_device_fairphone_FP4
   - LineageOS/android_kernel_fairphone_sm7225
+PROJECT-Fairphone-FP5:
+  - LineageOS/android_device_fairphone_FP5
+  - LineageOS/android_kernel_fairphone_qcm6490
 PROJECT-Fxtec-pro1:
   - LineageOS/android_device_fxtec_pro1
   - LineageOS/android_kernel_fxtec_msm8998
