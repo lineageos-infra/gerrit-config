@@ -549,6 +549,8 @@ Lineage-21.0-Projects:
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_ril
+  - LineageOS/android_hardware_samsung_nfc
+  - LineageOS/android_hardware_st_nfc
   - LineageOS/android_kernel_configs
   - LineageOS/android_lineage-sdk
   - LineageOS/android_packages_apps_AudioFX
@@ -3384,7 +3386,6 @@ PROJECT-qcom-kernel-msm8998:
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
   - LineageOS/android_hardware_samsung
-  - LineageOS/android_hardware_samsung_nfc
   - LineageOS/android_hardware_samsung_slsi-cm_exynos
   - LineageOS/android_hardware_samsung_slsi-cm_exynos5
   - LineageOS/android_hardware_samsung_slsi-cm_exynos7880
