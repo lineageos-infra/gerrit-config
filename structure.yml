@@ -1664,6 +1664,7 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_device_hardkernel_odroidc4
   - LineageOS/android_device_hardkernel_odroidc4_tab
   - LineageOS/android_device_radxa_radxa0
+  - LineageOS/android_device_radxa_radxa0_car
   - LineageOS/android_device_radxa_radxa0_tab
   - LineageOS/android_hardware_amlogic_kernel-modules_dhd-driver
   - LineageOS/android_hardware_amlogic_kernel-modules_mali-driver
