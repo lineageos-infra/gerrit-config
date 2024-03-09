@@ -1491,6 +1491,7 @@ OEM-Razer:
 OEM-Realme:
   - PROJECT-Realme-RMX1801
   - PROJECT-Realme-RMX1851
+  - PROJECT-Realme-sm6375
 OEM-Realtek:
   - PROJECT-Realtek-hardware
 OEM-STMicro:
@@ -2646,6 +2647,10 @@ PROJECT-Realme-RMX1801:
 PROJECT-Realme-RMX1851:
   - LineageOS/android_device_realme_RMX1851
   - LineageOS/android_kernel_realme_sdm710
+PROJECT-Realme-sm6375:
+  - LineageOS/android_device_realme_oscar
+  - LineageOS/android_device_realme_sm6375-common
+  - LineageOS/android_kernel_realme_sm6375
 PROJECT-Realtek-hardware:
   - LineageOS/android_hardware_realtek
 PROJECT-STMicro-hardware:
