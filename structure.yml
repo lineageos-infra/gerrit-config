@@ -1616,6 +1616,7 @@ OEM-nxp:
   - PROJECT-nxp-hardware
 OEM-qcom:
   - LineageOS/android_kernel_qcom_msm8916
+  - LineageOS/android_kernel_qcom_msm8953
   - LineageOS/android_kernel_qcom_msm8974
   - LineageOS/android_kernel_qcom_msm8976
   - LineageOS/android_kernel_qcom_msm8994
