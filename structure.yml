@@ -2389,6 +2389,7 @@ PROJECT-Nvidia-common:
   - LineageOS/android_kernel_nvidia_cypress-fmac
   - LineageOS/android_kernel_nvidia_cypress-fmac-upstream
   - LineageOS/android_kernel_nvidia_display
+  - LineageOS/android_kernel_nvidia_exfat
   - LineageOS/android_kernel_nvidia_kernel
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common
   - LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra
