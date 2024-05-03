@@ -1570,6 +1570,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-Violet
   - PROJECT-Xiaomi-armani
   - PROJECT-Xiaomi-cancro
+  - PROJECT-Xiaomi-earth
   - PROJECT-Xiaomi-ferrari
   - PROJECT-Xiaomi-gauguin
   - PROJECT-Xiaomi-gemini
@@ -3082,6 +3083,9 @@ PROJECT-Xiaomi-cancro:
   - LineageOS/android_kernel_xiaomi_cancro
 PROJECT-Xiaomi-dipper:
   - LineageOS/android_device_xiaomi_dipper
+PROJECT-Xiaomi-earth:
+  - LineageOS/android_device_xiaomi_earth
+  - LineageOS/android_kernel_xiaomi_earth
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
