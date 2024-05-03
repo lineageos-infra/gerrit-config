@@ -1400,6 +1400,7 @@ OEM-Lenovo:
   - PROJECT-Lenovo-msm8916
   - PROJECT-Lenovo-msm8953
   - PROJECT-Lenovo-msm8976
+  - PROJECT-Lenovo-sdm710
   - PROJECT-Lenovo-sm8150
 OEM-MediaTek:
   - PROJECT-MediaTek-hardware
@@ -2116,6 +2117,11 @@ PROJECT-Lenovo-msm8976:
   - LineageOS/android_device_lenovo_YTX703F
   - LineageOS/android_device_lenovo_YTX703L
   - LineageOS/android_kernel_lenovo_msm8976
+PROJECT-Lenovo-sdm710:
+  - LineageOS/android_device_lenovo_kunlun2
+  - LineageOS/android_device_lenovo_kunlun2_row
+  - LineageOS/android_device_lenovo_sdm710-common
+  - LineageOS/android_kernel_lenovo_sdm710
 PROJECT-Lenovo-sm8150:
   - LineageOS/android_device_lenovo_heart
   - LineageOS/android_device_lenovo_sm8150-common
