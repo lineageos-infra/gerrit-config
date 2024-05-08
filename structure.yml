@@ -382,7 +382,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_ppp
   - LineageOS/android_external_selinux
   - LineageOS/android_external_skia
-  - LineageOS/android_external_sonivox
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_v8
   - LineageOS/android_frameworks_hardware_interfaces
@@ -481,6 +480,7 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_icu
   - LineageOS/android_external_libxml2
   - LineageOS/android_external_pdfium
+  - LineageOS/android_external_sonivox
   - LineageOS/android_hardware_libhardware_legacy
   - LineageOS/android_libcore
   - LineageOS/android_packages_apps_KeyChain
