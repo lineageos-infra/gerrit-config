@@ -1628,6 +1628,9 @@ OEM-qcom:
   - LineageOS/android_kernel_qcom_sm8150
   - LineageOS/android_kernel_qcom_sm8250
   - LineageOS/android_kernel_qcom_sm8350
+  - LineageOS/android_kernel_qcom_sm8450
+  - LineageOS/android_kernel_qcom_sm8450-devicetrees
+  - LineageOS/android_kernel_qcom_sm8450-modules
   - LineageOS/android_kernel_qcom_sm8550
   - LineageOS/android_kernel_qcom_sm8550-devicetrees
   - LineageOS/android_kernel_qcom_sm8550-modules
