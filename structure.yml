@@ -2647,6 +2647,8 @@ PROJECT-Oppo-sm8250:
 PROJECT-Osom-ingot:
   - LineageOS/android_device_osom_ingot
   - LineageOS/android_kernel_osom_sm8475
+  - LineageOS/android_kernel_osom_sm8475-devicetrees
+  - LineageOS/android_kernel_osom_sm8475-modules
 PROJECT-Razer-aura:
   - LineageOS/android_device_razer_aura
   - LineageOS/android_kernel_razer_sdm845
