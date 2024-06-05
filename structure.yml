@@ -398,7 +398,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_hardware_interfaces
-  - LineageOS/android_system_libfmq
   - LineageOS/android_vendor_chromium
 Lineage-18.0-Projects:
   - Lineage-18.1-Projects
@@ -489,8 +488,10 @@ Lineage-20.0-Projects:
   - LineageOS/android_packages_modules_StatsD
   - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
+  - LineageOS/android_prebuilts_module_sdk_Wifi
   - LineageOS/android_system_apex
   - LineageOS/android_system_ca-certificates
+  - LineageOS/android_system_libfmq
   - LineageOS/android_system_memory_lmkd
   - LineageOS/android_system_timezone
   - LineageOS/android_tools_apksig
