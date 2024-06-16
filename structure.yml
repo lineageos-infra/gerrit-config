@@ -527,6 +527,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
+  - LineageOS/android_external_robolectric
   - LineageOS/android_external_rsync
   - LineageOS/android_external_setupcompat
   - LineageOS/android_external_tinycompress
