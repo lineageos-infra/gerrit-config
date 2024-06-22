@@ -3299,6 +3299,7 @@ PROJECT-android-tv:
   - LineageOS/android_packages_apps_LineageCustomizer
   - LineageOS/android_packages_apps_TV
   - LineageOS/android_packages_apps_TvSettings
+  - LineageOS/android_packages_apps_TvSystemUI
   - LineageOS/android_packages_providers_TvProvider
 PROJECT-intel-common:
   - LineageOS/android_hardware_intel_sensors-iio
