@@ -1820,6 +1820,8 @@ PROJECT-Generic-goldfish:
   - LineageOS/android_device_generic_goldfish
   - LineageOS/android_device_generic_goldfish-opengl
   - LineageOS/android_kernel_goldfish
+PROJECT-Google-akita:
+  - LineageOS/android_device_google_akita
 PROJECT-Google-bluejay:
   - LineageOS/android_device_google_bluejay
   - LineageOS/android_kernel_google_bluejay
@@ -1924,6 +1926,7 @@ PROJECT-Google-yellowstone:
   - LineageOS/android_kernel_google_yellowstone
 PROJECT-Google-zuma:
   - LineageOS/android_device_google_zuma
+  - PROJECT-Google-akita
   - PROJECT-Google-shusky
 PROJECT-HTC-eye:
   - LineageOS/android_device_htc_eyeul
