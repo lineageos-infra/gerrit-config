@@ -1599,6 +1599,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-sm8150
   - PROJECT-Xiaomi-sm8250
   - PROJECT-Xiaomi-sm8350
+  - PROJECT-Xiaomi-sm8450
   - PROJECT-Xiaomi-surya
 OEM-Yandex:
   - PROJECT-Yandex-sdm660
@@ -3251,6 +3252,22 @@ PROJECT-Xiaomi-sm8350:
   - LineageOS/android_device_xiaomi_renoir
   - LineageOS/android_device_xiaomi_sm8350-common
   - LineageOS/android_kernel_xiaomi_sm8350
+PROJECT-Xiaomi-sm8450:
+  - LineageOS/android_device_xiaomi_cupid
+  - LineageOS/android_device_xiaomi_dagda
+  - LineageOS/android_device_xiaomi_diting
+  - LineageOS/android_device_xiaomi_marble
+  - LineageOS/android_device_xiaomi_mayfly
+  - LineageOS/android_device_xiaomi_mondrian
+  - LineageOS/android_device_xiaomi_sm8450-common
+  - LineageOS/android_device_xiaomi_taranis
+  - LineageOS/android_device_xiaomi_unicorn
+  - LineageOS/android_device_xiaomi_yudi
+  - LineageOS/android_device_xiaomi_ziyi
+  - LineageOS/android_device_xiaomi_zizhan
+  - LineageOS/android_kernel_xiaomi_sm8450
+  - LineageOS/android_kernel_xiaomi_sm8450-devicetrees
+  - LineageOS/android_kernel_xiaomi_sm8450-modules
 PROJECT-Xiaomi-surya:
   - LineageOS/android_kernel_xiaomi_surya
 PROJECT-Xiaomi-twolip:
