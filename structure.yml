@@ -1534,6 +1534,7 @@ OEM-Samsung:
   - PROJECT-Samsung-qcom
   - PROJECT-Samsung-sdm429
   - PROJECT-Samsung-serrano
+  - PROJECT-Samsung-sm6150
   - PROJECT-Samsung-sm7125
   - PROJECT-Samsung-sm7325
   - PROJECT-Samsung-sm8150
@@ -2935,6 +2936,11 @@ PROJECT-Samsung-serrano:
   - LineageOS/android_device_samsung_serranodsdd
   - LineageOS/android_device_samsung_serranoltexx
   - LineageOS/android_kernel_samsung_msm8930-common
+PROJECT-Samsung-sm6150:
+  - LineageOS/android_device_samsung_a70q
+  - LineageOS/android_device_samsung_a70s
+  - LineageOS/android_device_samsung_sm6150-common
+  - LineageOS/android_kernel_samsung_sm6150
 PROJECT-Samsung-sm7125:
   - LineageOS/android_device_samsung_a52q
   - LineageOS/android_device_samsung_a72q
