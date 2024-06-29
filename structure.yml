@@ -2091,6 +2091,7 @@ PROJECT-LGE-msm8998:
   - LineageOS/android_device_lge_h932
   - LineageOS/android_device_lge_joan
   - LineageOS/android_device_lge_joan-common
+  - LineageOS/android_device_lge_l01k
   - LineageOS/android_kernel_lge_msm8998
 PROJECT-LGE-sdm845:
   - LineageOS/android_device_lge_judyln
