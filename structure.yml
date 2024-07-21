@@ -674,6 +674,7 @@ Lineage-Device-Projects:
   - OEM-Sony
   - OEM-Toshiba
   - OEM-Unmaintained
+  - OEM-Virt
   - OEM-Wileyfox
   - OEM-Wingtech
   - OEM-Xiaomi
@@ -1565,6 +1566,8 @@ OEM-Sony:
   - PROJECT-Sony-tama
   - PROJECT-Sony-taoshan
   - PROJECT-Sony-yukon
+OEM-Virt:
+  - PROJECT-Virt-virtio
 OEM-Wileyfox:
   - PROJECT-Wileyfox-crackling
   - PROJECT-Wileyfox-kipper
@@ -3099,6 +3102,13 @@ PROJECT-Sony-yukon:
   - LineageOS/android_device_sony_seagull
   - LineageOS/android_device_sony_tianchi
   - LineageOS/android_device_sony_yukon
+PROJECT-Virt-virtio:
+  - LineageOS/android_device_virt_virtio_arm64
+  - LineageOS/android_device_virt_virtio_x86_64
+  - LineageOS/android_device_virt_virtio_x86_64_car
+  - LineageOS/android_device_virt_virtio_x86_64_tv
+  - LineageOS/android_device_virt_virtio-common
+  - LineageOS/android_kernel_virt_virtio
 PROJECT-Wileyfox-crackling:
   - LineageOS/android_device_wileyfox_crackling
 PROJECT-Wileyfox-kipper:
