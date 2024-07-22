@@ -2097,7 +2097,10 @@ PROJECT-LGE-msm8998:
   - LineageOS/android_device_lge_l01k
   - LineageOS/android_kernel_lge_msm8998
 PROJECT-LGE-sdm845:
+  - LineageOS/android_device_lge_g710n
+  - LineageOS/android_device_lge_g710ulm
   - LineageOS/android_device_lge_judyln
+  - LineageOS/android_device_lge_judyln-common
   - LineageOS/android_device_lge_judyp
   - LineageOS/android_device_lge_judypn
   - LineageOS/android_device_lge_sdm845-common
