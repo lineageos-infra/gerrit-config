@@ -2787,6 +2787,7 @@ PROJECT-Samsung-exynos9820:
   - LineageOS/android_device_samsung_beyond2lte
   - LineageOS/android_device_samsung_beyondx
   - LineageOS/android_device_samsung_d1
+  - LineageOS/android_device_samsung_d1x
   - LineageOS/android_device_samsung_d2s
   - LineageOS/android_device_samsung_d2x
   - LineageOS/android_device_samsung_exynos9820-common
