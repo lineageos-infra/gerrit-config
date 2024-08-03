@@ -1597,6 +1597,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm710
   - PROJECT-Xiaomi-sdm845
+  - PROJECT-Xiaomi-shark
   - PROJECT-Xiaomi-sm6125
   - PROJECT-Xiaomi-sm6150
   - PROJECT-Xiaomi-sm6250
@@ -3241,6 +3242,9 @@ PROJECT-Xiaomi-sdm845:
   - LineageOS/android_device_xiaomi_ursa
   - LineageOS/android_kernel_xiaomi_sdm845
   - PROJECT-Xiaomi-dipper
+PROJECT-Xiaomi-shark:
+  - LineageOS/android_device_xiaomi_shark
+  - LineageOS/android_kernel_xiaomi_shark
 PROJECT-Xiaomi-sm6125:
   - LineageOS/android_device_xiaomi_ginkgo
   - LineageOS/android_device_xiaomi_sm6125-common
