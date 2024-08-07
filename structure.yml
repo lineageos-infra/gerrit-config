@@ -3110,6 +3110,7 @@ PROJECT-Sony-yukon:
   - LineageOS/android_device_sony_yukon
 PROJECT-Virt-virtio:
   - LineageOS/android_device_virt_virtio_arm64
+  - LineageOS/android_device_virt_virtio_arm64only
   - LineageOS/android_device_virt_virtio_x86_64
   - LineageOS/android_device_virt_virtio_x86_64_car
   - LineageOS/android_device_virt_virtio_x86_64_tv
