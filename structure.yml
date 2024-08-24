@@ -2305,6 +2305,7 @@ PROJECT-Motorola-sm6150:
 PROJECT-Motorola-sm6225:
   - LineageOS/android_device_motorola_borneo
   - LineageOS/android_device_motorola_caprip
+  - LineageOS/android_device_motorola_cebu
   - LineageOS/android_device_motorola_devon
   - LineageOS/android_device_motorola_guam
   - LineageOS/android_device_motorola_guamp
