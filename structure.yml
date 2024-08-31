@@ -1548,6 +1548,7 @@ OEM-Samsung:
   - PROJECT-Samsung-zero
   - PROJECT-samsung-hardware
 OEM-Shift:
+  - PROJECT-Shift-otter
   - PROJECT-Shift-sdm845
 OEM-Sony:
   - PROJECT-Sony-blue
@@ -3014,6 +3015,9 @@ PROJECT-Samsung-zero:
   - LineageOS/android_device_samsung_zerofltexx
   - LineageOS/android_device_samsung_zeroltexx
   - LineageOS/android_kernel_samsung_exynos7420
+PROJECT-Shift-otter:
+  - LineageOS/android_device_shift_otter
+  - LineageOS/android_kernel_shift_qcm6490
 PROJECT-Shift-sdm845:
   - LineageOS/android_device_shift_axolotl
   - LineageOS/android_kernel_shift_sdm845
