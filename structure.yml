@@ -1865,6 +1865,7 @@ PROJECT-Google-gs201:
   - PROJECT-Google-pantah
   - PROJECT-Google-tangorpro
 PROJECT-Google-hardware:
+  - LineageOS/android_hardware_google_camera
   - LineageOS/android_hardware_google_gchips
   - LineageOS/android_hardware_google_graphics_common
   - LineageOS/android_hardware_google_pixel
