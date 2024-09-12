@@ -45,7 +45,6 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_gcc-demangle
   - LineageOS/android_external_genext2fs
   - LineageOS/android_external_google-diff-match-patch
-  - LineageOS/android_external_grub
   - LineageOS/android_external_gtest
   - LineageOS/android_external_hamcrest
   - LineageOS/android_external_harfbuzz
