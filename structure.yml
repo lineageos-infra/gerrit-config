@@ -1571,6 +1571,7 @@ OEM-Sony:
   - PROJECT-Sony-taoshan
   - PROJECT-Sony-yukon
 OEM-Virt:
+  - PROJECT-Virt-hardware
   - PROJECT-Virt-virtio
 OEM-Wileyfox:
   - PROJECT-Wileyfox-crackling
@@ -3124,6 +3125,9 @@ PROJECT-Sony-yukon:
   - LineageOS/android_device_sony_seagull
   - LineageOS/android_device_sony_tianchi
   - LineageOS/android_device_sony_yukon
+PROJECT-Virt-hardware:
+  - LineageOS/android_external_grub
+  - LineageOS/android_prebuilts_bootmgr
 PROJECT-Virt-virtio:
   - LineageOS/android_device_virt_virtio_arm64
   - LineageOS/android_device_virt_virtio_arm64only
