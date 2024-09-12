@@ -3128,6 +3128,8 @@ PROJECT-Virt-hardware:
   - LineageOS/android_external_grub
   - LineageOS/android_prebuilts_bootmgr
 PROJECT-Virt-virtio:
+  - LineageOS/android_device_virt_vboxware
+  - LineageOS/android_device_virt_virt-common
   - LineageOS/android_device_virt_virtio_arm64
   - LineageOS/android_device_virt_virtio_arm64only
   - LineageOS/android_device_virt_virtio_x86_64
