@@ -402,7 +402,6 @@ Lineage-18.0-Projects:
   - Lineage-18.1-Projects
 Lineage-18.1-Projects:
   - Lineage-19.0-Projects
-  - LineageOS/android_build_blueprint
   - LineageOS/android_external_ant-wireless_antradio-library
   - LineageOS/android_external_boringssl
   - LineageOS/android_external_guice
@@ -484,7 +483,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_NeuralNetworks
   - LineageOS/android_packages_modules_StatsD
-  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
   - LineageOS/android_prebuilts_module_sdk_Wifi
   - LineageOS/android_system_apex
@@ -546,6 +544,7 @@ Lineage-22.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
   - LineageOS/android_build
+  - LineageOS/android_build_blueprint
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_generic_common
@@ -590,6 +589,7 @@ Lineage-22.0-Projects:
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_Permission
+  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_modules_common
