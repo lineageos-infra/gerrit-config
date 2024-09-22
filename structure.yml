@@ -495,51 +495,16 @@ Lineage-21.0-Projects:
   - Lineage-22.0-Projects
   - LineageOS/android_art
   - LineageOS/android_device_google_contexthub
-  - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_android-nn-driver
-  - LineageOS/android_external_ant-wireless_ant_client
-  - LineageOS/android_external_ant-wireless_ant_native
-  - LineageOS/android_external_ant-wireless_ant_service
-  - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_armnn
-  - LineageOS/android_external_bash
   - LineageOS/android_external_bson
-  - LineageOS/android_external_exfatprogs
-  - LineageOS/android_external_htop
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
-  - LineageOS/android_external_libncurses
   - LineageOS/android_external_libnl
   - LineageOS/android_external_libvpx
-  - LineageOS/android_external_nano
-  - LineageOS/android_external_ntfs-3g
-  - LineageOS/android_external_openssh
-  - LineageOS/android_external_rsync
-  - LineageOS/android_external_unrar
-  - LineageOS/android_external_vim
   - LineageOS/android_external_webp
   - LineageOS/android_external_wpa_supplicant_8
-  - LineageOS/android_hardware_lineage_compat
-  - LineageOS/android_hardware_lineage_interfaces
-  - LineageOS/android_hardware_lineage_livedisplay
-  - LineageOS/android_lineage-sdk
-  - LineageOS/android_packages_apps_AudioFX
-  - LineageOS/android_packages_apps_Backgrounds
-  - LineageOS/android_packages_apps_Gallery2
-  - LineageOS/android_packages_apps_LineageParts
-  - LineageOS/android_packages_apps_Profiles
-  - LineageOS/android_packages_apps_Seedvault
-  - LineageOS/android_packages_apps_SetupWizard
-  - LineageOS/android_packages_apps_SimpleDeviceConfig
-  - LineageOS/android_packages_apps_SimpleSettingsConfig
-  - LineageOS/android_packages_overlays_Lineage
-  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_prebuilts_build-tools
-  - LineageOS/android_prebuilts_extract-tools
-  - LineageOS/android_prebuilts_tools-lineage
-  - LineageOS/android_system_qcom
-  - LineageOS/android_tools_extract-utils
-  - LineageOS/android_vendor_crowdin
 Lineage-22.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
@@ -548,14 +513,29 @@ Lineage-22.0-Projects:
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_generic_common
+  - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_ant-wireless_ant_client
+  - LineageOS/android_external_ant-wireless_ant_native
+  - LineageOS/android_external_ant-wireless_ant_service
+  - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_arm-trusted-firmware
+  - LineageOS/android_external_bash
   - LineageOS/android_external_avb
   - LineageOS/android_external_cronet
   - LineageOS/android_external_dtc
+  - LineageOS/android_external_exfatprogs
+  - LineageOS/android_external_htop
+  - LineageOS/android_external_libncurses
   - LineageOS/android_external_mksh
+  - LineageOS/android_external_nano
+  - LineageOS/android_external_ntfs-3g
+  - LineageOS/android_external_openssh
   - LineageOS/android_external_robolectric
+  - LineageOS/android_external_rsync
   - LineageOS/android_external_setupcompat
   - LineageOS/android_external_tinycompress
+  - LineageOS/android_external_unrar
+  - LineageOS/android_external_vim
   - LineageOS/android_external_zstd
   - LineageOS/android_frameworks_av
   - LineageOS/android_frameworks_base
@@ -568,18 +548,31 @@ Lineage-22.0-Projects:
   - LineageOS/android_hardware_broadcom_libbt
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_libhardware
+  - LineageOS/android_hardware_lineage_compat
+  - LineageOS/android_hardware_lineage_interfaces
+  - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_ril
   - LineageOS/android_hardware_samsung_nfc
   - LineageOS/android_hardware_st_nfc
   - LineageOS/android_kernel_configs
+  - LineageOS/android_lineage-sdk
+  - LineageOS/android_packages_apps_AudioFX
+  - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
   - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_CellBroadcastReceiver
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
+  - LineageOS/android_packages_apps_Gallery2
+  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Nfc
+  - LineageOS/android_packages_apps_Profiles
+  - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SettingsIntelligence
+  - LineageOS/android_packages_apps_SetupWizard
+  - LineageOS/android_packages_apps_SimpleDeviceConfig
+  - LineageOS/android_packages_apps_SimpleSettingsConfig
   - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_ThemePicker
@@ -593,6 +586,7 @@ Lineage-22.0-Projects:
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_modules_common
+  - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_providers_BlockedNumberProvider
   - LineageOS/android_packages_providers_BookmarkProvider
   - LineageOS/android_packages_providers_CalendarProvider
@@ -601,12 +595,15 @@ Lineage-22.0-Projects:
   - LineageOS/android_packages_providers_DownloadProvider
   - LineageOS/android_packages_providers_MediaProvider
   - LineageOS/android_packages_providers_TelephonyProvider
+  - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
   - LineageOS/android_packages_wallpapers_LivePicker
+  - LineageOS/android_prebuilts_extract-tools
+  - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_bpf
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
@@ -616,11 +613,14 @@ Lineage-22.0-Projects:
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
+  - LineageOS/android_tools_extract-utils
+  - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-apps
   - PROJECT-Lineage-recovery
