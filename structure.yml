@@ -2366,6 +2366,8 @@ PROJECT-Nintendo-icosa:
 PROJECT-Nokia-DRG:
   - LineageOS/android_device_nokia_DRG
 PROJECT-Nokia-msm8998:
+  - LineageOS/android_device_nokia_msm8998-common
+  - LineageOS/android_device_nokia_NB1
   - LineageOS/android_device_nokia_NLA
   - LineageOS/android_kernel_nokia_msm8998
 PROJECT-Nokia-sdm660:
