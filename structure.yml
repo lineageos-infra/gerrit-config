@@ -390,7 +390,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_Exchange
   - LineageOS/android_packages_apps_UnifiedEmail
-  - LineageOS/android_packages_modules_NetworkStack
   - LineageOS/android_platform_testing
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
@@ -581,6 +580,7 @@ Lineage-22.0-Projects:
   - LineageOS/android_packages_inputmethods_LeanbackIME
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
+  - LineageOS/android_packages_modules_NetworkStack
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_Wifi
