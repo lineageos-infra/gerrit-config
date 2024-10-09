@@ -1680,6 +1680,7 @@ PROJECT-Amazon-omap4:
   - LineageOS/android_kernel_amazon_otter-common
 PROJECT-Amlogic-g12:
   - LineageOS/android_device_amlogic_g12-common
+  - LineageOS/android_device_amlogic_sm1-common
   - LineageOS/android_device_askey_deadpool
   - LineageOS/android_device_askey_dopinder
   - LineageOS/android_device_askey_wade
