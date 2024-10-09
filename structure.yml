@@ -1361,6 +1361,7 @@ OEM-Google:
   - PROJECT-Google-wahoo
   - PROJECT-Google-yellowstone
   - PROJECT-Google-zuma
+  - PROJECT-Google-zumapro
 OEM-HTC:
   - PROJECT-HTC-flounder
   - PROJECT-HTC-hiae
@@ -1841,6 +1842,13 @@ PROJECT-Google-bonito:
   - LineageOS/android_device_google_bonito
   - LineageOS/android_device_google_sargo
   - LineageOS/android_kernel_google_bonito
+PROJECT-Google-caimito:
+  - LineageOS/android_device_google_caiman
+  - LineageOS/android_device_google_caimito
+  - LineageOS/android_device_google_komodo
+  - LineageOS/android_kernel_google_tokay
+PROJECT-Google-comet:
+  - LineageOS/android_device_google_comet
 PROJECT-Google-coral:
   - LineageOS/android_device_google_coral
   - LineageOS/android_device_google_flame
@@ -1941,6 +1949,10 @@ PROJECT-Google-zuma:
   - LineageOS/android_device_google_zuma
   - PROJECT-Google-akita
   - PROJECT-Google-shusky
+PROJECT-Google-zumapro:
+  - LineageOS/android_device_google_zumapro
+  - PROJECT-Google-caimito
+  - PROJECT-Google-comet
 PROJECT-HTC-eye:
   - LineageOS/android_device_htc_eyeul
 PROJECT-HTC-flounder:
