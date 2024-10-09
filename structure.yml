@@ -1849,7 +1849,7 @@ PROJECT-Google-caimito:
   - LineageOS/android_device_google_caiman
   - LineageOS/android_device_google_caimito
   - LineageOS/android_device_google_komodo
-  - LineageOS/android_kernel_google_tokay
+  - LineageOS/android_device_google_tokay
 PROJECT-Google-comet:
   - LineageOS/android_device_google_comet
 PROJECT-Google-coral:
