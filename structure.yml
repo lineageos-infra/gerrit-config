@@ -477,7 +477,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_sonivox
   - LineageOS/android_hardware_libhardware_legacy
-  - LineageOS/android_libcore
   - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_NeuralNetworks
@@ -493,6 +492,7 @@ Lineage-20.0-Projects:
 Lineage-21.0-Projects:
   - Lineage-22.0-Projects
   - LineageOS/android_art
+  - LineageOS/android_build_release
   - LineageOS/android_device_google_contexthub
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_armnn
@@ -503,6 +503,8 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_libvpx
   - LineageOS/android_external_webp
   - LineageOS/android_external_wpa_supplicant_8
+  - LineageOS/android_libcore
+  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_prebuilts_build-tools
 Lineage-22.0-Projects:
   - Head-Developers
