@@ -29,6 +29,7 @@ Lineage-11.0-Projects:
   - LineageOS/android_external_chromium-trace
   - LineageOS/android_external_chromium_org
   - LineageOS/android_external_chromium_org_third_party_openssl
+  - LineageOS/android_external_chromium_org_third_party_WebKit
   - LineageOS/android_external_clang
   - LineageOS/android_external_compiler-rt
   - LineageOS/android_external_crda
