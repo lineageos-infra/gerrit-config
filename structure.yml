@@ -2190,6 +2190,7 @@ PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Jelly
   - LineageOS/android_packages_apps_Messaging
   - LineageOS/android_packages_apps_Recorder
+  - LineageOS/android_packages_apps_Twelve
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_inputmethods_LatinIME
 PROJECT-Lineage-car:
