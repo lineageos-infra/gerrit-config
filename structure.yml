@@ -527,6 +527,9 @@ Lineage-22.0-Projects:
   - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
+  - LineageOS/android_external_kotlinc
+  - LineageOS/android_external_kotlinx.coroutines
+  - LineageOS/android_external_kotlinx.serialization
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
