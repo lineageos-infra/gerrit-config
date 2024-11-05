@@ -381,7 +381,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_okhttp
   - LineageOS/android_external_ppp
   - LineageOS/android_external_selinux
-  - LineageOS/android_external_skia
   - LineageOS/android_external_sqlite
   - LineageOS/android_external_v8
   - LineageOS/android_frameworks_hardware_interfaces
@@ -501,11 +500,13 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_libevdev
   - LineageOS/android_external_libnl
   - LineageOS/android_external_libvpx
+  - LineageOS/android_external_skia
   - LineageOS/android_external_webp
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_libcore
   - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_prebuilts_build-tools
+  - LineageOS/android_system_keymint
 Lineage-22.0-Projects:
   - Head-Developers
   - LineageOS/android_bionic
