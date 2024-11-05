@@ -494,7 +494,6 @@ Lineage-21.0-Projects:
   - Lineage-22.0-Projects
   - LineageOS/android_art
   - LineageOS/android_build_release
-  - LineageOS/android_device_google_contexthub
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
@@ -515,6 +514,7 @@ Lineage-22.0-Projects:
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_generic_common
+  - LineageOS/android_device_google_contexthub
   - LineageOS/android_device_lineage_sepolicy
   - LineageOS/android_external_ant-wireless_ant_client
   - LineageOS/android_external_ant-wireless_ant_native
