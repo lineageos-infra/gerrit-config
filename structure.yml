@@ -3149,6 +3149,7 @@ PROJECT-Sony-yukon:
   - LineageOS/android_device_sony_yukon
 PROJECT-Virt-hardware:
   - LineageOS/android_external_grub
+  - LineageOS/android_external_mesa
   - LineageOS/android_prebuilts_bootmgr
 PROJECT-Virt-virtio:
   - LineageOS/android_device_virt_vboxware
