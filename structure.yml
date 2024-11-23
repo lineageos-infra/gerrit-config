@@ -2361,6 +2361,7 @@ PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_sm8250-common
   - LineageOS/android_kernel_motorola_sm8250
 PROJECT-Motorola-sm8475:
+  - LineageOS/android_device_motorola_bronco
   - LineageOS/android_device_motorola_eqs
   - LineageOS/android_device_motorola_zeekr
   - LineageOS/android_device_motorola_sm8475-common
