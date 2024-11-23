@@ -626,10 +626,10 @@ Lineage-22.0-Projects:
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
-  - LineageOS/android_tools_extract-utils
   - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
   - PROJECT-Lineage-apps
+  - PROJECT-Lineage-extract
   - PROJECT-Lineage-recovery
 Lineage-Device-Projects:
   - OEM-10or
@@ -2199,6 +2199,8 @@ PROJECT-Lineage-apps:
   - LineageOS/android_packages_inputmethods_LatinIME
 PROJECT-Lineage-car:
   - LineageOS/android_device_lineage_car
+PROJECT-Lineage-extract:
+  - LineageOS/android_tools_extract-utils
 PROJECT-Lineage-recovery:
   - LineageOS/android_bootable_deprecated-ota
   - LineageOS/android_bootable_recovery
