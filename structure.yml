@@ -2451,8 +2451,13 @@ PROJECT-Nvidia-bootable:
   - LineageOS/android_bootable_tianocore_edk2-nvidia-lineage
   - LineageOS/android_bootable_tianocore_edk2-nvidia-non-osi
   - LineageOS/android_bootable_tianocore_edk2-platforms
+  - LineageOS/android_bootable_tianocore_googletest
   - LineageOS/android_bootable_tianocore_jansson
+  - LineageOS/android_bootable_tianocore_libspdm
+  - LineageOS/android_bootable_tianocore_mbedtls
+  - LineageOS/android_bootable_tianocore_mipisyst
   - LineageOS/android_bootable_tianocore_openssl
+  - LineageOS/android_bootable_tianocore_pylibfdt
 PROJECT-Nvidia-common:
   - LineageOS/android_device_nvidia_tegra-common
   - LineageOS/android_hardware_nvidia_platform_tegra_common
