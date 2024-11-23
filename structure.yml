@@ -2365,6 +2365,8 @@ PROJECT-Motorola-sm8475:
   - LineageOS/android_device_motorola_zeekr
   - LineageOS/android_device_motorola_sm8475-common
   - LineageOS/android_kernel_motorola_sm8475
+  - LineageOS/android_kernel_motorola_sm8475-devicetrees
+  - LineageOS/android_kernel_motorola_sm8475-modules
 PROJECT-Motorola-sm8550:
   - LineageOS/android_device_motorola_rtwo
   - LineageOS/android_device_motorola_sm8550-common
