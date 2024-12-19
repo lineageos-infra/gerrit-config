@@ -3352,6 +3352,7 @@ PROJECT-Xiaomi-sm8250:
   - LineageOS/android_device_xiaomi_munch
   - LineageOS/android_device_xiaomi_pipa
   - LineageOS/android_device_xiaomi_sm8250-common
+  - LineageOS/android_device_xiaomi_thyme
   - LineageOS/android_kernel_xiaomi_sm8250
   - PROJECT-Xiaomi-cmi
   - PROJECT-Xiaomi-umi
