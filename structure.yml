@@ -2756,6 +2756,10 @@ PROJECT-Realtek-hardware:
   - LineageOS/android_hardware_realtek
 PROJECT-STMicro-hardware:
   - LineageOS/android_hardware_stmicroelectronics_sensorhal_iio
+PROJECT-Samsung-a21s:
+  - LineageOS/android_device_samsung_a21s
+  - LineageOS/android_device_samsung_a21s-common
+  - LineageOS/android_kernel_samsung_exynos850
 PROJECT-Samsung-a51:
   - LineageOS/android_device_samsung_a51
   - LineageOS/android_device_samsung_universal9611-common
