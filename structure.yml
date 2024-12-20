@@ -614,6 +614,7 @@ Lineage-22.1-Projects:
   - LineageOS/android_prebuilts_extract-tools
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_bpf
+  - LineageOS/android_system_chre
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
   - LineageOS/android_system_keymaster
