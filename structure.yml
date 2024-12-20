@@ -2188,6 +2188,7 @@ PROJECT-Lenovo-sm8150:
 PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Aperture
   - LineageOS/android_packages_apps_Camelot
+  - LineageOS/android_packages_apps_Catapult
   - LineageOS/android_packages_apps_Contacts
   - LineageOS/android_packages_apps_DeskClock
   - LineageOS/android_packages_apps_Dialer
