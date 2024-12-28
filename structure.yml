@@ -3045,6 +3045,7 @@ PROJECT-Samsung-sm8150:
   - LineageOS/android_device_samsung_sm8150-common
   - LineageOS/android_kernel_samsung_r5q
 PROJECT-Samsung-sm8250:
+  - LineageOS/android_device_samsung_gts7lwifi
   - LineageOS/android_device_samsung_r8q
   - LineageOS/android_device_samsung_sm8250-common
   - LineageOS/android_device_samsung_x1q
