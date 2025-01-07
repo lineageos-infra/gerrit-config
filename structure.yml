@@ -141,7 +141,6 @@ Lineage-13.0-Projects:
   - LineageOS/android_external_doclava
   - LineageOS/android_external_dropbear
   - LineageOS/android_external_emilsjolander_stickylistheaders
-  - LineageOS/android_external_giflib
   - LineageOS/android_external_glide
   - LineageOS/android_external_gmock
   - LineageOS/android_external_guava
@@ -496,6 +495,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
+  - LineageOS/android_external_giflib
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
   - LineageOS/android_external_libnl
