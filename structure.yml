@@ -1701,6 +1701,8 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_device_hardkernel_odroidc4_tab
   - LineageOS/android_device_radxa_radxa0
   - LineageOS/android_device_radxa_radxa02
+  - LineageOS/android_device_radxa_radxa02_car
+  - LineageOS/android_device_radxa_radxa02_tab
   - LineageOS/android_device_radxa_radxa02pro
   - LineageOS/android_device_radxa_radxa0_car
   - LineageOS/android_device_radxa_radxa0_tab
