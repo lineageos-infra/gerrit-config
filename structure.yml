@@ -2680,10 +2680,10 @@ PROJECT-Oneplus-sm6350:
   - LineageOS/android_device_oneplus_billie
   - LineageOS/android_kernel_oneplus_sm6350
 PROJECT-Oneplus-sm6375:
- - LineageOS/android_device_oneplus_larry
- - LineageOS/android_device_oneplus_oscaro
- - LineageOS/android_device_oneplus_sm6375-common
- - LineageOS/android_kernel_oneplus_sm6375
+  - LineageOS/android_device_oneplus_larry
+  - LineageOS/android_device_oneplus_oscaro
+  - LineageOS/android_device_oneplus_sm6375-common
+  - LineageOS/android_kernel_oneplus_sm6375
 PROJECT-Oneplus-sm7250:
   - LineageOS/android_device_oneplus_avicii
   - LineageOS/android_kernel_oneplus_sm7250
