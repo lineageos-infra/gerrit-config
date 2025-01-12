@@ -1517,6 +1517,7 @@ OEM-STMicro:
 OEM-Samsung:
   - LineageOS/android_device_samsung_common
   - LineageOS/android_device_samsung_exynos-common
+  - PROJECT-Samsung-a21s
   - PROJECT-Samsung-a51
   - PROJECT-Samsung-a71
   - PROJECT-Samsung-apq8084
