@@ -2356,6 +2356,8 @@ PROJECT-Motorola-sm6225:
 PROJECT-Motorola-sm6375:
   - LineageOS/android_device_motorola_bangkk
   - LineageOS/android_device_motorola_fogos
+  - LineageOS/android_device_motorola_miami
+  - LineageOS/android_device_motorola_rhodep
   - LineageOS/android_device_motorola_sm6375-common
   - LineageOS/android_kernel_motorola_sm6375
 PROJECT-Motorola-sm7250:
