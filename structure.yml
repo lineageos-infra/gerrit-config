@@ -360,7 +360,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_packages_apps_YahooWeatherProvider
   - LineageOS/android_packages_providers_WeatherProvider
   - LineageOS/android_packages_screensavers_WebView
-  - LineageOS/android_prebuilts_abi-dumps_vndk
   - LineageOS/android_prebuilts_constraint-layout
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
   - LineageOS/android_prebuilts_lineage-sdk
@@ -433,6 +432,7 @@ Lineage-18.1-Projects:
   - LineageOS/android_packages_providers_UserDictionaryProvider
   - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_services_BuiltInPrintService
+  - LineageOS/android_prebuilts_abi-dumps_vndk
   - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_libufdt
   - LineageOS/android_system_tools_aidl
