@@ -3604,6 +3604,7 @@ PROJECT-samsung-hardware:
   - LineageOS/android_hardware_samsung_slsi_exynos7880
   - LineageOS/android_hardware_samsung_slsi_fm
   - LineageOS/android_hardware_samsung_slsi_libbt
+  - LineageOS/android_hardware_samsung_slsi-linaro_camera
   - LineageOS/android_hardware_samsung_slsi-linaro_codec2
   - LineageOS/android_hardware_samsung_slsi-linaro_config
   - LineageOS/android_hardware_samsung_slsi-linaro_exynos
