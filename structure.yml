@@ -2145,6 +2145,7 @@ PROJECT-LGE-sdm845:
 PROJECT-LGE-sm8150:
   - LineageOS/android_device_lge_alphaplus
   - LineageOS/android_device_lge_betalm
+  - LineageOS/android_device_lge_flashlmdd
   - LineageOS/android_device_lge_mh2lm
   - LineageOS/android_device_lge_sm8150-common
   - LineageOS/android_kernel_lge_sm8150
