@@ -2789,6 +2789,10 @@ PROJECT-Samsung-a21s:
   - LineageOS/android_kernel_samsung_exynos850
 PROJECT-Samsung-a51:
   - LineageOS/android_device_samsung_a51
+  - LineageOS/android_device_samsung_f41
+  - LineageOS/android_device_samsung_m21
+  - LineageOS/android_device_samsung_m31
+  - LineageOS/android_device_samsung_m31s
   - LineageOS/android_device_samsung_universal9611-common
   - LineageOS/android_kernel_samsung_universal9611
 PROJECT-Samsung-a71:
