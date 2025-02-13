@@ -647,6 +647,7 @@ Lineage-Device-Projects:
   - OEM-BQ
   - OEM-Commtiva
   - OEM-Cyanogen
+  - OEM-Egistec
   - OEM-Essential
   - OEM-Fairphone
   - OEM-Fxtec
@@ -1342,6 +1343,8 @@ OEM-BQ:
   - PROJECT-BQ-sdm660
 OEM-Cyanogen:
   - PROJECT-Cyanogen-msm8916
+OEM-Egistec:
+  - PROJECT-egistec-hardware
 OEM-Essential:
   - PROJECT-Essential-mata
 OEM-Fairphone:
