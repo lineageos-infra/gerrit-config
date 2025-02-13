@@ -3478,6 +3478,8 @@ PROJECT-android-tv:
   - LineageOS/android_packages_apps_TvSettings
   - LineageOS/android_packages_apps_TvSystemUI
   - LineageOS/android_packages_providers_TvProvider
+PROJECT-egistec-hardware:
+  - LineageOS/android_hardware_egistec_fingerprint
 PROJECT-intel-common:
   - LineageOS/android_hardware_intel_sensors-iio
 PROJECT-intel-hardware:
