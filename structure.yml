@@ -495,6 +495,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
+  - LineageOS/android_external_conscrypt
   - LineageOS/android_external_giflib
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
@@ -1043,7 +1044,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_external_clearsilver
   - LineageOS/android_external_cmockery
   - LineageOS/android_external_compcache
-  - LineageOS/android_external_conscrypt
   - LineageOS/android_external_dbus
   - LineageOS/android_external_dhcpcd-6.8.2
   - LineageOS/android_external_dnscrypt_dnscrypt-proxy
