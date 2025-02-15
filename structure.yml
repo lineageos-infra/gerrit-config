@@ -3633,6 +3633,7 @@ PROJECT-samsung-hardware:
   - LineageOS/android_hardware_samsung_slsi-linaro_graphics
   - LineageOS/android_hardware_samsung_slsi-linaro_interfaces
   - LineageOS/android_hardware_samsung_slsi-linaro_openmax
+  - LineageOS/android_hardware_samsung_slsi-linaro_strongswan
   - LineageOS/android_hardware_samsung_slsi_openmax
   - LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal
   - LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib
