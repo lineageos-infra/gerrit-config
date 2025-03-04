@@ -332,7 +332,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_dalvik
   - LineageOS/android_external_ImageMagick
   - LineageOS/android_external_curl
-  - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_elfutils
   - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fsck_msdos
@@ -496,6 +495,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
   - LineageOS/android_external_conscrypt
+  - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_giflib
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
