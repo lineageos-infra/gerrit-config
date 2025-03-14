@@ -490,7 +490,6 @@ Lineage-20.0-Projects:
 Lineage-21.0-Projects:
   - Lineage-22.0-Projects
   - LineageOS/android_art
-  - LineageOS/android_build_release
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
@@ -510,6 +509,7 @@ Lineage-22.0-Projects:
   - Lineage-22.1-Projects
 Lineage-22.1-Projects:
   - Lineage-22.2-Projects
+  - LineageOS/android_build_release
   - LineageOS/android_external_dng_sdk
 Lineage-22.2-Projects:
   - Head-Developers
