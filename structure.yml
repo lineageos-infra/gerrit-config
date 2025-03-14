@@ -495,7 +495,6 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
   - LineageOS/android_external_conscrypt
-  - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_giflib
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
@@ -511,6 +510,7 @@ Lineage-22.0-Projects:
   - Lineage-22.1-Projects
 Lineage-22.1-Projects:
   - Lineage-22.2-Projects
+  - LineageOS/android_external_dng_sdk
 Lineage-22.2-Projects:
   - Head-Developers
   - LineageOS/android_bionic
