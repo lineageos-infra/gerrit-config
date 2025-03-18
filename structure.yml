@@ -3370,6 +3370,7 @@ PROJECT-Xiaomi-shark:
   - LineageOS/android_kernel_xiaomi_shark
 PROJECT-Xiaomi-sm6125:
   - LineageOS/android_device_xiaomi_ginkgo
+  - LineageOS/android_device_xiaomi_laurel_sprout
   - LineageOS/android_device_xiaomi_sm6125-common
   - LineageOS/android_kernel_xiaomi_sm6125
 PROJECT-Xiaomi-sm6150:
