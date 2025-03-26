@@ -3191,6 +3191,11 @@ PROJECT-Sony-shinano:
   - LineageOS/android_device_sony_z3dual
   - LineageOS/android_kernel_sony_msm8974
   - PROJECT-Sony-castor
+PROJECT-Sony-sm6375:
+  - LineageOS/android_device_sony_pdx225
+  - LineageOS/android_device_sony_pdx235
+  - LineageOS/android_device_sony_sm6375-common
+  - LineageOS/android_kernel_sony_sm6375
 PROJECT-Sony-sm8250:
   - LineageOS/android_device_sony_pdx203
   - LineageOS/android_device_sony_pdx206
