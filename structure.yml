@@ -1674,6 +1674,7 @@ OEM-qcom:
   - PROJECT-qcom-hardware
   - PROJECT-qcom-kernel-msm8953
   - PROJECT-qcom-kernel-msm8998
+  - PROJECT-qcom-kernel-sm8650
 OEM-ti:
   - PROJECT-ti-hardware
 PROJECT-10or-G:
@@ -3628,6 +3629,8 @@ PROJECT-qcom-kernel-msm8953:
   - LineageOS/android_kernel_qcom_msm8953
 PROJECT-qcom-kernel-msm8998:
   - LineageOS/android_kernel_qcom_msm8998
+PROJECT-qcom-kernel-sm8650:
+  - LineageOS/android_kernel_qcom_sm8650
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
   - LineageOS/android_hardware_samsung
