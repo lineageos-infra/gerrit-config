@@ -3631,6 +3631,8 @@ PROJECT-qcom-kernel-msm8998:
   - LineageOS/android_kernel_qcom_msm8998
 PROJECT-qcom-kernel-sm8650:
   - LineageOS/android_kernel_qcom_sm8650
+  - LineageOS/android_kernel_qcom_sm8650-devicetrees
+  - LineageOS/android_kernel_qcom_sm8650-modules
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
   - LineageOS/android_hardware_samsung
