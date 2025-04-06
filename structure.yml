@@ -2924,7 +2924,7 @@ PROJECT-Samsung-gta4xl:
   - LineageOS/android_device_samsung_gta4xl-common
   - LineageOS/android_device_samsung_gta4xlwifi
   - LineageOS/android_kernel_samsung_gta4xl
-PROJECT-Samsung-gta4xl:
+PROJECT-Samsung-gta4xls:
   - LineageOS/android_device_samsung_gta4xls
   - LineageOS/android_device_samsung_gta4xls-common
   - LineageOS/android_device_samsung_gta4xlswifi
