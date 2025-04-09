@@ -2430,6 +2430,7 @@ PROJECT-Nokia-msm8998:
   - LineageOS/android_device_nokia_NLA
   - LineageOS/android_kernel_nokia_msm8998
 PROJECT-Nokia-sdm660:
+  - LineageOS/android_device_nokia_B2N
   - LineageOS/android_device_nokia_PL2
   - LineageOS/android_device_nokia_sdm660-common
   - LineageOS/android_kernel_nokia_sdm660
