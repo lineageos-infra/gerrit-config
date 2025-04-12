@@ -2356,6 +2356,7 @@ PROJECT-Motorola-sm6150:
   - LineageOS/android_kernel_motorola_sm6150
 PROJECT-Motorola-sm6225:
   - LineageOS/android_device_motorola_borneo
+  - LineageOS/android_device_motorola_capri
   - LineageOS/android_device_motorola_caprip
   - LineageOS/android_device_motorola_cebu
   - LineageOS/android_device_motorola_devon
