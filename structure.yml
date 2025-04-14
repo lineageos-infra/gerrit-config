@@ -498,10 +498,8 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_libevdev
   - LineageOS/android_external_libnl
   - LineageOS/android_external_libvpx
-  - LineageOS/android_external_skia
   - LineageOS/android_external_webp
   - LineageOS/android_libcore
-  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_system_keymint
 Lineage-22.0-Projects:
@@ -510,6 +508,8 @@ Lineage-22.1-Projects:
   - Lineage-22.2-Projects
   - LineageOS/android_build_release
   - LineageOS/android_external_dng_sdk
+  - LineageOS/android_external_skia
+  - LineageOS/android_packages_modules_IntentResolver
 Lineage-22.2-Projects:
   - Head-Developers
   - LineageOS/android_bionic
