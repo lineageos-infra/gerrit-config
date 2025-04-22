@@ -665,6 +665,7 @@ Lineage-Device-Projects:
   - OEM-Intel
   - OEM-LGE
   - OEM-Lenovo
+  - OEM-Mainline
   - OEM-Malata
   - OEM-MediaTek
   - OEM-Moto
@@ -1424,6 +1425,16 @@ OEM-Lenovo:
   - PROJECT-Lenovo-msm8976
   - PROJECT-Lenovo-sdm710
   - PROJECT-Lenovo-sm8150
+OEM-Mainline:
+  - LineageOS/android_device_mainline_common
+  - LineageOS/android_device_mainline_qcom-common
+  - LineageOS/android_device_pc_basic_x86_64_pc
+  - LineageOS/android_device_xiaomi_mi7150-mainline
+  - LineageOS/android_device_xiaomi_mi89xx-mainline
+  - LineageOS/android_external_linux-firmware-mainline
+  - LineageOS/android_external_lk2nd
+  - LineageOS/android_hardware_mainline
+  - LineageOS/android_kernel_mainline_configs
 OEM-MediaTek:
   - PROJECT-MediaTek-hardware
 OEM-Moto:
