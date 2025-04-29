@@ -571,6 +571,7 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
   - LineageOS/android_packages_apps_Car_Settings
+  - LineageOS/android_packages_apps_Car_SystemUI
   - LineageOS/android_packages_apps_CellBroadcastReceiver
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
