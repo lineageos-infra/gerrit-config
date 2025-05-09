@@ -612,6 +612,7 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_DeviceAsWebcam
+  - LineageOS/android_packages_services_Iwlan
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
