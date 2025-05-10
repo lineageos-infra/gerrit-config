@@ -1518,6 +1518,7 @@ OEM-Oneplus:
   - PROJECT-Oneplus-sm8450
   - PROJECT-Oneplus-sm8550
   - PROJECT-Oneplus-sm8650
+  - PROJECT-Oneplus-sm8750
 OEM-Oppo:
   - PROJECT-Oppo-apq8064
   - PROJECT-Oppo-common
@@ -2765,6 +2766,9 @@ PROJECT-Oneplus-sm8650:
  - LineageOS/android_kernel_oneplus_sm8650
  - LineageOS/android_kernel_oneplus_sm8650-devicetrees
  - LineageOS/android_kernel_oneplus_sm8650-modules
+PROJECT-Oneplus-sm8750:
+ - LineageOS/android_device_oneplus_sm8750-common
+ - LineageOS/android_device_oneplus_dodge
 PROJECT-Oppo-apq8064:
   - LineageOS/android_device_oppo_apq8064-common
   - LineageOS/android_device_oppo_find5
