@@ -444,7 +444,6 @@ Lineage-19.1-Projects:
   - LineageOS/android_external_aac
   - LineageOS/android_external_angle
   - LineageOS/android_external_expat
-  - LineageOS/android_external_freetype
   - LineageOS/android_external_p7zip
   - LineageOS/android_external_pigz
   - LineageOS/android_external_zip
@@ -493,6 +492,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
   - LineageOS/android_external_conscrypt
+  - LineageOS/android_external_freetype
   - LineageOS/android_external_giflib
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
