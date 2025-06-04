@@ -504,7 +504,6 @@ Lineage-22.0-Projects:
   - Lineage-22.1-Projects
 Lineage-22.1-Projects:
   - Lineage-22.2-Projects
-  - LineageOS/android_build_release
   - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_skia
   - LineageOS/android_packages_modules_IntentResolver
@@ -514,6 +513,7 @@ Lineage-22.2-Projects:
   - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_blueprint
+  - LineageOS/android_build_release
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_generic_common
