@@ -3455,6 +3455,7 @@ PROJECT-Xiaomi-sm8350:
   - LineageOS/android_device_xiaomi_mars
   - LineageOS/android_device_xiaomi_renoir
   - LineageOS/android_device_xiaomi_sm8350-common
+  - LineageOS/android_device_xiaomi_venus
   - LineageOS/android_kernel_xiaomi_sm8350
 PROJECT-Xiaomi-sm8450:
   - LineageOS/android_device_xiaomi_cupid
