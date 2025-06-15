@@ -283,7 +283,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_packages_apps_ContactsCommon
   - LineageOS/android_packages_apps_CustomTiles
   - LineageOS/android_packages_apps_Gello
-  - LineageOS/android_packages_apps_Launcher3
   - LineageOS/android_packages_apps_Protips
   - LineageOS/android_packages_apps_SamsungServiceMode
   - LineageOS/android_packages_apps_Screencast
@@ -508,12 +507,27 @@ Lineage-22.1-Projects:
   - LineageOS/android_external_skia
   - LineageOS/android_packages_modules_IntentResolver
 Lineage-22.2-Projects:
-  - Head-Developers
+  - Lineage-23.0-Projects
   - LineageOS/android_art
-  - LineageOS/android_bionic
-  - LineageOS/android_build
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_release
+  - LineageOS/android_external_kotlinc
+  - LineageOS/android_external_kotlinx.coroutines
+  - LineageOS/android_external_kotlinx.serialization
+  - LineageOS/android_external_robolectric
+  - LineageOS/android_hardware_ril
+  - LineageOS/android_packages_apps_ManagedProvisioning
+  - LineageOS/android_packages_apps_Nfc
+  - LineageOS/android_packages_apps_Trebuchet
+  - LineageOS/android_packages_modules_NetworkStack
+  - LineageOS/android_packages_modules_Virtualization
+  - LineageOS/android_packages_services_Iwlan
+  - LineageOS/android_system_nfc
+  - LineageOS/android_system_qcom
+Lineage-23.0-Projects:
+  - Head-Developers
+  - LineageOS/android_bionic
+  - LineageOS/android_build
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_generic_common
@@ -530,16 +544,12 @@ Lineage-22.2-Projects:
   - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
-  - LineageOS/android_external_kotlinc
-  - LineageOS/android_external_kotlinx.coroutines
-  - LineageOS/android_external_kotlinx.serialization
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_mksh
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
   - LineageOS/android_external_pigweed
-  - LineageOS/android_external_robolectric
   - LineageOS/android_external_rsync
   - LineageOS/android_external_setupcompat
   - LineageOS/android_external_tinycompress
@@ -561,7 +571,6 @@ Lineage-22.2-Projects:
   - LineageOS/android_hardware_lineage_compat
   - LineageOS/android_hardware_lineage_interfaces
   - LineageOS/android_hardware_lineage_livedisplay
-  - LineageOS/android_hardware_ril
   - LineageOS/android_hardware_samsung_nfc
   - LineageOS/android_hardware_st_nfc
   - LineageOS/android_kernel_configs
@@ -575,9 +584,8 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Gallery2
+  - LineageOS/android_packages_apps_Launcher3
   - LineageOS/android_packages_apps_LineageParts
-  - LineageOS/android_packages_apps_ManagedProvisioning
-  - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_Profiles
   - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_apps_Settings
@@ -588,14 +596,12 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_apps_Stk
   - LineageOS/android_packages_apps_Tag
   - LineageOS/android_packages_apps_ThemePicker
-  - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LeanbackIME
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
-  - LineageOS/android_packages_modules_NetworkStack
+  - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
-  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_modules_common
@@ -612,7 +618,6 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_screensavers_PhotoTable
   - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_DeviceAsWebcam
-  - LineageOS/android_packages_services_Iwlan
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
@@ -629,8 +634,6 @@ Lineage-22.2-Projects:
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_netd
-  - LineageOS/android_system_nfc
-  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
   - LineageOS/android_system_tools_mkbootimg
