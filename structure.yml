@@ -1983,6 +1983,8 @@ PROJECT-Google-sunfish:
   - LineageOS/android_kernel_google_sunfish
 PROJECT-Google-tangorpro:
   - LineageOS/android_device_google_tangorpro
+PROJECT-Google-tegu:
+  - LineageOS/android_device_google_tegu
 PROJECT-Google-wahoo:
   - LineageOS/android_device_google_muskie
   - LineageOS/android_device_google_taimen
@@ -2000,6 +2002,7 @@ PROJECT-Google-zumapro:
   - LineageOS/android_device_google_zumapro
   - PROJECT-Google-caimito
   - PROJECT-Google-comet
+  - PROJECT-Google-tegu
 PROJECT-HTC-eye:
   - LineageOS/android_device_htc_eyeul
 PROJECT-HTC-flounder:
