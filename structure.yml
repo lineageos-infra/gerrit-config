@@ -3480,6 +3480,8 @@ PROJECT-Xiaomi-sm8450:
   - LineageOS/android_kernel_xiaomi_sm8450-devicetrees
   - LineageOS/android_kernel_xiaomi_sm8450-modules
 PROJECT-Xiaomi-sm8550:
+  - LineageOS/android_device_xiaomi_fuxi
+  - LineageOS/android_device_xiaomi_sm8550-common
   - LineageOS/android_device_xiaomi_socrates
   - LineageOS/android_kernel_xiaomi_sm8550
   - LineageOS/android_kernel_xiaomi_sm8550-devicetrees
