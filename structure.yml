@@ -2174,6 +2174,7 @@ PROJECT-LGE-sdm845:
   - LineageOS/android_device_lge_judyp
   - LineageOS/android_device_lge_judypn
   - LineageOS/android_device_lge_sdm845-common
+  - LineageOS/android_device_lge_style3lm
   - LineageOS/android_kernel_lge_sdm845
 PROJECT-LGE-sm8150:
   - LineageOS/android_device_lge_alphaplus
