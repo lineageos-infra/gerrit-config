@@ -1481,6 +1481,7 @@ OEM-Nokia:
   - PROJECT-Nokia-msm8998
   - PROJECT-Nokia-sdm660
 OEM-Nothing:
+  - PROJECT-Nothing-Pong
   - PROJECT-Nothing-Spacewar
   - PROJECT-Nothing-hardware
 OEM-Nubia:
@@ -2459,6 +2460,11 @@ PROJECT-Nokia-sdm660:
   - LineageOS/android_device_nokia_sdm660-common
   - LineageOS/android_kernel_nokia_sdm660
   - PROJECT-Nokia-DRG
+PROJECT-Nothing-Pong:
+  - LineageOS/android_device_nothing_Pong
+  - LineageOS/android_kernel_nothing_sm8475
+  - LineageOS/android_kernel_nothing_sm8475-devicetrees
+  - LineageOS/android_kernel_nothing_sm8475-modules
 PROJECT-Nothing-Spacewar:
   - LineageOS/android_device_nothing_Spacewar
   - LineageOS/android_kernel_nothing_sm7325
