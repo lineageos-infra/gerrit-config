@@ -3636,6 +3636,7 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_agm
   - LineageOS/android_vendor_qcom_opensource_arpal-lx
   - LineageOS/android_vendor_qcom_opensource_audio
+  - LineageOS/android_vendor_qcom_opensource_audio-commonsys-intf
   - LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal
   - LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar
   - LineageOS/android_vendor_qcom_opensource_audioreach-graphservices
@@ -3650,6 +3651,8 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_display
   - LineageOS/android_vendor_qcom_opensource_display-commonsys
   - LineageOS/android_vendor_qcom_opensource_display-commonsys-intf
+  - LineageOS/android_vendor_qcom_opensource_display-core
+  - LineageOS/android_vendor_qcom_opensource_display-intf
   - LineageOS/android_vendor_qcom_opensource_fm-commonsys
   - LineageOS/android_vendor_qcom_opensource_healthd-ext
   - LineageOS/android_vendor_qcom_opensource_interfaces
