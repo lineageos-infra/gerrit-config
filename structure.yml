@@ -3385,6 +3385,8 @@ PROJECT-Xiaomi-mt6785:
   - LineageOS/android_device_xiaomi_mt6785-common
   - LineageOS/android_device_xiaomi_rosemary
   - LineageOS/android_kernel_xiaomi_mt6785
+PROJECT-Xiaomi-nuwa:
+  - LineageOS/android_device_xiaomi_nuwa
 PROJECT-Xiaomi-onclite:
   - LineageOS/android_device_xiaomi_onclite
   - LineageOS/android_kernel_xiaomi_onclite
@@ -3493,6 +3495,7 @@ PROJECT-Xiaomi-sm8550:
   - LineageOS/android_kernel_xiaomi_sm8550
   - LineageOS/android_kernel_xiaomi_sm8550-devicetrees
   - LineageOS/android_kernel_xiaomi_sm8550-modules
+  - PROJECT-Xiaomi-nuwa
 PROJECT-Xiaomi-surya:
   - LineageOS/android_kernel_xiaomi_surya
 PROJECT-Xiaomi-twolip:
