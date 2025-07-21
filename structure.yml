@@ -1664,6 +1664,7 @@ OEM-Yu:
   - PROJECT-Yu-tomato
 OEM-ZTE:
   - PROJECT-ZTE-ailsa_ii
+  - PROJECT-ZTE-akershus
   - PROJECT-ZTE-msm8952
   - PROJECT-ZTE-msm8994
 OEM-Zuk:
@@ -3520,6 +3521,9 @@ PROJECT-Yu-tomato:
 PROJECT-ZTE-ailsa_ii:
   - LineageOS/android_device_zte_axon7
   - LineageOS/android_kernel_zte_msm8996
+PROJECT-ZTE-akershus:
+  - LineageOS/android_device_zte_akershus
+  - LineageOS/android_kernel_zte_sdm845
 PROJECT-ZTE-msm8952:
   - LineageOS/android_device_zte_jasmine
   - LineageOS/android_device_zte_tulip
