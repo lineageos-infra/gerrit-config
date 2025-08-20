@@ -1884,6 +1884,9 @@ PROJECT-Generic-goldfish:
   - LineageOS/android_kernel_goldfish
 PROJECT-Google-akita:
   - LineageOS/android_device_google_akita
+PROJECT-Google-baracus:
+  - LineageOS/android_device_google_baracus
+  - LineageOS/android_device_google_baracus_tab
 PROJECT-Google-bluejay:
   - LineageOS/android_device_google_bluejay
   - LineageOS/android_kernel_google_bluejay
@@ -2560,6 +2563,7 @@ PROJECT-Nvidia-dalmore:
   - LineageOS/android_device_nvidia_dalmore
 PROJECT-Nvidia-foster:
   - LineageOS/android_device_nvidia_foster
+  - PROJECT-Google-baracus
   - PROJECT-Nvidia-foster_tab
   - PROJECT-Nvidia-sif
 PROJECT-Nvidia-foster_tab:
@@ -2578,6 +2582,7 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_external_efivar
   - LineageOS/android_external_tinyhal
   - LineageOS/android_hardware_dolby_interfaces
+  - LineageOS/android_hardware_nvidia_arm-trusted-firmware
   - LineageOS/android_hardware_nvidia_boot_control
   - LineageOS/android_hardware_nvidia_hdmi-cec
   - LineageOS/android_hardware_nvidia_hwinc
@@ -2589,6 +2594,7 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_hardware_nvidia_power
   - LineageOS/android_hardware_nvidia_sensors
   - LineageOS/android_hardware_nvidia_thermal
+  - LineageOS/android_hardware_nvidia_u-boot
 PROJECT-Nvidia-jetson:
   - LineageOS/android_device_nvidia_jetson
 PROJECT-Nvidia-loki:
