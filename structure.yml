@@ -698,6 +698,7 @@ Lineage-Device-Projects:
   - OEM-Toshiba
   - OEM-Unmaintained
   - OEM-Virt
+  - OEM-Vsmart
   - OEM-Wileyfox
   - OEM-Wingtech
   - OEM-Xiaomi
@@ -1615,6 +1616,8 @@ OEM-Sony:
 OEM-Virt:
   - PROJECT-Virt-hardware
   - PROJECT-Virt-virtio
+OEM-Vsmart:
+  - PROJECT-Vsmart-msm8953
 OEM-Wileyfox:
   - PROJECT-Wileyfox-crackling
   - PROJECT-Wileyfox-kipper
@@ -3303,6 +3306,9 @@ PROJECT-Virt-virtio:
   - LineageOS/android_device_virt_virtio_x86_64_tv
   - LineageOS/android_device_virt_virtio-common
   - LineageOS/android_kernel_virt_virtio
+PROJECT-Vsmart-msm8953:
+  - LineageOS/android_device_vsmart_casuarina
+  - LineageOS/android_kernel_vsmart_msm8953
 PROJECT-Wileyfox-crackling:
   - LineageOS/android_device_wileyfox_crackling
 PROJECT-Wileyfox-kipper:
