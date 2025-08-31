@@ -3453,6 +3453,7 @@ PROJECT-Xiaomi-sm6150:
   - LineageOS/android_device_xiaomi_sweet
   - LineageOS/android_device_xiaomi_violet
   - LineageOS/android_kernel_xiaomi_sm6150
+  - PROJECT-Xiaomi-tucana
 PROJECT-Xiaomi-sm6250:
   - LineageOS/android_device_xiaomi_miatoll
   - LineageOS/android_device_xiaomi_sm6250-common
@@ -3513,6 +3514,8 @@ PROJECT-Xiaomi-sm8550:
   - LineageOS/android_kernel_xiaomi_sm8550-modules
 PROJECT-Xiaomi-surya:
   - LineageOS/android_kernel_xiaomi_surya
+PROJECT-Xiaomi-tucana:
+  - LineageOS/android_device_xiaomi_tucana
 PROJECT-Xiaomi-twolip:
   - LineageOS/android_device_xiaomi_twolip
 PROJECT-Xiaomi-umi:
