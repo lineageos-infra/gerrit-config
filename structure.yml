@@ -3451,6 +3451,7 @@ PROJECT-Xiaomi-sm6150:
   - LineageOS/android_device_xiaomi_sm6150-common
   - LineageOS/android_device_xiaomi_surya
   - LineageOS/android_device_xiaomi_sweet
+  - LineageOS/android_device_xiaomi_tucana
   - LineageOS/android_device_xiaomi_violet
   - LineageOS/android_kernel_xiaomi_sm6150
 PROJECT-Xiaomi-sm6250:
