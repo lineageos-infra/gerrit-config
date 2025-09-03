@@ -505,7 +505,6 @@ Lineage-22.1-Projects:
   - Lineage-22.2-Projects
   - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_skia
-  - LineageOS/android_packages_modules_IntentResolver
 Lineage-22.2-Projects:
   - Lineage-23.0-Projects
   - LineageOS/android_art
@@ -599,7 +598,9 @@ Lineage-23.0-Projects:
   - LineageOS/android_packages_apps_WallpaperPicker2
   - LineageOS/android_packages_inputmethods_LeanbackIME
   - LineageOS/android_packages_modules_Bluetooth
+  - LineageOS/android_packages_modules_CellBroadcastService
   - LineageOS/android_packages_modules_Connectivity
+  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_Wifi
