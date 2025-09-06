@@ -1736,6 +1736,7 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_device_askey_wade
   - LineageOS/android_device_bananapi_m5
   - LineageOS/android_device_bananapi_m5_tab
+  - LineageOS/android_device_freebox_nicepool
   - LineageOS/android_device_google_beast
   - LineageOS/android_device_google_sabrina
   - LineageOS/android_device_hardkernel_odroidc4
