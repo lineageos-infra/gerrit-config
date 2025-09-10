@@ -1519,6 +1519,7 @@ OEM-Oneplus:
   - PROJECT-Oneplus-sm6350
   - PROJECT-Oneplus-sm6375
   - PROJECT-Oneplus-sm7250
+  - PROJECT-Oneplus-sm7550
   - PROJECT-Oneplus-sm8150
   - PROJECT-Oneplus-sm8250
   - PROJECT-Oneplus-sm8350
@@ -2763,6 +2764,9 @@ PROJECT-Oneplus-sm6375:
 PROJECT-Oneplus-sm7250:
   - LineageOS/android_device_oneplus_avicii
   - LineageOS/android_kernel_oneplus_sm7250
+PROJECT-Oneplus-sm7550:
+  - LineageOS/android_device_oneplus_benz
+  - LineageOS/android_device_oneplus_sm7550-common
 PROJECT-Oneplus-sm8150:
   - LineageOS/android_device_oneplus_guacamole
   - LineageOS/android_device_oneplus_guacamoleb
@@ -2790,6 +2794,7 @@ PROJECT-Oneplus-sm8450:
   - LineageOS/android_kernel_oneplus_sm8450-devicetrees
   - LineageOS/android_kernel_oneplus_sm8450-modules
 PROJECT-Oneplus-sm8550:
+  - LineageOS/android_device_oneplus_aston
   - LineageOS/android_device_oneplus_salami
   - LineageOS/android_device_oneplus_sm8550-common
   - LineageOS/android_kernel_oneplus_sm8550
