@@ -507,7 +507,6 @@ Lineage-22.1-Projects:
   - LineageOS/android_external_skia
 Lineage-22.2-Projects:
   - Lineage-23.0-Projects
-  - LineageOS/android_art
   - LineageOS/android_build_blueprint
   - LineageOS/android_build_release
   - LineageOS/android_external_kotlinc
@@ -519,7 +518,6 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_apps_Nfc
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_modules_CellBroadcastService
-  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_packages_modules_NetworkStack
   - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_services_Iwlan
@@ -527,6 +525,7 @@ Lineage-22.2-Projects:
   - LineageOS/android_system_qcom
 Lineage-23.0-Projects:
   - Head-Developers
+  - LineageOS/android_art
   - LineageOS/android_bionic
   - LineageOS/android_build
   - LineageOS/android_build_soong
@@ -601,6 +600,7 @@ Lineage-23.0-Projects:
   - LineageOS/android_packages_inputmethods_LeanbackIME
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_Connectivity
+  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_UprobeStats
