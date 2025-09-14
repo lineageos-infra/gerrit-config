@@ -2790,6 +2790,7 @@ PROJECT-Oneplus-sm8450:
   - LineageOS/android_kernel_oneplus_sm8450-devicetrees
   - LineageOS/android_kernel_oneplus_sm8450-modules
 PROJECT-Oneplus-sm8550:
+  - LineageOS/android_device_oneplus_aston
   - LineageOS/android_device_oneplus_salami
   - LineageOS/android_device_oneplus_sm8550-common
   - LineageOS/android_kernel_oneplus_sm8550
