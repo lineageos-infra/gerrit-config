@@ -3531,6 +3531,7 @@ PROJECT-Xiaomi-sm8550:
   - LineageOS/android_device_xiaomi_nuwa
   - LineageOS/android_device_xiaomi_sm8550-common
   - LineageOS/android_device_xiaomi_socrates
+  - LineageOS/android_device_xiaomi_vermeer
   - LineageOS/android_kernel_xiaomi_sm8550
   - LineageOS/android_kernel_xiaomi_sm8550-devicetrees
   - LineageOS/android_kernel_xiaomi_sm8550-modules
