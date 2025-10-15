@@ -21,6 +21,7 @@ jobs:
           LOG_LEVEL: ${{ github.event.input.logLevel }}
         run: |
           pip install -r requirements.txt
+          python test.py
           python cron_group_perms.py
       - name: notify discord on failure
         if: ${{ failure() }}
