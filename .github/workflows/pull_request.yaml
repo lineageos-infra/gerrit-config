@@ -19,3 +19,4 @@ jobs:
           pip install -r requirements.txt
           pip install yamllint
           yamllint structure.yml
+          python test.py
