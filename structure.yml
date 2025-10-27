@@ -1896,11 +1896,13 @@ PROJECT-Generic-goldfish:
   - LineageOS/android_kernel_goldfish
 PROJECT-Google-akita:
   - LineageOS/android_device_google_akita
+  - LineageOS/android_device_google_akita-kernels
 PROJECT-Google-baracus:
   - LineageOS/android_device_google_baracus
   - LineageOS/android_device_google_baracus_tab
 PROJECT-Google-bluejay:
   - LineageOS/android_device_google_bluejay
+  - LineageOS/android_device_google_bluejay-kernels
   - LineageOS/android_kernel_google_bluejay
 PROJECT-Google-bonito:
   - LineageOS/android_device_google_bonito
@@ -1909,10 +1911,12 @@ PROJECT-Google-bonito:
 PROJECT-Google-caimito:
   - LineageOS/android_device_google_caiman
   - LineageOS/android_device_google_caimito
+  - LineageOS/android_device_google_caimito-kernels
   - LineageOS/android_device_google_komodo
   - LineageOS/android_device_google_tokay
 PROJECT-Google-comet:
   - LineageOS/android_device_google_comet
+  - LineageOS/android_device_google_comet-kernels
 PROJECT-Google-coral:
   - LineageOS/android_device_google_coral
   - LineageOS/android_device_google_flame
@@ -1926,6 +1930,7 @@ PROJECT-Google-dragon:
   - LineageOS/android_kernel_google_dragon
 PROJECT-Google-felix:
   - LineageOS/android_device_google_felix
+  - LineageOS/android_device_google_felix-kernels
 PROJECT-Google-gs101:
   - LineageOS/android_device_google_gs101
   - LineageOS/android_kernel_google_gs101
@@ -1945,9 +1950,13 @@ PROJECT-Google-hardware:
   - LineageOS/android_hardware_google_pixel
   - LineageOS/android_hardware_google_pixel-sepolicy
   - LineageOS/android_hardware_knowles_athletico_sound_trigger_hal
+  - LineageOS/android_kernel_google_gs-6.1_devices
+  - LineageOS/android_kernel_google_gs-6.1_google-modules
+  - LineageOS/android_kernel_google_gs-6.1_manifest
   - LineageOS/android_packages_apps_ElmyraService
 PROJECT-Google-lynx:
   - LineageOS/android_device_google_lynx
+  - LineageOS/android_device_google_lynx-kernels
 PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
@@ -1963,11 +1972,13 @@ PROJECT-Google-msm-4.14:
 PROJECT-Google-pantah:
   - LineageOS/android_device_google_cheetah
   - LineageOS/android_device_google_pantah
+  - LineageOS/android_device_google_pantah-kernels
   - LineageOS/android_device_google_panther
 PROJECT-Google-raviole:
   - LineageOS/android_device_google_oriole
   - LineageOS/android_device_google_raven
   - LineageOS/android_device_google_raviole
+  - LineageOS/android_device_google_raviole-kernels
   - LineageOS/android_kernel_google_raviole
 PROJECT-Google-redbull:
   - LineageOS/android_device_google_barbet
@@ -1986,6 +1997,7 @@ PROJECT-Google-shusky:
   - LineageOS/android_device_google_husky
   - LineageOS/android_device_google_shiba
   - LineageOS/android_device_google_shusky
+  - LineageOS/android_device_google_shusky-kernels
 PROJECT-Google-sphynx:
   - LineageOS/android_device_google_sphynx
   - LineageOS/android_hardware_nvidia_platform_t210_smaug
@@ -2000,8 +2012,10 @@ PROJECT-Google-sunfish:
   - LineageOS/android_kernel_google_sunfish
 PROJECT-Google-tangorpro:
   - LineageOS/android_device_google_tangorpro
+  - LineageOS/android_device_google_tangorpro-kernels
 PROJECT-Google-tegu:
   - LineageOS/android_device_google_tegu
+  - LineageOS/android_device_google_tegu-kernels
 PROJECT-Google-wahoo:
   - LineageOS/android_device_google_muskie
   - LineageOS/android_device_google_taimen
