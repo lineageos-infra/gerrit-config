@@ -1441,6 +1441,8 @@ OEM-Mainline:
   - LineageOS/android_device_pc_basic_x86_64_pc
   - LineageOS/android_device_xiaomi_mi7150-mainline
   - LineageOS/android_device_xiaomi_mi89xx-mainline
+  - LineageOS/android_external_drm_hwcomposer-upstream
+  - LineageOS/android_external_libdisplay-info-upstream
   - LineageOS/android_external_linux-firmware-mainline
   - LineageOS/android_external_lk2nd
   - LineageOS/android_hardware_mainline
