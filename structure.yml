@@ -644,6 +644,7 @@ Lineage-23.0-Projects:
   - LineageOS/android_system_vold
   - LineageOS/android_vendor_crowdin
   - LineageOS/android_vendor_lineage
+  - PROJECT-Lineage-apn
   - PROJECT-Lineage-apps
   - PROJECT-Lineage-extract
   - PROJECT-Lineage-recovery
@@ -2258,6 +2259,8 @@ PROJECT-Lenovo-sm8150:
   - LineageOS/android_device_lenovo_sm8150-common
   - LineageOS/android_device_lenovo_zippo
   - LineageOS/android_kernel_lenovo_sm8150
+PROJECT-Lineage-apn:
+  - LineageOS/android_vendor_apn
 PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Aperture
   - LineageOS/android_packages_apps_Camelot
