@@ -542,6 +542,7 @@ Lineage-23.0-Projects:
   - LineageOS/android_external_cronet
   - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
+  - LineageOS/android_external_google-fonts_google-sans-flex
   - LineageOS/android_external_htop
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_mksh
