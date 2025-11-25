@@ -1450,6 +1450,8 @@ OEM-Mainline:
   - LineageOS/android_external_libdisplay-info-upstream
   - LineageOS/android_external_linux-firmware-mainline
   - LineageOS/android_external_lk2nd
+  - LineageOS/android_hardware_baylibre_audio
+  - LineageOS/android_hardware_baylibre_hdmi
   - LineageOS/android_hardware_mainline
   - LineageOS/android_kernel_mainline_configs
 OEM-MediaTek:
