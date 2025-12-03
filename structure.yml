@@ -377,7 +377,6 @@ Lineage-17.1-Projects:
   - LineageOS/android_external_okhttp
   - LineageOS/android_external_ppp
   - LineageOS/android_external_selinux
-  - LineageOS/android_external_sqlite
   - LineageOS/android_external_v8
   - LineageOS/android_frameworks_hardware_interfaces
   - LineageOS/android_frameworks_opt_net_ims
@@ -415,7 +414,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_hardware_broadcom_fm
   - LineageOS/android_hardware_broadcom_nfc
   - LineageOS/android_packages_apps_BasicSmsReceiver
-  - LineageOS/android_packages_apps_CertInstaller
   - LineageOS/android_packages_apps_HTMLViewer
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
@@ -502,8 +500,6 @@ Lineage-22.0-Projects:
   - Lineage-22.1-Projects
 Lineage-22.1-Projects:
   - Lineage-22.2-Projects
-  - LineageOS/android_external_dng_sdk
-  - LineageOS/android_external_skia
 Lineage-22.2-Projects:
   - Lineage-23.0-Projects
   - LineageOS/android_build_blueprint
@@ -525,7 +521,11 @@ Lineage-23.0-Projects:
   - Lineage-23.1-Projects
   - LineageOS/android_art
   - LineageOS/android_build_release
+  - LineageOS/android_external_dng_sdk
+  - LineageOS/android_external_skia
+  - LineageOS/android_external_sqlite
   - LineageOS/android_frameworks_proto_logging
+  - LineageOS/android_packages_apps_CertInstaller
   - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_system_apex
   - LineageOS/android_system_bpf
