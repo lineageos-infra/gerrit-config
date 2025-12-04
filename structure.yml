@@ -2464,11 +2464,11 @@ PROJECT-Motorola-sm7325:
   - LineageOS/android_device_motorola_xpeng
   - LineageOS/android_kernel_motorola_sm7325
 PROJECT-Motorola-sm7435:
-  - LineageOS//android_device_motorola_avatrn
-  - LineageOS//android_device_motorola_sm7435-common
-  - LineageOS//android_kernel_motorola_sm7435
-  - LineageOS//android_kernel_motorola_sm7435-devicetrees
-  - LineageOS//android_kernel_motorola_sm7435-modules
+  - LineageOS/android_device_motorola_avatrn
+  - LineageOS/android_device_motorola_sm7435-common
+  - LineageOS/android_kernel_motorola_sm7435
+  - LineageOS/android_kernel_motorola_sm7435-devicetrees
+  - LineageOS/android_kernel_motorola_sm7435-modules
 PROJECT-Motorola-sm8250:
   - LineageOS/android_device_motorola_nio
   - LineageOS/android_device_motorola_pstar
