@@ -109,7 +109,7 @@ class Gerrit:
 def send_message(webhook: str, message: str) -> None:
 
     requests.post(webhook, json={
-        "username": "Github Actions",
-        "icon_url": "https://avatars1.githubusercontent.com/u/44036562?s=280&v=4",
+        "username": "GitHub Actions",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/44036562?s=280&v=4",
         "content": message
     })
