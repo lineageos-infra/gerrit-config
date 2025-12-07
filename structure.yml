@@ -1549,7 +1549,7 @@ OEM-Osom:
 OEM-Razer:
   - PROJECT-Razer-aura
   - PROJECT-Razer-cheryl
-  - PROJECT-Razer-edge
+  - PROJECT-Razer-nicole
 OEM-Realme:
   - PROJECT-Realme-RMX1801
   - PROJECT-Realme-RMX1851
@@ -2891,7 +2891,7 @@ PROJECT-Razer-aura:
 PROJECT-Razer-cheryl:
   - LineageOS/android_device_razer_cheryl
   - LineageOS/android_kernel_razer_msm8998
-PROJECT-Razer-edge:
+PROJECT-Razer-nicole:
   - LineageOS/android_device_razer_nicole
   - LineageOS/android_kernel_razer_sg8175p
 PROJECT-Realme-RMX1801:
