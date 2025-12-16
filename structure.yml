@@ -2846,6 +2846,7 @@ PROJECT-Oneplus-sm8550:
   - LineageOS/android_kernel_oneplus_sm8550-modules
 PROJECT-Oneplus-sm8650:
   - LineageOS/android_device_oneplus_caihong
+  - LineageOS/android_device_oneplus_corvette
   - LineageOS/android_device_oneplus_sm8650-common
   - LineageOS/android_device_oneplus_waffle
   - LineageOS/android_kernel_oneplus_sm8650
