@@ -337,7 +337,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
-  - LineageOS/android_external_libjpeg-turbo
   - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
   - LineageOS/android_external_lineage-sdk-api-coverage
@@ -490,6 +489,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_external_giflib
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
+  - LineageOS/android_external_libjpeg-turbo
   - LineageOS/android_external_libnl
   - LineageOS/android_external_libvpx
   - LineageOS/android_external_webp
