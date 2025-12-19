@@ -520,18 +520,18 @@ Lineage-22.2-Projects:
 Lineage-23.0-Projects:
   - Lineage-23.1-Projects
   - LineageOS/android_art
-  - LineageOS/android_build_release
-  - LineageOS/android_external_dng_sdk
-  - LineageOS/android_external_skia
-  - LineageOS/android_external_sqlite
   - LineageOS/android_frameworks_proto_logging
-  - LineageOS/android_packages_apps_CertInstaller
-  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_system_apex
   - LineageOS/android_system_bpf
   - LineageOS/android_system_libhidl
 Lineage-23.1-Projects:
   - Lineage-23.2-Projects
+  - LineageOS/android_build_release
+  - LineageOS/android_external_dng_sdk
+  - LineageOS/android_external_skia
+  - LineageOS/android_external_sqlite
+  - LineageOS/android_packages_apps_CertInstaller
+  - LineageOS/android_packages_modules_IntentResolver
 Lineage-23.2-Projects:
   - Head-Developers
   - LineageOS/android_bionic
