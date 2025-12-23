@@ -2764,6 +2764,8 @@ PROJECT-Nvidia-t234:
   - LineageOS/android_hardware_nvidia_soc_t23x
   - LineageOS/android_hardware_nvidia_t23x_nv-public
   - LineageOS/android_hardware_nvidia_t23x_lineage
+PROJECT-Oneplus-audi:
+  - LineageOS/android_device_oneplus_audi
 PROJECT-Oneplus-avalon:
   - LineageOS/android_device_oneplus_avalon
 PROJECT-Oneplus-bacon:
@@ -2846,7 +2848,6 @@ PROJECT-Oneplus-sm8550:
   - LineageOS/android_kernel_oneplus_sm8550-devicetrees
   - LineageOS/android_kernel_oneplus_sm8550-modules
 PROJECT-Oneplus-sm8650:
-  - LineageOS/android_device_oneplus_audi
   - LineageOS/android_device_oneplus_caihong
   - LineageOS/android_device_oneplus_corvette
   - LineageOS/android_device_oneplus_sm8650-common
@@ -2854,6 +2855,7 @@ PROJECT-Oneplus-sm8650:
   - LineageOS/android_kernel_oneplus_sm8650
   - LineageOS/android_kernel_oneplus_sm8650-devicetrees
   - LineageOS/android_kernel_oneplus_sm8650-modules
+  - PROJECT-Oneplus-audi
   - PROJECT-Oneplus-avalon
 PROJECT-Oneplus-sm8750:
   - LineageOS/android_device_oneplus_dodge
