@@ -2775,6 +2775,8 @@ PROJECT-Oneplus-cheeseburger:
   - LineageOS/android_device_oneplus_cheeseburger
 PROJECT-Oneplus-dumpling:
   - LineageOS/android_device_oneplus_dumpling
+PROJECT-Oneplus-lexus:
+  - LineageOS/android_device_oneplus_lexus
 PROJECT-Oneplus-msm8994:
   - LineageOS/android_device_oneplus_oneplus2
   - LineageOS/android_kernel_oneplus_msm8994
@@ -2857,6 +2859,7 @@ PROJECT-Oneplus-sm8650:
   - LineageOS/android_kernel_oneplus_sm8650-modules
   - PROJECT-Oneplus-audi
   - PROJECT-Oneplus-avalon
+  - PROJECT-Oneplus-lexus
 PROJECT-Oneplus-sm8750:
   - LineageOS/android_device_oneplus_dodge
   - LineageOS/android_device_oneplus_erhai
