@@ -2288,6 +2288,7 @@ PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Dialer
   - LineageOS/android_packages_apps_Eleven
   - LineageOS/android_packages_apps_Etar
+  - LineageOS/android_packages_apps_EuiccPolicy
   - LineageOS/android_packages_apps_ExactCalculator
   - LineageOS/android_packages_apps_FlipFlap
   - LineageOS/android_packages_apps_FMRadio
