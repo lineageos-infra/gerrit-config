@@ -3356,6 +3356,13 @@ PROJECT-Sony-sm8350:
   - LineageOS/android_device_sony_pdx215
   - LineageOS/android_device_sony_sm8350-common
   - LineageOS/android_kernel_sony_sm8350
+PROJECT-Sony-sm8450:
+  - LineageOS/android_device_sony_pdx223
+  - LineageOS/android_device_sony_pdx224
+  - LineageOS/android_device_sony_sm8450-common
+  - LineageOS/android_kernel_sony_sm8450
+  - LineageOS/android_kernel_sony_sm8450-devicetrees
+  - LineageOS/android_kernel_sony_sm8450-modules
 PROJECT-Sony-sm8550:
   - LineageOS/android_device_sony_pdx234
   - LineageOS/android_device_sony_pdx237
