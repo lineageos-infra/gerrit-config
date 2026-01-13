@@ -662,6 +662,7 @@ Lineage-Device-Projects:
   - OEM-Amlogic
   - OEM-Ark
   - OEM-Asus
+  - OEM-AYN
   - OEM-BN
   - OEM-BQ
   - OEM-Commtiva
@@ -1353,6 +1354,8 @@ OEM-Asus:
   - PROJECT-Asus-zenfone2_qcom
   - PROJECT-Asus-zenfone3
   - Project-Asus-grouper
+OEM-AYN:
+  - PROJECT-AYN-GKI
 OEM-BN:
   - PROJECT-BN-acclaim
 OEM-BQ:
@@ -1857,6 +1860,15 @@ PROJECT-Asus-zenfone2_qcom:
 PROJECT-Asus-zenfone3:
   - LineageOS/android_device_asus_zenfone3
   - LineageOS/android_kernel_asus_msm8953
+PROJECT-AYN-GKI:
+  - PROJECT-AYN-qcs8550
+  - LineageOS/android_kernel_ayn_kernel
+  - LineageOS/android_kernel_ayn_lineage-oot
+PROJECT-AYN-qcs8550:
+  - LineageOS/android_device_ayn_qcs8550-common
+  - LineageOS/android_device_ayn_odin2
+  - LineageOS/android_kernel_ayn_qcs8550-build
+  - LineageOS/android_kernel_ayn_qcs8550-dts
 PROJECT-BN-acclaim:
   - LineageOS/android_device_bn_acclaim
   - LineageOS/android_kernel_bn_acclaim
