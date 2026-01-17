@@ -587,8 +587,6 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_apps_AudioFX
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
-  - LineageOS/android_packages_apps_Car_Settings
-  - LineageOS/android_packages_apps_Car_SystemUI
   - LineageOS/android_packages_apps_CellBroadcastReceiver
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
@@ -626,7 +624,6 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_providers_TelephonyProvider
   - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_packages_screensavers_PhotoTable
-  - LineageOS/android_packages_services_Car
   - LineageOS/android_packages_services_DeviceAsWebcam
   - LineageOS/android_packages_services_Mms
   - LineageOS/android_packages_services_Telecomm
@@ -2300,7 +2297,11 @@ PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_inputmethods_LatinIME
 PROJECT-Lineage-car:
+  - LineageOS/android_device_google_car
   - LineageOS/android_device_lineage_car
+  - LineageOS/android_packages_apps_Car_Settings
+  - LineageOS/android_packages_apps_Car_SystemUI
+  - LineageOS/android_packages_services_Car
 PROJECT-Lineage-extract:
   - LineageOS/android_tools_extract-utils
 PROJECT-Lineage-recovery:
