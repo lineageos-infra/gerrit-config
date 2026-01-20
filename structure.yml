@@ -526,7 +526,6 @@ Lineage-23.0-Projects:
 Lineage-23.1-Projects:
   - Lineage-23.2-Projects
   - LineageOS/android_build_release
-  - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_skia
   - LineageOS/android_external_sqlite
   - LineageOS/android_packages_apps_CertInstaller
@@ -548,6 +547,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_bash
   - LineageOS/android_external_avb
   - LineageOS/android_external_cronet
+  - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_dtc
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_google-fonts_google-sans-flex
