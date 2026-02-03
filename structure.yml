@@ -1607,6 +1607,7 @@ OEM-Samsung:
   - PROJECT-Samsung-sm7325
   - PROJECT-Samsung-sm8150
   - PROJECT-Samsung-sm8250
+  - PROJECT-Samsung-sm8550
   - PROJECT-Samsung-star
   - PROJECT-Samsung-tuna
   - PROJECT-Samsung-universal7880
@@ -3252,6 +3253,12 @@ PROJECT-Samsung-sm8250:
   - LineageOS/android_device_samsung_y2q
   - LineageOS/android_device_samsung_z3q
   - LineageOS/android_kernel_samsung_sm8250
+PROJECT-Samsung-sm8550:
+  - LineageOS/android_device_samsung_dm1q
+  - LineageOS/android_device_samsung_sm8550-common
+  - LineageOS/android_kernel_samsung_sm8550
+  - LineageOS/android_kernel_samsung_sm8550-devicetrees
+  - LineageOS/android_kernel_samsung_sm8550-modules
 PROJECT-Samsung-star:
   - LineageOS/android_device_samsung_crownlte
   - LineageOS/android_device_samsung_star-common
