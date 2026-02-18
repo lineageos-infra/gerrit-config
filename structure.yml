@@ -1355,6 +1355,7 @@ OEM-Asus:
   - Project-Asus-grouper
 OEM-AYN:
   - PROJECT-AYN-GKI
+  - PROJECT-AYN-qcs8550
 OEM-BN:
   - PROJECT-BN-acclaim
 OEM-BQ:
@@ -1861,10 +1862,19 @@ PROJECT-Asus-zenfone3:
   - LineageOS/android_device_asus_zenfone3
   - LineageOS/android_kernel_asus_msm8953
 PROJECT-AYN-GKI:
-  - PROJECT-AYN-qcs8550
+  - PROJECT-AYN-qcs8550-mainline
   - LineageOS/android_kernel_ayn_kernel-ack
   - LineageOS/android_kernel_ayn_modules-ack
 PROJECT-AYN-qcs8550:
+  - LineageOS/android_device_ayn_odin2
+  - LineageOS/android_device_ayn_odin2mini
+  - LineageOS/android_device_ayn_odin2portal
+  - LineageOS/android_device_ayn_odin2thor
+  - LineageOS/android_device_ayn_qcs8550-common
+  - LineageOS/android_kernel_ayn_qcs8550
+  - LineageOS/android_kernel_ayn_qcs8550-devicetrees
+  - LineageOS/android_kernel_ayn_qcs8550-modules
+PROJECT-AYN-qcs8550-mainline:
   - LineageOS/android_device_ayn_qcs8550-ack
   - LineageOS/android_device_ayn_odin2_ack
   - LineageOS/android_device_ayn_odin2_tab_ack
