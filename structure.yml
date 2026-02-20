@@ -1355,6 +1355,7 @@ OEM-Asus:
   - Project-Asus-grouper
 OEM-AYN:
   - PROJECT-AYN-GKI
+  - PROJECT-AYN-hardware
   - PROJECT-AYN-qcs8550
 OEM-BN:
   - PROJECT-BN-acclaim
@@ -1865,6 +1866,8 @@ PROJECT-AYN-GKI:
   - PROJECT-AYN-qcs8550-mainline
   - LineageOS/android_kernel_ayn_kernel-ack
   - LineageOS/android_kernel_ayn_modules-ack
+PROJECT-AYN-hardware:
+  - LineageOS/android_hardware_ayn
 PROJECT-AYN-qcs8550:
   - LineageOS/android_device_ayn_odin2
   - LineageOS/android_device_ayn_odin2mini
