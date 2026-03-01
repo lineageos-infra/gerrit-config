@@ -1637,6 +1637,7 @@ OEM-Sony:
   - PROJECT-Sony-satsuki
   - PROJECT-Sony-shinano
   - PROJECT-Sony-sm6375
+  - PROJECT-Sony-sm6475
   - PROJECT-Sony-sm8250
   - PROJECT-Sony-sm8350
   - PROJECT-Sony-sm8450
@@ -3369,6 +3370,11 @@ PROJECT-Sony-sm6375:
   - LineageOS/android_device_sony_pdx235
   - LineageOS/android_device_sony_sm6375-common
   - LineageOS/android_kernel_sony_sm6375
+PROJECT-Sony-sm6475:
+  - LineageOS/android_device_sony_pdx257
+  - LineageOS/android_kernel_sony_sm6475
+  - LineageOS/android_kernel_sony_sm6475-devicetrees
+  - LineageOS/android_kernel_sony_sm6475-modules
 PROJECT-Sony-sm8250:
   - LineageOS/android_device_sony_pdx203
   - LineageOS/android_device_sony_pdx206
