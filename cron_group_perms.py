@@ -116,7 +116,7 @@ for project in projects:
     elif project == 'PROJECT-qcom-kernel':
         for idx, branch in enumerate(branches):
             if branch.startswith('refs/heads/lineage-'):
-                branches[idx] = f'{branch}((-[0-9]+\.[0-9]+)?)?'
+                branches[idx] = f'^{branch}((-[0-9]+\.[0-9]+)?)?'
     for branch in branches:
         new[branch] = {
             'permissions': {
