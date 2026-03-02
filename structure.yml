@@ -3537,7 +3537,9 @@ PROJECT-Xiaomi-sdm660:
   - PROJECT-Xiaomi-whyred
 PROJECT-Xiaomi-sdm710:
   - LineageOS/android_device_xiaomi_grus
+  - LineageOS/android_device_xiaomi_mi710-mainline
   - LineageOS/android_device_xiaomi_pyxis
+  - LineageOS/android_device_xiaomi_pyxis_mainline
   - LineageOS/android_device_xiaomi_sdm710-common
   - LineageOS/android_device_xiaomi_xmsirius
   - LineageOS/android_kernel_xiaomi_sdm710
