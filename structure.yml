@@ -512,7 +512,6 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_apps_Trebuchet
   - LineageOS/android_packages_modules_CellBroadcastService
   - LineageOS/android_packages_modules_NetworkStack
-  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_services_Iwlan
   - LineageOS/android_system_nfc
   - LineageOS/android_system_qcom
@@ -612,6 +611,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
   - LineageOS/android_packages_modules_UprobeStats
+  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_modules_common
