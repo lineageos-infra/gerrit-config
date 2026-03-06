@@ -1451,6 +1451,7 @@ OEM-Mainline:
   - LineageOS/android_device_mainline_common
   - LineageOS/android_device_mainline_qcom-common
   - LineageOS/android_device_pc_basic_x86_64_pc
+  - LineageOS/android_device_apple_snowcastle
   - LineageOS/android_device_xiaomi_mi7150-mainline
   - LineageOS/android_device_xiaomi_mi89xx-mainline
   - LineageOS/android_external_drm_hwcomposer-upstream
