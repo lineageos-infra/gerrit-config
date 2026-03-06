@@ -1854,6 +1854,7 @@ PROJECT-AYN-qcs8550:
   - LineageOS/android_device_ayn_odin2portal
   - LineageOS/android_device_ayn_odin2thor
   - LineageOS/android_device_ayn_qcs8550-common
+  - LineageOS/android_device_retroidpocket_RP6
   - LineageOS/android_kernel_ayn_qcs8550
   - LineageOS/android_kernel_ayn_qcs8550-devicetrees
   - LineageOS/android_kernel_ayn_qcs8550-modules
