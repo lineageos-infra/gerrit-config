@@ -1463,6 +1463,7 @@ OEM-Mainline:
   - LineageOS/android_hardware_mainline
   - LineageOS/android_hardware_mainline_common
   - LineageOS/android_hardware_mainline_qcom
+  - LineageOS/android_hardware_qcom_audioreach-topology
   - LineageOS/android_kernel_mainline_configs
 OEM-MediaTek:
   - PROJECT-MediaTek-hardware
