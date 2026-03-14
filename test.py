@@ -8,6 +8,7 @@ parents = {item: None for item in wanted}
 for parent, children in wanted.items():
     for child in children:
         if child in parents:
+            assert not parents[child], f"{child} has multiple parents"
             parents[child] = parent
 
 for item, parent in parents.items():
