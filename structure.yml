@@ -1459,6 +1459,7 @@ OEM-Mainline:
   - LineageOS/android_external_linux-firmware-mainline
   - LineageOS/android_external_lk2nd
   - LineageOS/android_external_minigbm-upstream
+  - LineageOS/android_external_tinyhal
   - LineageOS/android_hardware_baylibre_audio
   - LineageOS/android_hardware_baylibre_hdmi
   - LineageOS/android_hardware_mainline
@@ -2652,7 +2653,6 @@ PROJECT-Nvidia-hardware:
   - LineageOS/android_device_nvidia_icera
   - LineageOS/android_device_nvidia_touch
   - LineageOS/android_external_efivar
-  - LineageOS/android_external_tinyhal
   - LineageOS/android_hardware_dolby_interfaces
   - LineageOS/android_hardware_nvidia_arm-trusted-firmware
   - LineageOS/android_hardware_nvidia_boot_control
