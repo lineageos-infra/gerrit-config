@@ -1415,7 +1415,6 @@ OEM-Huawei:
   - PROJECT-Huawei-msm8916
   - PROJECT-Huawei-mt2
 OEM-Intel:
-  - PROJECT-intel-common
   - PROJECT-intel-hardware
 OEM-LGE:
   - LineageOS/android_device_lge_common
@@ -1467,6 +1466,7 @@ OEM-Mainline:
   - LineageOS/android_hardware_mainline_qcom
   - LineageOS/android_hardware_qcom_audioreach-topology
   - LineageOS/android_kernel_mainline_configs
+  - PROJECT-intel-common
 OEM-MediaTek:
   - PROJECT-MediaTek-hardware
 OEM-Moto:
