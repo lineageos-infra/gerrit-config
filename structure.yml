@@ -2886,6 +2886,7 @@ PROJECT-Oneplus-sm8750:
   - LineageOS/android_device_oneplus_erhai
   - LineageOS/android_device_oneplus_sm8750-common
   - LineageOS/android_device_realme_piloti
+  - LineageOS/android_device_realme_pista
   - LineageOS/android_kernel_oneplus_sm8750
   - LineageOS/android_kernel_oneplus_sm8750-devicetrees
   - LineageOS/android_kernel_oneplus_sm8750-modules
