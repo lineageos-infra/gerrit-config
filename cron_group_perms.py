@@ -111,12 +111,12 @@ for project in projects:
             "^refs/heads/lineage-22.2-caf(-(msm|sdm|sm)[0-9]{3,4})?",
             "^refs/heads/lineage-23.0-caf(-(msm|sdm|sm)[0-9]{3,4})?",
             "^refs/heads/lineage-23.1-caf(-(msm|sdm|sm)[0-9]{3,4})?",
-            "^refs/heads/lineage-23.2-caf(-(msm|sdm|sm)[0-9]{3,4}(-[0-9]+\.[0-9]+)?)?",
+            "^refs/heads/lineage-23.2-caf(-(msm|sdm|sm)[0-9]{3,4}(-[0-9]+\\.[0-9]+)?)?",
         ]
     elif project == 'PROJECT-qcom-kernel':
         for idx, branch in enumerate(branches):
             if branch.startswith('refs/heads/lineage-'):
-                branches[idx] = f'^{branch}((-[0-9]+\.[0-9]+)?)?'
+                branches[idx] = f'^{branch}((-[0-9]+\\.[0-9]+)?)?'
     for branch in branches:
         new[branch] = {
             'permissions': {
