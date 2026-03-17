@@ -1,4 +1,4 @@
 requests
 pyyaml
-PyGithub
+git+https://github.com/luk1337/PyGithub@81699cf485ba79da84fbfed250d18d2f5046600c
 datadiff

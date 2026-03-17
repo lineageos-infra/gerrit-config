@@ -52,6 +52,7 @@ for repo in missing:
         continue
     print(f"Creating {repo} on github...")
     github.get_organization("LineageOS").create_repo(repo.replace("LineageOS/",""), has_wiki=False, has_downloads=False, has_projects=False, has_issues=False, private=False)
+    github.get_organization("LineageOS").get_repo(repo.replace("LineageOS/","")).edit(has_pull_requests=False)
 
 print("Updating gerrit permissions...")
 
