@@ -1391,6 +1391,7 @@ OEM-Google:
   - PROJECT-Google-gs101
   - PROJECT-Google-gs201
   - PROJECT-Google-hardware
+  - PROJECT-Google-laguna
   - PROJECT-Google-marlin
   - PROJECT-Google-redbull
   - PROJECT-Google-seed
@@ -1985,7 +1986,15 @@ PROJECT-Google-hardware:
   - LineageOS/android_kernel_google_gs-6.1_devices
   - LineageOS/android_kernel_google_gs-6.1_google-modules
   - LineageOS/android_kernel_google_gs-6.1_manifest
+  - LineageOS/android_kernel_google_gs-6.6_devices
+  - LineageOS/android_kernel_google_gs-6.6_google-modules
+  - LineageOS/android_kernel_google_gs-6.6_manifest
+  - LineageOS/android_kernel_google_gs-6.6_prebuilts_gki
   - LineageOS/android_packages_apps_ElmyraService
+PROJECT-Google-laguna:
+  - LineageOS/android_device_google_laguna
+  - PROJECT-Google-muzel
+  - PROJECT-Google-rango
 PROJECT-Google-lynx:
   - LineageOS/android_device_google_lynx
   - LineageOS/android_device_google_lynx-kernels
@@ -2001,11 +2010,20 @@ PROJECT-Google-msm-4.14:
   - LineageOS/android_kernel_google_msm-4.14
   - PROJECT-Google-coral
   - PROJECT-Google-sunfish
+PROJECT-Google-muzel:
+  - LineageOS/android_device_google_blazer
+  - LineageOS/android_device_google_frankel
+  - LineageOS/android_device_google_mustang
+  - LineageOS/android_device_google_muzel
+  - LineageOS/android_device_google_muzel-kernels
 PROJECT-Google-pantah:
   - LineageOS/android_device_google_cheetah
   - LineageOS/android_device_google_pantah
   - LineageOS/android_device_google_pantah-kernels
   - LineageOS/android_device_google_panther
+PROJECT-Google-rango:
+  - LineageOS/android_device_google_rango
+  - LineageOS/android_device_google_rango-kernels
 PROJECT-Google-raviole:
   - LineageOS/android_device_google_oriole
   - LineageOS/android_device_google_raven
@@ -2039,6 +2057,9 @@ PROJECT-Google-sprout:
   - LineageOS/android_device_google_sprout4
   - LineageOS/android_device_google_sprout8
   - LineageOS/android_kernel_mediatek_sprout
+PROJECT-Google-stallion:
+  - LineageOS/android_device_google_stallion
+  - LineageOS/android_device_google_stallion-kernels
 PROJECT-Google-sunfish:
   - LineageOS/android_device_google_sunfish
   - LineageOS/android_kernel_google_sunfish
@@ -2065,6 +2086,7 @@ PROJECT-Google-zumapro:
   - LineageOS/android_device_google_zumapro
   - PROJECT-Google-caimito
   - PROJECT-Google-comet
+  - PROJECT-Google-stallion
   - PROJECT-Google-tegu
 PROJECT-HTC-eye:
   - LineageOS/android_device_htc_eyeul
