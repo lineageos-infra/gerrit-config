@@ -1561,6 +1561,7 @@ OEM-Oppo:
   - PROJECT-Oppo-sm8250
 OEM-Osom:
   - PROJECT-Osom-ingot
+  - PROJECT-Osom-pyrite
 OEM-Razer:
   - PROJECT-Razer-aura
   - PROJECT-Razer-cheryl
@@ -2947,6 +2948,9 @@ PROJECT-Osom-ingot:
   - LineageOS/android_kernel_osom_sm8475
   - LineageOS/android_kernel_osom_sm8475-devicetrees
   - LineageOS/android_kernel_osom_sm8475-modules
+PROJECT-Osom-pyrite:
+  - LineageOS/android_device_osom_pyrite
+  - LineageOS/android_kernel_osom_sm8350
 PROJECT-Razer-aura:
   - LineageOS/android_device_razer_aura
   - LineageOS/android_kernel_razer_sdm845
