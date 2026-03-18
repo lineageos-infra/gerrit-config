@@ -2337,8 +2337,10 @@ PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Updater
   - LineageOS/android_packages_inputmethods_LatinIME
 PROJECT-Lineage-car:
+  - LineageOS/android_device_generic_car
   - LineageOS/android_device_google_car
   - LineageOS/android_device_lineage_car
+  - LineageOS/android_packages_apps_Car_References
   - LineageOS/android_packages_apps_Car_Settings
   - LineageOS/android_packages_apps_Car_SystemUI
   - LineageOS/android_packages_services_Car
