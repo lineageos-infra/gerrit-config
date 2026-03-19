@@ -461,8 +461,6 @@ Lineage-19.1-Projects:
 Lineage-20.0-Projects:
   - Lineage-21.0-Projects
   - LineageOS/android_cts
-  - LineageOS/android_external_cldr
-  - LineageOS/android_external_icu
   - LineageOS/android_external_libxml2
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_sonivox
@@ -476,16 +474,17 @@ Lineage-20.0-Projects:
   - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_libfmq
   - LineageOS/android_system_memory_lmkd
-  - LineageOS/android_system_timezone
   - LineageOS/android_tools_apksig
 Lineage-21.0-Projects:
   - Lineage-22.0-Projects
   - LineageOS/android_external_android-nn-driver
   - LineageOS/android_external_armnn
   - LineageOS/android_external_bson
+  - LineageOS/android_external_cldr
   - LineageOS/android_external_conscrypt
   - LineageOS/android_external_freetype
   - LineageOS/android_external_giflib
+  - LineageOS/android_external_icu
   - LineageOS/android_external_libcxx
   - LineageOS/android_external_libevdev
   - LineageOS/android_external_libjpeg-turbo
@@ -495,6 +494,7 @@ Lineage-21.0-Projects:
   - LineageOS/android_libcore
   - LineageOS/android_prebuilts_build-tools
   - LineageOS/android_system_keymint
+  - LineageOS/android_system_timezone
 Lineage-22.0-Projects:
   - Lineage-22.1-Projects
 Lineage-22.1-Projects:
