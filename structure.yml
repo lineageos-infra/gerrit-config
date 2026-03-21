@@ -2493,6 +2493,7 @@ PROJECT-Motorola-sm6375:
   - LineageOS/android_device_motorola_denver
   - LineageOS/android_device_motorola_fogo
   - LineageOS/android_device_motorola_fogos
+  - LineageOS/android_device_motorola_ibiza
   - LineageOS/android_device_motorola_miami
   - LineageOS/android_device_motorola_milanf
   - LineageOS/android_device_motorola_penang
