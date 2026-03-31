@@ -1463,6 +1463,7 @@ OEM-Mainline:
   - LineageOS/android_external_tinyhal
   - LineageOS/android_hardware_baylibre_audio
   - LineageOS/android_hardware_baylibre_hdmi
+  - LineageOS/android_hardware_linaro_libpm
   - LineageOS/android_hardware_mainline
   - LineageOS/android_hardware_mainline_common
   - LineageOS/android_hardware_mainline_qcom
