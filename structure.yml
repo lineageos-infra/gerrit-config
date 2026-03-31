@@ -1646,6 +1646,7 @@ OEM-Sony:
   - PROJECT-Sony-sm8350
   - PROJECT-Sony-sm8450
   - PROJECT-Sony-sm8550
+  - PROJECT-Sony-sm8650
   - PROJECT-Sony-tama
   - PROJECT-Sony-taoshan
   - PROJECT-Sony-yukon
@@ -3434,6 +3435,12 @@ PROJECT-Sony-sm8550:
   - LineageOS/android_kernel_sony_sm8550
   - LineageOS/android_kernel_sony_sm8550-devicetrees
   - LineageOS/android_kernel_sony_sm8550-modules
+PROJECT-Sony-sm8650:
+  - LineageOS/android_device_sony_pdx245
+  - LineageOS/android_device_sony_sm8650-common
+  - LineageOS/android_kernel_sony_sm8650
+  - LineageOS/android_kernel_sony_sm8650-devicetrees
+  - LineageOS/android_kernel_sony_sm8650-modules
 PROJECT-Sony-tama:
   - LineageOS/android_device_sony_akari
   - LineageOS/android_device_sony_akatsuki
