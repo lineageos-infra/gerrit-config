@@ -1450,6 +1450,7 @@ OEM-Lenovo:
   - PROJECT-Lenovo-sm8150
 OEM-Mainline:
   - LineageOS/android_device_mainline_common
+  - LineageOS/android_device_mainline_generic
   - LineageOS/android_device_mainline_qcom-common
   - LineageOS/android_device_pc_basic_x86_64_pc
   - LineageOS/android_device_apple_snowcastle
