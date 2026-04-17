@@ -704,6 +704,7 @@ Lineage-Device-Projects:
   - OEM-Semc
   - OEM-Shift
   - OEM-Smartfren
+  - OEM-Smartisan
   - OEM-Sony
   - OEM-Toshiba
   - OEM-Unmaintained
@@ -1629,6 +1630,8 @@ OEM-Samsung:
 OEM-Shift:
   - PROJECT-Shift-otter
   - PROJECT-Shift-sdm845
+OEM-Smartisan:
+  - PROJECT-Smartisan-sdm845
 OEM-Sony:
   - PROJECT-Sony-blue
   - PROJECT-Sony-common
@@ -3335,6 +3338,9 @@ PROJECT-Shift-otter:
 PROJECT-Shift-sdm845:
   - LineageOS/android_device_shift_axolotl
   - LineageOS/android_kernel_shift_sdm845
+PROJECT-Smartisan-sdm845:
+  - LineageOS/android_device_smartisan_trident
+  - LineageOS/android_kernel_smartisan_sdm845
 PROJECT-Sony-blue:
   - LineageOS/android_device_sony_blue-common
   - LineageOS/android_device_sony_hayabusa
