@@ -1360,6 +1360,7 @@ OEM-AYN:
   - PROJECT-AYN-GKI
   - PROJECT-AYN-hardware
   - PROJECT-AYN-qcs8550
+  - PROJECT-AYN-cq8725s
 OEM-BN:
   - PROJECT-BN-acclaim
 OEM-BQ:
@@ -1874,6 +1875,12 @@ PROJECT-AYN-qcs8550:
   - LineageOS/android_kernel_ayn_qcs8550
   - LineageOS/android_kernel_ayn_qcs8550-devicetrees
   - LineageOS/android_kernel_ayn_qcs8550-modules
+PROJECT-AYN-cq8725s:
+  - LineageOS/android_device_ayn_odin3
+  - LineageOS/android_device_ayn_cq8725s-common
+  - LineageOS/android_kernel_ayn_cq8725s
+  - LineageOS/android_kernel_ayn_cq8725s-devicetrees
+  - LineageOS/android_kernel_ayn_cq8725s-modules
 PROJECT-AYN-qcs8550-mainline:
   - LineageOS/android_device_ayn_qcs8550-ack
   - LineageOS/android_device_ayn_odin2_ack
