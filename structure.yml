@@ -1395,6 +1395,7 @@ OEM-Google:
   - PROJECT-Google-hardware
   - PROJECT-Google-laguna
   - PROJECT-Google-marlin
+  - PROJECT-Google-molly
   - PROJECT-Google-redbull
   - PROJECT-Google-seed
   - PROJECT-Google-shamrock
@@ -2017,6 +2018,9 @@ PROJECT-Google-marlin:
   - LineageOS/android_device_google_marlin
   - LineageOS/android_device_google_sailfish
   - LineageOS/android_kernel_google_marlin
+PROJECT-Google-molly:
+  - LineageOS/android_device_google_molly
+  - LineageOS/android_kernel_google_molly
 PROJECT-Google-msm-4.9:
   - LineageOS/android_kernel_google_msm-4.9
   - PROJECT-Google-bonito
