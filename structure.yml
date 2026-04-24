@@ -274,6 +274,8 @@ Lineage-14.1-Projects:
   - LineageOS/android_frameworks_opt_vcard
   - LineageOS/android_hardware_cyanogen
   - LineageOS/android_hardware_invensense
+  - LineageOS/android_hardware_marvell_bt
+  - LineageOS/android_hardware_marvell_wlan
   - LineageOS/android_packages_apps_Browser
   - LineageOS/android_packages_apps_CMBugreport
   - LineageOS/android_packages_apps_CMFileManager
