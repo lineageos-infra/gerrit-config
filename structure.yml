@@ -339,7 +339,6 @@ Lineage-16.0-Projects:
   - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libchrome
-  - LineageOS/android_external_libpng
   - LineageOS/android_external_libtar
   - LineageOS/android_external_lineage-sdk-api-coverage
   - LineageOS/android_external_one-true-awk
@@ -507,6 +506,7 @@ Lineage-22.2-Projects:
   - LineageOS/android_external_kotlinc
   - LineageOS/android_external_kotlinx.coroutines
   - LineageOS/android_external_kotlinx.serialization
+  - LineageOS/android_external_libpng
   - LineageOS/android_external_robolectric
   - LineageOS/android_hardware_ril
   - LineageOS/android_packages_apps_ManagedProvisioning
