@@ -465,7 +465,6 @@ Lineage-20.0-Projects:
   - LineageOS/android_external_pdfium
   - LineageOS/android_external_sonivox
   - LineageOS/android_hardware_libhardware_legacy
-  - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_NeuralNetworks
   - LineageOS/android_packages_modules_StatsD
@@ -594,6 +593,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Gallery2
+  - LineageOS/android_packages_apps_KeyChain
   - LineageOS/android_packages_apps_Launcher3
   - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Profiles
