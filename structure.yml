@@ -523,15 +523,13 @@ Lineage-23.0-Projects:
   - LineageOS/android_system_libhidl
 Lineage-23.1-Projects:
   - Lineage-23.2-Projects
-  - LineageOS/android_build_release
   - LineageOS/android_external_skia
-  - LineageOS/android_external_sqlite
-  - LineageOS/android_packages_apps_CertInstaller
   - LineageOS/android_packages_modules_IntentResolver
 Lineage-23.2-Projects:
   - Head-Developers
   - LineageOS/android_bionic
   - LineageOS/android_build
+  - LineageOS/android_build_release
   - LineageOS/android_build_soong
   - LineageOS/android_development
   - LineageOS/android_device_generic_common
@@ -560,6 +558,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_pigweed
   - LineageOS/android_external_rsync
   - LineageOS/android_external_setupcompat
+  - LineageOS/android_external_sqlite
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
@@ -590,6 +589,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_apps_Backgrounds
   - LineageOS/android_packages_apps_Camera2
   - LineageOS/android_packages_apps_CellBroadcastReceiver
+  - LineageOS/android_packages_apps_CertInstaller
   - LineageOS/android_packages_apps_DocumentsUI
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Gallery2
