@@ -2575,6 +2575,7 @@ PROJECT-Nintendo-icosa:
   - LineageOS/android_device_nintendo_nx_tab
   - LineageOS/android_hardware_nvidia_platform_t210_nx
   - LineageOS/android_hardware_nvidia_platform_t210_switch
+  - LineageOS/android_hardware_nvidia_t21x_nx
   - LineageOS/android_kernel_nvidia_kernel-nx
   - LineageOS/android_kernel_nvidia_nvidia-nx
 PROJECT-Nokia-DRG:
@@ -2676,6 +2677,7 @@ PROJECT-Nvidia-common:
   - LineageOS/android_kernel_nvidia_lineage-oot
   - LineageOS/android_kernel_nvidia_linux-firmware
   - LineageOS/android_kernel_nvidia_shield
+  - LineageOS/android_kernel_nvidia_tegra-build
   - LineageOS/android_kernel_nvidia_wireguard
   - PROJECT-Nvidia-t114
   - PROJECT-Nvidia-t124
