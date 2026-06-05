@@ -1868,6 +1868,7 @@ PROJECT-AYN-GKI:
   - LineageOS/android_kernel_ayn_modules-ack
 PROJECT-AYN-hardware:
   - LineageOS/android_hardware_ayn
+  - LineageOS/android_kernel_ayn_common-modules
 PROJECT-AYN-qcs8550:
   - LineageOS/android_device_ayn_odin2
   - LineageOS/android_device_ayn_odin2mini
