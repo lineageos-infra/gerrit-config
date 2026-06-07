@@ -1767,6 +1767,7 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_device_google_sabrina
   - LineageOS/android_device_hardkernel_odroidc4
   - LineageOS/android_device_hardkernel_odroidc4_tab
+  - LineageOS/android_device_khadas_kvim3l
   - LineageOS/android_device_radxa_radxa0
   - LineageOS/android_device_radxa_radxa0_car
   - LineageOS/android_device_radxa_radxa0_tab
