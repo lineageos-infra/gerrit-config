@@ -1,5 +1,8 @@
+import functools
 import json
 import os
+import textwrap
+import time
 from urllib.parse import quote_plus
 
 import requests
@@ -15,9 +18,29 @@ class Config:
 
 
 class Gerrit:
+    GERRIT_OFFLINE_MESSAGE = textwrap.dedent("""
+        <pre>
+        Hello! If you're seeing this, gerrit is offline for some reason or another. It should be back soon!
+        </pre>
+    """).strip()
+
     def __init__(self):
         self.auth = rauth.HTTPBasicAuth(Config.GERRIT_USER, Config.GERRIT_PASS)
 
+    def _retry(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            try:
+                return func(*args, **kwargs)
+            except Exception as e:
+                if Gerrit.GERRIT_OFFLINE_MESSAGE in str(e):
+                    print("Gerrit is offline, waiting 5 minutes before retrying...")
+                    time.sleep(60 * 5)
+                    return func(*args, **kwargs)
+                raise
+        return wrapper
+
+    @_retry
     def get_projects(self):
         url = "https://review.lineageos.org/a/projects/?t"
         resp = requests.get(url, auth=self.auth)
@@ -28,6 +51,7 @@ class Gerrit:
         projects = json.loads(resp.text[5:])
         return projects
 
+    @_retry
     def update_parent(self, child, parent, auth=None):
         child = quote_plus(child)
         url = f"https://review.lineageos.org/a/projects/{child}/parent"
@@ -36,6 +60,7 @@ class Gerrit:
         if resp.status_code != 200:
             raise Exception(f"Error communicating with gerrit: {resp.text}")
 
+    @_retry
     def replace_project_permissions(self, project: str, permissions: dict) -> bool:
         '''Replaces project permissions with new permission set
            Note: this does nothing if the new permission set matches the old one
@@ -69,6 +94,7 @@ class Gerrit:
         if resp.status_code != 201:
             raise Exception(f"Error communicating with gerrit: {resp.text}")
 
+    @_retry
     def get_groups(self):
         url = "https://review.lineageos.org/a/groups/"
         resp = requests.get(url, auth=self.auth)
@@ -78,6 +104,7 @@ class Gerrit:
         groups = json.loads(resp.text[5:])
         return groups
 
+    @_retry
     def create_group(self, name):
         url = f"https://review.lineageos.org/a/groups/{name}"
         data = {
@@ -88,6 +115,7 @@ class Gerrit:
         if resp.status_code != 201:
             raise Exception(f"Error communicating with gerrit: {resp.text}")
 
+    @_retry
     def set_group_owner(self, group: str, owner: str) -> None:
         url = f"https://review.lineageos.org/a/groups/{group}/owner"
         resp =  requests.put(url, {'owner': owner}, auth=self.auth)
@@ -95,7 +123,7 @@ class Gerrit:
             import pdb; pdb.set_trace()
             raise Exception(f"Error communicating with gerrit: {resp.status_code} {resp.text}")
 
-
+    @_retry
     def set_group_visible(self, group: str, visible: bool) -> None:
         url = f"https://review.lineageos.org/a/groups/{group}/options"
         resp = requests.put(url, json={"visible_to_all": visible}, auth=self.auth)
