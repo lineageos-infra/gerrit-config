@@ -28,6 +28,7 @@ for project in projects:
         "refs/heads/lineage-23.0",
         "refs/heads/lineage-23.1",
         "refs/heads/lineage-23.2",
+        "refs/heads/lineage-24.0",
     ]
     new = {
         'refs/heads/*': { 'permissions': {
@@ -112,6 +113,7 @@ for project in projects:
             "^refs/heads/lineage-23.0-caf(-(msm|sdm|sm)[0-9]{3,4})?",
             "^refs/heads/lineage-23.1-caf(-(msm|sdm|sm)[0-9]{3,4})?",
             "^refs/heads/lineage-23.2-caf(-(msm|sdm|sm)[0-9]{3,4}(-[0-9]+\\.[0-9]+)?)?",
+            "^refs/heads/lineage-24.0-caf(-(msm|sdm|sm)[0-9]{3,4}(-[0-9]+\\.[0-9]+)?)?",
         ]
     elif project == 'PROJECT-qcom-kernel':
         for idx, branch in enumerate(branches):
