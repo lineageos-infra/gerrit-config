@@ -576,6 +576,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_resources_devicesettings
   - LineageOS/android_prebuilts_extract-tools
+  - LineageOS/android_prebuilts_siso
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_vendor_crowdin
