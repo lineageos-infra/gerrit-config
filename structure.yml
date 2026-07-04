@@ -3906,6 +3906,8 @@ PROJECT-qcom-hardware:
   - LineageOS/android_vendor_qcom_opensource_healthd-ext
   - LineageOS/android_vendor_qcom_opensource_interfaces
   - LineageOS/android_vendor_qcom_opensource_libfmjni
+  - LineageOS/android_vendor_qcom_opensource_libqspa
+  - LineageOS/android_vendor_qcom_opensource_libvmmem
   - LineageOS/android_vendor_qcom_opensource_location
   - LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth
   - LineageOS/android_vendor_qcom_opensource_power
