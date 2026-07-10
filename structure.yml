@@ -1503,6 +1503,7 @@ OEM-Motorola:
   - PROJECT-Motorola-msm8992
   - PROJECT-Motorola-msm8998
   - PROJECT-Motorola-mt6735
+  - PROJECT-Motorola-mt6768
   - PROJECT-Motorola-omap4
   - PROJECT-Motorola-quark
   - PROJECT-Motorola-sdm632
@@ -2494,6 +2495,12 @@ PROJECT-Motorola-msm8998:
 PROJECT-Motorola-mt6735:
   - LineageOS/android_device_motorola_taido
   - LineageOS/android_kernel_motorola_mt6735
+PROJECT-Motorola-mt6768:
+  - LineageOS/android_device_motorola_lamu
+  - LineageOS/android_device_motorola_mt6768-common
+  - LineageOS/android_kernel_motorola_lamu_manifest
+  - LineageOS/android_kernel_motorola_lamu-mediatek_modules
+  - LineageOS/android_kernel_motorola_lamu-modules
 PROJECT-Motorola-nairo:
   - LineageOS/android_device_motorola_nairo
 PROJECT-Motorola-quark:
