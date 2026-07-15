@@ -3543,6 +3543,8 @@ PROJECT-Xiaomi-armani:
 PROJECT-Xiaomi-cancro:
   - LineageOS/android_device_xiaomi_cancro
   - LineageOS/android_kernel_xiaomi_cancro
+PROJECT-Xiaomi-cas:
+  - LineageOS/android_device_xiaomi_cas
 PROJECT-Xiaomi-cmi:
   - LineageOS/android_device_xiaomi_cmi
 PROJECT-Xiaomi-dipper:
@@ -3702,6 +3704,7 @@ PROJECT-Xiaomi-sm8250:
   - LineageOS/android_device_xiaomi_sm8250-common
   - LineageOS/android_device_xiaomi_thyme
   - LineageOS/android_kernel_xiaomi_sm8250
+  - PROJECT-Xiaomi-cas
   - PROJECT-Xiaomi-cmi
   - PROJECT-Xiaomi-umi
 PROJECT-Xiaomi-sm8350:
