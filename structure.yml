@@ -1903,8 +1903,8 @@ PROJECT-AYN-qcs8550-mainline:
   - LineageOS/android_kernel_ayn_qcs8550-build-ack
   - LineageOS/android_kernel_ayn_qcs8550-devicetrees-ack
 PROJECT-AYN-sdm845:
-  - LineageOS/android_device_ayn_m0
-  - LineageOS/android_device_ayn_m2
+  - LineageOS/android_device_ayn_odin_m0
+  - LineageOS/android_device_ayn_odin_m2
   - LineageOS/android_device_ayn_sdm845-common
   - LineageOS/android_kernel_ayn_sdm845
 PROJECT-BN-acclaim:
