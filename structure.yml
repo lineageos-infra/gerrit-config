@@ -1343,6 +1343,7 @@ OEM-Amlogic:
   - PROJECT-Amlogic-g12
   - PROJECT-Amlogic-gxl
   - PROJECT-Amlogic-hardware
+  - PROJECT-Amlogic-kernel-platform
   - PROJECT-Amlogic-ne
 OEM-Ark:
   - PROJECT-Ark-peach
@@ -1803,8 +1804,18 @@ PROJECT-Amlogic-hardware:
   - LineageOS/android_hardware_amlogic_tools_dtbtool
   - LineageOS/android_hardware_amlogic_tools_imagepacker
   - LineageOS/android_hardware_amlogic_tools_respacker
+PROJECT-Amlogic-kernel-platform:
+  - LineageOS/android_kernel_amlogic_kernel-5.15
+  - LineageOS/android_kernel_amlogic_bt-modules
+  - LineageOS/android_kernel_amlogic_common_drivers
+  - LineageOS/android_kernel_amlogic_dhd-driver
+  - LineageOS/android_kernel_amlogic_gpu-modules
+  - LineageOS/android_kernel_amlogic_media-modules
+  - LineageOS/android_kernel_amlogic_ohm-build
+  - LineageOS/android_kernel_khadas_kvim1s-build
 PROJECT-Amlogic-ne:
   - LineageOS/android_device_amlogic_ne-common
+  - LineageOS/android_device_amlogic_ohm
   - LineageOS/android_device_khadas_kvim1s
   - LineageOS/android_hardware_amlogic_kernel-modules_media-5.4
   - LineageOS/android_kernel_amlogic_linux-5.4
