@@ -1424,6 +1424,7 @@ OEM-HTC:
   - PROJECT-HTC-pme
 OEM-Huawei:
   - PROJECT-Huawei-angler
+  - PROJECT-Huawei-hardware
   - PROJECT-Huawei-hi6250
   - PROJECT-Huawei-kirin970
   - PROJECT-Huawei-kiwi
@@ -2192,6 +2193,8 @@ PROJECT-Heimdall:
 PROJECT-Huawei-angler:
   - LineageOS/android_device_huawei_angler
   - LineageOS/android_kernel_huawei_angler
+PROJECT-Huawei-hardware:
+  - LineageOS/android_hardware_huawei
 PROJECT-Huawei-hi6250:
   - LineageOS/android_device_huawei_anne
   - LineageOS/android_device_huawei_figo
