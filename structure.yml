@@ -1813,11 +1813,13 @@ PROJECT-Amlogic-kernel-platform:
   - LineageOS/android_kernel_amlogic_gpu-modules
   - LineageOS/android_kernel_amlogic_media-modules
   - LineageOS/android_kernel_amlogic_ohm-build
+  - LineageOS/android_kernel_amlogic_oppen-build
   - LineageOS/android_kernel_amlogic_qca6174-driver
   - LineageOS/android_kernel_khadas_kvim1s-build
 PROJECT-Amlogic-ne:
   - LineageOS/android_device_amlogic_ne-common
   - LineageOS/android_device_amlogic_ohm
+  - LineageOS/android_device_amlogic_oppen
   - LineageOS/android_device_khadas_kvim1s
   - LineageOS/android_hardware_amlogic_kernel-modules_media-5.4
   - LineageOS/android_kernel_amlogic_linux-5.4
