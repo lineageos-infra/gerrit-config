@@ -1807,14 +1807,30 @@ PROJECT-Amlogic-hardware:
   - LineageOS/android_hardware_amlogic_tools_respacker
 PROJECT-Amlogic-kernel-platform:
   - LineageOS/android_kernel_amlogic_kernel-5.15
+  - LineageOS/android_kernel_amlogic_atmb-drivers
   - LineageOS/android_kernel_amlogic_bt-modules
   - LineageOS/android_kernel_amlogic_common_drivers
   - LineageOS/android_kernel_amlogic_dhd-driver
   - LineageOS/android_kernel_amlogic_gpu-modules
   - LineageOS/android_kernel_amlogic_media-modules
+  - LineageOS/android_kernel_amlogic_mtk-drivers_mt7663u
   - LineageOS/android_kernel_amlogic_ohm-build
   - LineageOS/android_kernel_amlogic_oppen-build
   - LineageOS/android_kernel_amlogic_qca6174-driver
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8723du
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8732bu
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8733bu
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8821cu
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8822cs
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8822cu
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8822es
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8852be
+  - LineageOS/android_kernel_amlogic_realtek-drivers_8852bs
+  - LineageOS/android_kernel_amlogic_amlogic-drivers_w1
+  - LineageOS/android_kernel_amlogic_amlogic-drivers_w1l
+  - LineageOS/android_kernel_amlogic_amlogic-drivers_w2
+  - LineageOS/android_kernel_amlogic_amlogic-drivers_w2l
+  - LineageOS/android_kernel_amlogic_amlogic-drivers_wifi_comm
   - LineageOS/android_kernel_khadas_kvim1s-build
 PROJECT-Amlogic-ne:
   - LineageOS/android_device_amlogic_ne-common
