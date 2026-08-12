@@ -621,6 +621,7 @@ Lineage-24.0-Projects:
   - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
+  - LineageOS/android_packages_modules_Telephony
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_providers_BlockedNumberProvider
