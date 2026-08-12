@@ -1629,6 +1629,7 @@ OEM-Samsung:
   - PROJECT-Samsung-msm8976
   - PROJECT-Samsung-noblelte
   - PROJECT-Samsung-qcom
+  - PROJECT-Samsung-s5e9925
   - PROJECT-Samsung-sdm429
   - PROJECT-Samsung-serrano
   - PROJECT-Samsung-sm6150
@@ -3337,6 +3338,12 @@ PROJECT-Samsung-s3ve3g:
   - LineageOS/android_device_samsung_s3ve3gjv
   - LineageOS/android_device_samsung_s3ve3gxx
   - LineageOS/android_kernel_samsung_s3ve3g
+PROJECT-Samsung-s5e9925:
+  - LineageOS/android_device_samsung_b0s
+  - LineageOS/android_device_samsung_g0s
+  - LineageOS/android_device_samsung_r0s
+  - LineageOS/android_device_samsung_s5e9925-common
+  - LineageOS/android_kernel_samsung_s5e9925
 PROJECT-Samsung-sdm429:
   - LineageOS/android_device_samsung_gtowifi
   - LineageOS/android_kernel_samsung_sdm429
