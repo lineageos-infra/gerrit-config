@@ -1834,6 +1834,8 @@ PROJECT-Amlogic-kernel-platform:
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w2l
   - LineageOS/android_kernel_amlogic_amlogic-drivers_wifi_comm
   - LineageOS/android_kernel_khadas_kvim1s-build
+  - LineageOS/android_kernel_khadas_kvim3-build
+  - LineageOS/android_kernel_khadas_kvim3l-build
 PROJECT-Amlogic-ne:
   - LineageOS/android_device_amlogic_ne-common
   - LineageOS/android_device_amlogic_ohm
