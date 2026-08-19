@@ -531,7 +531,6 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_ant-wireless_ant_service
   - LineageOS/android_external_bash
   - LineageOS/android_external_cronet
-  - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_nano
@@ -580,6 +579,7 @@ Lineage-24.0-Projects:
   - LineageOS/android_external_avb
   - LineageOS/android_external_dng_sdk
   - LineageOS/android_external_dtc
+  - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_freetype
   - LineageOS/android_external_google-fonts_google-sans-flex
   - LineageOS/android_external_libcupsfilters
