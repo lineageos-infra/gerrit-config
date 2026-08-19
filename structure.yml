@@ -1839,6 +1839,7 @@ PROJECT-Amlogic-kernel-platform:
   - LineageOS/android_kernel_amlogic_realtek-drivers_8852bs
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w1
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w1l
+  - LineageOS/android_kernel_amlogic_amlogic-drivers_w1u
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w2
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w2l
   - LineageOS/android_kernel_amlogic_amlogic-drivers_wifi_comm
