@@ -534,7 +534,6 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_exfatprogs
   - LineageOS/android_external_htop
   - LineageOS/android_external_libncurses
-  - LineageOS/android_external_libpng
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
@@ -586,6 +585,7 @@ Lineage-24.0-Projects:
   - LineageOS/android_external_libcupsfilters
   - LineageOS/android_external_libhevc
   - LineageOS/android_external_libjxl
+  - LineageOS/android_external_libpng
   - LineageOS/android_external_libppd
   - LineageOS/android_external_mksh
   - LineageOS/android_external_setupcompat
