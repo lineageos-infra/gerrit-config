@@ -521,7 +521,6 @@ Lineage-23.0-Projects:
 Lineage-23.1-Projects:
   - Lineage-23.2-Projects
   - LineageOS/android_external_skia
-  - LineageOS/android_packages_modules_IntentResolver
 Lineage-23.2-Projects:
   - Lineage-24.0-Projects
   - LineageOS/android_build_release
@@ -533,6 +532,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_cronet
   - LineageOS/android_external_htop
   - LineageOS/android_external_libncurses
+  - LineageOS/android_external_libopenapv
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
@@ -558,11 +558,13 @@ Lineage-23.2-Projects:
   - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_apps_SimpleDeviceConfig
   - LineageOS/android_packages_apps_SimpleSettingsConfig
+  - LineageOS/android_packages_modules_IntentResolver
   - LineageOS/android_packages_modules_UprobeStats
   - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_common
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_resources_devicesettings
+  - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_vendor_crowdin
 Lineage-24.0-Projects:
