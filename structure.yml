@@ -2561,6 +2561,7 @@ PROJECT-Motorola-mt6768:
 PROJECT-Motorola-mt6879:
   - LineageOS/android_device_motorola_manaus
   - LineageOS/android_device_motorola_mt6879-common
+  - LineageOS/android_kernel_motorola_mt6879
 PROJECT-Motorola-nairo:
   - LineageOS/android_device_motorola_nairo
 PROJECT-Motorola-quark:
