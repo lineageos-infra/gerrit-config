@@ -682,6 +682,7 @@ Lineage-Device-Projects:
   - OEM-BQ
   - OEM-Commtiva
   - OEM-Cyanogen
+  - OEM-Daylight
   - OEM-Egistec
   - OEM-Essential
   - OEM-Fairphone
@@ -1388,6 +1389,8 @@ OEM-BQ:
   - PROJECT-BQ-sdm660
 OEM-Cyanogen:
   - PROJECT-Cyanogen-msm8916
+OEM-Daylight:
+  - PROJECT-Daylight-mt6789
 OEM-Egistec:
   - PROJECT-egistec-hardware
 OEM-Essential:
@@ -1984,6 +1987,9 @@ PROJECT-BQ-sdm660:
 PROJECT-Cyanogen-msm8916:
   - LineageOS/android_device_cyanogen_msm8916-common
   - LineageOS/android_kernel_cyanogen_msm8916
+PROJECT-Daylight-mt6789:
+  - LineageOS/android_device_daylight_jagar
+  - LineageOS/android_kernel_daylight_mt6789
 PROJECT-Essential-mata:
   - LineageOS/android_device_essential_gem
   - LineageOS/android_kernel_essential_sm7150
