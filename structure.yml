@@ -1394,7 +1394,6 @@ OEM-Daylight:
 OEM-Egistec:
   - PROJECT-egistec-hardware
 OEM-Essential:
-  - PROJECT-Essential-gem
   - PROJECT-Essential-mata
 OEM-Fairphone:
   - PROJECT-Fairphone-FP2
@@ -1990,9 +1989,6 @@ PROJECT-Cyanogen-msm8916:
 PROJECT-Daylight-mt6789:
   - LineageOS/android_device_daylight_jagar
   - LineageOS/android_kernel_daylight_mt6789
-PROJECT-Essential-mata:
-  - LineageOS/android_device_essential_gem
-  - LineageOS/android_kernel_essential_sm7150
 PROJECT-Essential-mata:
   - LineageOS/android_device_essential_mata
   - LineageOS/android_kernel_essential_msm8998
