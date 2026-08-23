@@ -1990,7 +1990,7 @@ PROJECT-Cyanogen-msm8916:
 PROJECT-Daylight-mt6789:
   - LineageOS/android_device_daylight_jagar
   - LineageOS/android_kernel_daylight_mt6789
-PROJECT-Essential-mata:
+PROJECT-Essential-gem:
   - LineageOS/android_device_essential_gem
   - LineageOS/android_kernel_essential_sm7150
 PROJECT-Essential-mata:
