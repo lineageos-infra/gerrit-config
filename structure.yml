@@ -1391,6 +1391,7 @@ OEM-Cyanogen:
 OEM-Egistec:
   - PROJECT-egistec-hardware
 OEM-Essential:
+  - PROJECT-Essential-gem
   - PROJECT-Essential-mata
 OEM-Fairphone:
   - PROJECT-Fairphone-FP2
@@ -1983,6 +1984,9 @@ PROJECT-BQ-sdm660:
 PROJECT-Cyanogen-msm8916:
   - LineageOS/android_device_cyanogen_msm8916-common
   - LineageOS/android_kernel_cyanogen_msm8916
+PROJECT-Essential-mata:
+  - LineageOS/android_device_essential_gem
+  - LineageOS/android_kernel_essential_sm7150
 PROJECT-Essential-mata:
   - LineageOS/android_device_essential_mata
   - LineageOS/android_kernel_essential_msm8998
