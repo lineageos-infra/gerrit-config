@@ -538,7 +538,6 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_pigweed
   - LineageOS/android_external_rsync
   - LineageOS/android_external_sqlite
-  - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
   - LineageOS/android_frameworks_opt_calendar
@@ -591,6 +590,7 @@ Lineage-24.0-Projects:
   - LineageOS/android_external_libppd
   - LineageOS/android_external_mksh
   - LineageOS/android_external_setupcompat
+  - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_tinycompress
   - LineageOS/android_external_wpa_supplicant_8
   - LineageOS/android_external_zstd
