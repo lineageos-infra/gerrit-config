@@ -405,7 +405,6 @@ Lineage-18.1-Projects:
   - LineageOS/android_external_perfetto
   - LineageOS/android_external_robolectric-shadows
   - LineageOS/android_external_sony_boringssl-compat
-  - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_toybox
   - LineageOS/android_external_tremolo
   - LineageOS/android_frameworks_ml
@@ -539,6 +538,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_pigweed
   - LineageOS/android_external_rsync
   - LineageOS/android_external_sqlite
+  - LineageOS/android_external_tinyalsa
   - LineageOS/android_external_unrar
   - LineageOS/android_external_vim
   - LineageOS/android_frameworks_opt_calendar
