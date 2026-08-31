@@ -1849,9 +1849,19 @@ PROJECT-Amlogic-kernel-platform:
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w2
   - LineageOS/android_kernel_amlogic_amlogic-drivers_w2l
   - LineageOS/android_kernel_amlogic_amlogic-drivers_wifi_comm
+  - LineageOS/android_kernel_askey_deadpool-build
+  - LineageOS/android_kernel_askey_dopinder-build
+  - LineageOS/android_kernel_askey_wade-build
+  - LineageOS/android_kernel_bananapi_m5-build
+  - LineageOS/android_kernel_freebox_nicepool-build
+  - LineageOS/android_kernel_google_sabrina-build
+  - LineageOS/android_kernel_hardkernel_odroidc4-build
   - LineageOS/android_kernel_khadas_kvim1s-build
   - LineageOS/android_kernel_khadas_kvim3-build
   - LineageOS/android_kernel_khadas_kvim3l-build
+  - LineageOS/android_kernel_radxa_radxa0-build
+  - LineageOS/android_kernel_radxa_radxa02-build
+  - LineageOS/android_kernel_radxa_radxa02pro-build
 PROJECT-Amlogic-ne:
   - LineageOS/android_device_amlogic_ne-common
   - LineageOS/android_device_amlogic_ohm
