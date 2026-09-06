@@ -3425,6 +3425,7 @@ PROJECT-Samsung-sm8250:
   - LineageOS/android_kernel_samsung_sm8250
 PROJECT-Samsung-sm8550:
   - LineageOS/android_device_samsung_dm1q
+  - LineageOS/android_device_samsung_dm3q
   - LineageOS/android_device_samsung_sm8550-common
   - LineageOS/android_kernel_samsung_sm8550
   - LineageOS/android_kernel_samsung_sm8550-devicetrees
