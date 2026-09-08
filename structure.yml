@@ -1463,6 +1463,7 @@ OEM-LGE:
   - PROJECT-LGE-msm8998
   - PROJECT-LGE-sdm845
   - PROJECT-LGE-sm8150
+  - PROJECT-LGE-sm7250
   - PROJECT-LGE-timelm
   - PROJECT-LGE-v10
   - PROJECT-LGE-v4xx
@@ -2385,6 +2386,11 @@ PROJECT-LGE-sm8150:
   - LineageOS/android_device_lge_mh2lm
   - LineageOS/android_device_lge_sm8150-common
   - LineageOS/android_kernel_lge_sm8150
+PROJECT-LGE-sm7250:
+  - LineageOS/android_device_lge_caymanlm
+  - LineageOS/android_device_lge_sm7250-common
+  - LineageOS/android_device_lge_winglm
+  - LineageOS/android_kernel_lge_sm7250
 PROJECT-LGE-timelm:
   - LineageOS/android_device_lge_timelm
   - LineageOS/android_kernel_lge_sm8250
