@@ -3112,6 +3112,8 @@ PROJECT-Realme-RMX1851:
 PROJECT-Realme-sm6375:
   - LineageOS/android_device_realme_luigi
   - LineageOS/android_device_realme_oscar
+  - LineageOS/android_device_realme_oscarc
+  - LineageOS/android_device_realme_oscarru
   - LineageOS/android_device_realme_sm6375-common
   - LineageOS/android_kernel_realme_sm6375
 PROJECT-Realtek-hardware:
