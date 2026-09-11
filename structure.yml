@@ -1056,7 +1056,6 @@ Lineage-Unmaintained-Projects:
   - LineageOS/android_device_zte_v9
   - LineageOS/android_docs_source.android.com
   - LineageOS/android_external_Focal
-  - LineageOS/android_external_alsa-lib
   - LineageOS/android_external_alsa-utils
   - LineageOS/android_external_astl
   - LineageOS/android_external_bluetooth_bluez
@@ -1483,6 +1482,8 @@ OEM-Mainline:
   - LineageOS/android_device_apple_snowcastle
   - LineageOS/android_device_xiaomi_mi7150-mainline
   - LineageOS/android_device_xiaomi_mi89xx-mainline
+  - LineageOS/android_external_alsa-lib
+  - LineageOS/android_external_alsa-ucm-conf
   - LineageOS/android_external_drm_hwcomposer-upstream
   - LineageOS/android_external_libdisplay-info-upstream
   - LineageOS/android_external_linux-firmware-mainline
