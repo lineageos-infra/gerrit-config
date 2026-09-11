@@ -2640,10 +2640,10 @@ PROJECT-Motorola-sm6375:
 PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_racer
   - LineageOS/android_device_motorola_sm7250-common
-  - LineageOS/android_device_motorola_smith
   - LineageOS/android_kernel_motorola_sm7250
   - PROJECT-Motorola-kiev
   - PROJECT-Motorola-nairo
+  - PROJECT-Motorola-smith
 PROJECT-Motorola-sm7325:
   - LineageOS/android_device_motorola_berlin
   - LineageOS/android_device_motorola_berlna
@@ -2678,6 +2678,8 @@ PROJECT-Motorola-sm8550:
   - LineageOS/android_kernel_motorola_sm8550
   - LineageOS/android_kernel_motorola_sm8550-devicetrees
   - LineageOS/android_kernel_motorola_sm8550-modules
+PROJECT-Motorola-smith:
+  - LineageOS/android_device_motorola_smith
 PROJECT-Nextbit-ether:
   - LineageOS/android_device_nextbit_ether
   - LineageOS/android_kernel_nextbit_msm8992
