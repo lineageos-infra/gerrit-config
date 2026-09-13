@@ -1792,7 +1792,6 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_device_bananapi_m5_tab
   - LineageOS/android_device_freebox_nicepool
   - LineageOS/android_device_freebox_nicepool_rtk
-  - LineageOS/android_device_google_beast
   - LineageOS/android_device_google_sabrina
   - LineageOS/android_device_hardkernel_odroidc4
   - LineageOS/android_device_hardkernel_odroidc4_tab
@@ -1816,6 +1815,8 @@ PROJECT-Amlogic-g12:
   - LineageOS/android_kernel_amlogic_linux-4.9
 PROJECT-Amlogic-gxl:
   - LineageOS/android_device_amlogic_gx-common
+  - LineageOS/android_device_google_beast
+  - LineageOS/android_device_khadas_kvim
   - LineageOS/android_hardware_amlogic_kernel-modules_media-pie
   - LineageOS/android_hardware_amlogic_kernel-modules_optee-pie
   - LineageOS/android_kernel_amlogic_linux-4.9-pie
