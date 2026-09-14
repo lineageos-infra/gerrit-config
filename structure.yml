@@ -1868,11 +1868,13 @@ PROJECT-Amlogic-kernel-platform:
   - LineageOS/android_kernel_radxa_radxa0-build
   - LineageOS/android_kernel_radxa_radxa02-build
   - LineageOS/android_kernel_radxa_radxa02pro-build
+  - LineageOS/android_kernel_xiaomi_jaws-build
 PROJECT-Amlogic-ne:
   - LineageOS/android_device_amlogic_ne-common
   - LineageOS/android_device_amlogic_ohm
   - LineageOS/android_device_amlogic_oppen
   - LineageOS/android_device_khadas_kvim1s
+  - LineageOS/android_device_xiaomi_jaws
   - LineageOS/android_hardware_amlogic_kernel-modules_media-5.4
   - LineageOS/android_kernel_amlogic_linux-5.4
 PROJECT-Ark-peach:
