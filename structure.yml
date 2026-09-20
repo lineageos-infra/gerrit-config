@@ -4058,6 +4058,7 @@ PROJECT-qcom-kernel:
   - PROJECT-qcom-kernel-sm8550
   - PROJECT-qcom-kernel-sm8650
   - PROJECT-qcom-kernel-sm8750
+  - PROJECT-qcom-kernel-sm8850
 PROJECT-qcom-kernel-msm8953:
   - LineageOS/android_kernel_qcom_msm8953
 PROJECT-qcom-kernel-msm8998:
@@ -4088,6 +4089,10 @@ PROJECT-qcom-kernel-sm8750:
   - LineageOS/android_kernel_qcom_sm8750
   - LineageOS/android_kernel_qcom_sm8750-devicetrees
   - LineageOS/android_kernel_qcom_sm8750-modules
+PROJECT-qcom-kernel-sm8850:
+  - LineageOS/android_kernel_qcom_sm8850
+  - LineageOS/android_kernel_qcom_sm8850-devicetrees
+  - LineageOS/android_kernel_qcom_sm8850-modules
 PROJECT-samsung-hardware:
   - LineageOS/android_device_samsung_slsi_sepolicy
   - LineageOS/android_hardware_samsung
