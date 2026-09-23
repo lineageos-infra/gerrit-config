@@ -241,7 +241,6 @@ Lineage-14.1-Projects:
   - LineageOS/android_external_cmsdk-api-coverage
   - LineageOS/android_external_cyanogen_UICommon
   - LineageOS/android_external_deqp
-  - LineageOS/android_external_ffmpeg
   - LineageOS/android_external_flac
   - LineageOS/android_external_gello_build
   - LineageOS/android_external_google
@@ -1487,6 +1486,8 @@ OEM-Mainline:
   - LineageOS/android_external_alsa-lib
   - LineageOS/android_external_alsa-ucm-conf
   - LineageOS/android_external_drm_hwcomposer-upstream
+  - LineageOS/android_external_ffmpeg
+  - LineageOS/android_external_ffmpeg_codec2
   - LineageOS/android_external_libdisplay-info-upstream
   - LineageOS/android_external_linux-firmware-mainline
   - LineageOS/android_external_lk2nd
