@@ -506,7 +506,6 @@ Lineage-22.2-Projects:
   - LineageOS/android_packages_modules_NetworkStack
   - LineageOS/android_packages_services_Iwlan
   - LineageOS/android_system_nfc
-  - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_qcom
 Lineage-23.0-Projects:
   - Lineage-23.1-Projects
