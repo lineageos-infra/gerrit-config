@@ -75,7 +75,7 @@ for group in [x for x in wanted.keys() if x.startswith("PROJECT-") or x.startswi
 print("Updating GHA allowed repos...")
 
 gha_enabled_repos_ids = [k for k, v in github_projects.items() if v in gha_enabled_repos]
-github._requester.requestJsonAndCheck("PUT", f"{github_org.url}/actions/permissions/repositories",
-                                      input={"selected_repository_ids": gha_enabled_repos_ids})
+github.requester.requestJsonAndCheck("PUT", f"{github_org.url}/actions/permissions/repositories",
+                                     input={"selected_repository_ids": gha_enabled_repos_ids})
 
 print("Done!")
