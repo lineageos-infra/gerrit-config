@@ -527,6 +527,7 @@ Lineage-23.2-Projects:
   - LineageOS/android_external_htop
   - LineageOS/android_external_libncurses
   - LineageOS/android_external_libopenapv
+  - LineageOS/android_external_mls-rs
   - LineageOS/android_external_nano
   - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_openssh
