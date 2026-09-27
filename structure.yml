@@ -3483,6 +3483,7 @@ PROJECT-Samsung-universal7880:
   - LineageOS/android_kernel_samsung_universal7880
 PROJECT-Samsung-universal9830:
   - LineageOS/android_device_samsung_universal9830-common
+  - LineageOS/android_device_samsung_c1s
   - LineageOS/android_device_samsung_c2s
   - LineageOS/android_device_samsung_r8s
   - LineageOS/android_device_samsung_x1s
