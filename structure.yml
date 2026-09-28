@@ -1,671 +1,633 @@
 ---
 All-Projects:
   - All-Users
-  - Lineage-11.0-Projects
   - Lineage-Device-Projects
+  - Lineage-Platform-Projects
   - Lineage-Unmaintained-Projects
   - Main-Enabled
   - PROJECT-Lineage-telephony
 Head-Developers:
   - LineageOS/android
   - LineageOS/hudson
-Lineage-11.0-Projects:
-  - Lineage-13.0-Projects
-  - LineageOS/Superuser
-  - LineageOS/Widgets
+Lineage-Platform-Projects:
+  - Head-Developers
+  - LineageOS/android_abi_cpp
+  - LineageOS/android_art
+  - LineageOS/android_bionic
   - LineageOS/android_bootable_diskinstaller
   - LineageOS/android_bootable_recovery-cm
+  - LineageOS/android_build
+  - LineageOS/android_build_blueprint
+  - LineageOS/android_build_kati
+  - LineageOS/android_build_release
+  - LineageOS/android_build_soong
+  - LineageOS/android_cts
+  - LineageOS/android_dalvik
+  - LineageOS/android_development
+  - LineageOS/android_device_generic_common
+  - LineageOS/android_device_generic_emulatorx86
+  - LineageOS/android_device_google_contexthub
+  - LineageOS/android_device_lineage_sepolicy
+  - LineageOS/android_external_aac
+  - LineageOS/android_external_ahbottomnavigation
+  - LineageOS/android_external_android-clat
+  - LineageOS/android_external_android-mock
+  - LineageOS/android_external_android-nn-driver
+  - LineageOS/android_external_android-visualizer
+  - LineageOS/android_external_angle
+  - LineageOS/android_external_ant-glob
+  - LineageOS/android_external_ant-wireless_ant_client
+  - LineageOS/android_external_ant-wireless_ant_native
+  - LineageOS/android_external_ant-wireless_ant_service
+  - LineageOS/android_external_ant-wireless_antradio-library
+  - LineageOS/android_external_ant-wireless_hidl
   - LineageOS/android_external_antlr
   - LineageOS/android_external_apache-harmony
+  - LineageOS/android_external_apache-http
   - LineageOS/android_external_apache-qp
   - LineageOS/android_external_apache-xml
   - LineageOS/android_external_arduino
+  - LineageOS/android_external_arm-trusted-firmware
+  - LineageOS/android_external_armnn
+  - LineageOS/android_external_avb
+  - LineageOS/android_external_bash
+  - LineageOS/android_external_bison
   - LineageOS/android_external_blktrace
   - LineageOS/android_external_bluetooth_bluedroid
+  - LineageOS/android_external_boringssl
+  - LineageOS/android_external_bouncycastle
+  - LineageOS/android_external_boundarydevices_efence
+  - LineageOS/android_external_brctl
   - LineageOS/android_external_bsdiff
+  - LineageOS/android_external_bson
+  - LineageOS/android_external_busybox
+  - LineageOS/android_external_bzip2
   - LineageOS/android_external_cardslib
   - LineageOS/android_external_checkpolicy
   - LineageOS/android_external_chromium
-  - LineageOS/android_external_chromium-trace
   - LineageOS/android_external_chromium_org
   - LineageOS/android_external_chromium_org_third_party_openssl
   - LineageOS/android_external_chromium_org_third_party_WebKit
+  - LineageOS/android_external_chromium-libpac
+  - LineageOS/android_external_chromium-trace
   - LineageOS/android_external_clang
+  - LineageOS/android_external_cldr
+  - LineageOS/android_external_cmsdk-api-coverage
   - LineageOS/android_external_compiler-rt
+  - LineageOS/android_external_conscrypt
   - LineageOS/android_external_crda
+  - LineageOS/android_external_cronet
+  - LineageOS/android_external_curl
+  - LineageOS/android_external_cyanogen_UICommon
+  - LineageOS/android_external_deqp
   - LineageOS/android_external_dexmaker
+  - LineageOS/android_external_dhcpcd
+  - LineageOS/android_external_dng_sdk
+  - LineageOS/android_external_dnsmasq
+  - LineageOS/android_external_doclava
+  - LineageOS/android_external_dropbear
+  - LineageOS/android_external_dtc
   - LineageOS/android_external_easymock
+  - LineageOS/android_external_ebtables
   - LineageOS/android_external_eclipse-basebuilder
   - LineageOS/android_external_eclipse-windowbuilder
+  - LineageOS/android_external_elfutils
   - LineageOS/android_external_embunit
+  - LineageOS/android_external_emilsjolander_stickylistheaders
   - LineageOS/android_external_emma
   - LineageOS/android_external_esd
+  - LineageOS/android_external_exfat
+  - LineageOS/android_external_exfatprogs
+  - LineageOS/android_external_expat
   - LineageOS/android_external_eyes-free
+  - LineageOS/android_external_f2fs-tools
   - LineageOS/android_external_fdlibm
+  - LineageOS/android_external_flac
+  - LineageOS/android_external_freetype
+  - LineageOS/android_external_fsck_msdos
+  - LineageOS/android_external_fuse
   - LineageOS/android_external_ganymed-ssh2
   - LineageOS/android_external_gcc-demangle
+  - LineageOS/android_external_gello_build
   - LineageOS/android_external_genext2fs
+  - LineageOS/android_external_giflib
+  - LineageOS/android_external_glide
+  - LineageOS/android_external_gmock
+  - LineageOS/android_external_google
   - LineageOS/android_external_google-diff-match-patch
+  - LineageOS/android_external_google-fonts_google-sans-flex
+  - LineageOS/android_external_gson
   - LineageOS/android_external_gtest
+  - LineageOS/android_external_guava
+  - LineageOS/android_external_guice
   - LineageOS/android_external_hamcrest
   - LineageOS/android_external_harfbuzz
+  - LineageOS/android_external_htop
   - LineageOS/android_external_hyphenation
+  - LineageOS/android_external_icu
   - LineageOS/android_external_icu4c
+  - LineageOS/android_external_ImageMagick
+  - LineageOS/android_external_iproute2
+  - LineageOS/android_external_ipsec-tools
+  - LineageOS/android_external_iptables
   - LineageOS/android_external_jack
+  - LineageOS/android_external_JakeWharton_butterknife
+  - LineageOS/android_external_jarjar
   - LineageOS/android_external_javasqlite
   - LineageOS/android_external_javassist
   - LineageOS/android_external_jdiff
+  - LineageOS/android_external_jemalloc
+  - LineageOS/android_external_jhead
   - LineageOS/android_external_jmdns
   - LineageOS/android_external_jmonkeyengine
+  - LineageOS/android_external_jpeg
+  - LineageOS/android_external_jpeg-turbo
   - LineageOS/android_external_jsilver
+  - LineageOS/android_external_jsr305
+  - LineageOS/android_external_jsr308
+  - LineageOS/android_external_jsr330
   - LineageOS/android_external_junit
+  - LineageOS/android_external_kissfft
+  - LineageOS/android_external_kotlinc
+  - LineageOS/android_external_kotlinx.coroutines
+  - LineageOS/android_external_kotlinx.serialization
+  - LineageOS/android_external_libaom
+  - LineageOS/android_external_libavc
+  - LineageOS/android_external_libbrillo
   - LineageOS/android_external_libcap-ng
+  - LineageOS/android_external_libchrome
+  - LineageOS/android_external_libcups
+  - LineageOS/android_external_libcupsfilters
+  - LineageOS/android_external_libcxx
+  - LineageOS/android_external_libdrm
+  - LineageOS/android_external_libevdev
+  - LineageOS/android_external_libexif
   - LineageOS/android_external_libffi
   - LineageOS/android_external_libgsm
+  - LineageOS/android_external_libhevc
+  - LineageOS/android_external_libjpeg-turbo
+  - LineageOS/android_external_libjxl
   - LineageOS/android_external_liblzf
+  - LineageOS/android_external_libmpeg2
   - LineageOS/android_external_libmtp
+  - LineageOS/android_external_libncurses
+  - LineageOS/android_external_libnetfilter_conntrack
+  - LineageOS/android_external_libnfc-nci
+  - LineageOS/android_external_libnfc-nxp
+  - LineageOS/android_external_libnfnetlink
+  - LineageOS/android_external_libnl
   - LineageOS/android_external_libnl-headers
   - LineageOS/android_external_libogg
+  - LineageOS/android_external_libopenapv
+  - LineageOS/android_external_libopus
   - LineageOS/android_external_libpcap
+  - LineageOS/android_external_libphonenumber
+  - LineageOS/android_external_libphonenumbergoogle
+  - LineageOS/android_external_libpng
+  - LineageOS/android_external_libppd
+  - LineageOS/android_external_libppp
+  - LineageOS/android_external_libsamsung-ipc
+  - LineageOS/android_external_libselinux
+  - LineageOS/android_external_libsepol
+  - LineageOS/android_external_libtar
+  - LineageOS/android_external_libtextclassifier
+  - LineageOS/android_external_libtruezip
+  - LineageOS/android_external_libusb
   - LineageOS/android_external_libusb-compat
+  - LineageOS/android_external_libusbx
+  - LineageOS/android_external_libvorbis
+  - LineageOS/android_external_libvpx
+  - LineageOS/android_external_libvterm
+  - LineageOS/android_external_libxml2
+  - LineageOS/android_external_libxslt
   - LineageOS/android_external_libyuv
+  - LineageOS/android_external_lineage-sdk-api-coverage
+  - LineageOS/android_external_linux-tools-perf
   - LineageOS/android_external_littlemock
   - LineageOS/android_external_llvm
+  - LineageOS/android_external_lsof
+  - LineageOS/android_external_lz4
+  - LineageOS/android_external_lzma
+  - LineageOS/android_external_lzo
   - LineageOS/android_external_markdown
   - LineageOS/android_external_mdnsresponder
+  - LineageOS/android_external_mksh
+  - LineageOS/android_external_mls-rs
+  - LineageOS/android_external_mm-dash
   - LineageOS/android_external_mockito
   - LineageOS/android_external_mockwebserver
   - LineageOS/android_external_mp4parser
   - LineageOS/android_external_mtpd
+  - LineageOS/android_external_nano
   - LineageOS/android_external_naver-fonts
   - LineageOS/android_external_netcat
   - LineageOS/android_external_netperf
+  - LineageOS/android_external_neven
+  - LineageOS/android_external_nist-sip
+  - LineageOS/android_external_ntfs-3g
   - LineageOS/android_external_oauth
+  - LineageOS/android_external_okhttp
+  - LineageOS/android_external_one-true-awk
   - LineageOS/android_external_opencv
   - LineageOS/android_external_openfst
+  - LineageOS/android_external_openssh
   - LineageOS/android_external_openssl
   - LineageOS/android_external_openvpn
   - LineageOS/android_external_oprofile
-  - LineageOS/android_external_protobuf
-  - LineageOS/android_external_qemu
-  - LineageOS/android_external_qemu-pc-bios
-  - LineageOS/android_external_regex-re2
-  - LineageOS/android_external_replicaisland
-  - LineageOS/android_external_safe-iop
-  - LineageOS/android_external_smali
-  - LineageOS/android_external_srec
-  - LineageOS/android_external_srtp
-  - LineageOS/android_external_stressapptest
-  - LineageOS/android_external_tagsoup
-  - LineageOS/android_external_tinyxml
-  - LineageOS/android_external_valgrind
-  - LineageOS/android_external_webrtc
-  - LineageOS/android_external_wpa_supplicant_8_ti
-  - LineageOS/android_external_wpa_supplicant_derp
-  - LineageOS/android_external_xmlwriter
-  - LineageOS/android_external_xmp_toolkit
-  - LineageOS/android_external_zxing
-  - LineageOS/android_frameworks_opt_connectivity
-  - LineageOS/android_frameworks_opt_mailcommon
-  - LineageOS/android_frameworks_opt_telephony-msim
-  - LineageOS/android_frameworks_testing
-  - LineageOS/android_packages_apps_Apollo
-  - LineageOS/android_packages_apps_CMHome
-  - LineageOS/android_packages_apps_Camera
-  - LineageOS/android_packages_apps_DSPManager
-  - LineageOS/android_packages_apps_Gallery
-  - LineageOS/android_packages_apps_LegacyCamera
-  - LineageOS/android_packages_apps_Mms
-  - LineageOS/android_packages_apps_MusicFX
-  - LineageOS/android_packages_apps_QuickSearchBox
-  - LineageOS/android_packages_apps_Torch
-  - LineageOS/android_packages_apps_VideoEditor
-  - LineageOS/android_packages_apps_VoiceDialer
-  - LineageOS/android_packages_apps_VoicePlus
-  - LineageOS/android_packages_inputmethods_OpenWnn
-  - LineageOS/android_packages_inputmethods_PinyinIME
-  - LineageOS/android_prebuilt
-  - LineageOS/android_sdk
-  - LineageOS/android_vendor_tmobile_libs_com.tmobile.themes
-  - LineageOS/android_vendor_tmobile_providers_ThemeManager
-  - LineageOS/external_cyanogen_cmhomeapi
-  - LineageOS/themes-platform-vendor-tmobile-apps-ThemeChooser
-Lineage-13.0-Projects:
-  - Lineage-14.1-Projects
-  - LineageOS/android_abi_cpp
-  - LineageOS/android_external_JakeWharton_butterknife
-  - LineageOS/android_external_android-mock
-  - LineageOS/android_external_ant-glob
-  - LineageOS/android_external_boundarydevices_efence
-  - LineageOS/android_external_dhcpcd
-  - LineageOS/android_external_doclava
-  - LineageOS/android_external_dropbear
-  - LineageOS/android_external_emilsjolander_stickylistheaders
-  - LineageOS/android_external_glide
-  - LineageOS/android_external_gmock
-  - LineageOS/android_external_guava
-  - LineageOS/android_external_jarjar
-  - LineageOS/android_external_jpeg
-  - LineageOS/android_external_jsr305
-  - LineageOS/android_external_jsr308
-  - LineageOS/android_external_jsr330
-  - LineageOS/android_external_kissfft
-  - LineageOS/android_external_libopus
-  - LineageOS/android_external_libphonenumber
-  - LineageOS/android_external_libppp
-  - LineageOS/android_external_libsepol
-  - LineageOS/android_external_libusb
-  - LineageOS/android_external_libusbx
-  - LineageOS/android_external_libxslt
-  - LineageOS/android_external_linux-tools-perf
-  - LineageOS/android_external_lsof
-  - LineageOS/android_external_mm-dash
-  - LineageOS/android_external_nist-sip
+  - LineageOS/android_external_p7zip
   - LineageOS/android_external_pciutils
   - LineageOS/android_external_pcre
+  - LineageOS/android_external_pdfium
+  - LineageOS/android_external_perfetto
+  - LineageOS/android_external_pigweed
+  - LineageOS/android_external_pigz
+  - LineageOS/android_external_powertop
+  - LineageOS/android_external_ppp
+  - LineageOS/android_external_proguard
+  - LineageOS/android_external_protobuf
+  - LineageOS/android_external_protobuf-c
+  - LineageOS/android_external_puffin
+  - LineageOS/android_external_qemu
+  - LineageOS/android_external_qemu-pc-bios
   - LineageOS/android_external_qrngd
+  - LineageOS/android_external_regex-re2
+  - LineageOS/android_external_replicaisland
+  - LineageOS/android_external_robolectric
+  - LineageOS/android_external_robolectric-shadows
+  - LineageOS/android_external_rsync
+  - LineageOS/android_external_safe-iop
+  - LineageOS/android_external_selinux
   - LineageOS/android_external_sepolicy
+  - LineageOS/android_external_setupcompat
+  - LineageOS/android_external_sfntly
+  - LineageOS/android_external_skia
+  - LineageOS/android_external_smali
+  - LineageOS/android_external_sonivox
+  - LineageOS/android_external_sony_boringssl-compat
+  - LineageOS/android_external_speex
   - LineageOS/android_external_spongycastle
+  - LineageOS/android_external_sqlite
   - LineageOS/android_external_square_dagger
   - LineageOS/android_external_square_javawriter
+  - LineageOS/android_external_srec
+  - LineageOS/android_external_srtp
+  - LineageOS/android_external_stagefright-plugins
+  - LineageOS/android_external_stlport
+  - LineageOS/android_external_strace
+  - LineageOS/android_external_stressapptest
+  - LineageOS/android_external_tagsoup
   - LineageOS/android_external_tcpdump
+  - LineageOS/android_external_tinyalsa
+  - LineageOS/android_external_tinycompress
+  - LineageOS/android_external_tinyxml
+  - LineageOS/android_external_tinyxml2
+  - LineageOS/android_external_toybox
+  - LineageOS/android_external_tremolo
+  - LineageOS/android_external_unrar
+  - LineageOS/android_external_unzip
+  - LineageOS/android_external_v8
+  - LineageOS/android_external_valgrind
+  - LineageOS/android_external_vim
   - LineageOS/android_external_vogar
-  - LineageOS/android_external_whispersystems_TextSecure
-  - LineageOS/android_external_whispersystems_WhisperPush
+  - LineageOS/android_external_webp
+  - LineageOS/android_external_webrtc
   - LineageOS/android_external_whispersystems_curve25519-java
   - LineageOS/android_external_whispersystems_libaxolotl-android
   - LineageOS/android_external_whispersystems_libtextsecure-java
   - LineageOS/android_external_whispersystems_libwhisperpush
+  - LineageOS/android_external_whispersystems_TextSecure
+  - LineageOS/android_external_whispersystems_WhisperPush
+  - LineageOS/android_external_wpa_supplicant_8
+  - LineageOS/android_external_wpa_supplicant_8_ti
+  - LineageOS/android_external_wpa_supplicant_derp
+  - LineageOS/android_external_xmlwriter
+  - LineageOS/android_external_xmp_toolkit
+  - LineageOS/android_external_yaffs2
+  - LineageOS/android_external_zip
+  - LineageOS/android_external_zlib
+  - LineageOS/android_external_zstd
+  - LineageOS/android_external_zxing
+  - LineageOS/android_frameworks_av
+  - LineageOS/android_frameworks_base
   - LineageOS/android_frameworks_compile_libbcc
+  - LineageOS/android_frameworks_compile_mclinker
   - LineageOS/android_frameworks_compile_slang
+  - LineageOS/android_frameworks_ex
+  - LineageOS/android_frameworks_hardware_interfaces
+  - LineageOS/android_frameworks_layoutlib
+  - LineageOS/android_frameworks_libs_net
+  - LineageOS/android_frameworks_libs_systemui
   - LineageOS/android_frameworks_mff
+  - LineageOS/android_frameworks_minikin
+  - LineageOS/android_frameworks_ml
   - LineageOS/android_frameworks_multidex
+  - LineageOS/android_frameworks_native
   - LineageOS/android_frameworks_opt_bitmap
   - LineageOS/android_frameworks_opt_bluetooth
+  - LineageOS/android_frameworks_opt_calendar
+  - LineageOS/android_frameworks_opt_car_services
   - LineageOS/android_frameworks_opt_carddav
+  - LineageOS/android_frameworks_opt_chips
+  - LineageOS/android_frameworks_opt_colorpicker
+  - LineageOS/android_frameworks_opt_connectivity
+  - LineageOS/android_frameworks_opt_datetimepicker
   - LineageOS/android_frameworks_opt_emoji
+  - LineageOS/android_frameworks_opt_hardware
   - LineageOS/android_frameworks_opt_inputmethodcommon
+  - LineageOS/android_frameworks_opt_mailcommon
   - LineageOS/android_frameworks_opt_mms
   - LineageOS/android_frameworks_opt_net_ethernet
+  - LineageOS/android_frameworks_opt_net_ims
+  - LineageOS/android_frameworks_opt_net_voip
+  - LineageOS/android_frameworks_opt_net_wifi
   - LineageOS/android_frameworks_opt_photoviewer
+  - LineageOS/android_frameworks_opt_setupwizard
+  - LineageOS/android_frameworks_opt_telephony
+  - LineageOS/android_frameworks_opt_telephony-msim
+  - LineageOS/android_frameworks_opt_timezonepicker
+  - LineageOS/android_frameworks_opt_vcard
+  - LineageOS/android_frameworks_proto_logging
   - LineageOS/android_frameworks_rs
+  - LineageOS/android_frameworks_support
+  - LineageOS/android_frameworks_testing
   - LineageOS/android_frameworks_volley
   - LineageOS/android_frameworks_webview
   - LineageOS/android_frameworks_wilhelm
   - LineageOS/android_hardware_akm
   - LineageOS/android_hardware_atheros_wlan
+  - LineageOS/android_hardware_broadcom_fm
+  - LineageOS/android_hardware_broadcom_libbt
+  - LineageOS/android_hardware_broadcom_nfc
+  - LineageOS/android_hardware_broadcom_wlan
   - LineageOS/android_hardware_cm
-  - LineageOS/android_hardware_nvidia_audio
-  - LineageOS/android_hardware_nvidia_tegra124
-  - LineageOS/android_hardware_ril-caf
-  - LineageOS/android_libnativehelper
-  - LineageOS/android_packages_apps_BluetoothExt
-  - LineageOS/android_packages_apps_CMAccount
-  - LineageOS/android_packages_apps_Calculator
-  - LineageOS/android_packages_apps_InCallUI
-  - LineageOS/android_packages_apps_Mms-caf
-  - LineageOS/android_packages_apps_Provision
-  - LineageOS/android_packages_apps_SmartCardService
-  - LineageOS/android_packages_apps_SpeechRecorder
-  - LineageOS/android_packages_experimental
-  - LineageOS/android_packages_providers_ApplicationsProvider
-  - LineageOS/android_packages_services_AppSuggestService
-  - LineageOS/android_packages_services_CMHardwareService
-  - LineageOS/android_packages_services_CMProfileManagerService
-  - LineageOS/android_packages_services_CMStatusBarManagerService
-  - LineageOS/android_packages_services_CMTelephonyService
-  - LineageOS/android_packages_services_PartnerInterfaceService
-  - LineageOS/android_packages_services_PerformanceManagerService
-  - LineageOS/android_packages_themes_Template
-  - LineageOS/android_packages_wallpapers_Basic
-  - LineageOS/android_packages_wallpapers_Galaxy4
-  - LineageOS/android_packages_wallpapers_HoloSpiral
-  - LineageOS/android_packages_wallpapers_MagicSmoke
-  - LineageOS/android_packages_wallpapers_MusicVisualization
-  - LineageOS/android_packages_wallpapers_NoiseField
-  - LineageOS/android_vendor_gello
-  - LineageOS/android_vendor_qcom_opensource_display-frameworks
-  - LineageOS/external_android_support-prebuilt
-Lineage-14.1-Projects:
-  - Lineage-15.1-Projects
-  - LineageOS/AndroidAsync
-  - LineageOS/android_device_generic_emulatorx86
-  - LineageOS/android_external_ahbottomnavigation
-  - LineageOS/android_external_android-clat
-  - LineageOS/android_external_android-visualizer
-  - LineageOS/android_external_apache-http
-  - LineageOS/android_external_bison
-  - LineageOS/android_external_bouncycastle
-  - LineageOS/android_external_busybox
-  - LineageOS/android_external_bzip2
-  - LineageOS/android_external_cmsdk-api-coverage
-  - LineageOS/android_external_cyanogen_UICommon
-  - LineageOS/android_external_deqp
-  - LineageOS/android_external_flac
-  - LineageOS/android_external_gello_build
-  - LineageOS/android_external_google
-  - LineageOS/android_external_gson
-  - LineageOS/android_external_iproute2
-  - LineageOS/android_external_ipsec-tools
-  - LineageOS/android_external_iptables
-  - LineageOS/android_external_jemalloc
-  - LineageOS/android_external_jhead
-  - LineageOS/android_external_libnetfilter_conntrack
-  - LineageOS/android_external_libnfc-nci
-  - LineageOS/android_external_libnfnetlink
-  - LineageOS/android_external_libphonenumbergoogle
-  - LineageOS/android_external_libsamsung-ipc
-  - LineageOS/android_external_libselinux
-  - LineageOS/android_external_libtruezip
-  - LineageOS/android_external_libvterm
-  - LineageOS/android_external_lz4
-  - LineageOS/android_external_lzma
-  - LineageOS/android_external_lzo
-  - LineageOS/android_external_neven
-  - LineageOS/android_external_protobuf-c
-  - LineageOS/android_external_speex
-  - LineageOS/android_external_stagefright-plugins
-  - LineageOS/android_external_tinyxml2
-  - LineageOS/android_external_unzip
-  - LineageOS/android_external_yaffs2
-  - LineageOS/android_frameworks_ex
-  - LineageOS/android_frameworks_opt_hardware
-  - LineageOS/android_frameworks_opt_vcard
   - LineageOS/android_hardware_cyanogen
+  - LineageOS/android_hardware_google_av
+  - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_invensense
+  - LineageOS/android_hardware_libhardware
+  - LineageOS/android_hardware_libhardware_legacy
+  - LineageOS/android_hardware_lineage_compat
+  - LineageOS/android_hardware_lineage_generic-ims
+  - LineageOS/android_hardware_lineage_interfaces
+  - LineageOS/android_hardware_lineage_libperfmgr
+  - LineageOS/android_hardware_lineage_lineagehw
+  - LineageOS/android_hardware_lineage_livedisplay
   - LineageOS/android_hardware_marvell_bt
   - LineageOS/android_hardware_marvell_wlan
+  - LineageOS/android_hardware_nvidia_audio
+  - LineageOS/android_hardware_nvidia_tegra124
+  - LineageOS/android_hardware_nxp_nfc
+  - LineageOS/android_hardware_nxp_secure_element
+  - LineageOS/android_hardware_nxp_uwb
+  - LineageOS/android_hardware_pixelworks_interfaces
+  - LineageOS/android_hardware_ril
+  - LineageOS/android_hardware_ril-caf
+  - LineageOS/android_hardware_samsung_nfc
+  - LineageOS/android_hardware_st_nfc
+  - LineageOS/android_kernel_configs
+  - LineageOS/android_libcore
+  - LineageOS/android_libnativehelper
+  - LineageOS/android_lineage-sdk
+  - LineageOS/android_packages_apps_Apollo
+  - LineageOS/android_packages_apps_AudioFX
+  - LineageOS/android_packages_apps_Backgrounds
+  - LineageOS/android_packages_apps_BasicSmsReceiver
+  - LineageOS/android_packages_apps_Bluetooth
+  - LineageOS/android_packages_apps_BluetoothExt
   - LineageOS/android_packages_apps_Browser
+  - LineageOS/android_packages_apps_Calculator
+  - LineageOS/android_packages_apps_Calendar
+  - LineageOS/android_packages_apps_Camera
+  - LineageOS/android_packages_apps_Camera2
+  - LineageOS/android_packages_apps_CarrierConfig
+  - LineageOS/android_packages_apps_CellBroadcastReceiver
+  - LineageOS/android_packages_apps_CertInstaller
+  - LineageOS/android_packages_apps_CMAccount
   - LineageOS/android_packages_apps_CMBugreport
   - LineageOS/android_packages_apps_CMFileManager
+  - LineageOS/android_packages_apps_CMHome
   - LineageOS/android_packages_apps_CMParts
   - LineageOS/android_packages_apps_CMUpdater
   - LineageOS/android_packages_apps_CMWallpapers
   - LineageOS/android_packages_apps_ContactsCommon
+  - LineageOS/android_packages_apps_ContactsPicker
   - LineageOS/android_packages_apps_CustomTiles
-  - LineageOS/android_packages_apps_Gello
-  - LineageOS/android_packages_apps_Protips
-  - LineageOS/android_packages_apps_SamsungServiceMode
-  - LineageOS/android_packages_apps_Screencast
-  - LineageOS/android_packages_apps_SoundRecorder
-  - LineageOS/android_packages_apps_ThemeChooser
-  - LineageOS/android_packages_providers_DataUsageProvider
-  - LineageOS/android_packages_providers_ThemesProvider
-  - LineageOS/android_packages_services_CMAudioService
-  - LineageOS/android_packages_services_LiveLockScreenService
-  - LineageOS/android_packages_services_ThemeManagerService
-  - LineageOS/android_packages_services_WeatherService
-  - LineageOS/android_packages_themes_HexoLibre
-  - LineageOS/android_packages_wallpapers_PhaseBeam
-  - LineageOS/android_packages_wallpapers_PhotoPhase
-  - LineageOS/android_prebuilts_cmsdk
-  - LineageOS/android_vendor_cm
-  - LineageOS/android_vendor_nxp-nfc_opensource_Nfc
-  - LineageOS/android_vendor_nxp-nfc_opensource_frameworks
-  - LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci
-  - LineageOS/android_vendor_qcom_opensource_bluetooth
-  - LineageOS/android_vendor_qcom_opensource_dpm
-  - LineageOS/android_vendor_qcom_opensource_time-services
-  - LineageOS/cm_platform_sdk
-  - LineageOS/ion
-Lineage-15.1-Projects:
-  - Lineage-16.0-Projects
-  - LineageOS/android_external_brctl
-  - LineageOS/android_external_ebtables
-  - LineageOS/android_external_fuse
-  - LineageOS/android_external_libdrm
-  - LineageOS/android_external_libmpeg2
-  - LineageOS/android_external_libvorbis
-  - LineageOS/android_external_powertop
-  - LineageOS/android_external_sfntly
-  - LineageOS/android_external_stlport
-  - LineageOS/android_frameworks_layoutlib
-  - LineageOS/android_frameworks_opt_chips
-  - LineageOS/android_frameworks_opt_setupwizard
-  - LineageOS/android_prebuilts_misc
-  - LineageOS/android_system_hwservicemanager
-  - LineageOS/android_test_sts
-  - LineageOS/android_vendor_qcom_opensource_rcs-service
-Lineage-16.0-Projects:
-  - Lineage-17.0-Projects
-  - LineageOS/android_build_kati
-  - LineageOS/android_dalvik
-  - LineageOS/android_external_ImageMagick
-  - LineageOS/android_external_curl
-  - LineageOS/android_external_elfutils
-  - LineageOS/android_external_f2fs-tools
-  - LineageOS/android_external_fsck_msdos
-  - LineageOS/android_external_jpeg-turbo
-  - LineageOS/android_external_libbrillo
-  - LineageOS/android_external_libchrome
-  - LineageOS/android_external_libtar
-  - LineageOS/android_external_lineage-sdk-api-coverage
-  - LineageOS/android_external_one-true-awk
-  - LineageOS/android_external_proguard
-  - LineageOS/android_external_puffin
-  - LineageOS/android_external_strace
-  - LineageOS/android_frameworks_compile_mclinker
-  - LineageOS/android_frameworks_opt_datetimepicker
-  - LineageOS/android_frameworks_support
-  - LineageOS/android_hardware_broadcom_wlan
-  - LineageOS/android_hardware_google_av
-  - LineageOS/android_hardware_lineage_lineagehw
-  - LineageOS/android_packages_apps_LockClock
-  - LineageOS/android_packages_apps_OpenWeatherMapProvider
-  - LineageOS/android_packages_apps_WallpaperPicker
-  - LineageOS/android_packages_apps_WundergroundWeatherProvider
-  - LineageOS/android_packages_apps_YahooWeatherProvider
-  - LineageOS/android_packages_providers_WeatherProvider
-  - LineageOS/android_packages_screensavers_WebView
-  - LineageOS/android_prebuilts_constraint-layout
-  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
-  - LineageOS/android_prebuilts_lineage-sdk
-  - LineageOS/android_system_gatekeeper
-  - LineageOS/android_system_libvintf
-  - LineageOS/android_test_vts-testcase_vndk
-Lineage-17.0-Projects:
-  - Lineage-17.1-Projects
-Lineage-17.1-Projects:
-  - Lineage-18.0-Projects
-  - LineageOS/android_external_chromium-libpac
-  - LineageOS/android_external_dnsmasq
-  - LineageOS/android_external_exfat
-  - LineageOS/android_external_libaom
-  - LineageOS/android_external_libtextclassifier
-  - LineageOS/android_external_okhttp
-  - LineageOS/android_external_ppp
-  - LineageOS/android_external_selinux
-  - LineageOS/android_external_v8
-  - LineageOS/android_frameworks_hardware_interfaces
-  - LineageOS/android_frameworks_opt_net_ims
-  - LineageOS/android_frameworks_opt_net_voip
-  - LineageOS/android_packages_apps_Calendar
+  - LineageOS/android_packages_apps_DocumentsUI
+  - LineageOS/android_packages_apps_DSPManager
   - LineageOS/android_packages_apps_Email
+  - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Exchange
-  - LineageOS/android_packages_apps_UnifiedEmail
-  - LineageOS/android_platform_testing
-  - LineageOS/android_prebuilts_openssl
-  - LineageOS/android_prebuilts_r8
-  - LineageOS/android_system_connectivity_wificond
-  - LineageOS/android_system_extras_su
-  - LineageOS/android_system_hardware_interfaces
-  - LineageOS/android_vendor_chromium
-Lineage-18.0-Projects:
-  - Lineage-18.1-Projects
-Lineage-18.1-Projects:
-  - Lineage-19.0-Projects
-  - LineageOS/android_external_ant-wireless_antradio-library
-  - LineageOS/android_external_boringssl
-  - LineageOS/android_external_guice
-  - LineageOS/android_external_libavc
-  - LineageOS/android_external_libcups
-  - LineageOS/android_external_libexif
-  - LineageOS/android_external_libnfc-nxp
-  - LineageOS/android_external_perfetto
-  - LineageOS/android_external_robolectric-shadows
-  - LineageOS/android_external_sony_boringssl-compat
-  - LineageOS/android_external_toybox
-  - LineageOS/android_external_tremolo
-  - LineageOS/android_frameworks_ml
-  - LineageOS/android_frameworks_opt_net_wifi
-  - LineageOS/android_hardware_broadcom_fm
-  - LineageOS/android_hardware_broadcom_nfc
-  - LineageOS/android_packages_apps_BasicSmsReceiver
+  - LineageOS/android_packages_apps_Gallery
+  - LineageOS/android_packages_apps_Gallery2
+  - LineageOS/android_packages_apps_Gello
   - LineageOS/android_packages_apps_HTMLViewer
+  - LineageOS/android_packages_apps_InCallUI
+  - LineageOS/android_packages_apps_KeyChain
+  - LineageOS/android_packages_apps_Launcher3
+  - LineageOS/android_packages_apps_LegacyCamera
+  - LineageOS/android_packages_apps_LineageParts
+  - LineageOS/android_packages_apps_LockClock
+  - LineageOS/android_packages_apps_ManagedProvisioning
+  - LineageOS/android_packages_apps_Mms
+  - LineageOS/android_packages_apps_Mms-caf
+  - LineageOS/android_packages_apps_MusicFX
+  - LineageOS/android_packages_apps_Nfc
+  - LineageOS/android_packages_apps_OpenWeatherMapProvider
   - LineageOS/android_packages_apps_PackageInstaller
   - LineageOS/android_packages_apps_PhoneCommon
-  - LineageOS/android_packages_apps_QuickAccessWallet
-  - LineageOS/android_packages_apps_SafetyRegulatoryInfo
-  - LineageOS/android_packages_apps_SecureElement
-  - LineageOS/android_packages_apps_Snap
-  - LineageOS/android_packages_apps_StorageManager
-  - LineageOS/android_packages_apps_Terminal
-  - LineageOS/android_packages_modules_CaptivePortalLogin
-  - LineageOS/android_packages_providers_PartnerBookmarksProvider
-  - LineageOS/android_packages_providers_UserDictionaryProvider
-  - LineageOS/android_packages_screensavers_Basic
-  - LineageOS/android_system_tools_aidl
-  - LineageOS/android_system_tools_hidl
-  - LineageOS/android_tools_metalava
-Lineage-19.0-Projects:
-  - Lineage-19.1-Projects
-Lineage-19.1-Projects:
-  - Lineage-20.0-Projects
-  - LineageOS/android_external_aac
-  - LineageOS/android_external_angle
-  - LineageOS/android_external_p7zip
-  - LineageOS/android_external_pigz
-  - LineageOS/android_external_zip
-  - LineageOS/android_external_zlib
-  - LineageOS/android_frameworks_libs_net
-  - LineageOS/android_frameworks_minikin
-  - LineageOS/android_hardware_lineage_libperfmgr
-  - LineageOS/android_packages_apps_Bluetooth
-  - LineageOS/android_packages_apps_CarrierConfig
-  - LineageOS/android_packages_apps_Traceur
-  - LineageOS/android_prebuilts_abi-dumps_vndk
-  - LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9
-  - LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9
-  - LineageOS/android_prebuilts_gcc_darwin-x86_x86_x86_64-linux-android-4.9
-  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9
-  - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
-  - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
-  - LineageOS/android_system_bt
-  - LineageOS/android_system_libhwbinder
-Lineage-20.0-Projects:
-  - Lineage-21.0-Projects
-  - LineageOS/android_cts
-  - LineageOS/android_external_libxml2
-  - LineageOS/android_external_pdfium
-  - LineageOS/android_external_sonivox
-  - LineageOS/android_hardware_libhardware_legacy
-  - LineageOS/android_packages_modules_DnsResolver
-  - LineageOS/android_packages_modules_NeuralNetworks
-  - LineageOS/android_packages_modules_StatsD
-  - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
-  - LineageOS/android_prebuilts_module_sdk_Wifi
-  - LineageOS/android_system_ca-certificates
-  - LineageOS/android_system_memory_lmkd
-  - LineageOS/android_tools_apksig
-Lineage-21.0-Projects:
-  - Lineage-22.0-Projects
-  - LineageOS/android_external_android-nn-driver
-  - LineageOS/android_external_armnn
-  - LineageOS/android_external_bson
-  - LineageOS/android_external_cldr
-  - LineageOS/android_external_conscrypt
-  - LineageOS/android_external_expat
-  - LineageOS/android_external_giflib
-  - LineageOS/android_external_icu
-  - LineageOS/android_external_libcxx
-  - LineageOS/android_external_libevdev
-  - LineageOS/android_external_libjpeg-turbo
-  - LineageOS/android_external_libnl
-  - LineageOS/android_external_libvpx
-  - LineageOS/android_external_webp
-  - LineageOS/android_libcore
-  - LineageOS/android_prebuilts_build-tools
-  - LineageOS/android_system_keymint
-  - LineageOS/android_system_timezone
-Lineage-22.0-Projects:
-  - Lineage-22.1-Projects
-Lineage-22.1-Projects:
-  - Lineage-22.2-Projects
-Lineage-22.2-Projects:
-  - Lineage-23.0-Projects
-  - LineageOS/android_build_blueprint
-  - LineageOS/android_external_kotlinc
-  - LineageOS/android_external_kotlinx.coroutines
-  - LineageOS/android_external_kotlinx.serialization
-  - LineageOS/android_external_robolectric
-  - LineageOS/android_hardware_ril
-  - LineageOS/android_packages_apps_ManagedProvisioning
-  - LineageOS/android_packages_apps_Nfc
-  - LineageOS/android_packages_apps_Trebuchet
-  - LineageOS/android_packages_modules_CellBroadcastService
-  - LineageOS/android_packages_modules_NetworkStack
-  - LineageOS/android_packages_services_Iwlan
-  - LineageOS/android_system_nfc
-  - LineageOS/android_system_qcom
-Lineage-23.0-Projects:
-  - Lineage-23.1-Projects
-  - LineageOS/android_frameworks_proto_logging
-  - LineageOS/android_system_apex
-  - LineageOS/android_system_libhidl
-Lineage-23.1-Projects:
-  - Lineage-23.2-Projects
-  - LineageOS/android_external_skia
-Lineage-23.2-Projects:
-  - Lineage-24.0-Projects
-  - LineageOS/android_build_release
-  - LineageOS/android_device_google_contexthub
-  - LineageOS/android_external_ant-wireless_ant_client
-  - LineageOS/android_external_ant-wireless_ant_native
-  - LineageOS/android_external_ant-wireless_ant_service
-  - LineageOS/android_external_cronet
-  - LineageOS/android_external_libopenapv
-  - LineageOS/android_external_pigweed
-  - LineageOS/android_external_sqlite
-  - LineageOS/android_frameworks_opt_calendar
-  - LineageOS/android_frameworks_opt_colorpicker
-  - LineageOS/android_frameworks_opt_timezonepicker
-  - LineageOS/android_hardware_lineage_livedisplay
-  - LineageOS/android_hardware_nxp_uwb
-  - LineageOS/android_hardware_samsung_nfc
-  - LineageOS/android_packages_apps_Camera2
-  - LineageOS/android_packages_apps_CertInstaller
-  - LineageOS/android_packages_apps_KeyChain
-  - LineageOS/android_packages_modules_IntentResolver
-  - LineageOS/android_packages_modules_UprobeStats
-  - LineageOS/android_packages_modules_Virtualization
-  - LineageOS/android_packages_modules_common
-  - LineageOS/android_system_incremental_delivery
-  - LineageOS/android_system_tools_mkbootimg
-Lineage-24.0-Projects:
-  - Head-Developers
-  - LineageOS/android_art
-  - LineageOS/android_bionic
-  - LineageOS/android_build
-  - LineageOS/android_build_soong
-  - LineageOS/android_development
-  - LineageOS/android_device_generic_common
-  - LineageOS/android_device_lineage_sepolicy
-  - LineageOS/android_external_ant-wireless_hidl
-  - LineageOS/android_external_arm-trusted-firmware
-  - LineageOS/android_external_avb
-  - LineageOS/android_external_bash
-  - LineageOS/android_external_dng_sdk
-  - LineageOS/android_external_dtc
-  - LineageOS/android_external_exfatprogs
-  - LineageOS/android_external_freetype
-  - LineageOS/android_external_google-fonts_google-sans-flex
-  - LineageOS/android_external_htop
-  - LineageOS/android_external_libcupsfilters
-  - LineageOS/android_external_libhevc
-  - LineageOS/android_external_libjxl
-  - LineageOS/android_external_libncurses
-  - LineageOS/android_external_libpng
-  - LineageOS/android_external_libppd
-  - LineageOS/android_external_mksh
-  - LineageOS/android_external_mls-rs
-  - LineageOS/android_external_nano
-  - LineageOS/android_external_ntfs-3g
-  - LineageOS/android_external_openssh
-  - LineageOS/android_external_rsync
-  - LineageOS/android_external_setupcompat
-  - LineageOS/android_external_tinyalsa
-  - LineageOS/android_external_tinycompress
-  - LineageOS/android_external_unrar
-  - LineageOS/android_external_vim
-  - LineageOS/android_external_wpa_supplicant_8
-  - LineageOS/android_external_zstd
-  - LineageOS/android_frameworks_av
-  - LineageOS/android_frameworks_base
-  - LineageOS/android_frameworks_libs_systemui
-  - LineageOS/android_frameworks_opt_car_services
-  - LineageOS/android_frameworks_native
-  - LineageOS/android_frameworks_opt_telephony
-  - LineageOS/android_hardware_broadcom_libbt
-  - LineageOS/android_hardware_interfaces
-  - LineageOS/android_hardware_libhardware
-  - LineageOS/android_hardware_lineage_compat
-  - LineageOS/android_hardware_lineage_generic-ims
-  - LineageOS/android_hardware_lineage_interfaces
-  - LineageOS/android_hardware_nxp_nfc
-  - LineageOS/android_hardware_nxp_secure_element
-  - LineageOS/android_hardware_pixelworks_interfaces
-  - LineageOS/android_hardware_st_nfc
-  - LineageOS/android_kernel_configs
-  - LineageOS/android_lineage-sdk
-  - LineageOS/android_packages_apps_AudioFX
-  - LineageOS/android_packages_apps_Backgrounds
-  - LineageOS/android_packages_apps_CellBroadcastReceiver
-  - LineageOS/android_packages_apps_ContactsPicker
-  - LineageOS/android_packages_apps_DocumentsUI
-  - LineageOS/android_packages_apps_EmergencyInfo
-  - LineageOS/android_packages_apps_Gallery2
-  - LineageOS/android_packages_apps_Launcher3
-  - LineageOS/android_packages_apps_LineageParts
   - LineageOS/android_packages_apps_Profiles
+  - LineageOS/android_packages_apps_Protips
+  - LineageOS/android_packages_apps_Provision
+  - LineageOS/android_packages_apps_QuickAccessWallet
+  - LineageOS/android_packages_apps_QuickSearchBox
+  - LineageOS/android_packages_apps_SafetyRegulatoryInfo
+  - LineageOS/android_packages_apps_SamsungServiceMode
+  - LineageOS/android_packages_apps_Screencast
+  - LineageOS/android_packages_apps_SecureElement
   - LineageOS/android_packages_apps_Seedvault
   - LineageOS/android_packages_apps_Settings
   - LineageOS/android_packages_apps_SettingsIntelligence
   - LineageOS/android_packages_apps_SetupWizard
   - LineageOS/android_packages_apps_SimpleDeviceConfig
   - LineageOS/android_packages_apps_SimpleSettingsConfig
+  - LineageOS/android_packages_apps_SmartCardService
+  - LineageOS/android_packages_apps_Snap
+  - LineageOS/android_packages_apps_SoundRecorder
+  - LineageOS/android_packages_apps_SpeechRecorder
   - LineageOS/android_packages_apps_Stk
+  - LineageOS/android_packages_apps_StorageManager
   - LineageOS/android_packages_apps_Tag
+  - LineageOS/android_packages_apps_Terminal
+  - LineageOS/android_packages_apps_ThemeChooser
   - LineageOS/android_packages_apps_ThemePicker
+  - LineageOS/android_packages_apps_Torch
+  - LineageOS/android_packages_apps_Traceur
+  - LineageOS/android_packages_apps_Trebuchet
+  - LineageOS/android_packages_apps_UnifiedEmail
+  - LineageOS/android_packages_apps_VideoEditor
+  - LineageOS/android_packages_apps_VoiceDialer
+  - LineageOS/android_packages_apps_VoicePlus
+  - LineageOS/android_packages_apps_WallpaperPicker
   - LineageOS/android_packages_apps_WallpaperPicker2
+  - LineageOS/android_packages_apps_WundergroundWeatherProvider
+  - LineageOS/android_packages_apps_YahooWeatherProvider
+  - LineageOS/android_packages_experimental
   - LineageOS/android_packages_inputmethods_LeanbackIME
+  - LineageOS/android_packages_inputmethods_OpenWnn
+  - LineageOS/android_packages_inputmethods_PinyinIME
+  - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_modules_Bluetooth
+  - LineageOS/android_packages_modules_CaptivePortalLogin
+  - LineageOS/android_packages_modules_CellBroadcastService
+  - LineageOS/android_packages_modules_common
   - LineageOS/android_packages_modules_Connectivity
+  - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_ImsMedia
+  - LineageOS/android_packages_modules_IntentResolver
+  - LineageOS/android_packages_modules_NetworkStack
+  - LineageOS/android_packages_modules_NeuralNetworks
   - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
+  - LineageOS/android_packages_modules_StatsD
   - LineageOS/android_packages_modules_Telephony
+  - LineageOS/android_packages_modules_UprobeStats
   - LineageOS/android_packages_modules_Uwb
+  - LineageOS/android_packages_modules_Virtualization
   - LineageOS/android_packages_modules_Wifi
-  - LineageOS/android_packages_modules_adb
   - LineageOS/android_packages_overlays_Lineage
+  - LineageOS/android_packages_providers_ApplicationsProvider
   - LineageOS/android_packages_providers_BlockedNumberProvider
   - LineageOS/android_packages_providers_BookmarkProvider
   - LineageOS/android_packages_providers_CalendarProvider
   - LineageOS/android_packages_providers_CallLogProvider
   - LineageOS/android_packages_providers_ContactsProvider
+  - LineageOS/android_packages_providers_DataUsageProvider
   - LineageOS/android_packages_providers_DownloadProvider
   - LineageOS/android_packages_providers_MediaProvider
+  - LineageOS/android_packages_providers_PartnerBookmarksProvider
   - LineageOS/android_packages_providers_TelephonyProvider
+  - LineageOS/android_packages_providers_ThemesProvider
+  - LineageOS/android_packages_providers_UserDictionaryProvider
+  - LineageOS/android_packages_providers_WeatherProvider
   - LineageOS/android_packages_resources_devicesettings
+  - LineageOS/android_packages_screensavers_Basic
   - LineageOS/android_packages_screensavers_PhotoTable
+  - LineageOS/android_packages_screensavers_WebView
+  - LineageOS/android_packages_services_AppSuggestService
   - LineageOS/android_packages_services_BuiltInPrintService
+  - LineageOS/android_packages_services_CMAudioService
+  - LineageOS/android_packages_services_CMHardwareService
+  - LineageOS/android_packages_services_CMProfileManagerService
+  - LineageOS/android_packages_services_CMStatusBarManagerService
+  - LineageOS/android_packages_services_CMTelephonyService
   - LineageOS/android_packages_services_DeviceAsWebcam
+  - LineageOS/android_packages_services_Iwlan
+  - LineageOS/android_packages_services_LiveLockScreenService
   - LineageOS/android_packages_services_Mms
+  - LineageOS/android_packages_services_PartnerInterfaceService
+  - LineageOS/android_packages_services_PerformanceManagerService
   - LineageOS/android_packages_services_Telecomm
   - LineageOS/android_packages_services_Telephony
+  - LineageOS/android_packages_services_ThemeManagerService
+  - LineageOS/android_packages_services_WeatherService
+  - LineageOS/android_packages_themes_HexoLibre
+  - LineageOS/android_packages_themes_Template
+  - LineageOS/android_packages_wallpapers_Basic
+  - LineageOS/android_packages_wallpapers_Galaxy4
+  - LineageOS/android_packages_wallpapers_HoloSpiral
   - LineageOS/android_packages_wallpapers_LivePicker
+  - LineageOS/android_packages_wallpapers_MagicSmoke
+  - LineageOS/android_packages_wallpapers_MusicVisualization
+  - LineageOS/android_packages_wallpapers_NoiseField
+  - LineageOS/android_packages_wallpapers_PhaseBeam
+  - LineageOS/android_packages_wallpapers_PhotoPhase
+  - LineageOS/android_platform_testing
+  - LineageOS/android_prebuilt
+  - LineageOS/android_prebuilts_abi-dumps_vndk
+  - LineageOS/android_prebuilts_build-tools
+  - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
+  - LineageOS/android_prebuilts_cmsdk
+  - LineageOS/android_prebuilts_constraint-layout
   - LineageOS/android_prebuilts_extract-tools
+  - LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9
+  - LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9
+  - LineageOS/android_prebuilts_gcc_darwin-x86_x86_x86_64-linux-android-4.9
+  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9
+  - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
+  - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
+  - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
+  - LineageOS/android_prebuilts_lineage-sdk
+  - LineageOS/android_prebuilts_misc
+  - LineageOS/android_prebuilts_module_sdk_Wifi
+  - LineageOS/android_prebuilts_openssl
+  - LineageOS/android_prebuilts_r8
   - LineageOS/android_prebuilts_tools-lineage
+  - LineageOS/android_sdk
+  - LineageOS/android_system_apex
   - LineageOS/android_system_bpf
+  - LineageOS/android_system_bt
+  - LineageOS/android_system_ca-certificates
   - LineageOS/android_system_chre
+  - LineageOS/android_system_connectivity_wificond
   - LineageOS/android_system_core
   - LineageOS/android_system_extras
+  - LineageOS/android_system_extras_su
   - LineageOS/android_system_fs_fs_mgr
+  - LineageOS/android_system_gatekeeper
+  - LineageOS/android_system_hardware_interfaces
+  - LineageOS/android_system_hwservicemanager
+  - LineageOS/android_system_incremental_delivery
   - LineageOS/android_system_keymaster
+  - LineageOS/android_system_keymint
   - LineageOS/android_system_libfmq
+  - LineageOS/android_system_libhidl
+  - LineageOS/android_system_libhwbinder
   - LineageOS/android_system_libufdt
+  - LineageOS/android_system_libvintf
   - LineageOS/android_system_libziparchive
   - LineageOS/android_system_logging
   - LineageOS/android_system_media
   - LineageOS/android_system_memory_libdmabufheap
   - LineageOS/android_system_memory_libion
+  - LineageOS/android_system_memory_lmkd
   - LineageOS/android_system_netd
+  - LineageOS/android_system_nfc
+  - LineageOS/android_system_qcom
   - LineageOS/android_system_security
   - LineageOS/android_system_sepolicy
+  - LineageOS/android_system_timezone
+  - LineageOS/android_system_tools_aidl
+  - LineageOS/android_system_tools_hidl
+  - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
   - LineageOS/android_system_vold
+  - LineageOS/android_test_sts
+  - LineageOS/android_test_vts-testcase_vndk
+  - LineageOS/android_tools_apksig
+  - LineageOS/android_tools_metalava
+  - LineageOS/android_vendor_chromium
+  - LineageOS/android_vendor_cm
   - LineageOS/android_vendor_crowdin
+  - LineageOS/android_vendor_gello
   - LineageOS/android_vendor_lineage
+  - LineageOS/android_vendor_nxp-nfc_opensource_frameworks
+  - LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci
+  - LineageOS/android_vendor_nxp-nfc_opensource_Nfc
+  - LineageOS/android_vendor_qcom_opensource_bluetooth
+  - LineageOS/android_vendor_qcom_opensource_display-frameworks
+  - LineageOS/android_vendor_qcom_opensource_dpm
+  - LineageOS/android_vendor_qcom_opensource_rcs-service
+  - LineageOS/android_vendor_qcom_opensource_time-services
+  - LineageOS/android_vendor_tmobile_libs_com.tmobile.themes
+  - LineageOS/android_vendor_tmobile_providers_ThemeManager
+  - LineageOS/AndroidAsync
+  - LineageOS/cm_platform_sdk
+  - LineageOS/external_android_support-prebuilt
+  - LineageOS/external_cyanogen_cmhomeapi
+  - LineageOS/ion
+  - LineageOS/Superuser
+  - LineageOS/themes-platform-vendor-tmobile-apps-ThemeChooser
+  - LineageOS/Widgets
   - PROJECT-Lineage-apn
   - PROJECT-Lineage-apps
   - PROJECT-Lineage-extract
