@@ -3661,6 +3661,8 @@ PROJECT-Xelex-Q25:
   - LineageOS/android_kernel_xelex_mt6789
 PROJECT-Xiaomi-Violet:
   - LineageOS/android_kernel_xiaomi_violet
+PROJECT-Xiaomi-apollon:
+  - LineageOS/android_device_xiaomi_apollon
 PROJECT-Xiaomi-armani:
   - LineageOS/android_device_xiaomi_armani
   - LineageOS/android_kernel_xiaomi_armani
@@ -3821,13 +3823,13 @@ PROJECT-Xiaomi-sm8150:
   - LineageOS/android_kernel_xiaomi_sm8150
 PROJECT-Xiaomi-sm8250:
   - LineageOS/android_device_xiaomi_alioth
-  - LineageOS/android_device_xiaomi_apollon
   - LineageOS/android_device_xiaomi_lmi
   - LineageOS/android_device_xiaomi_munch
   - LineageOS/android_device_xiaomi_pipa
   - LineageOS/android_device_xiaomi_sm8250-common
   - LineageOS/android_device_xiaomi_thyme
   - LineageOS/android_kernel_xiaomi_sm8250
+  - PROJECT-Xiaomi-apollon
   - PROJECT-Xiaomi-cas
   - PROJECT-Xiaomi-cmi
   - PROJECT-Xiaomi-umi
