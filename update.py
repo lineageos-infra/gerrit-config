@@ -50,6 +50,7 @@ for parent, children in wanted.items():
     [gerrit_projects.add(x) for x in children]
 
 missing = gerrit_projects - set(github_projects.values())
+created_repo = False
 
 for repo in missing:
     if not repo.startswith("LineageOS/"):
@@ -57,6 +58,10 @@ for repo in missing:
     print(f"Creating {repo} on github...")
     github_org.create_repo(repo.replace("LineageOS/",""), has_wiki=False, has_downloads=False, has_projects=False, has_issues=False, private=False)
     github_org.get_repo(repo.replace("LineageOS/","")).edit(has_pull_requests=False)
+    created_repo = True
+
+if created_repo:
+    github_projects = {x.id: x.full_name for x in github_org.get_repos()}
 
 print("Updating gerrit permissions...")
 
