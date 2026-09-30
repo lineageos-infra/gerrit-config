@@ -2415,6 +2415,7 @@ PROJECT-Lineage-apn:
 PROJECT-Lineage-apps:
   - LineageOS/android_packages_apps_Aperture
   - LineageOS/android_packages_apps_Camelot
+  - LineageOS/android_packages_apps_Canvas
   - LineageOS/android_packages_apps_Catapult
   - LineageOS/android_packages_apps_Contacts
   - LineageOS/android_packages_apps_DeskClock
