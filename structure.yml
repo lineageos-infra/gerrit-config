@@ -639,6 +639,7 @@ Lineage-Device-Projects:
   - OEM-Alcatel
   - OEM-Amazon
   - OEM-Amlogic
+  - OEM-Apple
   - OEM-Ark
   - OEM-Asus
   - OEM-AYN
@@ -1317,6 +1318,8 @@ OEM-Amlogic:
   - PROJECT-Amlogic-hardware
   - PROJECT-Amlogic-kernel-platform
   - PROJECT-Amlogic-ne
+OEM-Apple:
+  - PROJECT-Apple-snowcastle
 OEM-Ark:
   - PROJECT-Ark-peach
 OEM-Asus:
@@ -1439,34 +1442,11 @@ OEM-Lenovo:
   - PROJECT-Lenovo-sdm710
   - PROJECT-Lenovo-sm8150
 OEM-Mainline:
-  - LineageOS/android_device_mainline_common
-  - LineageOS/android_device_mainline_generic
-  - LineageOS/android_device_mainline_qcom-common
-  - LineageOS/android_device_pc_basic_x86_64_pc
-  - LineageOS/android_device_apple_snowcastle
-  - LineageOS/android_device_xiaomi_mi7150-mainline
-  - LineageOS/android_device_xiaomi_mi89xx-mainline
-  - LineageOS/android_external_alsa-lib
-  - LineageOS/android_external_alsa-ucm-conf
-  - LineageOS/android_external_drm_hwcomposer-upstream
-  - LineageOS/android_external_ffmpeg
-  - LineageOS/android_external_ffmpeg_codec2
-  - LineageOS/android_external_libdisplay-info-upstream
-  - LineageOS/android_external_linux-firmware-mainline
-  - LineageOS/android_external_lk2nd
-  - LineageOS/android_external_minigbm-upstream
-  - LineageOS/android_external_tinyhal
-  - LineageOS/android_external_v4l2_codec2
-  - LineageOS/android_hardware_baylibre_audio
-  - LineageOS/android_hardware_baylibre_hdmi
-  - LineageOS/android_hardware_linaro_libpm
-  - LineageOS/android_hardware_mainline
-  - LineageOS/android_hardware_mainline_common
-  - LineageOS/android_hardware_mainline_qcom
-  - LineageOS/android_hardware_qcom_audioreach-topology
-  - LineageOS/android_kernel_mainline_configs
-  - LineageOS/android_vendor_mainline
   - PROJECT-intel-common
+  - PROJECT-Mainline-external
+  - PROJECT-Mainline-generic
+  - PROJECT-Mainline-hardware
+  - PROJECT-Mainline-platform
 OEM-MediaTek:
   - PROJECT-MediaTek-hardware
 OEM-Moto:
@@ -1683,6 +1663,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm8992
   - PROJECT-Xiaomi-msm8996
   - PROJECT-Xiaomi-msm8998
+  - PROJECT-Xiaomi-msm89xx
   - PROJECT-Xiaomi-mt6768
   - PROJECT-Xiaomi-mt6785
   - PROJECT-Xiaomi-onclite
@@ -1693,6 +1674,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-sm6125
   - PROJECT-Xiaomi-sm6150
   - PROJECT-Xiaomi-sm6250
+  - PROJECT-Xiaomi-sm7150
   - PROJECT-Xiaomi-sm7250
   - PROJECT-Xiaomi-sm7435
   - PROJECT-Xiaomi-sm8150
@@ -1847,6 +1829,8 @@ PROJECT-Amlogic-ne:
   - LineageOS/android_device_xiaomi_jaws
   - LineageOS/android_hardware_amlogic_kernel-modules_media-5.4
   - LineageOS/android_kernel_amlogic_linux-5.4
+PROJECT-Apple-snowcastle:
+  - LineageOS/android_device_apple_snowcastle
 PROJECT-Ark-peach:
   - LineageOS/android_device_ark_msm8916-common
   - LineageOS/android_device_ark_peach
@@ -2457,6 +2441,34 @@ PROJECT-MediaTek-hardware:
   - LineageOS/android_packages_apps_MtkFMRadio
 PROJECT-Mirror:
   - LineageOS/mirror
+PROJECT-Mainline-external:
+  - LineageOS/android_external_alsa-lib
+  - LineageOS/android_external_alsa-ucm-conf
+  - LineageOS/android_external_drm_hwcomposer-upstream
+  - LineageOS/android_external_ffmpeg
+  - LineageOS/android_external_ffmpeg_codec2
+  - LineageOS/android_external_libdisplay-info-upstream
+  - LineageOS/android_external_linux-firmware-mainline
+  - LineageOS/android_external_lk2nd
+  - LineageOS/android_external_minigbm-upstream
+  - LineageOS/android_external_tinyhal
+  - LineageOS/android_external_v4l2_codec2
+PROJECT-Mainline-generic:
+  - LineageOS/android_device_mainline_generic
+  - LineageOS/android_device_mainline_qcom-common
+  - LineageOS/android_device_pc_basic_x86_64_pc
+PROJECT-Mainline-hardware:
+  - LineageOS/android_hardware_baylibre_audio
+  - LineageOS/android_hardware_baylibre_hdmi
+  - LineageOS/android_hardware_linaro_libpm
+  - LineageOS/android_hardware_mainline
+  - LineageOS/android_hardware_mainline_common
+  - LineageOS/android_hardware_mainline_qcom
+  - LineageOS/android_hardware_qcom_audioreach-topology
+PROJECT-Mainline-platform:
+  - LineageOS/android_device_mainline_common
+  - LineageOS/android_kernel_mainline_configs
+  - LineageOS/android_vendor_mainline
 PROJECT-Moto-shamu:
   - LineageOS/android_device_moto_shamu
   - LineageOS/android_kernel_moto_shamu
@@ -3699,6 +3711,8 @@ PROJECT-Xiaomi-msm8998:
   - LineageOS/android_device_xiaomi_msm8998-common
   - LineageOS/android_device_xiaomi_sagit
   - LineageOS/android_kernel_xiaomi_msm8998
+PROJECT-Xiaomi-msm89xx:
+  - LineageOS/android_device_xiaomi_mi89xx-mainline
 PROJECT-Xiaomi-mt6768:
   - LineageOS/android_device_xiaomi_lancelot
   - LineageOS/android_device_xiaomi_merlinx
@@ -3768,6 +3782,8 @@ PROJECT-Xiaomi-sm6250:
   - LineageOS/android_device_xiaomi_miatoll
   - LineageOS/android_device_xiaomi_sm6250-common
   - LineageOS/android_kernel_xiaomi_sm6250
+PROJECT-Xiaomi-sm7150:
+  - LineageOS/android_device_xiaomi_mi7150-mainline
 PROJECT-Xiaomi-sm7250:
   - LineageOS/android_device_xiaomi_monet
   - LineageOS/android_device_xiaomi_sm7250-common
