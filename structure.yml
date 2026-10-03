@@ -2457,14 +2457,15 @@ PROJECT-Mainline-generic:
   - LineageOS/android_device_mainline_generic
   - LineageOS/android_device_mainline_qcom-common
   - LineageOS/android_device_pc_basic_x86_64_pc
-PROJECT-Mainline-hardware:
+PROJECT-Mainline-hardware-ext:
   - LineageOS/android_hardware_baylibre_audio
   - LineageOS/android_hardware_baylibre_hdmi
   - LineageOS/android_hardware_linaro_libpm
+  - LineageOS/android_hardware_qcom_audioreach-topology
+PROJECT-Mainline-hardware:
   - LineageOS/android_hardware_mainline
   - LineageOS/android_hardware_mainline_common
   - LineageOS/android_hardware_mainline_qcom
-  - LineageOS/android_hardware_qcom_audioreach-topology
 PROJECT-Mainline-platform:
   - LineageOS/android_device_mainline_common
   - LineageOS/android_kernel_mainline_configs
