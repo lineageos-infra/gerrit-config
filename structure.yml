@@ -1445,6 +1445,7 @@ OEM-Mainline:
   - PROJECT-intel-common
   - PROJECT-Mainline-external
   - PROJECT-Mainline-generic
+  - PROJECT-Mainline-hardware-ext
   - PROJECT-Mainline-hardware
   - PROJECT-Mainline-platform
 OEM-MediaTek:
