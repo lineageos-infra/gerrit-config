@@ -1667,6 +1667,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-msm89xx
   - PROJECT-Xiaomi-mt6768
   - PROJECT-Xiaomi-mt6785
+  - PROJECT-Xiaomi-mt6895
   - PROJECT-Xiaomi-onclite
   - PROJECT-Xiaomi-sdm660
   - PROJECT-Xiaomi-sdm710
@@ -3726,6 +3727,10 @@ PROJECT-Xiaomi-mt6785:
   - LineageOS/android_device_xiaomi_mt6785-common
   - LineageOS/android_device_xiaomi_rosemary
   - LineageOS/android_kernel_xiaomi_mt6785
+PROJECT-Xiaomi-mt6895:
+  - LineageOS/android_device_xiaomi_xaga
+  - LineageOS/android_device_xiaomi_mt6895-common
+  - LineageOS/android_kernel_xiaomi_mt6895
 PROJECT-Xiaomi-onclite:
   - LineageOS/android_device_xiaomi_onclite
   - LineageOS/android_kernel_xiaomi_onclite
