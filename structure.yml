@@ -3088,6 +3088,7 @@ PROJECT-Oppo-sm8250:
   - LineageOS/android_kernel_oppo_sm8250
 PROJECT-Osom-ingot:
   - LineageOS/android_device_osom_ingot
+  - LineageOS/android_kernel_osom_ingot-build
   - LineageOS/android_kernel_osom_sm8475
   - LineageOS/android_kernel_osom_sm8475-devicetrees
   - LineageOS/android_kernel_osom_sm8475-modules
