@@ -1310,7 +1310,9 @@ OEM-10or:
 OEM-Alcatel:
   - PROJECT-Alcatel-idol3
 OEM-Amazon:
+  - PROJECT-Amazon-hardware
   - PROJECT-Amazon-hdx
+  - PROJECT-Amazon-mt8188
   - PROJECT-Amazon-omap4
 OEM-Amlogic:
   - PROJECT-Amlogic-g12
@@ -1717,11 +1719,16 @@ PROJECT-10or-G:
 PROJECT-Alcatel-idol3:
   - LineageOS/android_device_alcatel_idol3
   - LineageOS/android_kernel_alcatel_msm8916
+PROJECT-Amazon-hardware:
+  - LineageOS/android_hardware_amazon
 PROJECT-Amazon-hdx:
   - LineageOS/android_device_amazon_apollo
   - LineageOS/android_device_amazon_hdx-common
   - LineageOS/android_device_amazon_thor
   - LineageOS/android_kernel_amazon_hdx-common
+PROJECT-Amazon-mt8188:
+  - LineageOS/android_device_amazon_sunstone
+  - LineageOS/android_kernel_amazon_mt8188
 PROJECT-Amazon-omap4:
   - LineageOS/android_device_amazon_bowser-common
   - LineageOS/android_device_amazon_jem
