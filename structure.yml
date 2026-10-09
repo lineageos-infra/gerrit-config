@@ -362,6 +362,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_hardware_cm
   - LineageOS/android_hardware_cyanogen
   - LineageOS/android_hardware_google_av
+  - LineageOS/android_hardware_google_interfaces
   - LineageOS/android_hardware_interfaces
   - LineageOS/android_hardware_invensense
   - LineageOS/android_hardware_libhardware
@@ -600,6 +601,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_system_tools_hidl
   - LineageOS/android_system_tools_mkbootimg
   - LineageOS/android_system_update_engine
+  - LineageOS/android_system_usb
   - LineageOS/android_system_vold
   - LineageOS/android_test_sts
   - LineageOS/android_test_vts-testcase_vndk
