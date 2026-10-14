@@ -609,6 +609,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_test_vts-testcase_vndk
   - LineageOS/android_tools_apksig
   - LineageOS/android_tools_metalava
+  - LineageOS/android_trusty_user_base
   - LineageOS/android_vendor_chromium
   - LineageOS/android_vendor_cm
   - LineageOS/android_vendor_crowdin
