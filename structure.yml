@@ -122,6 +122,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_external_guice
   - LineageOS/android_external_hamcrest
   - LineageOS/android_external_harfbuzz
+  - LineageOS/android_external_hplip
   - LineageOS/android_external_htop
   - LineageOS/android_external_hyphenation
   - LineageOS/android_external_icu
@@ -489,6 +490,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_packages_modules_NeuralNetworks
   - LineageOS/android_packages_modules_Nfc
   - LineageOS/android_packages_modules_Permission
+  - LineageOS/android_packages_modules_Profiling
   - LineageOS/android_packages_modules_StatsD
   - LineageOS/android_packages_modules_Telephony
   - LineageOS/android_packages_modules_UprobeStats
