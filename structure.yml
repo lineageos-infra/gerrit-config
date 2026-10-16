@@ -1484,6 +1484,7 @@ OEM-Motorola:
   - PROJECT-Motorola-sm6150
   - PROJECT-Motorola-sm6225
   - PROJECT-Motorola-sm6375
+  - PROJECT-Motorola-sm6475
   - PROJECT-Motorola-sm7250
   - PROJECT-Motorola-sm7325
   - PROJECT-Motorola-sm7435
@@ -2643,6 +2644,12 @@ PROJECT-Motorola-sm6375:
   - LineageOS/android_device_motorola_rhodep
   - LineageOS/android_device_motorola_sm6375-common
   - LineageOS/android_kernel_motorola_sm6375
+PROJECT-Motorola-sm6475:
+  - LineageOS/android_device_motorola_mona
+  - LineageOS/android_device_motorola_sm6475-common
+  - LineageOS/android_kernel_motorola_sm6475
+  - LineageOS/android_kernel_motorola_sm6475-devicetrees
+  - LineageOS/android_kernel_motorola_sm6475-modules
 PROJECT-Motorola-sm7250:
   - LineageOS/android_device_motorola_racer
   - LineageOS/android_device_motorola_sm7250-common
