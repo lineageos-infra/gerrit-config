@@ -1655,7 +1655,7 @@ OEM-Wileyfox:
 OEM-Wingtech:
   - PROJECT-Wingtech-wt88047
 OEM-Xelex:
-  - PROJECT-Xelex-Q25
+  - PROJECT-Xelex-mt6789
 OEM-Xiaomi:
   - PROJECT-Xiaomi-Violet
   - PROJECT-Xiaomi-armani
@@ -3661,8 +3661,10 @@ PROJECT-Wingtech-wt88047:
   - LineageOS/android_device_wingtech_wt88047
   - LineageOS/android_device_xiaomi_wt88047x
   - LineageOS/android_kernel_wingtech_msm8916
-PROJECT-Xelex-Q25:
+PROJECT-Xelex-mt6789:
+  - LineageOS/android_device_xelex_P26
   - LineageOS/android_device_xelex_Q25
+  - LineageOS/android_device_xelex_mt6789-common
   - LineageOS/android_kernel_xelex_mt6789
 PROJECT-Xiaomi-Violet:
   - LineageOS/android_kernel_xiaomi_violet
