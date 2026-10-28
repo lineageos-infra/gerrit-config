@@ -3287,6 +3287,8 @@ PROJECT-Samsung-gts4lv:
   - LineageOS/android_device_samsung_gts4lv_car
   - LineageOS/android_device_samsung_gts4lvwifi
   - LineageOS/android_kernel_samsung_sdm670
+PROJECT-Samsung-gts9wifi:
+  - LineageOS/android_device_samsung_gts9wifi
 PROJECT-Samsung-hero:
   - LineageOS/android_device_samsung_gracerlte
   - LineageOS/android_device_samsung_hero-common
@@ -3467,6 +3469,7 @@ PROJECT-Samsung-sm8550:
   - LineageOS/android_kernel_samsung_sm8550
   - LineageOS/android_kernel_samsung_sm8550-devicetrees
   - LineageOS/android_kernel_samsung_sm8550-modules
+  - PROJECT-Samsung-gts9wifi
 PROJECT-Samsung-star:
   - LineageOS/android_device_samsung_crownlte
   - LineageOS/android_device_samsung_star-common
