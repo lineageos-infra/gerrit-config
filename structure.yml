@@ -1464,6 +1464,7 @@ OEM-Motorola:
   - PROJECT-Motorola-exynos9610
   - PROJECT-Motorola-griffin
   - PROJECT-Motorola-hardware
+  - PROJECT-Motorola-lyriq
   - PROJECT-Motorola-motorola_omap4
   - PROJECT-Motorola-msm8226
   - PROJECT-Motorola-msm8610
@@ -2514,6 +2515,13 @@ PROJECT-Motorola-kiev:
   - LineageOS/android_device_motorola_kiev
 PROJECT-Motorola-lux:
   - LineageOS/android_device_motorola_lux
+PROJECT-Motorola-lyriq:
+  - LineageOS/android_device_motorola_lyriq
+  - LineageOS/android_device_motorola_lyriq-kernels
+  - LineageOS/android_kernel_motorola_lyriq_manifest
+  - LineageOS/android_kernel_motorola_lyriq-mediatek_modules
+  - LineageOS/android_kernel_motorola_lyriq-motorola_modules
+  - LineageOS/android_kernel_motorola_lyriq-modules
 PROJECT-Motorola-motorola_omap4:
   - LineageOS/android_device_motorola_maserati
   - LineageOS/android_device_motorola_omap4-common
