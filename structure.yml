@@ -3602,7 +3602,9 @@ PROJECT-Sony-sm6375:
   - LineageOS/android_device_sony_sm6375-common
   - LineageOS/android_kernel_sony_sm6375
 PROJECT-Sony-sm6475:
+  - LineageOS/android_device_sony_elbe-common
   - LineageOS/android_device_sony_pdx257
+  - LineageOS/android_device_sony_pdx268
   - LineageOS/android_kernel_sony_sm6475
   - LineageOS/android_kernel_sony_sm6475-devicetrees
   - LineageOS/android_kernel_sony_sm6475-modules
