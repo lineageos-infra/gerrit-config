@@ -1784,6 +1784,8 @@ PROJECT-Amlogic-gxl:
   - LineageOS/android_device_amlogic_gx-common
   - LineageOS/android_device_google_beast
   - LineageOS/android_device_khadas_kvim
+  - LineageOS/android_kernel_google_beast-build
+  - LineageOS/android_kernel_khadas_kvim-build
   - LineageOS/android_hardware_amlogic_kernel-modules_media-pie
   - LineageOS/android_hardware_amlogic_kernel-modules_optee-pie
   - LineageOS/android_kernel_amlogic_linux-4.9-pie
