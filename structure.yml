@@ -3024,6 +3024,8 @@ PROJECT-Oneplus-sm6375:
   - LineageOS/android_kernel_oneplus_sm6375
 PROJECT-Oneplus-sm7250:
   - LineageOS/android_device_oneplus_avicii
+  - LineageOS/android_device_oneplus_ebba
+  - LineageOS/android_device_oneplus_sm7250-common
   - LineageOS/android_kernel_oneplus_sm7250
 PROJECT-Oneplus-sm7550:
   - LineageOS/android_device_oneplus_benz
