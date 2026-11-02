@@ -481,11 +481,13 @@ Lineage-Platform-Projects:
   - LineageOS/android_packages_modules_Bluetooth
   - LineageOS/android_packages_modules_CaptivePortalLogin
   - LineageOS/android_packages_modules_CellBroadcastService
+  - LineageOS/android_packages_modules_CrashRecovery
   - LineageOS/android_packages_modules_common
   - LineageOS/android_packages_modules_Connectivity
   - LineageOS/android_packages_modules_DnsResolver
   - LineageOS/android_packages_modules_ImsMedia
   - LineageOS/android_packages_modules_IntentResolver
+  - LineageOS/android_packages_modules_Media
   - LineageOS/android_packages_modules_NetworkStack
   - LineageOS/android_packages_modules_NeuralNetworks
   - LineageOS/android_packages_modules_Nfc
@@ -577,6 +579,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_system_extras_su
   - LineageOS/android_system_fs_fs_mgr
   - LineageOS/android_system_gatekeeper
+  - LineageOS/android_system_gsid
   - LineageOS/android_system_hardware_interfaces
   - LineageOS/android_system_hwservicemanager
   - LineageOS/android_system_incremental_delivery
