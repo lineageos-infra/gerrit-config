@@ -1574,6 +1574,7 @@ OEM-Samsung:
   - LineageOS/android_device_samsung_exynos-common
   - PROJECT-Samsung-a21s
   - PROJECT-Samsung-a51
+  - PROJECT-Samsung-a55x
   - PROJECT-Samsung-a71
   - PROJECT-Samsung-apq8084
   - PROJECT-Samsung-d2
@@ -3174,6 +3175,9 @@ PROJECT-Samsung-a51:
   - LineageOS/android_device_samsung_m31s
   - LineageOS/android_device_samsung_universal9611-common
   - LineageOS/android_kernel_samsung_universal9611
+PROJECT-Samsung-a55x:
+  - LineageOS/android_device_samsung_a55x
+  - LineageOS/android_kernel_samsung_a55x
 PROJECT-Samsung-a71:
   - LineageOS/android_device_samsung_a71
   - LineageOS/android_device_samsung_a71-common
