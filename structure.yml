@@ -316,6 +316,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_frameworks_ex
   - LineageOS/android_frameworks_hardware_interfaces
   - LineageOS/android_frameworks_layoutlib
+  - LineageOS/android_frameworks_libs_binary_translation
   - LineageOS/android_frameworks_libs_net
   - LineageOS/android_frameworks_libs_systemui
   - LineageOS/android_frameworks_mff
@@ -550,6 +551,9 @@ Lineage-Platform-Projects:
   - LineageOS/android_prebuilt
   - LineageOS/android_prebuilts_abi-dumps_vndk
   - LineageOS/android_prebuilts_build-tools
+  - LineageOS/android_prebuilts_clang-tools
+  - LineageOS/android_prebuilts_clang_host_linux-arm64
+  - LineageOS/android_prebuilts_clang_host_linux-x86
   - LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b
   - LineageOS/android_prebuilts_cmsdk
   - LineageOS/android_prebuilts_constraint-layout
@@ -561,11 +565,15 @@ Lineage-Platform-Projects:
   - LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.3.1
   - LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
   - LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9
+  - LineageOS/android_prebuilts_jdk_jdk21
+  - LineageOS/android_prebuilts_jdk_jdk25
+  - LineageOS/android_prebuilts_kernel-build-tools
   - LineageOS/android_prebuilts_lineage-sdk
   - LineageOS/android_prebuilts_misc
   - LineageOS/android_prebuilts_module_sdk_Wifi
   - LineageOS/android_prebuilts_openssl
   - LineageOS/android_prebuilts_r8
+  - LineageOS/android_prebuilts_rust-toolchain_linux-arm64
   - LineageOS/android_prebuilts_tools-lineage
   - LineageOS/android_sdk
   - LineageOS/android_system_apex
@@ -612,7 +620,10 @@ Lineage-Platform-Projects:
   - LineageOS/android_test_vts-testcase_vndk
   - LineageOS/android_tools_apksig
   - LineageOS/android_tools_metalava
+  - LineageOS/android_trusty_device_arm_generic-arm64
+  - LineageOS/android_trusty_kernel
   - LineageOS/android_trusty_user_base
+  - LineageOS/android_trusty_vendor_google_aosp
   - LineageOS/android_vendor_chromium
   - LineageOS/android_vendor_cm
   - LineageOS/android_vendor_crowdin
