@@ -3860,6 +3860,7 @@ PROJECT-Xiaomi-sm7435:
   - LineageOS/android_kernel_xiaomi_sm7435-modules
 PROJECT-Xiaomi-sm8150:
   - LineageOS/android_device_xiaomi_cepheus
+  - LineageOS/android_device_xiaomi_nabu
   - LineageOS/android_device_xiaomi_raphael
   - LineageOS/android_device_xiaomi_sm8150-common
   - LineageOS/android_device_xiaomi_vayu
