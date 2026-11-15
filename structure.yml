@@ -1940,6 +1940,8 @@ PROJECT-AYN-qcs8550:
 PROJECT-AYN-cq8725s:
   - LineageOS/android_device_ayn_odin3
   - LineageOS/android_device_ayn_cq8725s-common
+  - LineageOS/android_device_retroidpocket_cq7790s-common
+  - LineageOS/android_device_retroidpocket_RPDuo
   - LineageOS/android_kernel_ayn_cq8725s
   - LineageOS/android_kernel_ayn_cq8725s-devicetrees
   - LineageOS/android_kernel_ayn_cq8725s-modules
