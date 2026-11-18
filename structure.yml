@@ -3789,12 +3789,15 @@ PROJECT-Xiaomi-mt6785:
   - LineageOS/android_device_xiaomi_rosemary
   - LineageOS/android_kernel_xiaomi_mt6785
 PROJECT-Xiaomi-mt6895:
+  - PROJECT-Xiaomi-plato
   - LineageOS/android_device_xiaomi_xaga
   - LineageOS/android_device_xiaomi_mt6895-common
   - LineageOS/android_kernel_xiaomi_mt6895
 PROJECT-Xiaomi-onclite:
   - LineageOS/android_device_xiaomi_onclite
   - LineageOS/android_kernel_xiaomi_onclite
+PROJECT-Xiaomi-plato:
+  - LineageOS/android_device_xiaomi_plato
 PROJECT-Xiaomi-platina:
   - LineageOS/android_device_xiaomi_platina
 PROJECT-Xiaomi-sdm439:
