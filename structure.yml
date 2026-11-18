@@ -419,6 +419,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_packages_apps_Email
   - LineageOS/android_packages_apps_EmergencyInfo
   - LineageOS/android_packages_apps_Exchange
+  - LineageOS/android_packages_apps_Firewall
   - LineageOS/android_packages_apps_Gallery
   - LineageOS/android_packages_apps_Gallery2
   - LineageOS/android_packages_apps_Gello
@@ -498,6 +499,7 @@ Lineage-Platform-Projects:
   - LineageOS/android_packages_modules_UprobeStats
   - LineageOS/android_packages_modules_Uwb
   - LineageOS/android_packages_modules_Virtualization
+  - LineageOS/android_packages_modules_WebApp
   - LineageOS/android_packages_modules_Wifi
   - LineageOS/android_packages_overlays_Lineage
   - LineageOS/android_packages_providers_ApplicationsProvider
