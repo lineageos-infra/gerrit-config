@@ -1668,6 +1668,7 @@ OEM-Xiaomi:
   - PROJECT-Xiaomi-cancro
   - PROJECT-Xiaomi-earth
   - PROJECT-Xiaomi-ferrari
+  - PROJECT-Xiaomi-gale
   - PROJECT-Xiaomi-gauguin
   - PROJECT-Xiaomi-gemini
   - PROJECT-Xiaomi-hardware
@@ -3722,6 +3723,12 @@ PROJECT-Xiaomi-earth:
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
+PROJECT-Xiaomi-gale:
+  - LineageOS/android_device_xiaomi_gale
+  - LineageOS/android_device_xiaomi_gale-kernels
+  - LineageOS/android_kernel_xiaomi_gale_manifest
+  - LineageOS/android_kernel_xiaomi_gale-mediatek_modules
+  - LineageOS/android_kernel_xiaomi_gale-modules
 PROJECT-Xiaomi-gauguin:
   - LineageOS/android_device_xiaomi_gauguin
   - LineageOS/android_kernel_xiaomi_gauguin
