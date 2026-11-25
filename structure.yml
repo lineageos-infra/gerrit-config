@@ -1320,6 +1320,7 @@ OEM-Alcatel:
 OEM-Amazon:
   - PROJECT-Amazon-hardware
   - PROJECT-Amazon-hdx
+  - PROJECT-Amazon-mt8169
   - PROJECT-Amazon-mt8188
   - PROJECT-Amazon-omap4
 OEM-Amlogic:
@@ -1740,6 +1741,11 @@ PROJECT-Amazon-hdx:
   - LineageOS/android_device_amazon_hdx-common
   - LineageOS/android_device_amazon_thor
   - LineageOS/android_kernel_amazon_hdx-common
+PROJECT-Amazon-mt8169:
+  - LineageOS/android_device_amazon_mt8169-common
+  - LineageOS/android_device_amazon_raspite
+  - LineageOS/android_device_amazon_tungsten
+  - LineageOS/android_kernel_amazon_mt8169
 PROJECT-Amazon-mt8188:
   - LineageOS/android_device_amazon_sunstone
   - LineageOS/android_kernel_amazon_mt8188
