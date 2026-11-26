@@ -3726,6 +3726,8 @@ PROJECT-Xiaomi-dipper:
 PROJECT-Xiaomi-earth:
   - LineageOS/android_device_xiaomi_earth
   - LineageOS/android_kernel_xiaomi_earth
+PROJECT-Xiaomi-enuma:
+  - LineageOS/android_kernel_xiaomi_enuma
 PROJECT-Xiaomi-ferrari:
   - LineageOS/android_device_xiaomi_ferrari
   - LineageOS/android_kernel_xiaomi_ferrari
@@ -3898,6 +3900,7 @@ PROJECT-Xiaomi-sm8250:
   - PROJECT-Xiaomi-apollon
   - PROJECT-Xiaomi-cas
   - PROJECT-Xiaomi-cmi
+  - PROJECT-Xiaomi-enuma
   - PROJECT-Xiaomi-umi
 PROJECT-Xiaomi-sm8350:
   - LineageOS/android_device_xiaomi_haydn
